@@ -1,0 +1,2197 @@
+{
+  "num": 9,
+  "source_label": "9",
+  "title": "Growth Hormone Excess and Other Conditions of Overgrowth",
+  "start": 258,
+  "group": "I: Pediatric Growth Disorders",
+  "columns": 2,
+  "end": 274,
+  "printed_start": 243,
+  "page_views": [],
+  "pdf_start": 258,
+  "pdf_end": 274,
+  "pages": [
+    258,
+    259,
+    260,
+    261,
+    262,
+    263,
+    264,
+    265,
+    266,
+    267,
+    268,
+    269,
+    270,
+    271,
+    272,
+    273,
+    274
+  ],
+  "printed_end": 259,
+  "paragraphs": [
+    {
+      "text": "Vibha Singhal and Madhusmita Misra",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "Contents",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "9.1 Introduction and Background – 244",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "9.2 Etiology – 244",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "9.3 Approach to a Child with Tall Stature – 246",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "9.4 Strategies to Reduce Growth Rate – 247",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "9.5 Growth Hormone Excess – 248",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "9.6 Summary – 255",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "References – 255",
+      "heading": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "pdf_page": 258,
+      "printed_page": 243
+    },
+    {
+      "text": "5 The most common cause of tall stature",
+      "heading": "Key Points",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "is familial tall stature; this is not associ ated with increased growth velocity. 5 Pituitary gigantism is extremely rare",
+      "heading": "Key Points",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "and occurs when a growth hormone (GH) secreting pituitary adenoma develops before epiphyseal fusion; growth velocity is increased. 5 IGF-1 levels should be interpreted in the",
+      "heading": "Key Points",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "context of age, gender, and Tanner stage. 5 Pituitary GH-secreting adenomas developing at a young age are often aggressive and may require a multi modal therapeutic approach—surgical, medical, and radiation.",
+      "heading": "Key Points",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Tall stature refers to a height or length that is 2 standard deviations (SDs) greater than the mean for the reference population. The race",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Causes Proposed mechanism Clinical presentation",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Intrauterine/infantile overgrowth",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Maternal diabetes mellitus",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Maternal hyperglycemia causes fetal hyperglycemia leading to hyperinsulinemia and increased growth",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Large for gestational age, neonatal hypoglycemia, organomegaly",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Cerebral gigantism (Sotos syndrome)",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Mostly sporadic, autoso mal dominant inheritance: deletion of the NSD1 gene located on chromosome 5",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Rapid growth in early childhood, macrocephaly, frontal bossing, higharched palate, poor coordination and mental retardation, expressive language delay, large hands, and increased arm span. Most have an advanced bone age",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Beckwith Wiedemann syndrome",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Dysregulation of imprinted genes on chromosome 11p",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Polyhydramnios, placentomegaly, macroglossia, hemihyperplasia, neonatal hypoglycemia (mild and transient), hypothyroidism, hyperlipidemia, anterior abdominal wall defects (omphalocele, umbilical hernia), and embryonal tumors such as Wilms’s tumor and hepatoblas toma",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "and ethnicity of the reference population should ideally be considered when consider ing a diagnosis of tall stature. Since stature is normally distributed, at least 2.5% of the population are tall by definition. Although there are no data to suggest that girls are more likely to have tall stature than boys, girls are more likely to seek medical atten tion, possibly due to societal expectations and perceptions around height. Assessment of stature should take into account the child’s age, weight, body proportions, pubertal onset and progression, height velocity, and parental heights.",
+      "heading": "9",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "9.1",
+      "heading": "9.2 Etiology",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Adult height",
+      "heading": "9.2 Etiology",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Normal",
+      "heading": "9.2 Etiology",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Near normal",
+      "heading": "9.2 Etiology",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Upper range of normal for the family",
+      "heading": "9.2 Etiology",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "(continued)",
+      "heading": "9.2 Etiology",
+      "pdf_page": 259,
+      "printed_page": 244
+    },
+    {
+      "text": "Causes Proposed mechanism Clinical presentation",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Childhood/adolescent overgrowth",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Normal variation",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Familial Genetic variation No dysmorphic features, normal height velocity (but on the higher side of normal), normal bone age, and family history of tall stature",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Endocrine disorders",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Growth hormone excess (pituitary gigantism)",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Oversecretion of GH caused by a pituitary/ hypothalamic/ectopic lesion secreting GH or GHRH",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Tall stature (if onset before epiphyseal closure), coarse facial features, large hands and feet, skin tags, myalgias, and other features are dependent on other associated hormonal excesses/deficiencies",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Precocious puberty (central or peripheral)",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Stimulation of growth from exposure to sex steroids followed by early cessation of statural growth from early epiphyseal fusion",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Secondary sex characteristic development which may be isosexual or contrasexual depending on the cause, advanced bone age",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Hyperthy roidism",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Stimulatory effect of thyroid hormones on the GH axis which leads to increased height velocity along with rapid advance ment of bone age",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Associated signs of hyperthyroidism and the primary etiology",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Sex hormone deficiency or receptor insensitivity",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Delay in epiphyseal closure with continued growth",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Hypogonadism and eunuchoid body proportions",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Aromatase deficiency",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Loss-of-function mutations in the CYP19A on chromosome 15 causing congenital estrogen deficiency",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Tall stature and osteopenia/osteoporosis",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Glucocorti coid resistance",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Increased adrenal androgen production from elevated ACTH",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Hirsutism and virilization in females and isosexual precocious puberty in males",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Congenital lipodystrophy",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Autosomal recessive; mutations of AGPAT2 and BSCL2",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Insulin resistance, nonketotic hyperglyce mia, and near absence of subcutaneous adipose tissue",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Nonendocrine disorders",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Obesity Excess calories Advanced bone age, pubertal onset is usually earlier than in children who are normal weight",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Adult height",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Approximates target height",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Tall",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Shorter than the target height",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Initial acceleration of growth but eventually short if untreated",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Tall",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Tall",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Near normal",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Near normal",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Near normal",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "(continued)",
+      "heading": "9.2 Etiology",
+      "pdf_page": 260,
+      "printed_page": 245
+    },
+    {
+      "text": "Causes Proposed mechanism Clinical presentation",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Marfan syndrome",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Mutations in the fibrillin gene, FBN1",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Autosomal dominant; low upper segment to lower segment ratio, arachnodactyly, ectopia lentis, and dilation of the aortic root",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Homocystin uria",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Deficiency of the enzyme cystathionine synthase",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Similar to Marfan syndrome, lens subluxation, mental retardation, and thromboembolic disease with elevations in urinary homocysteine and methionine",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Klinefelter syndrome (47XXY)",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Sex chromosome aneu ploidy (one or more supple mentary X chromosome)",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall boys with relatively long legs, learning disability, microorchidism, and gynecomastia",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Melanocortin 4 receptor (MC4R) mutation",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Mutations in the gene coding for the melanocor tin receptor 4 (MC4R)",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Most common cause of monogenic obesity, associated with frequent and taller GH pulses (unlike exogenous obesity) [1]",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "47XYY Aneuploidy of the Y chromosome",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Mild motor and language development delay, radioulnar synostosis, clinodactyly, and sometimes attention deficit hyperac tivity disorder (ADHD) and autism spectrum disorder",
+      "heading": "9.2 Etiology",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Triple X syndrome",
+      "heading": "9",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Triple SHOX gene effect Insulin resistance and behavioral disorders",
+      "heading": "9",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Fragile X syn drome",
+      "heading": "9",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "FMR1 CGG repeats Mental retardation, macroorchidism, and X-linked disorder",
+      "heading": "9",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Neurofibro matosis 1",
+      "heading": "9",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Heterozygous mutation in neurofibromin gene (NF1) on chromosome 17",
+      "heading": "9",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Cafe-au-lait spots, Lisch nodules in the eye, fibromatous tumors of the skin, and macrocephaly. Usually causes short stature but rarely may have dysregulated growth hormone secretion leading to increased growth velocity",
+      "heading": "9",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Keeping in mind the various causes of tall stature, we suggest the following approach to a tall child. 1. Confirm the diagnosis of tall stature: The",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "current height should be 2 SDs greater than the mean for the sex- and agematched reference population, keeping race and ethnicity in mind. This should be interpreted in the context of predicted adult height derived from the heights of",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Adult height",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Normal or tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "Tall",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "the biological parents. While benign famil ial tall stature is associated with tall par ents, the clinician should be mindful that having a tall parent or parents does not rule out associated pathology as there could be pathologic familial or genetic causes of tall stature. 2. Consider the pubertal stage: Early puberty",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "may result in growth acceleration and result in current height being greater than in peers who have not yet entered puberty. Physical examination and bone age should aid with this diagnosis. Further workup",
+      "heading": "Stature",
+      "pdf_page": 261,
+      "printed_page": 246
+    },
+    {
+      "text": "should elucidate the cause of precocious puberty. 3. Ascertain the timing of accelerated growth",
+      "heading": "Stature",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "rate: If increased growth velocity is present from the time of birth, syndromes of intra uterine growth acceleration, such as mater nal diabetes and Beckwith Wiedemann syndrome, should be considered. Once a child reaches its genetic potential on the growth curve, which usually occurs around 2 years of age, he/she typically tracks along the corresponding growth percentile. If there is a sudden acceleration in growth velocity and deviation from that curve, it is important to rule out conditions such as hyperthyroidism, growth hormone excess, obesity, and constitutional advancement of growth. 4. Anthropometry including head circumfer",
+      "heading": "Stature",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "ence: Patients with Marfan and Klinefelter syndromes typically have longer limbs and hence have a lower upper/lower segment ratio and longer arm span than standing height. Macrocephaly is a feature of Sotos and Weaver syndromes. Body mass index (BMI) is helpful in diagnosing obesity, and greater severity and early onset of obesity suggest monogenic causes of obesity. 5. Look for any syndromic features: A careful",
+      "heading": "Stature",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "history should explore any behavioral or developmental concerns that may be asso ciated with syndromes such as Sotos, tri ple X, or fragile X or conditions such as homocystinuria. Appropriate genetic test ing should be undertaken, and karyotype or plasma homocysteine levels assessed. A medical history of ocular issues and cardiac defects may provide clues to the diagnosis of Marfan syndrome. Hypogonadism or macroorchidism may suggest Klinefelter or fragile X syn dromes, respectively. 6. Estimate the adult height of the child:",
+      "heading": "Stature",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "Estimation of adult height in the setting of tall parents or one tall parent is not entirely reliable. There are data to suggest that the Bayley-Pinneau (BP) method overesti mates, while the Tanner-Whitehouse (TW) method underestimates the predicted adult height in constitutionally tall children [2].",
+      "heading": "Stature",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "If the child’s height prediction is in the range of the target adult height and there are no syndromic features, he/she most likely has familial tall stature. If the child grows or is projected to grow, beyond the target height range without syndromic fea tures or growth acceleration, hypoestro genism or estrogen resistance leading to delayed epiphyseal closure should be con sidered.",
+      "heading": "Stature",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "Children and parents who find the predicted adult height unacceptable may seek treatment. However, there is little evidence that tall stat ure causes social or emotional challenges in adolescents or adults. Such therapy should be undertaken after an evaluation for hormonal causes of tall stature, as the latter may be treated by treating the underlying condition. Growth-reducing therapy is not commonly sought in patients with syndromic tall stature.",
+      "heading": "Rate",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "Estrogen in high doses, such as 100–300 mcg of ethinyl estradiol daily, has been used in the past to accelerate growth plate maturation causing early epiphyseal fusion. The efficacy in reducing final height is better when treat ment is initiated at a lower bone age [2]. The mean height reduction is about 1.6 cm [3]. Long-term use of high-dose estrogen is linked with decreased fertility and increased inci dence of imminent ovarian failure [4, 5]. There is also concern for a higher risk of breast can cer [6] and thromboembolic episodes.",
+      "heading": "9.4.1 Sex Steroid Treatment",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "Testosterone treatment in boys is less effec tive than estrogen treatment in achieving final height reduction. It leads to early epiphyseal closure after aromatization to estrogen. There are studies showing equal efficacy of 250 and 500 mg of testosterone enanthate given intra muscularly every 2 weeks [7]. There are no known adverse effects on fertility or cancer risk in adolescents treated with high doses of",
+      "heading": "9.4.1 Sex Steroid Treatment",
+      "pdf_page": 262,
+      "printed_page": 247
+    },
+    {
+      "text": "testosterone. However, high testosterone lev els may result in polycythemia and acne and cause aggressive behavior.",
+      "heading": "9.4.1 Sex Steroid Treatment",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "The most common surgical procedure used to decrease growth is bilateral percutaneous epi physiodesis of the distal femur and proximal tibia and fibula. In this operation, the growth plates of the long bones of the legs are obliter ated by needling to prevent more linear growth. Since this procedure decreases limb growth, it can potentially alter final body pro portions [8]. Unlike hormonal treatment, it can be used efficaciously at an advanced bone age. Complications are rare but include surgi cal scars, neurovascular damage, exostosis, or asymmetrical fusion leading to asymmetric limb length [9].",
+      "heading": "9.4.2 Surgery",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "Growth hormone (GH) excess is a very rare disorder of childhood. If it occurs in a grow ing child before epiphyseal fusion, it leads to tall stature causing gigantism. However, after epiphyseal fusion, GH excess has no effect on height and instead causes overgrowth of bone leading to acromegaly. Growth hormone excess can occur from a variety of sources— pituitary GH secretion from a tumor or somatotroph hyperplasia, hypothalamic GHreleasing hormone (GHRH) secretion, ecto pic source of GH or GHRH (extremely rare in children), or decrease in somatostatin inhi bition [10].",
+      "heading": "9.5 Growth Hormone Excess",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "This is a very rare disorder. The incidence of childhood pituitary tumors is about 0.1 in a million person-years, and less than 10% of these are GH-secreting adenomas [11, 12]. In a recent claims based approach in the United",
+      "heading": "9.5.1 Incidence",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "States that analyzed disease incidence based on acromegaly-based insurance claims, the annual incidence of GH excess in children, from 2008 to 2012, was three to eight cases per million person-years. There was no significant difference between incidence based on gender and the incidence increased with increasing age [13].",
+      "heading": "9.5.1 Incidence",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "9.2",
+      "heading": "9.5.2 Clinical Presentation",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "17 18",
+      "heading": "9.5.2 Clinical Presentation",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "18",
+      "heading": "9.5.2 Clinical Presentation",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "The usual presentation of growth hormone excess before epiphyseal fusion is increased growth velocity and tall stature. In older ado lescents, musculoskeletal symptoms of GH excess, i.e., arthralgias, wrist pain, large feet and hands, coarsening of facial features, prog nathism, macrocephaly, and kyphoscoliosis, may be seen. Sleep apnea from mucosal and lymphoid hypertrophy may occur. Complications of GH excess such as hyper tension, cardiomyopathy, glucose intolerance, or frank diabetes mellitus are less often seen in this younger age group.",
+      "heading": "Excess",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "The signs and symptoms of a large sellar/ suprasellar mass may include headache, nau sea, vomiting, visual field deficits, and evi",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 263,
+      "printed_page": 248
+    },
+    {
+      "text": "Syndrome Gene",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Multiple endocrine neoplasia type 1 (MEN 1)",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "MENIN",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Multiple endocrine neoplasia type 4 (MEN 4) [14] Multiple endocrine neoplasia type 5 [15]",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Cyclin-dependent kinase inhibitor (CDKN1B) MYC-associated factor X (MAX)",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Familial isolated pituitary adenoma (FIPA)",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Aryl hydrocarbon receptor-interacting protein (AIP)",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "McCune-Albright syndrome GNAS1",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Carney complex PPKAR1A",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "X-linked acrogigantism (X-LAG)",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "GPR101",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Paraganglioma, pheochromocy toma, and pituitary adenoma association (3PA)",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Succinate dehydrogenase (SDH A-D)",
+      "heading": "to the Tumor and Co-secretion of Other Hormones",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "dence of increased intracranial pressure. Sometimes tumors co-secrete GH and prolac tin (mammosomatotrophs, as these cells have common embryonic origin), which can be associated with galactorrhea. Hyperprolactinemia may also occur from stalk compression in the absence of tumor secretion of prolactin.",
+      "heading": "9.5.3 Diagnostic Evaluation",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Oligomenorrhea or primary amenorrhea may occur when the tumor impacts the secretion of gonadotropins or when there is associated hyperoprolactinemia causing hypogonadism. Adrenal insufficiency and central hypothy roidism may be present and need to be ruled out. Diabetes insipidus is rarely seen at pre sentation.",
+      "heading": "to Co-existing Pituitary Deficiencies",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "5 Insulin-like growth factor-1 (IGF-1) level:",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "This is the initial screening test for anyone in whom GH excess is suspected. IGF-1 is a composite measure of basal GH secre tion [19] and has a log-linear relationship with cumulative GH levels [20]. IGF-1 lev els should be interpreted in the context of age and Tanner stage. These levels can be altered (typically lowered) with malnutri",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Associated features",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Parathyroid, anterior pituitary, and pancreatic neuroendocrine tumors; other tumors may also be seen",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Parathyroid, anterior pituitary, testicular, cervical, thyroid, adrenal, and renal tumors Parathyroid, pheochromocytomas, and pituitary adenomas",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "At least two members of the same family with pituitary tumor",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Fibrous dysplasia, cafe-au-lait spots, precocious puberty; sometimes hyperthyroid ism or hypercortisolemia",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Skin pigmentation, cardiac myxomas, Cushing’s syndrome with pigmented nodular adrenocortical disease (PPNAD)",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Median onset of gigantism is early, about 12 months [16]",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "Most cases are familial",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "9.2",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 264,
+      "printed_page": 249
+    },
+    {
+      "text": "tion, hypothyroidism, hepatic or renal dys function, or oral estrogen use. An elevated IGF-1 level in the setting of normal GH levels should be followed carefully as this may be evidence of early GH excess [21]. There is significant interassay variability in IGF-1 quantification, and the same assay should be used over time when monitoring a given patient. 5 Insulin-like Growth Factor Binding Pro",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "tein 3 (IGFBP-3) level: Studies suggest that IGFBP-3 is a sensitive marker of somatotroph function, and the levels are concordant with glucose-induced GH sup pression and with IGF-I levels [22]. 5 Random GH level: The use of random",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "GH level to diagnose GH excess is not reli able as GH secretion is pulsatile in both normal and adenomatous pituitaries. 5 Oral glucose challenge test to assess GH",
+      "heading": "9.5.3.1 Biochemical Testing",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "suppression: This is considered the gold standard for the diagnosis of GH excess. This test assesses the ability of a glucose load to suppress GH levels. After adminis tration of a 1.75 g/kg (maximum of 75 g) oral glucose load, there is an increase in insulin secretion, which leads to a decrease in IGFBP-1 levels, thereby causing an ele vation in free IGF-1 levels. This should lead to suppression of GH in 30–120 min. A nadir GH level (determined by sensitive radioimmunoassay) of higher than 1 mcg/L is considered suggestive of GH excess [23]. GH suppression is affected by age, sex, BMI status, and the presence of diabetes. 5 Visual field testing: This is recommended",
+      "heading": "9",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "in all patients in whom radiographic imag ing suggests compression of the optic chi asm by an enlarged pituitary gland, and should be periodically monitored. Occa sionally impingement of the cranial nerves in the cavernous sinus can also lead to visual defects. 5 Radiologic investigation: Pituitary MRI is",
+      "heading": "9",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "recommended to determine tumor size, location, and invasiveness. We recommend an MRI using the pituitary protocol, i.e., 2 mm slices to get a detailed look at the pituitary and for increased sensitivity in",
+      "heading": "9",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "detecting microadenomas. Computed tomography is acceptable where MRI is not available. The former has the advan tage of detecting calcifications in patients with a large sellar/suprasellar mass, which may represent a craniopharyngioma rather than a pituitary adenoma.",
+      "heading": "9",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "5 Hormone evaluation for other pituitary",
+      "heading": "9.5.3.2 Evaluating Comorbidities",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "hormones should be undertaken. Prolac tin, thyroid hormone, and 8 AM cortisol levels should be checked. 5 Diabetes mellitus should be ruled out.",
+      "heading": "9.5.3.2 Evaluating Comorbidities",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "5 A sleep study must be considered, espe",
+      "heading": "9.5.3.2 Evaluating Comorbidities",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "cially if there are symptoms of snoring and daytime somnolence. 5 Cardiac valvular heart disease (particu",
+      "heading": "9.5.3.2 Evaluating Comorbidities",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "larly left-sided), hypertrophic cardiomy opathy, and endothelial dysfunction are seen in older patients with GH excess. They are rarely seen in a young population but must be ruled out if there are any con cerning signs and symptoms as this could also increase operative risk.",
+      "heading": "9.5.3.2 Evaluating Comorbidities",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "The goal of the treatment is to (a) remove or shrink the tumor, (b) normalize GH secretion and IGF-1 levels while preserving pituitary function to avoid long-term complications, and (c) decrease the morbidity and mortality associated with GH excess. As with most pitu itary tumors, younger age at presentation is associated with more aggressive tumors [24]. Giant GH-secreting pituitary tumors are invasive and need a multimodal treatment approach to control GH excess and tumor growth [25]. Surgery is the mainstay of ther apy, but adjuvant medical and radiation ther apy are often needed. There is debate in the literature about the relative importance of normalization of the IGF-1 level versus nadir GH levels after glucose suppression in pre dicting better outcomes [26–28]. Of note, much of the data come from older patients with acromegaly and should be interpreted",
+      "heading": "9.5.4 Treatment",
+      "pdf_page": 265,
+      "printed_page": 250
+    },
+    {
+      "text": "with that in mind. Most of the medications do not have the Food and Drug Administration’s (FDA) approval for use in children and ado lescents under 18 years of age.",
+      "heading": "9.5.4 Treatment",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "Medical therapy is sometimes used preopera tively to reduce IGF-1 levels and for tumor shrinkage for better surgical outcomes. It is also needed postoperatively for biochemical control if remission does not occur with surgi cal and radiation therapy.",
+      "heading": "9.5.4.1 Medical Therapy",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "There are two analogs available in the mar ket—long-acting release octreotide (LAR) given intramuscularly and lanreotide depot/ autogel given subcutaneously. They have a greater affinity for somatostatin type 2 (sst2) and type 5 (sst5) receptors found in the pan creas, pituitary gland, and GH-secreting neo plasms of the pituitary gland, and a lesser affinity for somatostatin receptors 1, 3, and 4. Both preparations are equally effective at reducing IGF-1 levels [29].",
+      "heading": "Somatostatin Analogs (SSTA)",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "Pasireotide is another somatostatin analog with enhanced binding to more somatostatin receptors. Pasireotide binds to somatostatin receptors (sst1–5), with high affinity for the sst1, sst2, and sst3 subtypes and the highest affinity for the sst5 subtype. Its diverse receptor bind ing allows for its use in both Cushing’s disease and conditions of GH excess. In vitro studies suggest similar decreases in GH levels with first-generation SSTAs and pasireotide [30].",
+      "heading": "Somatostatin Analogs (SSTA)",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "The response to SSTA correlates with the expression of sst2 receptors [31], but receptor expression is not routinely assessed clinically. Smaller tumors, lower baseline IGF-1, and densely granulated tumors which appear hypointense on T2-weighted MRI images show a better response to SSRA [32, 33]. IGF-1 normalization is achieved in both drug naive and postoperative patients in about 20–35% of patients, and about 50% reduction in tumor volume is obtained in about 59% of patients [34, 35].",
+      "heading": "Somatostatin Analogs (SSTA)",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "Dosing and Side Effects Lanreotide depot (starting dose of 60–120 mg every 4 weeks depending on IGF-1 level) and",
+      "heading": "Somatostatin Analogs (SSTA)",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "long-acting octreotide (10–40 mg every 4 weeks) should be slowly titrated up until a normal IGF-1 level is attained. Abdominal cramps, flatulence, and diarrhea can be severe leading to discontinuation of treatment in some individuals, but the medications are typ ically well tolerated. Since the medications are depot preparations and these side effects can be severe, a trial of a short-acting preparation may be used to establish tolerance before starting treatment with the long-acting prepa ration. These medications can also be associated with gallstone disease, which is usually seen in the first few years of treatment. Long-acting pasireotide is also available and can be used at a dose of 20–60 mg every 4 weeks. Pasireotide may cause hyperglycemia as it inhibits insulin secretion in more than half of all patients [36]. Pasireotide may be effective in some patients uncontrolled on lan reotide [37, 38]. Delayed-release oral octreo tide capsules are available for long-term maintenance treatment in those who responded to and tolerated octreotide or lan reotide [39].",
+      "heading": "Somatostatin Analogs (SSTA)",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "Dopamine agonists are usually used alone (for mild IGF-1 elevations) or in conjunction with an SSTA, and the combination may be effective in lowering the IGF-1 level further [40]. The response to dopamine agonists is independent of the baseline prolactin levels or histochemical staining of the tumor for pro lactin [41, 42]. The efficacy of cabergoline appears to decrease with its prolonged use [42]. The valvular side effects associated with cumulative cabergoline use do not seem to be exaggerated in patients with GH excess [43].",
+      "heading": "Dopamine Agonists",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "Pegvisomant is a GH receptor antagonist that blocks the peripheral production of IGF-1 in a dose-dependent manner. As pegvisomant does not inhibit GH secretion, GH levels con tinue to be elevated during pegvisomant administration. The medication can lead to an increase in adenoma size and radiological monitoring should be considered [44–46]. The",
+      "heading": "Growth Hormone Receptor Antagonist (Pegvisomant)",
+      "pdf_page": 266,
+      "printed_page": 251
+    },
+    {
+      "text": "combination of pegvisomant with an SSTA and dopamine agonist is more effective than either drug used alone [47]. Pegvisomant is administered as daily subcutaneous injec tions, which may have an impact on adherence to therapy. Common side effects include local discomfort and lipohypertrophy. Elevations in transaminases are seen in a very small subset of patients, and the medication should be withheld if the elevation is greater than three times the upper limit of the normal range [48]. Liver function tests should be checked monthly for the first 6 months after initiating pegvisomant and then every 6 months if toler ated well. Acrostudy, which has 10-year fol low-up data, showed that three-quarter of patients achieve biochemical control with pegvisomant and it may improve glucose metabolism in those with diabetes mellitus [49, 50].",
+      "heading": "Growth Hormone Receptor Antagonist (Pegvisomant)",
+      "pdf_page": 267,
+      "printed_page": 252
+    },
+    {
+      "text": "This is the treatment of choice for small as well as large tumors that are resectable and those that pose a risk of visual loss. The cure rate depends on the size of the tumor and the expertise of the surgeon [51]. When operated in a center with a high volume of surgery by one or more experienced pituitary surgeons, the initial remission rate for microadenomas can be more than 85% and almost 50% for macroadenomas [52]. Tumor invasion into the cavernous sinus decreases the remission rate [53]. There is an immediate lowering of GH levels with successful surgery; however, the decline in IGF-1 may sometimes be delayed due to the differential half-life of its binding proteins. Hence, the IGF-1 level assessed about 12 weeks after surgery may be a better reflection of surgical success than an earlier level [54, 55].",
+      "heading": "9.5.4.2 Surgical Therapy",
+      "pdf_page": 267,
+      "printed_page": 252
+    },
+    {
+      "text": "This serves as adjuvant therapy when there is a residual tumor after surgery. Radiotherapy leads to a decrease in tumor size and reduces IGF-1 concentrations in the majority of patients [56]. However, radiation effects may take a few years to manifest, and hence this is",
+      "heading": "9.5.4.3 Radiation Therapy",
+      "pdf_page": 267,
+      "printed_page": 252
+    },
+    {
+      "text": "used in situations where both surgery and medical therapy are not effective in treating the condition, and not as a primary therapy [57]. Stereotactic radiotherapy aims to deliver radiation in a more precise manner and may have fewer complications [58]. The increased availability and use of proton beam radiation therapy allow for more targeted delivery of radiation to the tumor with less radiation scatter and hence fewer side effects of radia tion. Patients who receive radiation should be monitored for other pituitary deficiencies, which may evolve over the next decade.",
+      "heading": "9.5.4.3 Radiation Therapy",
+      "pdf_page": 267,
+      "printed_page": 252
+    },
+    {
+      "text": "Many of the complications associated with long-term exposure to GH excess are not wit nessed by pediatric endocrinologists. However, there is increased morbidity and mortality associated with this disorder in adults.",
+      "heading": "Complications",
+      "pdf_page": 267,
+      "printed_page": 252
+    },
+    {
+      "text": "Data regarding the cure rate after surgery (not needing medical therapy) are difficult to inter pret due to the variable duration of follow-up and different biochemical cut-offs used to define cure. The early remission rate after sur gery is about 80% in microadenomas and less than 50% with macroadenomas [59, 60]. About 40% of patients who achieve remission postoperatively have normal GH levels 16 years after surgery [60].",
+      "heading": "9.5.5.1 Cure and Remission",
+      "pdf_page": 267,
+      "printed_page": 252
+    },
+    {
+      "text": "Mortality with prolonged GH excess is higher than in the general population [61]. The main cause of mortality a decade ago was cardiovascular mortality; however, more neoplastic processes contributing to mortal ity have been reported in recent years [62, 63]. Mortality is also linked to higher GH and IGF-1 levels at the end of life [63]. With the advent of better medical therapies, the pro portion of patients with biochemically con trolled disease has increased leading to improved outcomes [64].",
+      "heading": "9.5.5.2 Mortality",
+      "pdf_page": 267,
+      "printed_page": 252
+    },
+    {
+      "text": "This may result from residual tumor compres sion, surgical, and/or radiation treatment. This needs monitoring at least on an annual basis, or earlier in case of symptoms sugges tive of pituitary hormone deficiencies.",
+      "heading": "9.5.5.3 Panhypopituitarism",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "GH excess is associated with cardiomyopa thy—biventricular hypertrophy, hypertension, valvulopathies, and endothelial dysfunction [65]. Hypertension is seen in almost half of the patients [66]. Reversal of the cardiac defects can be achieved with appropriate bio chemical control and is dependent on patient age, disease duration, and other metabolic comorbidities [67].",
+      "heading": "9.5.5.4 Cardiovascular",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "The anatomical changes in soft tissues, mucosa, lymphoid tissue, and the skeleton including tongue swelling, rib cage deformity, and changes in lung volume and elasticity can result in disordered sleep and decreased respi ratory reserve. Sleep apnea may persist after recovery from GH excess, and hence polysom nography should be considered in high-risk patients with overweight and diabetes [68].",
+      "heading": "Disorders",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "Abnormalities in glucose metabolism can range from impaired glucose tolerance to impaired fasting glucose to frank diabetes, and the prevalence is higher than that seen in the general population [69]. Chronic GH excess leads to insulin resistance at the hepatic and peripheral tissue levels (muscle and adi pose tissue) [70]. Some therapies, particularly",
+      "heading": "9.5.5.6 Glucose Metabolism",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "pasireotide, are known to worsen glucose tol erance. Hyperglycemia may persist even after GH excess is cured [71].",
+      "heading": "9.5.5.6 Glucose Metabolism",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "There is increased recognition of the higher prevalence of vertebral fractures in patients with GH excess, which correlates with disease activity [72]. More research is necessary to predict fracture risk in this population, which happens in the setting of normal bone min eral density [73].",
+      "heading": "9.5.5.7 Bone Outcomes",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "Benign and malignant neoplasms are more common in GH excess patients compared to an age-matched population. Colonic polyps are the most common type of tumor seen with GH excess [74]. There is a fivefold increased risk of thyroid cancer [75]. The increased risk of colon, breast, and prostate cancer in acro megaly as compared to the general population is currently a matter of debate [76–78]. While some groups think that acromegaly increases the risk of these neoplasms, others doubt this supposition as cancer-related mortality is lower in acromegaly compared with the gen eral population [79, 80]. Nonetheless, until proven otherwise, systematic screening for a neoplastic disease is advised in older patients.",
+      "heading": "9.5.5.8 Neoplasia",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "QoL is impaired in patients with GH excess despite improvement in the disease state. However, biochemical control is shown to improve QoL [81]. Other factors, including obesity, depression, fatigue, and metabolic complications, should be taken into account when addressing QoL in this population.",
+      "heading": "9.5.5.9 Quality of Life (QoL)",
+      "pdf_page": 268,
+      "printed_page": 253
+    },
+    {
+      "text": "died from “brain cancer” and further details could not be retrieved. There was no history of tall stature in the family. Her midparental height was 165 cm (5 ft 5 in.).",
+      "heading": "9.5.5.9 Quality of Life (QoL)",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "5 Anthropometry: Height, 191.3 cm (75.3 in.;",
+      "heading": "9.5.5.9 Quality of Life (QoL)",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "+4.27 SD); weight, 85.3 kg (188 lb; +2.03 SD); and US/LS ratio, 1.06 (appropriate for age). Vitals were normal. 5 Pertinent examination findings: She was a",
+      "heading": "9.5.5.9 Quality of Life (QoL)",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "tall girl with coarse facial features who looked very different from her mother. There were no skin or mucosal findings. She had no organomegaly or joint laxity. Visual field examination on confrontation was normal. She was Tanner stage 5 on breast examination. 5 Biochemical testing: TSH 1.20 uU/mL",
+      "heading": "9.5.5.9 Quality of Life (QoL)",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "(0.40–5.00), free T4 1.0 ng/dL (0.9–1.8), FSH 2.4 IU/L, LH 0.2 IU/L, estradiol <20 pg/mL, ACTH 25 pg/mL (6–76), AM cortisol 4.2 mcg/dL, prolactin 22.3 ng/mL (0.1–23.3), IGF-1846 ng/mL (218–659 for age and Tanner stage, Z-score 3.2), and HGBA1C 5.50%. 5 An oral glucose tolerance test was per",
+      "heading": "9.5.5.9 Quality of Life (QoL)",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "formed and showed a nadir GH level of 35.9 ng/mL. She passed her cosyntropin stimulation test. 5 Imaging: MRI of the pituitary revealed a",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "sellar/suprasellar mass lesion measuring up to 39 × 42 × 44 mm with bilateral cavern ous sinus invasion. The optic chiasm was compressed and displaced along the anter osuperior aspect of the mass. There was encasement of the cavernous internal carotid arteries bilaterally. 5 Visual field testing: She had a significant",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "temporal defect in the left eye with good visual acuity and no afferent pupillary defect.",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "What Is the Next Step in Management?",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "She was started on a somatostatin analog (lan reotide) to attempt tumor shrinkage for better surgical outcome, and closely monitored for visual deterioration. Surgical resection was per",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "formed 2 months after the start of lanreotide treatment. Her IGF-1 level continued to be elevated following surgery.",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "Due to her family history of “brain cancer,” we sent genetic testing for AIP and MENIN genes, both of which were negative.",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "What Additional Therapy Would You Consider?",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "She was started on cabergoline at a dose of 0.25 mg biweekly and an oral contraceptive (OCP). She also received radiation for the residual tumor and persistently elevated IGF-1 levels (in the 700 s) (normal range 218–659 ng/ mL for age and Tanner stage). Her cabergoline dose was further increased to 0.5 mg every other day, and her IGF-1 level finally normal ized.",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "Over the course of the next 6 months, her mother reported that the patient had episodes of increased rage and crying, and she started getting in trouble with her teachers at school. She also developed extreme fatigue and sleepi ness during the day and was awake at night. This was very debilitating and led to her miss ing a lot of school.",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "What Other Investigations or Medication Changes Would You Consider?",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "5 Tests to rule out hypopituitarism: She sub",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "sequently developed central hypothyroid ism and secondary adrenal insufficiency and was placed on appropriate supplemen tation. 5 Tests for sleep apnea and depression: Both",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "were ruled out. She discontinued CPAP at night and reported that her snoring had decreased markedly. She did not appear sad to her mother or her friends. 5 Cabergoline dose was decreased: Emo",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "tional liability, anger, and sleep distur bances are occasionally seen with cabergoline, particularly in this age group. Her rage episodes improved after reducing the cabergoline dose.",
+      "heading": "9",
+      "pdf_page": 269,
+      "printed_page": 254
+    },
+    {
+      "text": "5 She was referred to a sleep specialist who",
+      "heading": "9",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "had to sit down instantly were suggestive of loss of motor tone associated with narco lepsy. There are some reports of narcolepsy after radiation treatment. She was started on a stimulant, and her symptoms of fatigue improved with improved sleep.",
+      "heading": "9",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "diagnosed her with narcolepsy clinically, which was confirmed by a multiple sleep latency test (MSLT).",
+      "heading": "9",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "Her reports of episodes of sudden feel ing that she could not walk anymore and",
+      "heading": "9",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "2. What is the most likely genetic diagnosis",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "5 Tall stature is a rare presentation in a pedi",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "atric endocrinologist’s practice because of societal acceptability of tallness; girls pres ent earlier than boys. 5 There are many conditions and syndromes",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "that lead to overgrowth pre- and postna tally; familial tall stature is the most com mon of these conditions. 5 The most common cause of GH excess is",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "pituitary oversecretion of GH from a tumor or hyperplasia, which can be associ ated with other syndromes or occur in iso lation. 5 Most GH-secreting tumors at a young age",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "are macroadenomas and are difficult to cure. Surgery is the mainstay of therapy. 5 Management requires a multifaceted",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "3. A 17-year-old male with GH excess",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "approach of surgery, medications, and radiation therapy to keep IGF-1 levels in the normal range. 5 There are numerous advances in medical",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "treatments available to treat GH excess in adults, and these are used in combination or as monotherapy, depending on patient tolerability and situation. 5 There is significant assay variability in",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "v Answers",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "IGF-1 measurements, and the same assay should thus be used in monitoring treat ment in a given patient.",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "1. B 2. C 3. D",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "Review Questions",
+      "heading": "9.6 Summary",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "1. What is the most common cause of",
+      "heading": "References",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "GH excess in adolescents? A. Hypothalamic hamartoma B. Somatotropinoma C. McCune-Albright syndrome D. Idiopathic",
+      "heading": "References",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "in the following scenario?",
+      "heading": "References",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "An 18-month-old girl presents with an accelerated height velocity of 8 cm/ year, and her current height is 4 SD above the mean for the population. Her parents report that she crossed height percentiles before she turned 6 months old. She has widely spaced teeth, and her MRI reveals a large macroadenoma and high levels of IGF-1. A. GNAS mutation B. Imprinting on chromosome 15p C. Microduplication on chromosome",
+      "heading": "References",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "Xq D. Triple X chromosome",
+      "heading": "References",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "had a transsphenoidal resection of a macroadenoma that has infiltrated the cavernous sinus and is currently on lanreotide every 3 weeks and cabergo line biweekly. His IGF-1 continues to be elevated. What is the next best step? A. Initiate pasireotide B. Repeat TSS C. Initiate testosterone D. Initiate pegvisomant",
+      "heading": "References",
+      "pdf_page": 270,
+      "printed_page": 255
+    },
+    {
+      "text": "and incompletely suppressed growth hormone secretion. J Clin Endocrinol Metab. 2011;96(1):E181–8. 2. de Waal WJ, Greyn-Fokker MH, Stijnen T, van",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "14. Thakker RV. Multiple endocrine neoplasia type 1",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "15. Seabrook AJ, et al. Multiple endocrine tumors",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Gurp EA, Toolens AM, de Munick Keizer- Schrama SM, et al. Accuracy of final height pre diction and effect of growth-reductive therapy in 362 constitutionally tall children. J Clin Endocrinol Metab. 1996;81(3):1206–16. 3. Upners EN, Juul A. Evaluation and phenotypic",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "16. Trivellin G, Daly AF, Faucz FR, Yuan B,",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "characteristics of 293 Danish girls with tall stature: effects of oral administration of natural 17betaestradiol. Pediatr Res. 2016;80(5):693–701. 4. Venn A, Bruinsma F, Werther G, Pyett P, Baird D,",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "17. Lavrentaki A, Paluzzi A, Wass JA, Karavitaki",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Jones P, et al. Oestrogen treatment to reduce the adult height of tall girls: long-term effects on fer tility. Lancet. 2004;364(9444):1513–8. 5. Hendriks AE, Laven JS, Valkenburg O, Fong SL,",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "18. Rostomyan L, Daly AF, Petrossians P, Nachev E,",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Fauser BC, de Ridder MA, et al. Fertility and ovarian function in high-dose estrogen-treated tall women. J Clin Endocrinol Metab. 2011;96(4):1098–105. 6. Benyi E, Kieler H, Linder M, Ritzen M, Carlstedt-",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "19. Faje AT, Barkan AL. Basal, but not pulsatile,",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Duke J, Tuvemo T, et al. Risks of malignant and non-malignant tumours in tall women treated with high-dose oestrogen during adolescence. Horm Res Paediatr. 2014;82(2):89–96. 7. Reinehr T, Gueldensupp M, Wunsch R, Bramswig",
+      "heading": "References",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "20. Barkan AL, Beitins IZ, Kelch RP. Plasma insulin-",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "JH. Treatment of tall stature in boys: comparison of two different treatment regimens. Horm Res Paediatr. 2011;76(5):343–7. 8. Odink RJ, Gerver WJ, Heeg M, Rouwe CW, van",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "21. Dimaraki EV, Jaffe CA, DeMott-Friberg R,",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Waarde WM, Sauer PJ. Reduction of excessive height in boys by bilateral percutaneous epiphysio desis around the knee. Eur J Pediatr. 2006;165(1):50–4. 9. Benyi E, Berner M, Bjernekull I, Boman A,",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "22. Grinspoon S, Clemmons D, Swearingen B,",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Chrysis D, Nilsson O, et al. Efficacy and safety of percutaneous epiphysiodesis operation around the knee to reduce adult height in extremely tall ado lescent girls and boys. Int J Pediatr Endocrinol. 2010;2010:740629. 10. Manski TJ, Haworth CS, Duval-Arnould BJ,",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "23. Costa AC, Rossi A, Martinelli CE Jr, Machado",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Rushing EJ. Optic pathway glioma infiltrating into somatostatinergic pathways in a young boy with gigantism. Case report. J Neurosurg. 1994;81(4):595–600. 11. Pandey P, Ojha BK, Mahapatra AK. Pediatric",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "24. Cazabat L, Libe R, Perlemoine K, Rene-Corail F,",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "pituitary adenoma: a series of 42 patients. J Clin Neurosci. 2005;12(2):124–7. 12. Cannavo S, Venturino M, Curto L, De Menis E,",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "D’Arrigo C, Tita P, et al. Clinical presentation and outcome of pituitary adenomas in teenagers. Clin Endocrinol. 2003;58(4):519–27. 13. Burton T, Le Nestour E, Neary M, Ludlam",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "25. Shimon I, Jallad RS, Fleseriu M, Yedinak CG,",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "WH. Incidence and prevalence of acromegaly in a large US health plan database. Pituitary. 2016;19(3):262–7.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "(MEN1) and type 4 (MEN4). Mol Cell Endocrinol. 2014;386(1–2):2–15.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "associated with germline MAX mutations: multi ple endocrine neoplasia type 5? J Clin Endocrinol Metab. 2021;106(4):1163–82.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Rostomyan L, Larco DO, et al. Gigantism and acromegaly due to Xq26 microduplications and GPR101 mutation. N Engl J Med. 2014;371(25):2363–74.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "N. Epidemiology of acromegaly: review of popula tion studies. Pituitary. 2017;20(1):4–9.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Lila AR, Lecoq AL, et al. Clinical and genetic characterization of pituitary gigantism: an inter national collaborative study in 208 patients. Endocr Relat Cancer. 2015;22(5):745–57.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "growth hormone secretion determines the ambient circulating levels of insulin-like growth factor-I. J Clin Endocrinol Metab. 2010;95(5):2486–91.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "like growth factor-I/somatomedin-C in acromeg aly: correlation with the degree of growth hormone hypersecretion. J Clin Endocrinol Metab. 1988;67(1):69–73.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Chandler WF, Barkan AL. Acromegaly with apparently normal GH secretion: implications for diagnosis and follow-up. J Clin Endocrinol Metab. 2002;87(8):3537–42.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Klibanski A. Serum insulin-like growth factorbinding protein-3 levels in the diagnosis of acro megaly. J Clin Endocrinol Metab. 1995;80(3):927–32.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "HR, Moreira AC. Assessment of disease activity in treated acromegalic patients using a sensitive GH assay: should we achieve strict normal GH levels for a biochemical cure? J Clin Endocrinol Metab. 2002;87(7):3142–7.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Burnichon N, Gimenez-Roqueplo AP, et al. Germline inactivating mutations of the aryl hydro carbon receptor-interacting protein gene in a large cohort of sporadic acromegaly: mutations are found in a subset of young patients with macroad enomas. Eur J Endocrinol/Eur Fed Endocr Soc. 2007;157(1):1–8.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "Greenman Y, Bronstein MD. Giant GH-secreting pituitary adenomas: management of rare and aggressive pituitary tumors. Eur J Endocrinol/Eur Fed Endocr Soc. 2015;172(6):707–13.",
+      "heading": "9",
+      "pdf_page": 271,
+      "printed_page": 256
+    },
+    {
+      "text": "26. Biermasz NR, Dekker FW, Pereira AM, van Thiel",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "SW, Schutte PJ, van Dulken H, et al. Determinants of survival in treated acromegaly in a single center: predictive value of serial insulin-like growth factor I measurements. J Clin Endocrinol Metab. 2004;89(6):2789–96. 27. Holdaway IM, Rajasoorya RC, Gamble GD. Factors influencing mortality in acromegaly. J Clin Endocrinol Metab. 2004;89(2):667–74. 28. Sherlock M, Reulen RC, Aragon-Alonso A, Ayuk",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "38. Gadelha M, et al. Evaluation of the efficacy and",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "39. Samson SL, et al. Maintenance of acromegaly",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "J, Clayton RN, Sheppard MC, et al. A paradigm shift in the monitoring of patients with acromeg aly: last available growth hormone may overesti mate risk. J Clin Endocrinol Metab. 2014;99(2):478–85. 29. Murray RD, Melmed S. A critical analysis of clini",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "40. Sandret L, Maison P, Chanson P. Place of cabergo",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "41. Abs R, Verhelst J, Maiter D, Van Acker K, Nobels",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "cally available somatostatin analog formulations for therapy of acromegaly. J Clin Endocrinol Metab. 2008;93(8):2957–68. 30. Gatto F, Feelders RA, Franck SE, van Koetsveld",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "42. Freda PU, Reyes CM, Nuruzzaman AT, Sundeen",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "PM, Dogan F, Kros JM, et al. In vitro head-tohead comparison between octreotide and pasireo tide in GH-secreting pituitary adenomas. J Clin Endocrinol Metab. 2017;102(6):2009–18. 31. Ezzat S, Kontogeorgos G, Redelmeier DA,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "43. Maione L, Garcia C, Bouchachi A, Kallel N,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Horvath E, Harris AG, Kovacs K. In vivo respon siveness of morphological variants of growth hor mone-producing pituitary adenomas to octreotide. Eur J Endocrinol/Eur Fed Endocr Soc. 1995;133(6):686–90. 32. Puig-Domingo M, Resmini E, Gomez-Anson B,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "44. Marazuela M, Paniagua AE, Gahete MD, Lucas T,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Nicolau J, Mora M, Palomera E, et al. Magnetic resonance imaging as a predictor of response to somatostatin analogs in acromegaly after surgical failure. J Clin Endocrinol Metab. 2010;95(11):4973–8. 33. Bhayana S, Booth GL, Asa SL, Kovacs K, Ezzat",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "45. Rix M, Laurberg P, Hoejberg AS, Brock-Jacobsen",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "S. The implication of somatotroph adenoma phe notype to somatostatin analog responsiveness in acromegaly. J Clin Endocrinol Metab. 2005;90(11):6290–5. 34. Mercado M, Borges F, Bouterfa H, Chang TC,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "46. Buhk JH, Jung S, Psychogios MN, Goricke S,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Chervin A, Farrall AJ, et al. A prospective, multi centre study to investigate the efficacy, safety and tolerability of octreotide LAR (long-acting repeat able octreotide) in the primary therapy of patients with acromegaly. Clin Endocrinol. 2007;66(6):859–68. 35. Giustina A, Mazziotti G, Torri V, Spinello M,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "47. Neggers SJ, de Herder WW, Feelders RA, van der",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Floriani I, Melmed S. Meta-analysis on the effects of octreotide on tumor mass in acromegaly. PLoS One. 2012;7(5):e36411. 36. Colao A, Bronstein MD, Freda P, Gu F, Shen CC,",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "48. van der Lely AJ, Biller BM, Brue T, Buchfelder",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Gadelha M, et al. Pasireotide versus octreotide in acromegaly: a head-to-head superiority study. J Clin Endocrinol Metab. 2014;99(3):791–9. 37. Gadelha MR, et al. Pasireotide versus continued",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "49. Buchfelder M, et al. Long-term treatment with",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "treatment with octreotide or lanreotide in patients with inadequately controlled acromegaly",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "(PAOLA): a randomised, phase 3 trial. Lancet Diabetes Endocrinol. 2014;2(11):875–84.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "safety of switching to pasireotide in patients with acromegaly inadequately controlled with firstgeneration somatostatin analogs. Front Endocrinol (Lausanne). 2019;10:931.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "control in patients switching from injectable soma tostatin receptor ligands to oral octreotide. J Clin Endocrinol Metab. 2020;105(10):e3785–97.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "line in acromegaly: a meta-analysis. J Clin Endocrinol Metab. 2011;96(5):1327–35.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "F, Coolens JL, et al. Cabergoline in the treatment of acromegaly: a study in 64 patients. J Clin Endocrinol Metab. 1998;83(2):374–8.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "RE, Khandji AG, Post KD. Cabergoline therapy of growth hormone & growth hormone/prolactin secreting pituitary tumors. Pituitary. 2004;7(1):21–30.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Maison P, Salenave S, et al. No evidence of a detri mental effect of cabergoline therapy on cardiac valves in patients with acromegaly. J Clin Endocrinol Metab. 2012;97(9):E1714–9.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Alvarez-Escola C, Manzanares R, et al. Somatotroph tumor progression during pegviso mant therapy: a clinical and molecular study. J Clin Endocrinol Metab. 2011;96(2):E251–9.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "B. Pegvisomant therapy in pituitary gigantism: successful treatment in a 12-year-old girl. Eur J Endocrinol/Eur Fed Endocr Soc. 2005;153(2):195–201.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Hartz S, Schulz-Heise S, et al. Tumor volume of growth hormone-secreting pituitary adenomas during treatment with pegvisomant: a prospective multicenter study. J Clin Endocrinol Metab. 2010;95(2):552–8.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "Lely AJ. Conversion of daily pegvisomant to weekly pegvisomant combined with long-acting somatostatin analogs, in controlled acromegaly patients. Pituitary. 2011;14(3):253–8.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "M, Ghigo E, Gomez R, et al. Long-term safety of pegvisomant in patients with acromegaly: com prehensive review of 1288 subjects in ACROSTUDY. J Clin Endocrinol Metab. 2012;97(5):1589–97.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "pegvisomant: observations from 2090 acromegaly patients in ACROSTUDY. Eur J Endocrinol. 2018;179(6):419–27.",
+      "heading": "9",
+      "pdf_page": 272,
+      "printed_page": 257
+    },
+    {
+      "text": "50. Feola T, et al. Pegvisomant improves glucose",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "metabolism in acromegaly: a meta-analysis of pro spective interventional studies. J Clin Endocrinol Metab. 2019;104(7):2892–902. 51. McLaughlin N, Laws ER, Oyesiku NM, Katznelson L, Kelly DF. Pituitary centers of excel lence. Neurosurgery. 2012;71(5):916–24; discussion 24–6. 52. Jane JA Jr, Starke RM, Elzoghby MA, Reames",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "64. Maione L, Brue T, Beckers A, Delemer B,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "DL, Payne SC, Thorner MO, et al. Endoscopic transsphenoidal surgery for acromegaly: remission using modern criteria, complications, and predic tors of outcome. J Clin Endocrinol Metab. 2011;96(9):2732–40. 53. Briceno V, Zaidi HA, Doucette JA, Onomichi KB,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "65. Clayton RN. Cardiovascular function in acromeg",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "66. Colao A, Baldelli R, Marzullo P, Ferretti E, Ferone",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Alreshidi A, Mekary RA, et al. Efficacy of transs phenoidal surgery in achieving biochemical cure of growth hormone-secreting pituitary adenomas among patients with cavernous sinus invasion: a systematic review and meta-analysis. Neurol Res. 2017;39(5):387–98. 54. Zada G, Sivakumar W, Fishback D, Singer PA,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "67. Akutsu H, Kreutzer J, Wasmeier G, Ropers D,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Weiss MH. Significance of postoperative fluid diuresis in patients undergoing transsphenoidal surgery for growth hormone-secreting pituitary adenomas. J Neurosurg. 2010;112(4):744–9. 55. Freda PU. Monitoring of acromegaly: what should",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "68. Davi MV, Dalle Carbonare L, Giustina A, Ferrari",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "be performed when GH and IGF-1 levels are dis crepant? Clin Endocrinol. 2009;71(2):166–70. 56. Molitch ME, Grossman AB. Pituitary radiother",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "69. Colao A, Ferone D, Marzullo P, Lombardi",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "apy. Pituitary. 2009;12(1):1–2. 57. Minniti G, Jaffrain-Rea ML, Osti M, Esposito V,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Santoro A, Solda F, et al. The long-term efficacy of conventional radiotherapy in patients with GHsecreting pituitary adenomas. Clin Endocrinol. 2005;62(2):210–6. 58. Gheorghiu ML. Updates in outcomes of stereotac",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "70. Frara S, Maffezzoni F, Mazziotti G, Giustina",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "71. Jonas C, Maiter D, Alexopoulou O. Evolution of",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "tic radiation therapy in acromegaly. Pituitary. 2017;20(1):154–68. 59. Ross DA, Wilson CB. Results of transsphenoidal",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "microsurgery for growth hormone-secreting pitu itary adenoma in a series of 214 patients. J Neurosurg. 1988;68(6):854–67. 60. Biermasz NR, van Dulken H, Roelfsema F. Long-",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "72. Maffezzoni F, Maddalo M, Frara S, Mezzone M,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "term follow-up results of postoperative radiother apy in 36 patients with acromegaly. J Clin Endocrinol Metab. 2000;85(7):2476–82. 61. Swearingen B, Barker FG 2nd, Katznelson L,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "73. Mazziotti G, Maffezzoni F, Frara S, Giustina",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Biller BM, Grinspoon S, Klibanski A, et al. Longterm mortality after transsphenoidal surgery and adjunctive therapy for acromegaly. J Clin Endocrinol Metab. 1998;83(10):3419–26. 62. Ritvonen E, Loyttyniemi E, Jaatinen P, Ebeling T,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "74. Wassenaar MJ, Cazemier M, Biermasz NR,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Moilanen L, Nuutila P, et al. Mortality in acro megaly: a 20-year follow-up study. Endocr Relat Cancer. 2015;23(6):469–80. 63. Mercado M, Gonzalez B, Vargas G, Ramirez C, de",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "75. Wolinski K, Stangierski A, Dyrda K, Nowicka K,",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "los Monteros AL, Sosa E, et al. Successful mortal ity reduction and control of comorbidities in",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "76. Orme SM, McNally RJ, Cartwright RA, Belchetz",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "patients with acromegaly followed at a highly spe cialized multidisciplinary clinic. J Clin Endocrinol Metab. 2014;99(12):4438–46.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Petrossians P, Borson-Chazot F, et al. Changes in the management and comorbidities of acromegaly over three decades: the French Acromegaly Registry. Eur J Endocrinol/Eur Fed Endocr Soc. 2017;176(5):645–55.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "aly. Endocr Rev. 2003;24(3):272–7.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "D, Gargiulo P, et al. Systemic hypertension and impaired glucose tolerance are independently cor related to the severity of the acromegalic cardio myopathy. J Clin Endocrinol Metab. 2000;85(1):193–9.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Rost C, Mohlig M, et al. Acromegaly per se does not increase the risk for coronary artery disease. Eur J Endocrinol/Eur Fed Endocr Soc. 2010;162(5):879–86.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "M, Frigo A, Lo Cascio V, et al. Sleep apnoea syn drome is highly prevalent in acromegaly and only partially reversible after biochemical control of the disease. Eur J Endocrinol/Eur Fed Endocr Soc. 2008;159(5):533–40.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "G. Systemic complications of acromegaly: epide miology, pathogenesis, and management. Endocr Rev. 2004;25(1):102–52.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "A. Current and emerging aspects of diabetes mel litus in acromegaly. Trends Endocrinol Metab. 2016;27(7):470–83.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "glucose tolerance after treatment of acromegaly: a study in 57 patients. Horm Metab Res. 2016;48(5):299–305.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Zorza I, Baruffaldi F, et al. High-resolution-cone beam tomography analysis of bone microarchitec ture in patients with acromegaly and radiological vertebral fractures. Endocrine. 2016;54(2):532–42.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "A. Acromegalic osteopathy. Pituitary. 2017;20(1):63–9.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Pereira AM, Roelfsema F, Smit JW, et al. Acromegaly is associated with an increased preva lence of colonic diverticula: a case-control study. J Clin Endocrinol Metab. 2010;95(5):2073–9.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "Pelka M, Iqbal A, et al. Risk of malignant neo plasms in acromegaly: a case-control study. J Endocrinol Investig. 2017;40(3):319–22.",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "PE. Mortality and cancer incidence in acromegaly:",
+      "heading": "9",
+      "pdf_page": 273,
+      "printed_page": 258
+    },
+    {
+      "text": "a retrospective cohort study. United Kingdom Acromegaly Study Group. J Clin Endocrinol Metab. 1998;83(8):2730–4. 77. Petroff D, Tonjes A, Grussendorf M, Droste M,",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "79. Jenkins PJ, Besser M. Clinical perspective: acro",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "80. Melmed S. Acromegaly and cancer: not a problem?",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "Dimopoulou C, Stalla G, et al. The incidence of cancer among acromegaly patients: results from the German Acromegaly Registry. J Clin Endocrinol Metab. 2015;100(10):3894–902. 78. Tirosh A, Shimon I. Complications of acromegaly:",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "81. Geraedts VJ, Andela CD, Stalla GK, Pereira AM,",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "thyroid and colon. Pituitary. 2017;20(1):70–5.",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "megaly and cancer: a problem. J Clin Endocrinol Metab. 2001;86(7):2935–41.",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "J Clin Endocrinol Metab. 2001;86(7):2929–34.",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    },
+    {
+      "text": "van Furth WR, Sievers C, et al. Predictors of qual ity of life in acromegaly: no consensus on bio chemical parameters. Front Endocrinol (Lausanne). 2017;8:40.",
+      "heading": "9",
+      "pdf_page": 274,
+      "printed_page": 259
+    }
+  ],
+  "figures": [],
+  "tables": [
+    {
+      "path": "tables/ch009_p0259_2.jpg",
+      "markdown": "|Maternal<br>diabetes<br>mellitus|Maternal hyperglycemia<br>causes fetal hyperglycemia<br>leading to hyperinsulinemia<br>and increased growth|Large for gestational age, neonatal<br>hypoglycemia, organomegaly|Normal|\n|---|---|---|---|\n|Cerebral<br>gigantism<br>(Sotos<br>syndrome)|Mostly sporadic, autoso­<br>mal dominant inheritance:<br>deletion of the_NSD1_ gene<br>located on chromosome 5|Rapid growth in early childhood,<br>macrocephaly, frontal bossing, high-<br>arched palate, poor coordination and<br>mental retardation, expressive language<br>delay, large hands, and increased arm<br>span. Most have an advanced bone age|Near normal|\n|Beckwith<br>Wiedemann<br>syndrome|Dysregulation of imprinted<br>genes on chromosome 11p|Polyhydramnios, placentomegaly,<br>macroglossia, hemihyperplasia, neonatal<br>hypoglycemia (mild and transient),<br>hypothyroidism, hyperlipidemia, anterior<br>abdominal wall defects (omphalocele,<br>umbilical hernia), and embryonal tumors<br>such as Wilms’s tumor and hepatoblas­<br>toma|Upper range of<br>normal for the<br>family|\n\n",
+      "pdf_page": 259,
+      "printed_page": 244,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch009_p0260_3.jpg",
+      "markdown": "|Growth<br>hormone<br>excess<br>(pituitary<br>gigantism)|Oversecretion of GH<br>caused by a pituitary/<br>hypothalamic/ectopic<br>lesion secreting GH or<br>GHRH|Tall stature (if onset before epiphyseal<br>closure), coarse facial features, large<br>hands and feet, skin tags, myalgias, and<br>other features are dependent on other<br>associated hormonal excesses/deficiencies|Tall|\n|---|---|---|---|\n|Precocious<br>puberty<br>(central or<br>peripheral)|Stimulation of growth from<br>exposure to sex steroids<br>followed by early cessation<br>of statural growth from<br>early epiphyseal fusion|Secondary sex characteristic development<br>which may be isosexual or contrasexual<br>depending on the cause, advanced bone<br>age|Shorter than<br>the target<br>height|\n|Hyperthy­<br>roidism|Stimulatory effect of<br>thyroid hormones on the<br>GH axis which leads to<br>increased height velocity<br>along with rapid advance­<br>ment of bone age|Associated signs of hyperthyroidism and<br>the primary etiology|Initial<br>acceleration of<br>growth but<br>eventually short<br>if untreated|\n|Sex hormone<br>defciency or<br>receptor<br>insensitivity|Delay in epiphyseal closure<br>with continued growth|Hypogonadism and eunuchoid body<br>proportions|Tall|\n|Aromatase<br>defciency|Loss-of-function mutations<br>in the_CYP19A_ on<br>chromosome 15 causing<br>congenital estrogen<br>defciency|Tall stature and osteopenia/osteoporosis|Tall|\n|Glucocorti­<br>coid<br>resistance|Increased adrenal androgen<br>production from elevated<br>ACTH|Hirsutism and virilization in females and<br>isosexual precocious puberty in males|Near normal|\n|Congenital<br>lipodystrophy|Autosomal recessive;<br>mutations of_AGPAT2_ and<br>_BSCL2_|Insulin resistance, nonketotic hyperglyce­<br>mia, and near absence of subcutaneous<br>adipose tissue|Near normal|\n\n",
+      "pdf_page": 260,
+      "printed_page": 245,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch009_p0261_1.jpg",
+      "markdown": "|Causes|Proposed mechanism|Clinical presentation|Adult height|\n|---|---|---|---|\n|Marfan<br>syndrome|Mutations in the fbrillin<br>gene,_FBN1_|Autosomal dominant; low upper segment<br>to lower segment ratio, arachnodactyly,<br>ectopia lentis, and dilation of the aortic<br>root|Tall|\n|Homocystin­<br>uria|Defciency of the enzyme<br>cystathionine synthase|Similar to Marfan syndrome, lens<br>subluxation, mental retardation, and<br>thromboembolic disease with elevations<br>in urinary homocysteine and methionine|Tall|\n|Klinefelter<br>syndrome<br>(47XXY)|Sex chromosome aneu­<br>ploidy (one or more supple­<br>mentary X chromosome)|Tall boys with relatively long legs,<br>learning disability, microorchidism, and<br>gynecomastia|Tall|\n|Melanocortin<br>4 receptor<br>(MC4R)<br>mutation|Mutations in the gene<br>coding for the melanocor­<br>tin receptor 4 (_MC4R_)|Most common cause of monogenic<br>obesity, associated with frequent and<br>taller GH pulses (unlike exogenous<br>obesity) [1]|Tall|\n|47XYY|Aneuploidy of the Y<br>chromosome|Mild motor and language development<br>delay, radioulnar synostosis, clinodactyly,<br>and sometimes attention defcit hyperac­<br>tivity disorder (ADHD) and autism<br>spectrum disorder|Tall|\n|Triple X<br>syndrome|Triple SHOX gene effect|Insulin resistance and behavioral<br>disorders|Normal or tall|\n|Fragile X syn­<br>drome|_FMR1_ CGG repeats|Mental retardation, macroorchidism, and<br>X-linked disorder|Tall|\n|Neurofbro­<br>matosis 1|Heterozygous mutation in<br>neurofbromin gene (_NF1_) <br>on chromosome 17|Cafe-au-lait spots, Lisch nodules in the<br>eye, fbromatous tumors of the skin, and<br>macrocephaly. Usually causes short<br>stature but rarely may have dysregulated<br>growth hormone secretion leading to<br>increased growth velocity|Tall|\n\n",
+      "pdf_page": 261,
+      "printed_page": 246,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch009_p0264_1.jpg",
+      "markdown": "|Syndrome|Gene|Associated features|\n|---|---|---|\n|Multiple endocrine neoplasia<br>type 1 (MEN 1)|_MENIN_|Parathyroid, anterior pituitary, and pancreatic<br>neuroendocrine tumors; other tumors may<br>also be seen|\n|Multiple endocrine neoplasia<br>type 4 (MEN 4) [14]<br>Multiple endocrine neoplasia<br>type 5 [15]|Cyclin-dependent kinase<br>inhibitor (_CDKN1B_)<br>MYC-associated factor<br>X (MAX)|Parathyroid, anterior pituitary, testicular,<br>cervical, thyroid, adrenal, and renal tumors<br>Parathyroid, pheochromocytomas, and<br>pituitary adenomas|\n|Familial isolated pituitary<br>adenoma (FIPA)|Aryl hydrocarbon<br>receptor-interacting<br>protein (_AIP_)|At least two members of the same family with<br>pituitary tumor|\n|McCune-Albright syndrome|_GNAS1_|Fibrous dysplasia, cafe-au-lait spots,<br>precocious puberty; sometimes hyperthyroid­<br>ism or hypercortisolemia|\n|Carney complex|_PPKAR1A_|Skin pigmentation, cardiac myxomas,<br>Cushing’s syndrome with pigmented nodular<br>adrenocortical disease (PPNAD)|\n|X-linked acrogigantism<br>(X-LAG)|_GPR101_|Median onset of gigantism is early, about<br>12months [16]|\n|Paraganglioma, pheochromocy­<br>toma, and pituitary adenoma<br>association (3PA)|Succinate dehydrogenase<br>(_SDH A-D_)|Most cases are familial|\n\n",
+      "pdf_page": 264,
+      "printed_page": 249,
+      "orientation_normalized": false
+    }
+  ],
+  "raw_md": "# 9. Growth Hormone Excess and Other Conditions of Overgrowth\n> Source attribution: [Source credits](../../SOURCE_CREDITS.md).\n\n\n## PDF page 258 | printed page 243\n\n### Growth Hormone Excess and Other Conditions of Overgrowth\n\nVibha Singhal and Madhusmita Misra\n\nContents\n\n9.1 Introduction and Background – 244\n\n9.2 Etiology – 244\n\n9.3 Approach to a Child with Tall Stature – 246\n\n9.4 Strategies to Reduce Growth Rate – 247\n\n9.4.1 Sex Steroid Treatment – 247 9.4.2 Surgery – 248\n\n9.5 Growth Hormone Excess – 248\n\n9.5.1 Incidence – 248 9.5.2 Clinical Presentation – 248 9.5.3 Diagnostic Evaluation – 249 9.5.4 Treatment – 250 9.5.5 Outcomes and Possible Complications – 252\n\n9.6 Summary – 255\n\nReferences – 255\n\n© The Author(s), under exclusive license to Springer Nature Switzerland AG 2024 S. Radovick, M. Misra (eds.), Pediatric Endocrinology, https://doi.org/10.1007/978-3-031-66296-6_9\n\n\n## PDF page 259 | printed page 244\n\n### Key Points\n\n5 The most common cause of tall stature\n\nis familial tall stature; this is not associ ated with increased growth velocity. 5 Pituitary gigantism is extremely rare\n\nand occurs when a growth hormone (GH) secreting pituitary adenoma develops before epiphyseal fusion; growth velocity is increased. 5 IGF-1 levels should be interpreted in the\n\ncontext of age, gender, and Tanner stage. 5 Pituitary GH-secreting adenomas developing at a young age are often aggressive and may require a multi modal therapeutic approach—surgical, medical, and radiation.\n\n### 9.1 Introduction and Background\n\n### 9\n\nTall stature refers to a height or length that is 2 standard deviations (SDs) greater than the mean for the reference population. The race\n\nTable 9.1 Causes of overgrowth or tall stature\n\nCauses Proposed mechanism Clinical presentation\n\nIntrauterine/infantile overgrowth\n\nMaternal diabetes mellitus\n\nMaternal hyperglycemia causes fetal hyperglycemia leading to hyperinsulinemia and increased growth\n\nLarge for gestational age, neonatal hypoglycemia, organomegaly\n\nCerebral gigantism (Sotos syndrome)\n\nMostly sporadic, autoso mal dominant inheritance: deletion of the NSD1 gene located on chromosome 5\n\nRapid growth in early childhood, macrocephaly, frontal bossing, higharched palate, poor coordination and mental retardation, expressive language delay, large hands, and increased arm span. Most have an advanced bone age\n\nBeckwith Wiedemann syndrome\n\nDysregulation of imprinted genes on chromosome 11p\n\nPolyhydramnios, placentomegaly, macroglossia, hemihyperplasia, neonatal hypoglycemia (mild and transient), hypothyroidism, hyperlipidemia, anterior abdominal wall defects (omphalocele, umbilical hernia), and embryonal tumors such as Wilms’s tumor and hepatoblas toma\n\nand ethnicity of the reference population should ideally be considered when consider ing a diagnosis of tall stature. Since stature is normally distributed, at least 2.5% of the population are tall by definition. Although there are no data to suggest that girls are more likely to have tall stature than boys, girls are more likely to seek medical atten tion, possibly due to societal expectations and perceptions around height. Assessment of stature should take into account the child’s age, weight, body proportions, pubertal onset and progression, height velocity, and parental heights.\n\n### 9.2 Etiology\n\n\n\n9.1\n\nAdult height\n\nNormal\n\nNear normal\n\nUpper range of normal for the family\n\n(continued)\n\n\n### Automatic table extraction — verify rendered original\n\n|Maternal<br>diabetes<br>mellitus|Maternal hyperglycemia<br>causes fetal hyperglycemia<br>leading to hyperinsulinemia<br>and increased growth|Large for gestational age, neonatal<br>hypoglycemia, organomegaly|Normal|\n|---|---|---|---|\n|Cerebral<br>gigantism<br>(Sotos<br>syndrome)|Mostly sporadic, autoso­<br>mal dominant inheritance:<br>deletion of the_NSD1_ gene<br>located on chromosome 5|Rapid growth in early childhood,<br>macrocephaly, frontal bossing, high-<br>arched palate, poor coordination and<br>mental retardation, expressive language<br>delay, large hands, and increased arm<br>span. Most have an advanced bone age|Near normal|\n|Beckwith<br>Wiedemann<br>syndrome|Dysregulation of imprinted<br>genes on chromosome 11p|Polyhydramnios, placentomegaly,<br>macroglossia, hemihyperplasia, neonatal<br>hypoglycemia (mild and transient),<br>hypothyroidism, hyperlipidemia, anterior<br>abdominal wall defects (omphalocele,<br>umbilical hernia), and embryonal tumors<br>such as Wilms’s tumor and hepatoblas­<br>toma|Upper range of<br>normal for the<br>family|\n\n\n\n[Original table](../../tables/ch009_p0259_2.jpg)\n\n\n## PDF page 260 | printed page 245\n\nTable 9.1 (continued)\n\nCauses Proposed mechanism Clinical presentation\n\nChildhood/adolescent overgrowth\n\nNormal variation\n\nFamilial Genetic variation No dysmorphic features, normal height velocity (but on the higher side of normal), normal bone age, and family history of tall stature\n\nEndocrine disorders\n\nGrowth hormone excess (pituitary gigantism)\n\nOversecretion of GH caused by a pituitary/ hypothalamic/ectopic lesion secreting GH or GHRH\n\nTall stature (if onset before epiphyseal closure), coarse facial features, large hands and feet, skin tags, myalgias, and other features are dependent on other associated hormonal excesses/deficiencies\n\nPrecocious puberty (central or peripheral)\n\nStimulation of growth from exposure to sex steroids followed by early cessation of statural growth from early epiphyseal fusion\n\nSecondary sex characteristic development which may be isosexual or contrasexual depending on the cause, advanced bone age\n\nHyperthy roidism\n\nStimulatory effect of thyroid hormones on the GH axis which leads to increased height velocity along with rapid advance ment of bone age\n\nAssociated signs of hyperthyroidism and the primary etiology\n\nSex hormone deficiency or receptor insensitivity\n\nDelay in epiphyseal closure with continued growth\n\nHypogonadism and eunuchoid body proportions\n\nAromatase deficiency\n\nLoss-of-function mutations in the CYP19A on chromosome 15 causing congenital estrogen deficiency\n\nTall stature and osteopenia/osteoporosis\n\nGlucocorti coid resistance\n\nIncreased adrenal androgen production from elevated ACTH\n\nHirsutism and virilization in females and isosexual precocious puberty in males\n\nCongenital lipodystrophy\n\nAutosomal recessive; mutations of AGPAT2 and BSCL2\n\nInsulin resistance, nonketotic hyperglyce mia, and near absence of subcutaneous adipose tissue\n\nNonendocrine disorders\n\nObesity Excess calories Advanced bone age, pubertal onset is usually earlier than in children who are normal weight\n\nAdult height\n\nApproximates target height\n\nTall\n\nShorter than the target height\n\nInitial acceleration of growth but eventually short if untreated\n\nTall\n\nTall\n\nNear normal\n\nNear normal\n\nNear normal\n\n(continued)\n\n\n### Automatic table extraction — verify rendered original\n\n|Growth<br>hormone<br>excess<br>(pituitary<br>gigantism)|Oversecretion of GH<br>caused by a pituitary/<br>hypothalamic/ectopic<br>lesion secreting GH or<br>GHRH|Tall stature (if onset before epiphyseal<br>closure), coarse facial features, large<br>hands and feet, skin tags, myalgias, and<br>other features are dependent on other<br>associated hormonal excesses/deficiencies|Tall|\n|---|---|---|---|\n|Precocious<br>puberty<br>(central or<br>peripheral)|Stimulation of growth from<br>exposure to sex steroids<br>followed by early cessation<br>of statural growth from<br>early epiphyseal fusion|Secondary sex characteristic development<br>which may be isosexual or contrasexual<br>depending on the cause, advanced bone<br>age|Shorter than<br>the target<br>height|\n|Hyperthy­<br>roidism|Stimulatory effect of<br>thyroid hormones on the<br>GH axis which leads to<br>increased height velocity<br>along with rapid advance­<br>ment of bone age|Associated signs of hyperthyroidism and<br>the primary etiology|Initial<br>acceleration of<br>growth but<br>eventually short<br>if untreated|\n|Sex hormone<br>defciency or<br>receptor<br>insensitivity|Delay in epiphyseal closure<br>with continued growth|Hypogonadism and eunuchoid body<br>proportions|Tall|\n|Aromatase<br>defciency|Loss-of-function mutations<br>in the_CYP19A_ on<br>chromosome 15 causing<br>congenital estrogen<br>defciency|Tall stature and osteopenia/osteoporosis|Tall|\n|Glucocorti­<br>coid<br>resistance|Increased adrenal androgen<br>production from elevated<br>ACTH|Hirsutism and virilization in females and<br>isosexual precocious puberty in males|Near normal|\n|Congenital<br>lipodystrophy|Autosomal recessive;<br>mutations of_AGPAT2_ and<br>_BSCL2_|Insulin resistance, nonketotic hyperglyce­<br>mia, and near absence of subcutaneous<br>adipose tissue|Near normal|\n\n\n\n[Original table](../../tables/ch009_p0260_3.jpg)\n\n\n## PDF page 261 | printed page 246\n\nTable 9.1 (continued)\n\nCauses Proposed mechanism Clinical presentation\n\nMarfan syndrome\n\nMutations in the fibrillin gene, FBN1\n\nAutosomal dominant; low upper segment to lower segment ratio, arachnodactyly, ectopia lentis, and dilation of the aortic root\n\nHomocystin uria\n\nDeficiency of the enzyme cystathionine synthase\n\nSimilar to Marfan syndrome, lens subluxation, mental retardation, and thromboembolic disease with elevations in urinary homocysteine and methionine\n\nKlinefelter syndrome (47XXY)\n\nSex chromosome aneu ploidy (one or more supple mentary X chromosome)\n\nTall boys with relatively long legs, learning disability, microorchidism, and gynecomastia\n\nMelanocortin 4 receptor (MC4R) mutation\n\nMutations in the gene coding for the melanocor tin receptor 4 (MC4R)\n\nMost common cause of monogenic obesity, associated with frequent and taller GH pulses (unlike exogenous obesity) [1]\n\n47XYY Aneuploidy of the Y chromosome\n\nMild motor and language development delay, radioulnar synostosis, clinodactyly, and sometimes attention deficit hyperac tivity disorder (ADHD) and autism spectrum disorder\n\n### 9\n\nTriple X syndrome\n\nTriple SHOX gene effect Insulin resistance and behavioral disorders\n\nFragile X syn drome\n\nFMR1 CGG repeats Mental retardation, macroorchidism, and X-linked disorder\n\nNeurofibro matosis 1\n\nHeterozygous mutation in neurofibromin gene (NF1) on chromosome 17\n\nCafe-au-lait spots, Lisch nodules in the eye, fibromatous tumors of the skin, and macrocephaly. Usually causes short stature but rarely may have dysregulated growth hormone secretion leading to increased growth velocity\n\n### 9.3 Approach to a Child with Tall\n\n### Stature\n\nKeeping in mind the various causes of tall stature, we suggest the following approach to a tall child. 1. Confirm the diagnosis of tall stature: The\n\ncurrent height should be 2 SDs greater than the mean for the sex- and agematched reference population, keeping race and ethnicity in mind. This should be interpreted in the context of predicted adult height derived from the heights of\n\nAdult height\n\nTall\n\nTall\n\nTall\n\nTall\n\nTall\n\nNormal or tall\n\nTall\n\nTall\n\nthe biological parents. While benign famil ial tall stature is associated with tall par ents, the clinician should be mindful that having a tall parent or parents does not rule out associated pathology as there could be pathologic familial or genetic causes of tall stature. 2. Consider the pubertal stage: Early puberty\n\nmay result in growth acceleration and result in current height being greater than in peers who have not yet entered puberty. Physical examination and bone age should aid with this diagnosis. Further workup\n\n\n### Automatic table extraction — verify rendered original\n\n|Causes|Proposed mechanism|Clinical presentation|Adult height|\n|---|---|---|---|\n|Marfan<br>syndrome|Mutations in the fbrillin<br>gene,_FBN1_|Autosomal dominant; low upper segment<br>to lower segment ratio, arachnodactyly,<br>ectopia lentis, and dilation of the aortic<br>root|Tall|\n|Homocystin­<br>uria|Defciency of the enzyme<br>cystathionine synthase|Similar to Marfan syndrome, lens<br>subluxation, mental retardation, and<br>thromboembolic disease with elevations<br>in urinary homocysteine and methionine|Tall|\n|Klinefelter<br>syndrome<br>(47XXY)|Sex chromosome aneu­<br>ploidy (one or more supple­<br>mentary X chromosome)|Tall boys with relatively long legs,<br>learning disability, microorchidism, and<br>gynecomastia|Tall|\n|Melanocortin<br>4 receptor<br>(MC4R)<br>mutation|Mutations in the gene<br>coding for the melanocor­<br>tin receptor 4 (_MC4R_)|Most common cause of monogenic<br>obesity, associated with frequent and<br>taller GH pulses (unlike exogenous<br>obesity) [1]|Tall|\n|47XYY|Aneuploidy of the Y<br>chromosome|Mild motor and language development<br>delay, radioulnar synostosis, clinodactyly,<br>and sometimes attention defcit hyperac­<br>tivity disorder (ADHD) and autism<br>spectrum disorder|Tall|\n|Triple X<br>syndrome|Triple SHOX gene effect|Insulin resistance and behavioral<br>disorders|Normal or tall|\n|Fragile X syn­<br>drome|_FMR1_ CGG repeats|Mental retardation, macroorchidism, and<br>X-linked disorder|Tall|\n|Neurofbro­<br>matosis 1|Heterozygous mutation in<br>neurofbromin gene (_NF1_) <br>on chromosome 17|Cafe-au-lait spots, Lisch nodules in the<br>eye, fbromatous tumors of the skin, and<br>macrocephaly. Usually causes short<br>stature but rarely may have dysregulated<br>growth hormone secretion leading to<br>increased growth velocity|Tall|\n\n\n\n[Original table](../../tables/ch009_p0261_1.jpg)\n\n\n## PDF page 262 | printed page 247\n\nshould elucidate the cause of precocious puberty. 3. Ascertain the timing of accelerated growth\n\nrate: If increased growth velocity is present from the time of birth, syndromes of intra uterine growth acceleration, such as mater nal diabetes and Beckwith Wiedemann syndrome, should be considered. Once a child reaches its genetic potential on the growth curve, which usually occurs around 2 years of age, he/she typically tracks along the corresponding growth percentile. If there is a sudden acceleration in growth velocity and deviation from that curve, it is important to rule out conditions such as hyperthyroidism, growth hormone excess, obesity, and constitutional advancement of growth. 4. Anthropometry including head circumfer\n\nence: Patients with Marfan and Klinefelter syndromes typically have longer limbs and hence have a lower upper/lower segment ratio and longer arm span than standing height. Macrocephaly is a feature of Sotos and Weaver syndromes. Body mass index (BMI) is helpful in diagnosing obesity, and greater severity and early onset of obesity suggest monogenic causes of obesity. 5. Look for any syndromic features: A careful\n\nhistory should explore any behavioral or developmental concerns that may be asso ciated with syndromes such as Sotos, tri ple X, or fragile X or conditions such as homocystinuria. Appropriate genetic test ing should be undertaken, and karyotype or plasma homocysteine levels assessed. A medical history of ocular issues and cardiac defects may provide clues to the diagnosis of Marfan syndrome. Hypogonadism or macroorchidism may suggest Klinefelter or fragile X syn dromes, respectively. 6. Estimate the adult height of the child:\n\nEstimation of adult height in the setting of tall parents or one tall parent is not entirely reliable. There are data to suggest that the Bayley-Pinneau (BP) method overesti mates, while the Tanner-Whitehouse (TW) method underestimates the predicted adult height in constitutionally tall children [2].\n\nIf the child’s height prediction is in the range of the target adult height and there are no syndromic features, he/she most likely has familial tall stature. If the child grows or is projected to grow, beyond the target height range without syndromic fea tures or growth acceleration, hypoestro genism or estrogen resistance leading to delayed epiphyseal closure should be con sidered.\n\n### 9.4 Strategies to Reduce Growth\n\n### Rate\n\nChildren and parents who find the predicted adult height unacceptable may seek treatment. However, there is little evidence that tall stat ure causes social or emotional challenges in adolescents or adults. Such therapy should be undertaken after an evaluation for hormonal causes of tall stature, as the latter may be treated by treating the underlying condition. Growth-reducing therapy is not commonly sought in patients with syndromic tall stature.\n\n### 9.4.1 Sex Steroid Treatment\n\nEstrogen in high doses, such as 100–300 mcg of ethinyl estradiol daily, has been used in the past to accelerate growth plate maturation causing early epiphyseal fusion. The efficacy in reducing final height is better when treat ment is initiated at a lower bone age [2]. The mean height reduction is about 1.6 cm [3]. Long-term use of high-dose estrogen is linked with decreased fertility and increased inci dence of imminent ovarian failure [4, 5]. There is also concern for a higher risk of breast can cer [6] and thromboembolic episodes.\n\nTestosterone treatment in boys is less effec tive than estrogen treatment in achieving final height reduction. It leads to early epiphyseal closure after aromatization to estrogen. There are studies showing equal efficacy of 250 and 500 mg of testosterone enanthate given intra muscularly every 2 weeks [7]. There are no known adverse effects on fertility or cancer risk in adolescents treated with high doses of\n\n\n## PDF page 263 | printed page 248\n\ntestosterone. However, high testosterone lev els may result in polycythemia and acne and cause aggressive behavior.\n\n### 9.4.2 Surgery\n\nThe most common surgical procedure used to decrease growth is bilateral percutaneous epi physiodesis of the distal femur and proximal tibia and fibula. In this operation, the growth plates of the long bones of the legs are obliter ated by needling to prevent more linear growth. Since this procedure decreases limb growth, it can potentially alter final body pro portions [8]. Unlike hormonal treatment, it can be used efficaciously at an advanced bone age. Complications are rare but include surgi cal scars, neurovascular damage, exostosis, or asymmetrical fusion leading to asymmetric limb length [9].\n\n### 9\n\n### 9.5 Growth Hormone Excess\n\nGrowth hormone (GH) excess is a very rare disorder of childhood. If it occurs in a grow ing child before epiphyseal fusion, it leads to tall stature causing gigantism. However, after epiphyseal fusion, GH excess has no effect on height and instead causes overgrowth of bone leading to acromegaly. Growth hormone excess can occur from a variety of sources— pituitary GH secretion from a tumor or somatotroph hyperplasia, hypothalamic GHreleasing hormone (GHRH) secretion, ecto pic source of GH or GHRH (extremely rare in children), or decrease in somatostatin inhi bition [10].\n\n### 9.5.1 Incidence\n\nThis is a very rare disorder. The incidence of childhood pituitary tumors is about 0.1 in a million person-years, and less than 10% of these are GH-secreting adenomas [11, 12]. In a recent claims based approach in the United\n\nStates that analyzed disease incidence based on acromegaly-based insurance claims, the annual incidence of GH excess in children, from 2008 to 2012, was three to eight cases per million person-years. There was no significant difference between incidence based on gender and the incidence increased with increasing age [13].\n\n### 9.5.2 Clinical Presentation\n\n\n\n\n\n9.2\n\n\n\n17 18\n\n18\n\n### 9.5.2.1 Symptoms Related to GH\n\n### Excess\n\nThe usual presentation of growth hormone excess before epiphyseal fusion is increased growth velocity and tall stature. In older ado lescents, musculoskeletal symptoms of GH excess, i.e., arthralgias, wrist pain, large feet and hands, coarsening of facial features, prog nathism, macrocephaly, and kyphoscoliosis, may be seen. Sleep apnea from mucosal and lymphoid hypertrophy may occur. Complications of GH excess such as hyper tension, cardiomyopathy, glucose intolerance, or frank diabetes mellitus are less often seen in this younger age group.\n\n### 9.5.2.2 Symptoms Related\n\n### to the Tumor and Co-secretion of Other Hormones\n\nThe signs and symptoms of a large sellar/ suprasellar mass may include headache, nau sea, vomiting, visual field deficits, and evi\n\n\n## PDF page 264 | printed page 249\n\nTable 9.2 Syndromes associated with gigantism/GH excess\n\nSyndrome Gene\n\nMultiple endocrine neoplasia type 1 (MEN 1)\n\nMENIN\n\nMultiple endocrine neoplasia type 4 (MEN 4) [14] Multiple endocrine neoplasia type 5 [15]\n\nCyclin-dependent kinase inhibitor (CDKN1B) MYC-associated factor X (MAX)\n\nFamilial isolated pituitary adenoma (FIPA)\n\nAryl hydrocarbon receptor-interacting protein (AIP)\n\nMcCune-Albright syndrome GNAS1\n\nCarney complex PPKAR1A\n\nX-linked acrogigantism (X-LAG)\n\nGPR101\n\nParaganglioma, pheochromocy toma, and pituitary adenoma association (3PA)\n\nSuccinate dehydrogenase (SDH A-D)\n\n### 9.5.3 Diagnostic Evaluation\n\ndence of increased intracranial pressure. Sometimes tumors co-secrete GH and prolac tin (mammosomatotrophs, as these cells have common embryonic origin), which can be associated with galactorrhea. Hyperprolactinemia may also occur from stalk compression in the absence of tumor secretion of prolactin.\n\n### 9.5.2.3 Symptoms Related\n\n\n\n### to Co-existing Pituitary Deficiencies\n\nOligomenorrhea or primary amenorrhea may occur when the tumor impacts the secretion of gonadotropins or when there is associated hyperoprolactinemia causing hypogonadism. Adrenal insufficiency and central hypothy roidism may be present and need to be ruled out. Diabetes insipidus is rarely seen at pre sentation.\n\n### 9.5.3.1 Biochemical Testing\n\n5 Insulin-like growth factor-1 (IGF-1) level:\n\nThis is the initial screening test for anyone in whom GH excess is suspected. IGF-1 is a composite measure of basal GH secre tion [19] and has a log-linear relationship with cumulative GH levels [20]. IGF-1 lev els should be interpreted in the context of age and Tanner stage. These levels can be altered (typically lowered) with malnutri\n\nAssociated features\n\nParathyroid, anterior pituitary, and pancreatic neuroendocrine tumors; other tumors may also be seen\n\nParathyroid, anterior pituitary, testicular, cervical, thyroid, adrenal, and renal tumors Parathyroid, pheochromocytomas, and pituitary adenomas\n\nAt least two members of the same family with pituitary tumor\n\nFibrous dysplasia, cafe-au-lait spots, precocious puberty; sometimes hyperthyroid ism or hypercortisolemia\n\nSkin pigmentation, cardiac myxomas, Cushing’s syndrome with pigmented nodular adrenocortical disease (PPNAD)\n\nMedian onset of gigantism is early, about 12 months [16]\n\nMost cases are familial\n\n9.2\n\n\n### Automatic table extraction — verify rendered original\n\n|Syndrome|Gene|Associated features|\n|---|---|---|\n|Multiple endocrine neoplasia<br>type 1 (MEN 1)|_MENIN_|Parathyroid, anterior pituitary, and pancreatic<br>neuroendocrine tumors; other tumors may<br>also be seen|\n|Multiple endocrine neoplasia<br>type 4 (MEN 4) [14]<br>Multiple endocrine neoplasia<br>type 5 [15]|Cyclin-dependent kinase<br>inhibitor (_CDKN1B_)<br>MYC-associated factor<br>X (MAX)|Parathyroid, anterior pituitary, testicular,<br>cervical, thyroid, adrenal, and renal tumors<br>Parathyroid, pheochromocytomas, and<br>pituitary adenomas|\n|Familial isolated pituitary<br>adenoma (FIPA)|Aryl hydrocarbon<br>receptor-interacting<br>protein (_AIP_)|At least two members of the same family with<br>pituitary tumor|\n|McCune-Albright syndrome|_GNAS1_|Fibrous dysplasia, cafe-au-lait spots,<br>precocious puberty; sometimes hyperthyroid­<br>ism or hypercortisolemia|\n|Carney complex|_PPKAR1A_|Skin pigmentation, cardiac myxomas,<br>Cushing’s syndrome with pigmented nodular<br>adrenocortical disease (PPNAD)|\n|X-linked acrogigantism<br>(X-LAG)|_GPR101_|Median onset of gigantism is early, about<br>12months [16]|\n|Paraganglioma, pheochromocy­<br>toma, and pituitary adenoma<br>association (3PA)|Succinate dehydrogenase<br>(_SDH A-D_)|Most cases are familial|\n\n\n\n[Original table](../../tables/ch009_p0264_1.jpg)\n\n\n## PDF page 265 | printed page 250\n\ntion, hypothyroidism, hepatic or renal dys function, or oral estrogen use. An elevated IGF-1 level in the setting of normal GH levels should be followed carefully as this may be evidence of early GH excess [21]. There is significant interassay variability in IGF-1 quantification, and the same assay should be used over time when monitoring a given patient. 5 Insulin-like Growth Factor Binding Pro\n\ntein 3 (IGFBP-3) level: Studies suggest that IGFBP-3 is a sensitive marker of somatotroph function, and the levels are concordant with glucose-induced GH sup pression and with IGF-I levels [22]. 5 Random GH level: The use of random\n\nGH level to diagnose GH excess is not reli able as GH secretion is pulsatile in both normal and adenomatous pituitaries. 5 Oral glucose challenge test to assess GH\n\n### 9\n\nsuppression: This is considered the gold standard for the diagnosis of GH excess. This test assesses the ability of a glucose load to suppress GH levels. After adminis tration of a 1.75 g/kg (maximum of 75 g) oral glucose load, there is an increase in insulin secretion, which leads to a decrease in IGFBP-1 levels, thereby causing an ele vation in free IGF-1 levels. This should lead to suppression of GH in 30–120 min. A nadir GH level (determined by sensitive radioimmunoassay) of higher than 1 mcg/L is considered suggestive of GH excess [23]. GH suppression is affected by age, sex, BMI status, and the presence of diabetes. 5 Visual field testing: This is recommended\n\nin all patients in whom radiographic imag ing suggests compression of the optic chi asm by an enlarged pituitary gland, and should be periodically monitored. Occa sionally impingement of the cranial nerves in the cavernous sinus can also lead to visual defects. 5 Radiologic investigation: Pituitary MRI is\n\nrecommended to determine tumor size, location, and invasiveness. We recommend an MRI using the pituitary protocol, i.e., 2 mm slices to get a detailed look at the pituitary and for increased sensitivity in\n\ndetecting microadenomas. Computed tomography is acceptable where MRI is not available. The former has the advan tage of detecting calcifications in patients with a large sellar/suprasellar mass, which may represent a craniopharyngioma rather than a pituitary adenoma.\n\n### 9.5.3.2 Evaluating Comorbidities\n\n5 Hormone evaluation for other pituitary\n\nhormones should be undertaken. Prolac tin, thyroid hormone, and 8 AM cortisol levels should be checked. 5 Diabetes mellitus should be ruled out.\n\n5 A sleep study must be considered, espe\n\ncially if there are symptoms of snoring and daytime somnolence. 5 Cardiac valvular heart disease (particu\n\nlarly left-sided), hypertrophic cardiomy opathy, and endothelial dysfunction are seen in older patients with GH excess. They are rarely seen in a young population but must be ruled out if there are any con cerning signs and symptoms as this could also increase operative risk.\n\n### 9.5.4 Treatment\n\nThe goal of the treatment is to (a) remove or shrink the tumor, (b) normalize GH secretion and IGF-1 levels while preserving pituitary function to avoid long-term complications, and (c) decrease the morbidity and mortality associated with GH excess. As with most pitu itary tumors, younger age at presentation is associated with more aggressive tumors [24]. Giant GH-secreting pituitary tumors are invasive and need a multimodal treatment approach to control GH excess and tumor growth [25]. Surgery is the mainstay of ther apy, but adjuvant medical and radiation ther apy are often needed. There is debate in the literature about the relative importance of normalization of the IGF-1 level versus nadir GH levels after glucose suppression in pre dicting better outcomes [26–28]. Of note, much of the data come from older patients with acromegaly and should be interpreted\n\n\n## PDF page 266 | printed page 251\n\nwith that in mind. Most of the medications do not have the Food and Drug Administration’s (FDA) approval for use in children and ado lescents under 18 years of age.\n\n### 9.5.4.1 Medical Therapy\n\nMedical therapy is sometimes used preopera tively to reduce IGF-1 levels and for tumor shrinkage for better surgical outcomes. It is also needed postoperatively for biochemical control if remission does not occur with surgi cal and radiation therapy.\n\n### Somatostatin Analogs (SSTA)\n\nThere are two analogs available in the mar ket—long-acting release octreotide (LAR) given intramuscularly and lanreotide depot/ autogel given subcutaneously. They have a greater affinity for somatostatin type 2 (sst2) and type 5 (sst5) receptors found in the pan creas, pituitary gland, and GH-secreting neo plasms of the pituitary gland, and a lesser affinity for somatostatin receptors 1, 3, and 4. Both preparations are equally effective at reducing IGF-1 levels [29].\n\nPasireotide is another somatostatin analog with enhanced binding to more somatostatin receptors. Pasireotide binds to somatostatin receptors (sst1–5), with high affinity for the sst1, sst2, and sst3 subtypes and the highest affinity for the sst5 subtype. Its diverse receptor bind ing allows for its use in both Cushing’s disease and conditions of GH excess. In vitro studies suggest similar decreases in GH levels with first-generation SSTAs and pasireotide [30].\n\nThe response to SSTA correlates with the expression of sst2 receptors [31], but receptor expression is not routinely assessed clinically. Smaller tumors, lower baseline IGF-1, and densely granulated tumors which appear hypointense on T2-weighted MRI images show a better response to SSRA [32, 33]. IGF-1 normalization is achieved in both drug naive and postoperative patients in about 20–35% of patients, and about 50% reduction in tumor volume is obtained in about 59% of patients [34, 35].\n\nDosing and Side Effects Lanreotide depot (starting dose of 60–120 mg every 4 weeks depending on IGF-1 level) and\n\nlong-acting octreotide (10–40 mg every 4 weeks) should be slowly titrated up until a normal IGF-1 level is attained. Abdominal cramps, flatulence, and diarrhea can be severe leading to discontinuation of treatment in some individuals, but the medications are typ ically well tolerated. Since the medications are depot preparations and these side effects can be severe, a trial of a short-acting preparation may be used to establish tolerance before starting treatment with the long-acting prepa ration. These medications can also be associated with gallstone disease, which is usually seen in the first few years of treatment. Long-acting pasireotide is also available and can be used at a dose of 20–60 mg every 4 weeks. Pasireotide may cause hyperglycemia as it inhibits insulin secretion in more than half of all patients [36]. Pasireotide may be effective in some patients uncontrolled on lan reotide [37, 38]. Delayed-release oral octreo tide capsules are available for long-term maintenance treatment in those who responded to and tolerated octreotide or lan reotide [39].\n\n### Dopamine Agonists\n\nDopamine agonists are usually used alone (for mild IGF-1 elevations) or in conjunction with an SSTA, and the combination may be effective in lowering the IGF-1 level further [40]. The response to dopamine agonists is independent of the baseline prolactin levels or histochemical staining of the tumor for pro lactin [41, 42]. The efficacy of cabergoline appears to decrease with its prolonged use [42]. The valvular side effects associated with cumulative cabergoline use do not seem to be exaggerated in patients with GH excess [43].\n\n### Growth Hormone Receptor Antagonist (Pegvisomant)\n\nPegvisomant is a GH receptor antagonist that blocks the peripheral production of IGF-1 in a dose-dependent manner. As pegvisomant does not inhibit GH secretion, GH levels con tinue to be elevated during pegvisomant administration. The medication can lead to an increase in adenoma size and radiological monitoring should be considered [44–46]. The\n\n\n## PDF page 267 | printed page 252\n\ncombination of pegvisomant with an SSTA and dopamine agonist is more effective than either drug used alone [47]. Pegvisomant is administered as daily subcutaneous injec tions, which may have an impact on adherence to therapy. Common side effects include local discomfort and lipohypertrophy. Elevations in transaminases are seen in a very small subset of patients, and the medication should be withheld if the elevation is greater than three times the upper limit of the normal range [48]. Liver function tests should be checked monthly for the first 6 months after initiating pegvisomant and then every 6 months if toler ated well. Acrostudy, which has 10-year fol low-up data, showed that three-quarter of patients achieve biochemical control with pegvisomant and it may improve glucose metabolism in those with diabetes mellitus [49, 50].\n\n### 9\n\n### 9.5.4.2 Surgical Therapy\n\nThis is the treatment of choice for small as well as large tumors that are resectable and those that pose a risk of visual loss. The cure rate depends on the size of the tumor and the expertise of the surgeon [51]. When operated in a center with a high volume of surgery by one or more experienced pituitary surgeons, the initial remission rate for microadenomas can be more than 85% and almost 50% for macroadenomas [52]. Tumor invasion into the cavernous sinus decreases the remission rate [53]. There is an immediate lowering of GH levels with successful surgery; however, the decline in IGF-1 may sometimes be delayed due to the differential half-life of its binding proteins. Hence, the IGF-1 level assessed about 12 weeks after surgery may be a better reflection of surgical success than an earlier level [54, 55].\n\n### 9.5.4.3 Radiation Therapy\n\nThis serves as adjuvant therapy when there is a residual tumor after surgery. Radiotherapy leads to a decrease in tumor size and reduces IGF-1 concentrations in the majority of patients [56]. However, radiation effects may take a few years to manifest, and hence this is\n\nused in situations where both surgery and medical therapy are not effective in treating the condition, and not as a primary therapy [57]. Stereotactic radiotherapy aims to deliver radiation in a more precise manner and may have fewer complications [58]. The increased availability and use of proton beam radiation therapy allow for more targeted delivery of radiation to the tumor with less radiation scatter and hence fewer side effects of radia tion. Patients who receive radiation should be monitored for other pituitary deficiencies, which may evolve over the next decade.\n\n### 9.5.5 Outcomes and Possible\n\n### Complications\n\nMany of the complications associated with long-term exposure to GH excess are not wit nessed by pediatric endocrinologists. However, there is increased morbidity and mortality associated with this disorder in adults.\n\n### 9.5.5.1 Cure and Remission\n\nData regarding the cure rate after surgery (not needing medical therapy) are difficult to inter pret due to the variable duration of follow-up and different biochemical cut-offs used to define cure. The early remission rate after sur gery is about 80% in microadenomas and less than 50% with macroadenomas [59, 60]. About 40% of patients who achieve remission postoperatively have normal GH levels 16 years after surgery [60].\n\n### 9.5.5.2 Mortality\n\nMortality with prolonged GH excess is higher than in the general population [61]. The main cause of mortality a decade ago was cardiovascular mortality; however, more neoplastic processes contributing to mortal ity have been reported in recent years [62, 63]. Mortality is also linked to higher GH and IGF-1 levels at the end of life [63]. With the advent of better medical therapies, the pro portion of patients with biochemically con trolled disease has increased leading to improved outcomes [64].\n\n\n## PDF page 268 | printed page 253\n\n### 9.5.5.3 Panhypopituitarism\n\nThis may result from residual tumor compres sion, surgical, and/or radiation treatment. This needs monitoring at least on an annual basis, or earlier in case of symptoms sugges tive of pituitary hormone deficiencies.\n\n### 9.5.5.4 Cardiovascular\n\nGH excess is associated with cardiomyopa thy—biventricular hypertrophy, hypertension, valvulopathies, and endothelial dysfunction [65]. Hypertension is seen in almost half of the patients [66]. Reversal of the cardiac defects can be achieved with appropriate bio chemical control and is dependent on patient age, disease duration, and other metabolic comorbidities [67].\n\n### 9.5.5.5 Respiratory and Sleep\n\n### Disorders\n\nThe anatomical changes in soft tissues, mucosa, lymphoid tissue, and the skeleton including tongue swelling, rib cage deformity, and changes in lung volume and elasticity can result in disordered sleep and decreased respi ratory reserve. Sleep apnea may persist after recovery from GH excess, and hence polysom nography should be considered in high-risk patients with overweight and diabetes [68].\n\n### 9.5.5.6 Glucose Metabolism\n\nAbnormalities in glucose metabolism can range from impaired glucose tolerance to impaired fasting glucose to frank diabetes, and the prevalence is higher than that seen in the general population [69]. Chronic GH excess leads to insulin resistance at the hepatic and peripheral tissue levels (muscle and adi pose tissue) [70]. Some therapies, particularly\n\nCase Study\n\nA 15-year-old girl presented with coarse facial features and tall stature. A review of her growth charts revealed that her height percentiles trended upward after the age of 8 years (when she was still prepubertal). She did not report any headaches, nausea, or vision complaints\n\npasireotide, are known to worsen glucose tol erance. Hyperglycemia may persist even after GH excess is cured [71].\n\n### 9.5.5.7 Bone Outcomes\n\nThere is increased recognition of the higher prevalence of vertebral fractures in patients with GH excess, which correlates with disease activity [72]. More research is necessary to predict fracture risk in this population, which happens in the setting of normal bone min eral density [73].\n\n### 9.5.5.8 Neoplasia\n\nBenign and malignant neoplasms are more common in GH excess patients compared to an age-matched population. Colonic polyps are the most common type of tumor seen with GH excess [74]. There is a fivefold increased risk of thyroid cancer [75]. The increased risk of colon, breast, and prostate cancer in acro megaly as compared to the general population is currently a matter of debate [76–78]. While some groups think that acromegaly increases the risk of these neoplasms, others doubt this supposition as cancer-related mortality is lower in acromegaly compared with the gen eral population [79, 80]. Nonetheless, until proven otherwise, systematic screening for a neoplastic disease is advised in older patients.\n\n### 9.5.5.9 Quality of Life (QoL)\n\nQoL is impaired in patients with GH excess despite improvement in the disease state. However, biochemical control is shown to improve QoL [81]. Other factors, including obesity, depression, fatigue, and metabolic complications, should be taken into account when addressing QoL in this population.\n\nand did not have obvious mucosal or skin lesions or renal calculi. She was still premenar cheal but thought that she started breast devel opment about 5 years ago. She required CPAP at night for sleep apnea and reported decreased exercise tolerance. Her maternal grandmother\n\n\n## PDF page 269 | printed page 254\n\ndied from “brain cancer” and further details could not be retrieved. There was no history of tall stature in the family. Her midparental height was 165 cm (5 ft 5 in.).\n\n5 Anthropometry: Height, 191.3 cm (75.3 in.;\n\n+4.27 SD); weight, 85.3 kg (188 lb; +2.03 SD); and US/LS ratio, 1.06 (appropriate for age). Vitals were normal. 5 Pertinent examination findings: She was a\n\ntall girl with coarse facial features who looked very different from her mother. There were no skin or mucosal findings. She had no organomegaly or joint laxity. Visual field examination on confrontation was normal. She was Tanner stage 5 on breast examination. 5 Biochemical testing: TSH 1.20 uU/mL\n\n(0.40–5.00), free T4 1.0 ng/dL (0.9–1.8), FSH 2.4 IU/L, LH 0.2 IU/L, estradiol <20 pg/mL, ACTH 25 pg/mL (6–76), AM cortisol 4.2 mcg/dL, prolactin 22.3 ng/mL (0.1–23.3), IGF-1846 ng/mL (218–659 for age and Tanner stage, Z-score 3.2), and HGBA1C 5.50%. 5 An oral glucose tolerance test was per\n\n### 9\n\nformed and showed a nadir GH level of 35.9 ng/mL. She passed her cosyntropin stimulation test. 5 Imaging: MRI of the pituitary revealed a\n\nsellar/suprasellar mass lesion measuring up to 39 × 42 × 44 mm with bilateral cavern ous sinus invasion. The optic chiasm was compressed and displaced along the anter osuperior aspect of the mass. There was encasement of the cavernous internal carotid arteries bilaterally. 5 Visual field testing: She had a significant\n\ntemporal defect in the left eye with good visual acuity and no afferent pupillary defect.\n\nWhat Is the Next Step in Management?\n\nShe was started on a somatostatin analog (lan reotide) to attempt tumor shrinkage for better surgical outcome, and closely monitored for visual deterioration. Surgical resection was per\n\nformed 2 months after the start of lanreotide treatment. Her IGF-1 level continued to be elevated following surgery.\n\nDue to her family history of “brain cancer,” we sent genetic testing for AIP and MENIN genes, both of which were negative.\n\nWhat Additional Therapy Would You Consider?\n\nShe was started on cabergoline at a dose of 0.25 mg biweekly and an oral contraceptive (OCP). She also received radiation for the residual tumor and persistently elevated IGF-1 levels (in the 700 s) (normal range 218–659 ng/ mL for age and Tanner stage). Her cabergoline dose was further increased to 0.5 mg every other day, and her IGF-1 level finally normal ized.\n\nOver the course of the next 6 months, her mother reported that the patient had episodes of increased rage and crying, and she started getting in trouble with her teachers at school. She also developed extreme fatigue and sleepi ness during the day and was awake at night. This was very debilitating and led to her miss ing a lot of school.\n\nWhat Other Investigations or Medication Changes Would You Consider?\n\n5 Tests to rule out hypopituitarism: She sub\n\nsequently developed central hypothyroid ism and secondary adrenal insufficiency and was placed on appropriate supplemen tation. 5 Tests for sleep apnea and depression: Both\n\nwere ruled out. She discontinued CPAP at night and reported that her snoring had decreased markedly. She did not appear sad to her mother or her friends. 5 Cabergoline dose was decreased: Emo\n\ntional liability, anger, and sleep distur bances are occasionally seen with cabergoline, particularly in this age group. Her rage episodes improved after reducing the cabergoline dose.\n\n\n## PDF page 270 | printed page 255\n\n5 She was referred to a sleep specialist who\n\nhad to sit down instantly were suggestive of loss of motor tone associated with narco lepsy. There are some reports of narcolepsy after radiation treatment. She was started on a stimulant, and her symptoms of fatigue improved with improved sleep.\n\ndiagnosed her with narcolepsy clinically, which was confirmed by a multiple sleep latency test (MSLT).\n\nHer reports of episodes of sudden feel ing that she could not walk anymore and\n\n### 9.6 Summary\n\n2. What is the most likely genetic diagnosis\n\n5 Tall stature is a rare presentation in a pedi\n\natric endocrinologist’s practice because of societal acceptability of tallness; girls pres ent earlier than boys. 5 There are many conditions and syndromes\n\nthat lead to overgrowth pre- and postna tally; familial tall stature is the most com mon of these conditions. 5 The most common cause of GH excess is\n\npituitary oversecretion of GH from a tumor or hyperplasia, which can be associ ated with other syndromes or occur in iso lation. 5 Most GH-secreting tumors at a young age\n\nare macroadenomas and are difficult to cure. Surgery is the mainstay of therapy. 5 Management requires a multifaceted\n\n3. A 17-year-old male with GH excess\n\napproach of surgery, medications, and radiation therapy to keep IGF-1 levels in the normal range. 5 There are numerous advances in medical\n\ntreatments available to treat GH excess in adults, and these are used in combination or as monotherapy, depending on patient tolerability and situation. 5 There is significant assay variability in\n\nv Answers\n\nIGF-1 measurements, and the same assay should thus be used in monitoring treat ment in a given patient.\n\n1. B 2. C 3. D\n\nReview Questions\n\n### References\n\n1. What is the most common cause of\n\nGH excess in adolescents? A. Hypothalamic hamartoma B. Somatotropinoma C. McCune-Albright syndrome D. Idiopathic\n\n1. Martinelli CE, Keogh JM, Greenfield JR, Henning\n\nE, van der Klaauw AA, Blackwood A, et al. Obesity due to melanocortin 4 receptor (MC4R) deficiency is associated with increased linear growth and final height, fasting hyperinsulinemia,\n\nin the following scenario?\n\nAn 18-month-old girl presents with an accelerated height velocity of 8 cm/ year, and her current height is 4 SD above the mean for the population. Her parents report that she crossed height percentiles before she turned 6 months old. She has widely spaced teeth, and her MRI reveals a large macroadenoma and high levels of IGF-1. A. GNAS mutation B. Imprinting on chromosome 15p C. Microduplication on chromosome\n\nXq D. Triple X chromosome\n\nhad a transsphenoidal resection of a macroadenoma that has infiltrated the cavernous sinus and is currently on lanreotide every 3 weeks and cabergo line biweekly. His IGF-1 continues to be elevated. What is the next best step? A. Initiate pasireotide B. Repeat TSS C. Initiate testosterone D. Initiate pegvisomant\n\n\n## PDF page 271 | printed page 256\n\nand incompletely suppressed growth hormone secretion. J Clin Endocrinol Metab. 2011;96(1):E181–8. 2. de Waal WJ, Greyn-Fokker MH, Stijnen T, van\n\n14. Thakker RV. Multiple endocrine neoplasia type 1\n\n15. Seabrook AJ, et al. Multiple endocrine tumors\n\nGurp EA, Toolens AM, de Munick Keizer- Schrama SM, et al. Accuracy of final height pre diction and effect of growth-reductive therapy in 362 constitutionally tall children. J Clin Endocrinol Metab. 1996;81(3):1206–16. 3. Upners EN, Juul A. Evaluation and phenotypic\n\n16. Trivellin G, Daly AF, Faucz FR, Yuan B,\n\ncharacteristics of 293 Danish girls with tall stature: effects of oral administration of natural 17betaestradiol. Pediatr Res. 2016;80(5):693–701. 4. Venn A, Bruinsma F, Werther G, Pyett P, Baird D,\n\n17. Lavrentaki A, Paluzzi A, Wass JA, Karavitaki\n\nJones P, et al. Oestrogen treatment to reduce the adult height of tall girls: long-term effects on fer tility. Lancet. 2004;364(9444):1513–8. 5. Hendriks AE, Laven JS, Valkenburg O, Fong SL,\n\n18. Rostomyan L, Daly AF, Petrossians P, Nachev E,\n\nFauser BC, de Ridder MA, et al. Fertility and ovarian function in high-dose estrogen-treated tall women. J Clin Endocrinol Metab. 2011;96(4):1098–105. 6. Benyi E, Kieler H, Linder M, Ritzen M, Carlstedt-\n\n19. Faje AT, Barkan AL. Basal, but not pulsatile,\n\nDuke J, Tuvemo T, et al. Risks of malignant and non-malignant tumours in tall women treated with high-dose oestrogen during adolescence. Horm Res Paediatr. 2014;82(2):89–96. 7. Reinehr T, Gueldensupp M, Wunsch R, Bramswig\n\n### 9\n\n20. Barkan AL, Beitins IZ, Kelch RP. Plasma insulin-\n\nJH. Treatment of tall stature in boys: comparison of two different treatment regimens. Horm Res Paediatr. 2011;76(5):343–7. 8. Odink RJ, Gerver WJ, Heeg M, Rouwe CW, van\n\n21. Dimaraki EV, Jaffe CA, DeMott-Friberg R,\n\nWaarde WM, Sauer PJ. Reduction of excessive height in boys by bilateral percutaneous epiphysio desis around the knee. Eur J Pediatr. 2006;165(1):50–4. 9. Benyi E, Berner M, Bjernekull I, Boman A,\n\n22. Grinspoon S, Clemmons D, Swearingen B,\n\nChrysis D, Nilsson O, et al. Efficacy and safety of percutaneous epiphysiodesis operation around the knee to reduce adult height in extremely tall ado lescent girls and boys. Int J Pediatr Endocrinol. 2010;2010:740629. 10. Manski TJ, Haworth CS, Duval-Arnould BJ,\n\n23. Costa AC, Rossi A, Martinelli CE Jr, Machado\n\nRushing EJ. Optic pathway glioma infiltrating into somatostatinergic pathways in a young boy with gigantism. Case report. J Neurosurg. 1994;81(4):595–600. 11. Pandey P, Ojha BK, Mahapatra AK. Pediatric\n\n24. Cazabat L, Libe R, Perlemoine K, Rene-Corail F,\n\npituitary adenoma: a series of 42 patients. J Clin Neurosci. 2005;12(2):124–7. 12. Cannavo S, Venturino M, Curto L, De Menis E,\n\nD’Arrigo C, Tita P, et al. Clinical presentation and outcome of pituitary adenomas in teenagers. Clin Endocrinol. 2003;58(4):519–27. 13. Burton T, Le Nestour E, Neary M, Ludlam\n\n25. Shimon I, Jallad RS, Fleseriu M, Yedinak CG,\n\nWH. Incidence and prevalence of acromegaly in a large US health plan database. Pituitary. 2016;19(3):262–7.\n\n(MEN1) and type 4 (MEN4). Mol Cell Endocrinol. 2014;386(1–2):2–15.\n\nassociated with germline MAX mutations: multi ple endocrine neoplasia type 5? J Clin Endocrinol Metab. 2021;106(4):1163–82.\n\nRostomyan L, Larco DO, et al. Gigantism and acromegaly due to Xq26 microduplications and GPR101 mutation. N Engl J Med. 2014;371(25):2363–74.\n\nN. Epidemiology of acromegaly: review of popula tion studies. Pituitary. 2017;20(1):4–9.\n\nLila AR, Lecoq AL, et al. Clinical and genetic characterization of pituitary gigantism: an inter national collaborative study in 208 patients. Endocr Relat Cancer. 2015;22(5):745–57.\n\ngrowth hormone secretion determines the ambient circulating levels of insulin-like growth factor-I. J Clin Endocrinol Metab. 2010;95(5):2486–91.\n\nlike growth factor-I/somatomedin-C in acromeg aly: correlation with the degree of growth hormone hypersecretion. J Clin Endocrinol Metab. 1988;67(1):69–73.\n\nChandler WF, Barkan AL. Acromegaly with apparently normal GH secretion: implications for diagnosis and follow-up. J Clin Endocrinol Metab. 2002;87(8):3537–42.\n\nKlibanski A. Serum insulin-like growth factorbinding protein-3 levels in the diagnosis of acro megaly. J Clin Endocrinol Metab. 1995;80(3):927–32.\n\nHR, Moreira AC. Assessment of disease activity in treated acromegalic patients using a sensitive GH assay: should we achieve strict normal GH levels for a biochemical cure? J Clin Endocrinol Metab. 2002;87(7):3142–7.\n\nBurnichon N, Gimenez-Roqueplo AP, et al. Germline inactivating mutations of the aryl hydro carbon receptor-interacting protein gene in a large cohort of sporadic acromegaly: mutations are found in a subset of young patients with macroad enomas. Eur J Endocrinol/Eur Fed Endocr Soc. 2007;157(1):1–8.\n\nGreenman Y, Bronstein MD. Giant GH-secreting pituitary adenomas: management of rare and aggressive pituitary tumors. Eur J Endocrinol/Eur Fed Endocr Soc. 2015;172(6):707–13.\n\n\n## PDF page 272 | printed page 257\n\n26. Biermasz NR, Dekker FW, Pereira AM, van Thiel\n\nSW, Schutte PJ, van Dulken H, et al. Determinants of survival in treated acromegaly in a single center: predictive value of serial insulin-like growth factor I measurements. J Clin Endocrinol Metab. 2004;89(6):2789–96. 27. Holdaway IM, Rajasoorya RC, Gamble GD. Factors influencing mortality in acromegaly. J Clin Endocrinol Metab. 2004;89(2):667–74. 28. Sherlock M, Reulen RC, Aragon-Alonso A, Ayuk\n\n38. Gadelha M, et al. Evaluation of the efficacy and\n\n39. Samson SL, et al. Maintenance of acromegaly\n\nJ, Clayton RN, Sheppard MC, et al. A paradigm shift in the monitoring of patients with acromeg aly: last available growth hormone may overesti mate risk. J Clin Endocrinol Metab. 2014;99(2):478–85. 29. Murray RD, Melmed S. A critical analysis of clini\n\n40. Sandret L, Maison P, Chanson P. Place of cabergo\n\n41. Abs R, Verhelst J, Maiter D, Van Acker K, Nobels\n\ncally available somatostatin analog formulations for therapy of acromegaly. J Clin Endocrinol Metab. 2008;93(8):2957–68. 30. Gatto F, Feelders RA, Franck SE, van Koetsveld\n\n42. Freda PU, Reyes CM, Nuruzzaman AT, Sundeen\n\nPM, Dogan F, Kros JM, et al. In vitro head-tohead comparison between octreotide and pasireo tide in GH-secreting pituitary adenomas. J Clin Endocrinol Metab. 2017;102(6):2009–18. 31. Ezzat S, Kontogeorgos G, Redelmeier DA,\n\n43. Maione L, Garcia C, Bouchachi A, Kallel N,\n\nHorvath E, Harris AG, Kovacs K. In vivo respon siveness of morphological variants of growth hor mone-producing pituitary adenomas to octreotide. Eur J Endocrinol/Eur Fed Endocr Soc. 1995;133(6):686–90. 32. Puig-Domingo M, Resmini E, Gomez-Anson B,\n\n44. Marazuela M, Paniagua AE, Gahete MD, Lucas T,\n\nNicolau J, Mora M, Palomera E, et al. Magnetic resonance imaging as a predictor of response to somatostatin analogs in acromegaly after surgical failure. J Clin Endocrinol Metab. 2010;95(11):4973–8. 33. Bhayana S, Booth GL, Asa SL, Kovacs K, Ezzat\n\n45. Rix M, Laurberg P, Hoejberg AS, Brock-Jacobsen\n\nS. The implication of somatotroph adenoma phe notype to somatostatin analog responsiveness in acromegaly. J Clin Endocrinol Metab. 2005;90(11):6290–5. 34. Mercado M, Borges F, Bouterfa H, Chang TC,\n\n46. Buhk JH, Jung S, Psychogios MN, Goricke S,\n\nChervin A, Farrall AJ, et al. A prospective, multi centre study to investigate the efficacy, safety and tolerability of octreotide LAR (long-acting repeat able octreotide) in the primary therapy of patients with acromegaly. Clin Endocrinol. 2007;66(6):859–68. 35. Giustina A, Mazziotti G, Torri V, Spinello M,\n\n47. Neggers SJ, de Herder WW, Feelders RA, van der\n\nFloriani I, Melmed S. Meta-analysis on the effects of octreotide on tumor mass in acromegaly. PLoS One. 2012;7(5):e36411. 36. Colao A, Bronstein MD, Freda P, Gu F, Shen CC,\n\n48. van der Lely AJ, Biller BM, Brue T, Buchfelder\n\nGadelha M, et al. Pasireotide versus octreotide in acromegaly: a head-to-head superiority study. J Clin Endocrinol Metab. 2014;99(3):791–9. 37. Gadelha MR, et al. Pasireotide versus continued\n\n49. Buchfelder M, et al. Long-term treatment with\n\ntreatment with octreotide or lanreotide in patients with inadequately controlled acromegaly\n\n(PAOLA): a randomised, phase 3 trial. Lancet Diabetes Endocrinol. 2014;2(11):875–84.\n\nsafety of switching to pasireotide in patients with acromegaly inadequately controlled with firstgeneration somatostatin analogs. Front Endocrinol (Lausanne). 2019;10:931.\n\ncontrol in patients switching from injectable soma tostatin receptor ligands to oral octreotide. J Clin Endocrinol Metab. 2020;105(10):e3785–97.\n\nline in acromegaly: a meta-analysis. J Clin Endocrinol Metab. 2011;96(5):1327–35.\n\nF, Coolens JL, et al. Cabergoline in the treatment of acromegaly: a study in 64 patients. J Clin Endocrinol Metab. 1998;83(2):374–8.\n\nRE, Khandji AG, Post KD. Cabergoline therapy of growth hormone & growth hormone/prolactin secreting pituitary tumors. Pituitary. 2004;7(1):21–30.\n\nMaison P, Salenave S, et al. No evidence of a detri mental effect of cabergoline therapy on cardiac valves in patients with acromegaly. J Clin Endocrinol Metab. 2012;97(9):E1714–9.\n\nAlvarez-Escola C, Manzanares R, et al. Somatotroph tumor progression during pegviso mant therapy: a clinical and molecular study. J Clin Endocrinol Metab. 2011;96(2):E251–9.\n\nB. Pegvisomant therapy in pituitary gigantism: successful treatment in a 12-year-old girl. Eur J Endocrinol/Eur Fed Endocr Soc. 2005;153(2):195–201.\n\nHartz S, Schulz-Heise S, et al. Tumor volume of growth hormone-secreting pituitary adenomas during treatment with pegvisomant: a prospective multicenter study. J Clin Endocrinol Metab. 2010;95(2):552–8.\n\nLely AJ. Conversion of daily pegvisomant to weekly pegvisomant combined with long-acting somatostatin analogs, in controlled acromegaly patients. Pituitary. 2011;14(3):253–8.\n\nM, Ghigo E, Gomez R, et al. Long-term safety of pegvisomant in patients with acromegaly: com prehensive review of 1288 subjects in ACROSTUDY. J Clin Endocrinol Metab. 2012;97(5):1589–97.\n\npegvisomant: observations from 2090 acromegaly patients in ACROSTUDY. Eur J Endocrinol. 2018;179(6):419–27.\n\n\n## PDF page 273 | printed page 258\n\n50. Feola T, et al. Pegvisomant improves glucose\n\nmetabolism in acromegaly: a meta-analysis of pro spective interventional studies. J Clin Endocrinol Metab. 2019;104(7):2892–902. 51. McLaughlin N, Laws ER, Oyesiku NM, Katznelson L, Kelly DF. Pituitary centers of excel lence. Neurosurgery. 2012;71(5):916–24; discussion 24–6. 52. Jane JA Jr, Starke RM, Elzoghby MA, Reames\n\n64. Maione L, Brue T, Beckers A, Delemer B,\n\nDL, Payne SC, Thorner MO, et al. Endoscopic transsphenoidal surgery for acromegaly: remission using modern criteria, complications, and predic tors of outcome. J Clin Endocrinol Metab. 2011;96(9):2732–40. 53. Briceno V, Zaidi HA, Doucette JA, Onomichi KB,\n\n65. Clayton RN. Cardiovascular function in acromeg\n\n66. Colao A, Baldelli R, Marzullo P, Ferretti E, Ferone\n\nAlreshidi A, Mekary RA, et al. Efficacy of transs phenoidal surgery in achieving biochemical cure of growth hormone-secreting pituitary adenomas among patients with cavernous sinus invasion: a systematic review and meta-analysis. Neurol Res. 2017;39(5):387–98. 54. Zada G, Sivakumar W, Fishback D, Singer PA,\n\n67. Akutsu H, Kreutzer J, Wasmeier G, Ropers D,\n\nWeiss MH. Significance of postoperative fluid diuresis in patients undergoing transsphenoidal surgery for growth hormone-secreting pituitary adenomas. J Neurosurg. 2010;112(4):744–9. 55. Freda PU. Monitoring of acromegaly: what should\n\n68. Davi MV, Dalle Carbonare L, Giustina A, Ferrari\n\n### 9\n\nbe performed when GH and IGF-1 levels are dis crepant? Clin Endocrinol. 2009;71(2):166–70. 56. Molitch ME, Grossman AB. Pituitary radiother\n\n69. Colao A, Ferone D, Marzullo P, Lombardi\n\napy. Pituitary. 2009;12(1):1–2. 57. Minniti G, Jaffrain-Rea ML, Osti M, Esposito V,\n\nSantoro A, Solda F, et al. The long-term efficacy of conventional radiotherapy in patients with GHsecreting pituitary adenomas. Clin Endocrinol. 2005;62(2):210–6. 58. Gheorghiu ML. Updates in outcomes of stereotac\n\n70. Frara S, Maffezzoni F, Mazziotti G, Giustina\n\n71. Jonas C, Maiter D, Alexopoulou O. Evolution of\n\ntic radiation therapy in acromegaly. Pituitary. 2017;20(1):154–68. 59. Ross DA, Wilson CB. Results of transsphenoidal\n\nmicrosurgery for growth hormone-secreting pitu itary adenoma in a series of 214 patients. J Neurosurg. 1988;68(6):854–67. 60. Biermasz NR, van Dulken H, Roelfsema F. Long-\n\n72. Maffezzoni F, Maddalo M, Frara S, Mezzone M,\n\nterm follow-up results of postoperative radiother apy in 36 patients with acromegaly. J Clin Endocrinol Metab. 2000;85(7):2476–82. 61. Swearingen B, Barker FG 2nd, Katznelson L,\n\n73. Mazziotti G, Maffezzoni F, Frara S, Giustina\n\nBiller BM, Grinspoon S, Klibanski A, et al. Longterm mortality after transsphenoidal surgery and adjunctive therapy for acromegaly. J Clin Endocrinol Metab. 1998;83(10):3419–26. 62. Ritvonen E, Loyttyniemi E, Jaatinen P, Ebeling T,\n\n74. Wassenaar MJ, Cazemier M, Biermasz NR,\n\nMoilanen L, Nuutila P, et al. Mortality in acro megaly: a 20-year follow-up study. Endocr Relat Cancer. 2015;23(6):469–80. 63. Mercado M, Gonzalez B, Vargas G, Ramirez C, de\n\n75. Wolinski K, Stangierski A, Dyrda K, Nowicka K,\n\nlos Monteros AL, Sosa E, et al. Successful mortal ity reduction and control of comorbidities in\n\n76. Orme SM, McNally RJ, Cartwright RA, Belchetz\n\npatients with acromegaly followed at a highly spe cialized multidisciplinary clinic. J Clin Endocrinol Metab. 2014;99(12):4438–46.\n\nPetrossians P, Borson-Chazot F, et al. Changes in the management and comorbidities of acromegaly over three decades: the French Acromegaly Registry. Eur J Endocrinol/Eur Fed Endocr Soc. 2017;176(5):645–55.\n\naly. Endocr Rev. 2003;24(3):272–7.\n\nD, Gargiulo P, et al. Systemic hypertension and impaired glucose tolerance are independently cor related to the severity of the acromegalic cardio myopathy. J Clin Endocrinol Metab. 2000;85(1):193–9.\n\nRost C, Mohlig M, et al. Acromegaly per se does not increase the risk for coronary artery disease. Eur J Endocrinol/Eur Fed Endocr Soc. 2010;162(5):879–86.\n\nM, Frigo A, Lo Cascio V, et al. Sleep apnoea syn drome is highly prevalent in acromegaly and only partially reversible after biochemical control of the disease. Eur J Endocrinol/Eur Fed Endocr Soc. 2008;159(5):533–40.\n\nG. Systemic complications of acromegaly: epide miology, pathogenesis, and management. Endocr Rev. 2004;25(1):102–52.\n\nA. Current and emerging aspects of diabetes mel litus in acromegaly. Trends Endocrinol Metab. 2016;27(7):470–83.\n\nglucose tolerance after treatment of acromegaly: a study in 57 patients. Horm Metab Res. 2016;48(5):299–305.\n\nZorza I, Baruffaldi F, et al. High-resolution-cone beam tomography analysis of bone microarchitec ture in patients with acromegaly and radiological vertebral fractures. Endocrine. 2016;54(2):532–42.\n\nA. Acromegalic osteopathy. Pituitary. 2017;20(1):63–9.\n\nPereira AM, Roelfsema F, Smit JW, et al. Acromegaly is associated with an increased preva lence of colonic diverticula: a case-control study. J Clin Endocrinol Metab. 2010;95(5):2073–9.\n\nPelka M, Iqbal A, et al. Risk of malignant neo plasms in acromegaly: a case-control study. J Endocrinol Investig. 2017;40(3):319–22.\n\nPE. Mortality and cancer incidence in acromegaly:\n\n\n## PDF page 274 | printed page 259\n\na retrospective cohort study. United Kingdom Acromegaly Study Group. J Clin Endocrinol Metab. 1998;83(8):2730–4. 77. Petroff D, Tonjes A, Grussendorf M, Droste M,\n\n79. Jenkins PJ, Besser M. Clinical perspective: acro\n\n80. Melmed S. Acromegaly and cancer: not a problem?\n\nDimopoulou C, Stalla G, et al. The incidence of cancer among acromegaly patients: results from the German Acromegaly Registry. J Clin Endocrinol Metab. 2015;100(10):3894–902. 78. Tirosh A, Shimon I. Complications of acromegaly:\n\n81. Geraedts VJ, Andela CD, Stalla GK, Pereira AM,\n\nthyroid and colon. Pituitary. 2017;20(1):70–5.\n\nmegaly and cancer: a problem. J Clin Endocrinol Metab. 2001;86(7):2935–41.\n\nJ Clin Endocrinol Metab. 2001;86(7):2929–34.\n\nvan Furth WR, Sievers C, et al. Predictors of qual ity of life in acromegaly: no consensus on bio chemical parameters. Front Endocrinol (Lausanne). 2017;8:40.\n"
+}

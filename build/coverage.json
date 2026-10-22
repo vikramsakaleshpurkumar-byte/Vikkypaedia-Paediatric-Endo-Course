@@ -1,0 +1,494 @@
+[
+  {
+    "num": 1,
+    "title": "Childhood Growth Hormone Deficiency and Hypopituitarism",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 2,
+    "title": "Growth Hormone Insensitivity",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 3,
+    "title": "Normal Variant and Idiopathic Short Stature",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 4,
+    "title": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 5,
+    "title": "Growth Hormone Therapy in Children with Prader–Willi Syndrome",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 6,
+    "title": "Growth Hormone Therapy in Children with Turner Syndrome, Noonan Syndrome, and SHOX Gene Mutations",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 7,
+    "title": "Management of Adults with Childhood-Onset Growth Hormone Deficiency",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 8,
+    "title": "Skeletal Dysplasias",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 9,
+    "title": "Growth Hormone Excess and Other Conditions of Overgrowth",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 10,
+    "title": "Adrenal Insufficiency",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 11,
+    "title": "Congenital Adrenal Hyperplasia",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 12,
+    "title": "Cushing Syndrome in Childhood",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 13,
+    "title": "Mineralocorticoid Disorders and Endocrine Hypertension",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 14,
+    "title": "Congenital Hypothyroidism",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 15,
+    "title": "Autoimmune Thyroid Disease",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 16,
+    "title": "Non-thyroidal Illness Syndrome",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 17,
+    "title": "Resistance to Thyroid Hormone (RTH) and Resistance to TSH (RTSH)",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 18,
+    "title": "Thyroid Neoplasia",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 19,
+    "title": "Abnormalities in Calcium Homeostasis",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 20,
+    "title": "Disorders of Phosphate Homeostasis",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 21,
+    "title": "Rickets: The Skeletal Disorders of Impaired Calcium or Phosphate Availability",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 22,
+    "title": "Pseudohypoparathyroidism",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 23,
+    "title": "The Management of Osteoporosis in Children",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 24,
+    "title": "Delayed Puberty Onset and Hypogonadism",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 25,
+    "title": "Precocious Puberty",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 26,
+    "title": "Management of Infants Born with Disorders/Differences of Sex Development",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 27,
+    "title": "Menstrual Disorders and Hyperandrogenism in Adolescence",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 28,
+    "title": "Hyperprolactinemia",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 29,
+    "title": "Hypoglycemia",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 30,
+    "title": "Type 1 Diabetes in Children and Adolescents",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 31,
+    "title": "Type 2 Diabetes Mellitus in Youth",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 32,
+    "title": "Disorders of Lipid Metabolism",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 33,
+    "title": "Endocrinologic Sequelae of Anorexia Nervosa and Obesity",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 34,
+    "title": "Diabetes Insipidus: Arginine Vasopressin Deficiency and Arginine Vasopressin Resistance",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 35,
+    "title": "Autoimmune Endocrine Disorders",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 36,
+    "title": "Multiple Endocrine Neoplasia and Familial Isolated Pituitary Adenoma in the Paediatric Population",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 37,
+    "title": "McCune-Albright Syndrome",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 38,
+    "title": "Management of Acute and Late Endocrine Effects of Childhood Cancer Treatment",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 39,
+    "title": "Care of Transgender and Gender Diverse Youth",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 40,
+    "title": "Management of Endocrine Emergencies",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  },
+  {
+    "num": 41,
+    "title": "The Endocrine Response to Critical Illness",
+    "cards": 7,
+    "authored_mcqs": 5,
+    "automated_mcqs": 0,
+    "gap": false,
+    "gap_reason": "Study tools remain incomplete; inspect chapter evidence.",
+    "review_statuses": {
+      "source-checked": 12
+    }
+  }
+]

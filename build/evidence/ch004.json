@@ -1,0 +1,2478 @@
+{
+  "num": 4,
+  "source_label": "4",
+  "title": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+  "start": 112,
+  "group": "I: Pediatric Growth Disorders",
+  "columns": 2,
+  "end": 135,
+  "printed_start": 95,
+  "page_views": [
+    {
+      "path": "tables/ch004_page0116.jpg",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "path": "tables/ch004_page0120.jpg",
+      "pdf_page": 120,
+      "printed_page": 103
+    }
+  ],
+  "pdf_start": 112,
+  "pdf_end": 135,
+  "pages": [
+    112,
+    113,
+    114,
+    115,
+    116,
+    117,
+    118,
+    119,
+    120,
+    121,
+    122,
+    123,
+    124,
+    125,
+    126,
+    127,
+    128,
+    129,
+    130,
+    131,
+    132,
+    133,
+    134,
+    135
+  ],
+  "printed_end": 118,
+  "paragraphs": [
+    {
+      "text": "Debora Braslavsky and Steven D. Chernausek",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "Contents",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.1 Introduction – 96",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.2 Etiology – 98",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.3 Clinical Presentation – 100",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.4 Diagnostic Evaluation – 100",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.5 Treatment – 104",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.6 Outcomes – 108",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.7 Safety – 109",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "4.8 Summary – 111",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "References – 112",
+      "heading": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "pdf_page": 112,
+      "printed_page": 95
+    },
+    {
+      "text": "Intrauterine growth retardation (IUGR) is a pathologic condition where fetal growth is restrained by either extrinsic (maternal) fac tors or a disorder intrinsic to the fetus itself. Each year upwards of 30 million infants are born following IUGR worldwide [1]; rates are especially high in developing countries because of poor nutrition and limited prena tal care. This is a significant problem because of the morbidity that accompanies IUGR. Complications in the immediate post partum period include hypoglycemia, necro tizing enterocolitis, and persistence of the fetal circulation, to name a few [2]. Moreover, the first-year survival rate is substantially reduced in infants who have experienced IUGR [3, 4].",
+      "heading": "4.1 Introduction",
+      "pdf_page": 113,
+      "printed_page": 96
+    },
+    {
+      "text": "There are long-term sequelae of IUGR as well [5]. Affected children may have poor school performance and attenuated intellec tual development [6, 7]. There is evidence that intrauterine nutrient deprivation leads to obe sity, insulin resistance, and hyperlipidemia",
+      "heading": "4.1 Introduction",
+      "pdf_page": 113,
+      "printed_page": 96
+    },
+    {
+      "text": "later in life, an effect thought to be due to in utero “programming” of metabolic status [8, 9]. Postnatal growth is also affected adversely [10, 11]. Somewhere between 10% and 40% of children born following IUGR remain growth-retarded in childhood [12, 13]. Many never reach normal adult size [14]. The effect of IUGR on subsequent growth and its ame lioration by growth hormone (GH) therapy are the focus of this chapter.",
+      "heading": "4.1 Introduction",
+      "pdf_page": 113,
+      "printed_page": 96
+    },
+    {
+      "text": "The percentage of newborns said to have had IUGR depends on the definition applied but generally is around 3% in the United States and 10% in developing countries. It is important to consider definitions used to define IUGR as they have some bearing on the interpretation of published reports [15]. Intrauterine growth retardation (or intrauter ine growth restriction) is a failure to grow at a normal rate in the in utero environment. Sequential measurements of fetal size in utero are becoming increasingly common and now allow IUGR to be documented with greater precision and the phase of pregnancy during which the growth aberration occurred defined [16]. The more commonly used term is small for gestational age (SGA), which is simply a statistical threshold defining low birth weight at the calculated gestational age. Typical lines of demarcation are −2 SDs or <3rd percen tile. Though newborns who fall below this are assumed to have had a period of IUGR, in some cases they simply represent the end of the normal spectrum of birth size. Similarly, infants may have experienced IUGR, espe cially in the last trimester, but have a birth weight that surpasses the minimal standards. These newborns may have other features of IUGR such as decreased subcutaneous tissue and hypoglycemia.",
+      "heading": "4.1 Introduction",
+      "pdf_page": 113,
+      "printed_page": 96
+    },
+    {
+      "text": "The growth rate of a human is greatest during the prenatal period with a linear growth veloc ity of up to 60 cm/year, making this period",
+      "heading": "4.1.1 Normal Fetal Growth",
+      "pdf_page": 113,
+      "printed_page": 96
+    },
+    {
+      "text": "especially vulnerable to factors that affect the regulation of growth [17, 18]. Fetal growth is determined by a complex interaction of maternal, placental, and fetal factors involv ing genetic, epigenetic, and hormonal path ways. Epigenetic mechanisms are of particular interest as they control the function of the genome by regulating gene expression without altering the DNA nucleotide sequence. Epigenetic modifications are heritable at the cell level and influenced by the environment, thus providing a mechanism by which the pre natal environment may “program” the off spring to develop altered metabolic states such as obesity or diabetes [19]. Given the essential role of (epi)genetics and nutrition in",
+      "heading": "4.1.1 Normal Fetal Growth",
+      "pdf_page": 114,
+      "printed_page": 97
+    },
+    {
+      "text": "fetal growth and development, it is not sur prising that pathogenic variants in genes involved in cell division or differentiation can negatively affect fetal growth and may explain the absence of postnatal catch-up growth in some cases [20, 21]. Gene clusters involved in growth and regulated by epigenetic mecha nisms are found in chromosomal regions 11p.15.5, 7p11.2, 15q11-q13, 14q32, and 20q13.32 [22].",
+      "heading": "4.1.1 Normal Fetal Growth",
+      "pdf_page": 114,
+      "printed_page": 97
+    },
+    {
+      "text": "4.1",
+      "heading": "4.1.1 Normal Fetal Growth",
+      "pdf_page": 114,
+      "printed_page": 97
+    },
+    {
+      "text": "23",
+      "heading": "4.1.1 Normal Fetal Growth",
+      "pdf_page": 114,
+      "printed_page": 97
+    },
+    {
+      "text": "insulin secretion increases in response to fetal glycemia, acting mainly in the third trimester when fetal weight velocity peaks. The placenta produces both IGF1 and IGF2, which are secreted into the fetal circulation. The pla centa also expresses multiple IGFBPs, influ encing the bioavailability of IGFs in the fetus [21]. IGF1 and IGF2 can compensate, at least partially, for deficiency of each other [24–27]. The growth-promoting effects of the IGFs are principally mediated by the type I or IGF1 receptor, a homolog of the insulin receptor [26]. The IGF2 “receptor,” in contrast, serves as a clearance mechanism of IGF2 and thereby modulates tissue IGF2 abundance [28, 29]. During fetal life, the IGF system operates largely independently of GH, which has little influence on body size before birth in humans. Thereafter the influence of IGF2 declines, and IGF1, under the control of GH, becomes the dominant growth regulator of postnatal life. However, at midgestation a GH variant (GHV) secreted by the placenta appears in the maternal circulation. GHV stimulates lipolysis and gluconeogenesis, increases maternal blood glucose, which passes through the placenta to the fetus. GHV also stimulates the synthesis of maternal IGF- 1, which is able to cross the placental barrier.",
+      "heading": "4.1.1 Normal Fetal Growth",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "The etiologies of IUGR are as varied as those for postnatal short stature but typically fall into one of three classes. Maternal factors that lead to IUGR include deprivation of oxy gen or nutrients (severe maternal malnutri tion, multiple gestation, cigarette smoking, and high-altitude living), infection (CMV, toxoplasmosis, and AIDS), and toxins (alco hol). Placental deficiency due to suboptimal",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "implantation site, placental undergrowth, infarction, or vascular anomalies such as vela mentous cord insertion and placental heman giomas can also lead to IUGR. Factors intrinsic to the fetus constitute the final clas sification and are exemplified by chromosome aneuploidy (Turner syndrome, trisomy 13 and 18) and specific genetic defects (for a review see Finken et al. [21]).",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "A deficiency of insulin secretion (such as that which occurs in pancreatic agenesis) or action (e.g., insulin receptor deficiency/lepre chaunism) severely impairs fetal growth and is a rare cause of IUGR [30]. More common fetal insults that produce IUGR are hypoxia and nutrient deprivation. Restriction of oxy gen or nutrients results in adaptive responses by the fetus which tend to preserve organ dif ferentiation and maturation at the expense of physical growth and energy stores (i.e., fat and glycogen). The insulin-like growth factor (IGF) axis is intimately involved in these adaptive responses.",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "31",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "4.1",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "52",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "32 53 38 53",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "54 56",
+      "heading": "4.2 Etiology",
+      "pdf_page": 115,
+      "printed_page": 98
+    },
+    {
+      "text": "Gene(s) Disorder Major clinical features Comments References",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "IGF1 [38, 39]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "Very rare [32–34]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "IGF2 Silver-Russell syndrome Severe pre- and postnatal growth failure Epigenetic variation at imprinted locus [35–37]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "[41–43]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "INS Congenital diabetes Fetal growth retardation, diabetes mellitus 10% of permanent neonatal DM [40]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "[44]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "Paternal isodisomy or DNA methylation",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "variable CNS abnormalities Variable increases in circulating levels of",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "CNS disease in some KCNJ11 mutations",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "transient or permanent 40% of permanent neonatal DM",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "mellitus 70% of transient neonatal DM",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "Activating mutations",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "defect",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "abnormality Congenital diabetes Fetal growth retardation, transient diabetes",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "(KATP channel) Congenital diabetes Fetal growth retardation, diabetes mellitus,",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "IGF1 Short stature Severe pre- and postnatal growth failure,",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "receptor) Short stature Severe pre- and postnatal growth failure,",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "microcephaly, deafness, carbohydrate",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "intolerance",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "Chromosome 6 ICR",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "KCNJ11, ABCC8",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "IGF1R (IGF1",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "moderate to severe insulin resistance Treatment with rhIGF1 may be beneficial [45, 46]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "roidism, hypogonadism, and malignancy [48, 49]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "PTF1A, IPF1 Pancreatic agenesis Fetal growth retardation, diabetes mellitus Cerebellar involvement with PTF1A [47]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "BLM Bloom syndrome Severe pre- and postnatal growth failure Increased risk for neoplasms [50]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "bone age and midface hypoplasia Early-onset osteoarthritis [51]",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "absent thumb/radius Associated with GH deficiency, hypothy",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "Fetal growth retardation, diabetes mellitus,",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "ACAN Short stature Variable growth phenotype with advanced",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "FANC A-M Fanconi syndrome Severe pre- and postnatal growth failure,",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "syndrome, Rabson-Mendenhall",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "receptor) Donohue (leprechaun)",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "syndrome",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "INSR (insulin",
+      "heading": "4.2 Etiology",
+      "pdf_page": 116,
+      "printed_page": 99
+    },
+    {
+      "text": "ably expected to be helpful [60]. There are important reasons for establishing a diagno sis; however, it should be emphasized that in many cases it is impossible to ascertain the precise cause of prenatal growth failure [21]. Since this chapter deals primarily with the use of rhGH in augmenting growth in such chil dren, the diagnostic discussion is directed toward determining whether rhGH therapy is warranted. The diagnostic approach is framed under several relevant questions. 1. Does the patient have a disorder that limits",
+      "heading": "4.3 Clinical Presentation",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "After birth, most SGA newborns increase their growth velocity substantially and approx imately 85% eventually catch up in height [12, 57, 58]. However, there is a relationship between birth weight and stature that is main tained for several years during childhood, with patients being born especially small and remaining short on the average [14, 59].",
+      "heading": "4.3 Clinical Presentation",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "Patients generally present to the endocri nologist in one of two ways. The first is imme diately following birth when categorized as SGA. The questions that arise at this time relate to potential causes of IUGR and whether the patient will have normal growth thereafter. The extent of the evaluation will depend on the severity of growth retardation, the existence of concurrent medical condi tions or dysmorphic features, and whether the cause of IUGR is evident.",
+      "heading": "4",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "A more common presentation is that of the short child between the ages of 3 and 8 years. The child was born with a low birth weight and was expected to “catch up.” However, catch-up never occurred, and the child has had the same relative degree of short stature for many years. That is, when plotted on the growth chart, the trajectory seems to parallel the norm, just three to five SDS below average. The child has been otherwise healthy, and parents are concerned that the short stat ure will become increasingly problematic as the patient ages. They wonder whether any thing can be done to improve stature. It is not always evident that the persistent small size is related to a growth disorder that began prior to birth. Only by reviewing the birth weight and history of pregnancy and delivery does this information come to light.",
+      "heading": "4",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "2. Is the cause of IUGR obvious?",
+      "heading": "4",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "The causes of growth failure are many, as are the tests that can be applied to such patients. One should consider the likely possibilities and apply the diagnostic tests that are reason",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "both pre- and postnatal growth?",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "Certain common endocrine disorders, such as hypothyroidism and GH defi ciency, have the most pronounced effects on postnatal growth. Even when the con dition is congenital, most are born within the normal range for length and weight. Thus, these diagnoses are usually elimi nated when prenatal growth restriction is prominent. The same applies to common, acquired causes of growth failure such as celiac disease. Patients who are born SGA without dysmorphic features and show catch-up growth during the first year do not require further evaluation. Patients being evaluated for IUGR who are still in the first few months of life should simply be tracked in terms of growth if they have no dysmorphic features, malformations, or suspicious symptoms. Most patients des tined to catch up will demonstrate increased growth velocity during the first 6 months of life and will have caught up by the end of the first year [12, 61, 62]. Patients who have shown no evidence of improved growth following birth need fur ther evaluation.",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "A careful history and physical exami nation can be very helpful in explaining IUGR. Maternal hypertension and poor weight gain during pregnancy suggest a maternal factor. Dysmorphic features in the baby imply that a syndrome associated with IUGR is present. Useful diagnostic tests for evaluating patients with IUGR",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 117,
+      "printed_page": 100
+    },
+    {
+      "text": "are listed in Box 4.1. A karyotype is par ticularly important for females because Turner syndrome is typically accompanied by mild prenatal growth restriction some times without the characteristic pheno type. Patients with dysmorphic features should have karyotyping as well or be con sidered for other specialized genetic tests with further evaluation by a geneticist/dys morphologist. It is particularly important to recognize Bloom and Fanconi syn dromes, recessive disorders associated with severe IUGR, and poor postnatal growth. These patients have increased chromo somal breakage and usually develop malignancies later in childhood. For these reasons, rhGH therapy may be contraindi cated. The diagnosis of Bloom syndrome is often suspected with routine chromo some studies in which there is increased chromosome breakage and formation of triradial chromosomes. Confirmation requires direct gene analysis.",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 118,
+      "printed_page": 101
+    },
+    {
+      "text": "Assessment of renal function is required because mild forms of renal dys plasia can produce IUGR and moderate postnatal growth failure that is otherwise not evident. These patients may manifest oligohydramnios as a clue to the diagnosis. 3. Why has the patient not shown catch-up",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 118,
+      "printed_page": 101
+    },
+    {
+      "text": "growth?",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 118,
+      "printed_page": 101
+    },
+    {
+      "text": "If more were known about the mecha nisms involved in catch-up growth, it would be easier to explain why, in certain cases, it does not occur. In some situations, the fetal growth retardation may have been so severe and the cellular mass at birth is so low that the overall somatic size is ulti mately restricted. Even with the normal ization of nutritional and hormonal factors, simply restoring normal growth (body size doubling at normal intervals) still leaves a person small relative to the peers. In other cases, patients do not reach normal size following birth because of the persistence of a defect in growth regula tion or cellular growth and replication. From a practical point of view, it is impor",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 118,
+      "printed_page": 101
+    },
+    {
+      "text": "tant to consider that catch-up growth may be impaired in patients whose nutritional status is compromised. A careful dietary history and review by a nutritionist can be helpful and is especially indicated in a patient with low weight for height.",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 118,
+      "printed_page": 101
+    },
+    {
+      "text": "Abnormalities in the GH/IGF axis clearly explain the lack of catch-up in patients with molecular defects in IGF1, IGF2, and IGF1R. However, changes in the secretion and action of GH and the IGFs are also involved in the broader pop ulation of affected patients. Circulating concentrations of IGF-I tend to be rela tively low at birth in children born SGA and remain suppressed in those with poor catch-up [63]. Though the absence of GH clearly cannot explain their prenatal growth retardation, studies by Boguszewski et al. [64] and de Waal et al. [65] have sug gested that there is an increased incidence of low GH secretion in patients with short stature following IUGR. These data imply that reduced pituitary GH secretion con tributes to relatively poor postnatal growth in some cases. However, the ability of indi ces of GH secretion to predict response to GH therapy for this group of patients is not clear. Earlier reports suggested that low overnight GH concentrations or low IGF1 concentrations were associated with an improved response [66, 67], whereas later reports, examining greater numbers, found no predictive value in these mea sures [68–70]. However, such studies fre quently differ in the patient selection (e.g., severity of IUGR and short stature), the dosing of rhGH, and the tests of GH release. Studies that examine larger num bers of patients only slightly SGA likely include a significant proportion that does not necessarily have disorders of prenatal growth and/or have differing etiologies from those patients who are −4 to −5 SD below average for birth size. In addition, large doses of rhGH administered could obscure underlying differences in sensitiv ity to GH.",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 118,
+      "printed_page": 101
+    },
+    {
+      "text": "There is also evidence that short SGA children may have relative resistance to IGF1 [71]. Cutfield et al. [72] showed that circulating concentrations of IGF1, while lower than normal in short SGA children, were higher than those with idiopathic short stature of the same age. Chatelain et al. [73] demonstrated that short SGA children required higher circulating con centrations of IGF1 during GH treatment to achieve growth rates equal to children with GH deficiency or familial short stat ure treated with GH.",
+      "heading": "4.4 Diagnostic Evaluation",
+      "pdf_page": 119,
+      "printed_page": 102
+    },
+    {
+      "text": "Most patients do not meet the bio chemical criteria for classic GH deficiency or other known endocrine disorders. Thus, the most likely explanation for their poor postnatal growth is the persistence of a problem intrinsic to the fetus. There may be a specific genetic defect that continues to limit growth, or the early growth restric tion has, in some way, reprogrammed the growth regulating system so that the child remains small. The evidence above sug gests that the reprogramming involves alterations in the GH/IGF axis that result in a situation analogous to that seen with type 2 diabetes mellitus. Type 2 diabetes is characterized by insulin resistance cou pled with reduced insulin secretion. Thus, the short child born SGA could be thought of as having “type 2 growth deficiency,” where there are inadequate circulating lev els of IGF1 in the face of relative IGF resistance.",
+      "heading": "4",
+      "pdf_page": 119,
+      "printed_page": 102
+    },
+    {
+      "text": "4.2",
+      "heading": "4",
+      "pdf_page": 119,
+      "printed_page": 102
+    },
+    {
+      "text": "51",
+      "heading": "4",
+      "pdf_page": 119,
+      "printed_page": 102
+    },
+    {
+      "text": "75",
+      "heading": "4",
+      "pdf_page": 119,
+      "printed_page": 102
+    },
+    {
+      "text": "74 76",
+      "heading": "4",
+      "pdf_page": 119,
+      "printed_page": 102
+    },
+    {
+      "text": "77",
+      "heading": "4",
+      "pdf_page": 119,
+      "printed_page": 102
+    },
+    {
+      "text": "21 37",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "21 51 74",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "20 74 76",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "65",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "32 34 38 39 50",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "74",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "20 21 74",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "37",
+      "heading": "4",
+      "pdf_page": 120,
+      "printed_page": 103
+    },
+    {
+      "text": "4.2",
+      "heading": "4",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "The main goals of rhGH treatment of the short children born SGA are to improve height during childhood and to achieve a final height adequate for the appropriate popula tion. As previously described, primary distur bances of GH/IGF are uncommon explanations for the lack of catch-up growth",
+      "heading": "4",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "(2001)",
+      "heading": "FDA",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Consensus statement (2023)",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "SGA defined Not defined",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Birth weight or length <−2 SD",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Birth weight or length <−2 SD",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Earliest age at start (years)",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "2 4 3–4 years",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "≤−2.0 ≤−2.5",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Height at start SDS",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Growth velocity No catch-up",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "<0 SDS No catch-up",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "<−1.0 SDS",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Reference to midparental height",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Not defined",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Doses 70 μg/kg/ day",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "35 μg/kg/day (1 mg/m2/day)",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "33–67 μg/kg/day",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Data are from somatropin package insert for the United States, from report 3478/03 by the Committee for Proprietary Medicinal Products of the EMEA from Hokken-Koelega et al. [74], Boguszewski et al. [78], and Tanaka et al. [79] SGA small for gestational age, SDS standard deviation score, Pc percentile",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "in children born IUGR. Why then would one expect rhGH treatment to benefit patients with short stature associated with IUGR? The most straightforward answer is that rhGH administered at pharmacological dosages stimulates the GH/IGFs system sufficiently to overcome whatever cellular condition has not allowed the expected catch-up growth to restore age-appropriate size.",
+      "heading": "EMEA (2003)",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "80 82",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "83",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "84",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Japan (2007)",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Consensus Latin- America (2011)",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Birth weight or length <−2 SD",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "3 2",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "≤−2.5 ≤−2.0",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "<0 SDS <25 Pc",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Not defined",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "Not defined",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 121,
+      "printed_page": 104
+    },
+    {
+      "text": "However, the doses employed were modest by today’s standards, being similar to those given to patients with GH deficiency at the time. Subsequent studies showed clearly that rhGH stimulates growth in short children born SGA and that such growth can be sustained for sev eral years [85] increasing adult height ( Fig. 4.3). Meaningful gains require a dose higher than typical for GH deficiency over several years of treatment. Overall, an increase of about 2 SDS in height over the height SDS at treatment initiation can be expected when rhGH is given for 5 years or more [70]. However, the outcome is significantly influ enced by the timing of puberty. Catch-up growth that yields a normal height for age and sex before starting puberty is required to achieve the expected final height. Only modest gains in SDS occur in the absence of treat ment or when treatment starts close to puber tal onset [87, 88].",
+      "heading": "4.5.1 Effects on Skeletal Growth",
+      "pdf_page": 122,
+      "printed_page": 105
+    },
+    {
+      "text": "Treatment should be limited to those patients in whom short stature is at least moderately severe (<2.0 SDS) and where there is little",
+      "heading": "Therapy",
+      "pdf_page": 122,
+      "printed_page": 105
+    },
+    {
+      "text": "expectation of meaningful catch-up growth over the next several years. If significant catch-up is going to occur, it is usually evident during the first year of life. Since growth pat terns can be variable, careful measures over at least 6 months (preferably 12) should be per formed to assess underlying growth velocity in all patients prior to treatment. Patients born at term that present after age 2 with persistent short stature typically have a growth rate in the low-normal range and are unlikely to show substantial improvement in height SDS over the next several years. For preterm SGA, the expected age for catch-up growth is 3 years of age.",
+      "heading": "Therapy",
+      "pdf_page": 122,
+      "printed_page": 105
+    },
+    {
+      "text": "Assessment of final height prognosis with a bone age measurement is not generally use ful in selecting those most likely to benefit from rhGH treatment. As most patients are quite young and may have underlying patho logical conditions, the prediction is usually inaccurate and overestimates final height [89].",
+      "heading": "Therapy",
+      "pdf_page": 122,
+      "printed_page": 105
+    },
+    {
+      "text": "Since younger patients respond better, treatment can be initiated once it is clear that the growth velocity is insufficient to normalize height. Patients in mid-childhood would likely benefit as well, but those well into puberty are at a disadvantage because of the limited time before epiphyseal fusion [87].",
+      "heading": "Therapy",
+      "pdf_page": 122,
+      "printed_page": 105
+    },
+    {
+      "text": "Few studies evaluate the growth response of patients with specific genetic syndromes in numbers sufficient to assess efficacy, with the exception is SRS. These patients, although typically shorter than the average SGA patient, show a growth response to rhGH equivalent to the nonsyndromic [90]. For other syndromic patients, in the absence of data to the contrary, it is reasonable to con sider that rhGH may also be effective and evaluate the response in each case.",
+      "heading": "Therapy",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "Measures of GH secretion, though fre quently performed, do not appear to predict growth response and are not recommended unless the growth velocity is persistently reduced and signs of GH deficiency or hypo pituitarism are present [74]. The authors’ approach is to measure circulating IGF1 and IGFBP-3 and only perform tests of GH release if these parameters are subnormal or there are other reasons to suspect pituitary involvement. If the IGFs and measures of GH release are all low, this suggests a lack of GH is limiting the skeletal growth and the need for supplementation clear. Aboveaverage concentrations of IGF1 may signify IGF insensitivity in a child with both pre- and postnatal growth failure [33, 38, 39]. The diag nosis of GH deficiency should not alter the decision to treat, but IGF1 insensitivity will blunt the response. The purpose of studying GH/IGF1 axis is to individualize the clinical management of the patients.",
+      "heading": "4",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "74",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "92",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "93 94",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "86",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "4.4",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "Periodic assessment of circulating IGF1 during rhGH therapy is recommended for patients receiving rhGH to evaluate adher ence to treatment and as a safety approach. Doses of rhGH that produce supranormal circulating levels of IGF1 raise concerns regarding increased risk of severe adverse events, in particular risk of malignancies. The theory is reasonable, but unproven by the best-quality information available [95, 96]. In",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 123,
+      "printed_page": 106
+    },
+    {
+      "text": "addition, the measurement of IGF1 in the cir culation is affected by multiple factors that may complicate the interpretation [97].",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 124,
+      "printed_page": 107
+    },
+    {
+      "text": "For short children born SGA, IGF1 levels may appear to be in the hazardous range while receiving rhGH, but it is possible that a degree of IGF1 resistance plays a role in growth limi tation. In that circumstance, raising IGF1 concentrations above normal might be needed, especially if the growth response is less than that desired [98]. Furthermore, the range of IGF1 blood levels is very wide among normal children suggesting varied sensitivity of individuals to IGF1 or that circulating IGF1 is a poor reflection of signal strength at the cellular level. In fact, titrating GH dose by circulating IGF1 in hopes of optimizing treat ment appears less effective than the standard dosing strategy [99, 100]. Clearly, more work needs to be done to define how biomarkers of GH action can be used in the selection of therapeutic regimens for patients [101]. In the meantime, a reasonable approach is to use rhGH in the dose ranges as outlined above, with adjustments to achieve growth rates yielding catch-up growth when the patient is below the 5th percentile for height and pre scribe rhGH at doses that will maintain nor mal growth when the patient is solidly in the normal range for height. With this approach circulating IGF1 levels are often within the",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 124,
+      "printed_page": 107
+    },
+    {
+      "text": "upper normal range during the growth main tenance phase [102].",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 124,
+      "printed_page": 107
+    },
+    {
+      "text": "Short children born SGA may have reduced insulin sensitivity before the start of rhGH treatment [103]. Moreover, rhGH treat ment typically results in a further decrease in insulin sensitivity with a compensatory increase in insulin secretion due to the insulinantagonistic effects of GH [104–106]. However, rhGH therapy in short children born SGA rarely causes glucose intolerance or diabetes and metabolic parameters return to baseline or even improve following rhGH withdrawal [107]. Thus, there is no specific recommendation for monitoring glucose metabolism routinely except for patients with familial predisposition or obesity.",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 124,
+      "printed_page": 107
+    },
+    {
+      "text": "Monitoring adherence to the treatment regimen is essential. Poor adherence is one of the most common factors underlying subopti mal growth during rhGH therapy and should be actively evaluated and managed before considering other illnesses that can affect growth, unresponsiveness, or an increment of dose. Improving families’ adherence to rhGH treatment is required to achieve the expected efficacy and promote pharmacoeconomy [108, 109].",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 124,
+      "printed_page": 107
+    },
+    {
+      "text": "Patients should have re-evaluation at a minimum of 6 months intervals with careful history and physical examination, seeking",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 124,
+      "printed_page": 107
+    },
+    {
+      "text": "signs and symptoms of scoliosis, other ortho pedic abnormalities, intracranial hyperten sion, and assessment of growth response to therapy. It is worth performing a bone age around the age of 8 years and regularly from the onset of puberty onwards [80]. This method is inaccurate in predicting adult height in children born SGA [74].",
+      "heading": "4.5.3 rhGH Dosing and Monitoring",
+      "pdf_page": 125,
+      "printed_page": 108
+    },
+    {
+      "text": "As pubertal development has a great impact on final height, pubertal onset and progress need to be carefully monitored in SGA patients. The pattern of puberty in chil dren born SGA is heterogenous, with a sub group characterized by either early onset, shorter or earlier peak height velocity, and/or accelerated bone maturation [110, 111]. The combination of rhGH and gonadotropinreleasing hormone analog treatment in SGA children whose final height may be compro mised because of a significant growth deficit at the pubertal onset can be considered [112].",
+      "heading": "4",
+      "pdf_page": 125,
+      "printed_page": 108
+    },
+    {
+      "text": "85",
+      "heading": "4.6 Outcomes",
+      "pdf_page": 125,
+      "printed_page": 108
+    },
+    {
+      "text": "4.5",
+      "heading": "4.6 Outcomes",
+      "pdf_page": 125,
+      "printed_page": 108
+    },
+    {
+      "text": "Despite the known individual response to treatment, there are recognizable factors asso ciated with an improved outcome such as younger age and greater height at the start of treatment, height gain during the first year of treatment, longer duration of treatment, length at birth, higher parental height, and delayed bone age for chronological age. Moreover, the underlying etiology of SGA also impacts the response to the treatment [74].",
+      "heading": "4.6 Outcomes",
+      "pdf_page": 125,
+      "printed_page": 108
+    },
+    {
+      "text": "After two decades of follow up of SGA patients treated with rhGH, benefits of rhGH",
+      "heading": "4.6 Outcomes",
+      "pdf_page": 125,
+      "printed_page": 108
+    },
+    {
+      "text": "treatment beyond stature have been observed. There is an improvement in body composition (i.e., a decrease in fat mass and an increase in lean body mass) due to the lipolytic and ana bolic effects of GH [104, 114, 115]. Positive effects on bone are reported as well with incre ments in bone mineral density [116] reflecting the significant role of the GH–IGF1 axis in the accrual of bone mass. Additionally, longterm GH treatment improves psychosocial development and health-related quality of life in children and adolescents born SGA [117, 118].",
+      "heading": "4.6 Outcomes",
+      "pdf_page": 126,
+      "printed_page": 109
+    },
+    {
+      "text": "In summary, the efficacy of rhGH therapy is dependent upon making the correct diagno sis, starting treatment at an opportune time, administering the appropriate dose of rhGH, and maintaining patient adherence.",
+      "heading": "4.6 Outcomes",
+      "pdf_page": 126,
+      "printed_page": 109
+    },
+    {
+      "text": "An important issue facing a physician pre scribing any drug is the possibility of adverse effects. Safety issues during rhGH replace ment may be related to the substance itself, to the formulation of the drug (impurities and additives), or the result of the genuine (nor mal) effects (growth of bones or other tissues, and metabolic actions). They may be also due to inappropriate doses or a true incompatibil ity with the patient being treated [119]. After many years of rhGH treatment in a large number of children, it is evident that rhGH rarely causes serious morbidity [120]. However, the short children born SGA deserves special consideration. First, the dose of rhGH prescribed is higher than that used for GH deficiency, and second, this patient population may have unique susceptibilities to certain pharmacological properties of GH.",
+      "heading": "4.7 Safety",
+      "pdf_page": 126,
+      "printed_page": 109
+    },
+    {
+      "text": "Epidemiological and experimental data indicate that humans born SGA have an increased incidence of obesity and type 2 dia betes as adults, with the implication that a period of fetal undernutrition results in a resetting of intrinsic insulin sensitivity [121, 122]. Individuals who had IUGR show evi dence of decreased insulin sensitivity already as children [123]. Could increased levels of",
+      "heading": "4.7 Safety",
+      "pdf_page": 126,
+      "printed_page": 109
+    },
+    {
+      "text": "GH, which diminish insulin sensitivity, add to the risk of developing obesity, hyperlipidemia, and insulin resistance later in life? Thus far data from patients treated show only modest effects on basal insulin levels [124] and no clinically significant impact on glucose or lipid metabolism [114]. Moreover, measures of carbohydrate metabolism after the comple tion of rhGH treatment are no different in those treated compared to untreated adults born SGA. If anything, lipid profiles and blood pressure indices are better in those treated [125]. Nonetheless, the number of patients treated with the highest doses remains too few to detect uncommon, but significant, long-term sequelae.",
+      "heading": "4.7 Safety",
+      "pdf_page": 126,
+      "printed_page": 109
+    },
+    {
+      "text": "The known pro-proliferative, angiogenic, and anti-apoptotic properties of GH and IGF1 have raised concerns regarding a possi ble increased risk of malignancy [126, 127] though this has been difficult to quantify. Analyses of the risk of rhGH treatment in patients who developed GH deficiency as a consequence of tumor treatment do not sug gest a role for GH in the development of a relapse [127–129]. However, large epidemio logical studies find that the risks for prostate cancer [130] and breast cancer [131] are increased for people with serum IGF1 con centrations in the upper ranges of normal. The studies do not prove cause and effect, but tumor cells in culture frequently express IGF1 receptors and replicate in response to IGF1 [132]. This raises the question as to whether the high IGF1 levels that generally accom pany high-dose rhGH therapy might increase the risk for neoplasia over the long term. Thus, rhGH treatment is usually contraindi cated in children with cancer predisposition syndromes (e.g., Bloom syndrome, Li Fraumeni syndrome, Lynch syndrome, and Fanconi anemia). However, it may be cau tiously considered in those with proven GH deficiency and only after informed discussion with the patient and parents/guardians [127]. Despite the above concerns, review by interna tional pediatric endocrinology societies con clude that rhGH can be safely administered to children without known risk factors for malig nancy [74, 133].",
+      "heading": "4.7 Safety",
+      "pdf_page": 126,
+      "printed_page": 109
+    },
+    {
+      "text": "Most published studies of rhGH safety in children focused on short- or intermediateterm events. Only recently has it been possible to begin to assess late effects in adults who were treated with rhGH during childhood for nongrowth hormone-deficient conditions such as the short children born SGA. SAGhE (Safety and Appropriateness of Growth Hormone Treatments in Europe) is an ongo ing large, epidemiologic study (n = approx. 24,000, with more than 400,000 patient-years of follow-up) that examines long-term outcomes of treatment [134, 135]. Initial reports suggested that all-cause mortality and stroke were increased in adults treated with rhGH in childhood and that the risk may increase with higher doses, at least for mortal ity [136, 137]. However, the number of adverse events detected was very low, the appropriate ness of reference populations challenged, and results not yet confirmed. Thus, a recent, society-sponsored, position paper concluded “the aggregate evidence from available data sets does not support an association between ongoing or previous rhGH therapy and allcause mortality” [98].",
+      "heading": "4.7 Safety",
+      "pdf_page": 127,
+      "printed_page": 110
+    },
+    {
+      "text": "Savendahl et al. classified pediatric patients treated with rhGH into three risk groups based on diagnosis and considered the short children born SGA as a low-risk group. They analyzed individuals born SGA separately, showing that the risk of serious adverse effects is very low in individuals without predisposing risk factors, and there was no indication that rhGH therapy caused new malignancies or",
+      "heading": "4",
+      "pdf_page": 127,
+      "printed_page": 110
+    },
+    {
+      "text": "diabetes. On the contrary, short children born SGA with obesity, accelerated catch-up growth and/or familial diabetes are considered a subgroup with a higher risk of metabolic disorder in the long-term follow-up [134].",
+      "heading": "4",
+      "pdf_page": 127,
+      "printed_page": 110
+    },
+    {
+      "text": "Finally, additional complications described for rhGH therapy, include orthope dic problems such as scoliosis (inci dence—148/100,000) and slipped capital femoral epiphysis (15–19/100,000), especially in obese children and secondary intracranial hypertension (81/100,000) [138].",
+      "heading": "4",
+      "pdf_page": 127,
+      "printed_page": 110
+    },
+    {
+      "text": "Most patients without GH deficiency should cease rhGH treatment when near adult height is achieved, defined as growth velocity below 2 cm/year and/or bone maturation above 14 years in girls and 16 years in boys. The rationale for timely suspension lies in avoiding unnecessary exposure to rhGH when it no longer stimulates growth, preventing the occurrence of acromegaloid changes, and reducing cost. Treatment should be discontin ued or interrupted before adult height attain ment when the growth response is poor (height velocity <−1 SDS/age and sex), there is a severe adverse event, or a diagnosis is uncov ered with a high risk of malignancy [74].",
+      "heading": "4",
+      "pdf_page": 127,
+      "printed_page": 110
+    },
+    {
+      "text": "Presently there is no indication for con tinuing rhGH after epiphyseal closure. However, recent guidelines recommend that previously rhGH-treated young adults born SGA should maintain or adopt a healthy diet and lifestyle with regular exercise to avoid excessive weight gain in order to prevent met abolic and/or cardiovascular disease [74].",
+      "heading": "4",
+      "pdf_page": 127,
+      "printed_page": 110
+    },
+    {
+      "text": "There are many reasons why a child is born SGA; at least half the time, the cause is not evident. Nevertheless, 80–90% of the children will show improved growth after birth and reach heights in the normal range by age 2 years. For those that remain short, stature below the 3rd percentile is likely to persist. Growth hormone treatment is effective at stimulating growth and improving adult height and is generally safe. Tests of growth hormone",
+      "heading": "4.8 Summary",
+      "pdf_page": 128,
+      "printed_page": 111
+    },
+    {
+      "text": "secretion and action are typically not helpful in making specific diagnoses or predicting the response to treatment in this population. Careful monitoring during treatment and attention to appropriate dosing are important because responses are variable. Some patients will not respond sufficiently, and treatment is unlikely to benefit them. Advances in our abil ity to make specific diagnoses using molecular genetic techniques will likely improve our abil ity to establish causes of IUGR and determine appropriate treatment regimens.",
+      "heading": "4.8 Summary",
+      "pdf_page": 128,
+      "printed_page": 111
+    },
+    {
+      "text": "Review Questions",
+      "heading": "4.8 Summary",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "Consider the case study for the following questions. 1. Immediately following the birth of her",
+      "heading": "4.8 Summary",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "2. C. According to the guidelines [74],",
+      "heading": "4.8 Summary",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "child, the mother asks what are the chances that her small baby will grow and be “on the growth chart” by age 2 years. Which of the following best approximates the percentage of chil dren born SGA who show such catchup growth? A. 80% B. 40% C. 20% D. 10%",
+      "heading": "4.8 Summary",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "2. At age 3 years, growth hormone ther",
+      "heading": "4",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "apy is being considered. Which of the following tests should be performed at this time if not done previously? A. Sweat chloride B. Test of growth hormone release C. Karyotype D. Oral glucose tolerance test",
+      "heading": "4",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "3. D. The idea that the short child or an",
+      "heading": "4",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "3. GH treatment is initiated at age 3 years",
+      "heading": "4",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "at a weight-based dose of 33 μg/kg/day. Substantial catch-up growth occurred and at age 4 and 1⁄2, she is now at the 10th percentile for height. Which of the following represents the best approach to continued management?",
+      "heading": "4",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "A. Discontinue GH as she has now",
+      "heading": "4",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "reached a height in the normal range. B. Double the dose of GH to account",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "for the declining response expected after 2 years of therapy. C. Adjust GH dose to achieve a circu",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "lating IGF1 concentration that is within 1 standard deviation of the average for age and sex. D. Maintain the current regimen of",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "weight-based dosing with continu ing monitoring of growth response.",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "v Answers",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "1. A. Although results vary by study, all",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "find that the majority of straightfor ward cases of IUGR show catch-up growth in the first 2 years of life. The",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "largest study [12] indicated that 84% catch up by age 2.",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "Turner syndrome needs to be excluded in short SGA girls. Patients with growth failure due to cystic fibrosis (tested by sweat chloride) do not show prenatal growth retardation. Tests of growth hormone release are only indi cated when there is suspicion. In this case, it would appear that the fetal growth retardation was a result of pla cental compromise/competition. Although one might be concerned about changes in insulin sensitivity that occur in conjunction with being born SGA and which might be aggra vated by growth hormone treatment, specific diagnostic measures such as an OGTT are not recommended.",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "SGA would maintain a relative stature once in the normal range was dis proven scientifically [86]. The patient has responded well so there is no rea son to increase the dose which would exceed the label dose. IGF1-based dos ing has not proven advantageous in this condition.",
+      "heading": "References",
+      "pdf_page": 129,
+      "printed_page": 112
+    },
+    {
+      "text": "of nine MFMU network studies. Am J Perinatol. 2017;34(4):323–32. 5. Chernausek SD. Update: consequences of abnor",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "19. Gantenbein 20. Dauber 21. Finken MJJ, van der Steen M, Smeets CCJ,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "mal fetal growth. J Clin Endocrinol Metab. 2012;97(3):689–95. 6. Lindstrom L, Wikstrom AK, Bergman E,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Lundgren M. Born small for gestational age and poor school performance—how small is too small? Horm Res Paediatr. 2017;88(3–4):215–23. 7. Sacchi C, Marino C, Nosarti C, Vieno A, Visentin",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "S, Simonelli A. Association of intrauterine growth restriction and small for gestational age status with childhood cognitive outcomes: a sys tematic review and meta-analysis. JAMA Pediatr. 2020;174(8):772–81. 8. Netchine I, van der Steen M, Lopez-Bermejo A,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "22. Wit JM, Oostdijk W, Losekoot M, van",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Koledova E, Maghnie M. New horizons in short children born small for gestational age. Front Pediatr. 2021;9:655931. 9. Gatford KL, Simmons RA. Prenatal program",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "23. Netchine I, Azzi S, Le Bouc Y, Savage MO. IGF1",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "ming of insulin secretion in intrauterine growth restriction. Clin Obstet Gynecol. 2013;56(3):520–8. 10. Prendergast AJ, Humphrey JH. The stunting syn",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "24. Baker J, Liu JP, Robertson EJ, Efstratiadis",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "drome in developing countries. Paediatr Int Child Health. 2014;34(4):250–65. 11. Christian P, Lee SE, Donahue Angel M, Adair",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "25. DeChiara TM, Efstratiadis A, Robertson EJ. A",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "LS, Arifeen SE, Ashorn P, et al. Risk of child hood undernutrition related to small-forgestational age and preterm birth in low- and middle-income countries. Int J Epidemiol. 2013;42(5):1340–55. 12. Albertsson-Wikland K, Karlberg J. Natural",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "26. Liu JP, Baker J, Perkins AS, Robertson EJ,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "growth in children born small for gestational age with and without catch-up growth. Acta Paediatr Suppl. 1994;399:64–70; discussion 1. 13. Fitzhardinge PM, Steven EM. The small-for-date",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "27. Powell-Braxton L, Hollingshead P, Warburton C,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "infant. I. Later growth patterns. Pediatrics. 1972;49(5):671–81. 14. Leger J, Levy-Marchal C, Bloch J, Pinet A,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "28. Lau MM, Stewart CE, Liu Z, Bhatt H, Rotwein P,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Chevenne D, Porquet D, et al. Reduced final height and indications for insulin resistance in 20 year olds born small for gestational age: regional cohort study. BMJ. 1997;315(7104):341–7. 15. Beune IM, Bloomfield FH, Ganzevoort W,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "29. Wang ZQ, Fung MR, Barlow DP, Wagner",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Embleton ND, Rozance PJ, van Wassenaer- Leemhuis AG, et al. Consensus based definition of growth restriction in the newborn. J Pediatr. 2018;196:71–6.e1. 16. Sovio U, White IR, Dacey A, Pasupathy D, Smith",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "30. Fowden AL. Insulin deficiency: effects on fetal",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "GCS. Screening for fetal growth restriction with universal third trimester ultrasonography in nul liparous women in the Pregnancy Outcome Prediction (POP) study: a prospective cohort study. Lancet. 2015;386(10008):2089–97. 17. Jee YH, Baron J. The biology of stature. J Pediatr.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "31. Lupu F, Terwilliger JD, Lee K, Segre GV,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "32. Woods KA, Camacho-Hubner C, Savage MO,",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "2016;173:32–8. 18. Karlberg J. On the construction of the infancy-",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "childhood-puberty growth standard. Acta Paediatr Scand Suppl. 1989;356:26–37.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "KV, Kanaka-Gantenbein C. Highlighting the trajectory from intrauterine growth restriction to future obesity. Front Endocrinol (Lausanne). 2022;13:1041718. A, Rosenfeld RG, Hirschhorn JN. Genetic evaluation of short stature. J Clin Endocrinol Metab. 2014;99(9):3080–92.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Walenkamp MJE, de Bruin C, Hokken-Koelega ACS, et al. Children born small for gestational age: differential diagnosis, molecular genetic eval uation, and implications. Endocr Rev. 2018;39(6):851–94.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Duyvenvoorde HA, Ruivenkamp CA, Kant SG. Mechanisms in endocrinology: novel genetic causes of short stature. Eur J Endocrinol. 2016;174(4):R145–73.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "molecular anomalies demonstrate its critical role in fetal, postnatal growth and brain development. Best Pract Res Clin Endocrinol Metab. 2011;25(1):181–90.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "A. Role of insulin-like growth factors in embry onic and postnatal growth. Cell. 1993;75(1):73–82.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "growth-deficiency phenotype in heterozygous mice carrying an insulin-like growth factor II gene disrupted by targeting. Nature. 1990;345(6270):78–80.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Efstratiadis A. Mice carrying null mutations of the genes encoding insulin-like growth factor I (Igf-1) and type 1 IGF receptor (Igf1r). Cell. 1993;75(1):59–72.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Dowd M, Pitts-Meek S, Dalton D, et al. IGF-I is required for normal embryonic growth in mice. Genes Dev. 1993;7(12B):2609–17.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Stewart CL. Loss of the imprinted IGF2/cationindependent mannose 6-phosphate receptor results in fetal overgrowth and perinatal lethality. Genes Dev. 1994;8(24):2953–63.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "EF. Regulation of embryonic growth and lyso somal targeting by the imprinted Igf2/Mpr gene. Nature. 1994;372(6505):464–7.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "growth and development. J Paediatr Child Health. 1993;29(1):6–11.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Efstratiadis A. Roles of growth hormone and insulin-like growth factor 1 in mouse postnatal growth. Dev Biol. 2001;229(1):141–62.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "Clark AJ. Intrauterine growth retardation and postnatal growth failure associated with deletion of the insulin-like growth factor I gene. N Engl J Med. 1996;335(18):1363–7.",
+      "heading": "References",
+      "pdf_page": 130,
+      "printed_page": 113
+    },
+    {
+      "text": "33. Walenkamp MJ, Losekoot M, Wit JM. Molecular",
+      "heading": "References",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "IGF-1 and IGF-1 receptor defects: from genetics to clinical management. Endocr Dev. 2013;24:128–37. 34. Bonapace G, Concolino D, Formicola S,",
+      "heading": "References",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "46. Taylor SI, Cama A, Accili D, Barbetti F, Quon",
+      "heading": "References",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Strisciuglio P. A novel mutation in a patient with insulin-like growth factor 1 (IGF1) deficiency. J Med Genet. 2003;40(12):913–7. 35. Abu-Amero S, Monk D, Frost J, Preece M,",
+      "heading": "References",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "47. Polak M, Cave H. Neonatal diabetes mellitus: a",
+      "heading": "References",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Stanier P, Moore GE. The genetic aetiology of Silver-Russell syndrome. J Med Genet. 2008;45(4):193–9. 36. Gicquel C, Rossignol S, Cabrol S, Houang M,",
+      "heading": "References",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "48. Bagby GC, Alter BP. Fanconi anemia. Semin",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Steunou V, Barbu V, et al. Epimutation of the telomeric imprinting center region on chromo some 11p15 in Silver-Russell syndrome. Nat Genet. 2005;37(9):1003–7. 37. Netchine I, Rossignol S, Dufourg MN, Azzi S,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "49. Wang W. Emergence of a DNA-damage response",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "50. Kaneko H, Kondo N. Clinical features of Bloom",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Rousseau A, Perin L, et al. 11p15 imprinting cen ter region 1 loss of methylation is a common and specific cause of typical Russell-Silver syndrome: clinical scoring system and epigenetic-phenotypic correlations. J Clin Endocrinol Metab. 2007;92(8):3148–54. 38. Abuzzahab MJ, Schneider A, Goddard A,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "51. van der Steen M, Pfundt R, Maas S, Bakker-van",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Grigorescu F, Lautier C, Keller E, et al. IGF-I receptor mutations resulting in intrauterine and postnatal growth retardation. N Engl J Med. 2003;349(23):2211–22. 39. Kawashima Y, Takahashi S, Kanzaki S. Familial",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "52. Rosenfeld RG, Rosenbloom AL, Guevara-",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "short stature with IGF-I receptor gene anomaly. Endocr J. 2012;59(3):179–85. 40. Edghill EL, Flanagan SE, Patch AM, Boustred",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "53. Hwa V, Fujimoto M, Zhu G, Gao W, Foley C,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "C, Parrish A, Shields B, et al. Insulin mutation screening in 1,044 patients with diabetes: muta tions in the INS gene are a common cause of neo natal diabetes but a rare cause of diabetes diagnosed in childhood or adulthood. Diabetes. 2008;57(4):1034–42. 41. Babenko AP, Polak M, Cave H, Busiah K,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "54. Hawkes CP, Murray DM, Kenny LC, Kiely M,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Czernichow P, Scharfmann R, et al. Activating mutations in the ABCC8 gene in neonatal diabe tes mellitus. N Engl J Med. 2006;355(5):456–66. 42. Gloyn AL, Pearson ER, Antcliff JF, Proks P,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "55. Lassarre C, Hardouin S, Daffos F, Forestier F,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Bruining GJ, Slingerland AS, et al. Activating mutations in the gene encoding the ATP-sensitive potassium-channel subunit Kir6.2 and perma nent neonatal diabetes. N Engl J Med. 2004;350(18):1838–49. 43. Gloyn AL, Siddiqui J, Ellard S. Mutations in the",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "56. Reece EA, Wiznitzer A, Le E, Homko CJ,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "genes encoding the pancreatic beta-cell KATP channel subunits Kir6.2 (KCNJ11) and SUR1 (ABCC8) in diabetes mellitus and hyperinsulin ism. Hum Mutat. 2006;27(3):220–31. 44. Arima T, Drewell RA, Arney KL, Inoue J, Makita",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "57. Karlberg JP, Albertsson-Wikland K, Kwan EY,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Y, Hata A, et al. A conserved imprinting control region at the HYMAI/ZAC domain is implicated in transient neonatal diabetes mellitus. Hum Mol Genet. 2001;10(14):1475–83. 45. Accili D, Barbetti F, Cama A, Kadowaki H,",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "58. Campisi SC, Carbone SE, Zlotkin S. Catch-up",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Kadowaki T, Imano E, et al. Mutations in the",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "insulin receptor gene in patients with genetic syn dromes of insulin resistance and acanthosis nigri cans. J Invest Dermatol. 1992;98(6 Suppl):77S–81S.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "MJ, de la Luz SM, et al. Mutations in the insu lin receptor gene. Endocr Rev. 1992;13(3):566–95.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "disease linked to multiple mechanisms. Orphanet J Rare Dis. 2007;2:12.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Hematol. 2006;43(3):147–56.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "network consisting of Fanconi anaemia and BRCA proteins. Nat Rev Genet. 2007;8(10):735–48.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "syndrome and function of the causative gene, BLM helicase. Expert Rev Mol Diagn. 2004;4(3):393–401.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Waarde WM, Odink RJ, Hokken-Koelega ACS. ACAN gene mutations in short children born SGA and response to growth hormone treatment. J Clin Endocrinol Metab. 2017;102(5):1458–67.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Aguirre J. Growth hormone (GH) insensitivity due to primary GH receptor deficiency. Endocr Rev. 1994;15(3):369–90.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Kumbaji M, et al. Genetic causes of growth hor mone insensitivity beyond GHR. Rev Endocr Metab Disord. 2021;22(1):43–58.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "O’B Hourihane J, Irvine AD, et al. Correlation of insulin-like growth factor-I and -II concentra tions at birth measured by mass spectrometry and growth from birth to two months. Horm Res Paediatr. 2018;89(2):122–31.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Frankenne F, Binoux M. Serum insulin-like growth factors and insulin-like growth factor binding proteins in the human fetus. Relationships with growth in normal subjects and in subjects with intrauterine growth retardation. Pediatr Res. 1991;29(3):219–25.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Behrman H, Spencer EM. The relation between human fetal growth and fetal blood levels of insulin-like growth factors I and II, their binding proteins, and receptors. Obstet Gynecol. 1994;84(1):88–95.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "Lam BC, Low LC. The timing of early postnatal catch-up growth in normal, full-term infants born short for gestational age. Horm Res. 1997;48(Suppl 1):17–24.",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "growth in full-term small for gestational age",
+      "heading": "4",
+      "pdf_page": 131,
+      "printed_page": 114
+    },
+    {
+      "text": "infants: a systematic review. Adv Nutr. 2019;10(1):104–11. 59. Binkin NJ, Yip R, Fleshood L, Trowbridge",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "71. Ranke MB. Sensitivity to IGF-I in short children",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "FL. Birth weight and childhood growth. Pediatrics. 1988;82(6):828–34. 60. Sisley S, Trujillo MV, Khoury J, Backeljauw",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "72. Cutfield WS, Hofman PL, Vickers M, Breier B,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "P. Low incidence of pathology detection and high cost of screening in the evaluation of asymptom atic short children. J Pediatr. 2013;163(4):1045–51. 61. Fitzhardinge PM, Inwood S. Long-term growth",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "in small-for-date children. Acta Paediatr Scand Suppl. 1989;349:27–33; discussion 4. 62. Hokken-Koelega AC, De Ridder MA, Lemmen",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "73. Chatelain PG, Nicolino M, Claris O, Salle B,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "RJ, Den Hartog H, De Muinck Keizer-Schrama SM, Drop SL. Children born small for gesta tional age: do they catch up? Pediatr Res. 1995;38(2):267–71. 63. Renes JS, van Doorn J, Hokken-Koelega",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "74. Hokken-Koelega ACS, van der Steen M,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "ACS. Current insights into the role of the growth hormone-insulin-like growth factor system in short children born small for gestational age. Horm Res Paediatr. 2019;92(1):15–27. 64. Boguszewski M, Rosberg S, Albertsson-Wikland",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "75. Canton AP, Costa SS, Rodrigues TC, Bertola",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "K. Spontaneous 24-hour growth hormone pro files in prepubertal small for gestational age chil dren. J Clin Endocrinol Metab. 1995;80(9):2599–606. 65. de Waal WJ, Hokken-Koelega AC, Stijnen T, de",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "76. Collett-Solberg PF, Ambler G, Backeljauw PF,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Muinck Keizer-Schrama SM, Drop SL. Endogenous and stimulated GH secretion, urinary GH excretion, and plasma IGF-I and IGF-II levels in prepubertal children with short stature after intrauterine growth retardation. The Dutch Working Group on Growth Hormone. Clin Endocrinol (Oxf). 1994;41(5):621–30. 66. Frank GR, Cheung PT, Horn JA, Alfaro MP,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "77. Yengo L, Vedantam S, Marouli E, Sidorenko J,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Smith EP, Chernausek SD. Predicting the growth response to growth hormone in patients with intrauterine growth retardation. Clin Endocrinol (Oxf). 1996;44(6):679–85. 67. Hindmarsh PC, Smith PJ, Pringle PJ, Brook",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "78. Boguszewski MC, Mericq V, Bergada I, Damiani",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "79. Tanaka T, Yokoya S, Nishi Y, Hasegawa Y,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "CG. The relationship between the response to growth hormone therapy and pre-treatment growth hormone secretory status. Clin Endocrinol (Oxf). 1988;28(5):559–63. 68. Azcona C, Albanese A, Bareille P, Stanhope",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "80. Foley 81. Grunt JA, Enriquez AR, Daughaday WH. Acute",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "R. Growth hormone treatment in growth hormone-sufficient and -insufficient children with intrauterine growth retardation/Russell-Silver syndrome. Horm Res. 1998;50(1):22–7. 69. Boguszewski M, Albertsson-Wikland K, Aronsson S, Gustafsson J, Hagenas L, Westgren U, et al. Growth hormone treatment of short chil dren born small-for-gestational-age: the Nordic Multicentre Trial. Acta Paediatr. 1998;87(3):257–63. 70. Sas T, de Waal W, Mulder P, Houdijk M, Jansen",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "82. Lanes R, Plotnick LP, Lee PA. Sustained effect of",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "M, Reeser M, et al. Growth hormone treatment in children with short stature born small for ges tational age: 5-year results of a randomized,",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "83. Tanner JM, Lejarraga H, Cameron N. The natu",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "double-blind, dose-response trial. J Clin Endocrinol Metab. 1999;84(9):3064–70.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "born small for gestational age. J Endocrinol Investig. 2006;29(1 Suppl):21–6.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Blum WF, Robinson EM. IGFs and binding pro teins in short children with intrauterine growth retardation. J Clin Endocrinol Metab. 2002;87(1):235–9.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Chaussain J. Multiple hormone resistance in short children born with intrauterine growth retardation? Horm Res. 1998;49(Suppl 2):20–2.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Boguszewski MCS, Cianfarani S, Dahlgren J, Horikawa R, et al. International consensus guide line on small for gestational age (SGA): etiology and management from infancy to early adult hood. Endocr Rev. 2023;44:539.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "DR, Malaquias AC, Correa FA, et al. Genomewide screening of copy number variants in chil dren born small for gestational age reveals several candidate genes involved in growth pathways. Eur J Endocrinol. 2014;171(2):253–62.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Bidlingmaier M, Biller BMK, Boguszewski MCS, et al. Diagnosis, genetics, and therapy of short stature in children: a Growth Hormone Research Society international perspective. Horm Res Paediatr. 2019;92(1):1–14.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Bartell E, Sakaue S, et al. A saturated map of common genetic variants associated with human height. Nature. 2022;610(7933):704–12.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "D, Belgorosky A, Gunczler P, et al. Latin American consensus: children born small for ges tational age. BMC Pediatr. 2011;11:66.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "Yorifuji T, Fujieda K, et al. Guideline for growth hormone therapy in children with small-for-gestational-age short stature. J Jpn Pediatr Soc. 2007;111:641–6. TP Jr, Thompson RG, Shaw M, Baghdassarian A, Nissley SP, Blizzard RM. Growth responses to human growth hor mone in patients with intrauterine growth retar dation. J Pediatr. 1974;84(5):635–41.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "and long term responses to hGH in children with idiopathic small-for-dates dwarfism. J Clin Endocrinol Metab. 1972;35(1):157–68.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "human growth hormone therapy on children with intrauterine growth retardation. Pediatrics. 1979;63(5):731–5.",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "ral history of the Silver-Russell syndrome: a lon",
+      "heading": "4",
+      "pdf_page": 132,
+      "printed_page": 115
+    },
+    {
+      "text": "gitudinal study of thirty-nine cases. Pediatr Res. 1975;9(8):611–23. 84. Stanhope R, Preece MA, Hamill G. Does growth",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "96. van Dijk M, Mulder P, Houdijk M, Mulder J,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "hormone treatment improve final height attain ment of children with intrauterine growth retar dation? Arch Dis Child. 1991;66(10):1180–3. 85. Maiorana A, Cianfarani S. Impact of growth",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "hormone therapy on adult height of children born small for gestational age. Pediatrics. 2009;124(3):e519–31. 86. de Zegher F, Albertsson-Wikland K, Wollmann",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "97. Wit JM, Deeb A, Bin-Abbas B, Al Mutair A,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "HA, Chatelain P, Chaussain JL, Lofstrom A, et al. Growth hormone treatment of short chil dren born small for gestational age: growth responses with continuous and discontinuous regimens over 6 years. J Clin Endocrinol Metab. 2000;85(8):2816–21. 87. Lem AJ, van der Kaay DC, de Ridder MA,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "98. Allen DB, Backeljauw P, Bidlingmaier M, Biller",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Bakker-van Waarde WM, van der Hulst FJ, Mulder JC, et al. Adult height in short children born SGA treated with growth hormone and gonadotropin releasing hormone analog: results of a randomized, dose-response GH trial. J Clin Endocrinol Metab. 2012;97(11):4096–105. 88. Nilsson O, Baron J. Fundamental limits on longi",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "99. Cohen P, Weng W, Rogol AD, Rosenfeld RG,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "tudinal bone growth: growth plate senescence and epiphyseal fusion. Trends Endocrinol Metab. 2004;15(8):370–4. 89. Cavallo F, Mohn A, Chiarelli F, Giannini",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "100. Jensen RB, Thankamony A, O’Connell SM, Kirk",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "C. Evaluation of bone age in children: a minireview. Front Pediatr. 2021;9:580314. 90. Wakeling EL, Brioude F, Lokulo-Sodipe O,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "O’Connell SM, Salem J, Bliek J, et al. Diagnosis and management of Silver-Russell syndrome: first international consensus statement. Nat Rev Endocrinol. 2017;13(2):105–24. 91. Miller BS, Velazquez E, Yuen KCJ. Long-acting",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "101. Johannsson G, Bidlingmaier M, Biller BMK,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "growth hormone preparations—current status and future considerations. J Clin Endocrinol Metab. 2020;105(6):e2121–33. 92. Van Pareren Y, Mulder P, Houdijk M, Jansen M,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "102. Ballerini MG, Braslavsky D, Scaglia PA,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Reeser M, Hokken-Koelega A. Adult height after long-term, continuous growth hormone (GH) treatment in short children born small for gesta tional age: results of a randomized, double-blind, dose-response GH trial. J Clin Endocrinol Metab. 2003;88(8):3584–90. 93. Ranke MB, Lindberg A, Board KI. Prediction",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "103. Arends NJ, Boonstra VH, Duivenvoorden HJ,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "models for short children born small for gesta tional age (SGA) covering the total growth phase. Analyses based on data from KIGS (Pfizer International Growth Database). BMC Med Inform Decis Mak. 2011;11:38. 94. Wit JM, Ranke MB, Albertsson-Wikland K,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "104. Lebl J, Lebenthal Y, Kolouskova S, Steensberg A,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Carrascosa A, Rosenfeld RG, Van Buuren S, et al. Personalized approach to growth hormone treat ment: clinical use of growth prediction models. Horm Res Paediatr. 2013;79(5):257–70. 95. Savendahl L, Pournara E, Pedersen BT, Blankenstein O. Is safety of childhood growth hormone therapy related to dose? Data from a",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "105. Kappelgaard AM, Kiyomi F, Horikawa R,",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "large observational study. Eur J Endocrinol. 2016;174(5):681–91.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Noordam K, Odink RJ, et al. High serum levels of growth hormone (GH) and insulin-like growth factor-I (IGF-I) during high-dose GH treatment in short children born small for gestational age. J Clin Endocrinol Metab. 2006;91(4):1390–6.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Koledova E, Savage MO. Achieving optimal short- and long-term responses to paediatric growth hormone therapy. J Clin Res Pediatr Endocrinol. 2019;11(4):329–40.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "BM, Boguszewski M, Burman P, et al. GH safety workshop position paper: a critical appraisal of recombinant human GH therapy in children and adults. Eur J Endocrinol. 2016;174(2):P1–9.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Kappelgaard AM, Germak J. Dose-sparing and safety-enhancing effects of an IGF-I-based dos ing regimen in short children treated with growth hormone in a 2-year randomized controlled trial: therapeutic and pharmacoeconomic consider ations. Clin Endocrinol (Oxf). 2014;81(1):71–6.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "J, Donaldson M, Ivarsson SA, et al. A ran domised controlled trial evaluating IGF1 titra tion in contrast to current GH dosing strategies in children born small for gestational age: the North European Small-for-Gestational-Age Study. Eur J Endocrinol. 2014;171(4):509–18.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Boguszewski M, Casanueva FF, Chanson P, et al. Growth Hormone Research Society perspective on biomarkers of GH action in children and adults. Endocr Connect. 2018;7(3):R126–R34.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Keselman A, Rodriguez ME, Martinez A, et al. Circulating IGF-I, IGFBP-3 and the IGF-I/ IGFBP-3 molar ratio concentration and height outcome in prepubertal short children on rhGH treatment over two years of therapy. Horm Res Paediatr. 2017;88(5):354–63.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Hofman PL, Cutfield WS, Hokken-Koelega AC. Reduced insulin sensitivity and the presence of cardiovascular risk factors in short prepuber tal children born small for gestational age (SGA). Clin Endocrinol (Oxf). 2005;62(1):44–50.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Jons K, Kappelgaard AM, et al. Metabolic impact of growth hormone treatment in short children born small for gestational age. Horm Res Paediatr. 2011;76(4):254–61.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "Yokoya S, Tanaka T. The impact of long-term growth hormone treatment on metabolic param eters in Japanese patients with short stature born small for gestational age. Horm Res Paediatr. 2014;81(4):272–9.",
+      "heading": "4",
+      "pdf_page": 133,
+      "printed_page": 116
+    },
+    {
+      "text": "106. de Kort SW, Willemsen RH, van der Kaay DC,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "117. Bannink E, Djurhuus CB, Christensen T, Jons K,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Hokken-Koelega AC. The effect of growth hor mone treatment on metabolic and cardiovascular risk factors is similar in preterm and term short, small for gestational age children. Clin Endocrinol (Oxf). 2009;71(1):65–73. 107. van der Steen M, Hokken-Koelega AC. Growth",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "118. Bannink EM, van Pareren YK, Theunissen NC,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "and metabolism in children born small for gesta tional age. Endocrinol Metab Clin N Am. 2016;45(2):283–94. 108. Koledova E, Tornincasa V, van Dommelen",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "119. Ranke MB. Short and long-term effects of growth",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "P. Analysis of real-world data on growth hor mone therapy adherence using a connected injec tion device. BMC Med Inform Decis Mak. 2020;20(1):176. 109. Cutfield WS, Derraik JG, Gunn AJ, Reid K,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "120. Maneatis T, Baptista J, Connelly K, Blethen",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Delany T, Robinson E, et al. Non-compliance with growth hormone treatment in children is common and impairs linear growth. PLoS One. 2011;6(1):e16223. 110. Lazar L, Pollak U, Kalter-Leibovici O, Pertzelan",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "121. Barker DJ. The fetal origins of type 2 diabetes",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "122. Saenger P, Czernichow P, Hughes I, Reiter",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "A, Phillip M. Pubertal course of persistently short children born small for gestational age (SGA) compared with idiopathic short children born appropriate for gestational age (AGA). Eur J Endocrinol. 2003;149(5):425–32. 111. Upners EN, Raket LL, Petersen JH, Thankamony",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "123. Hofman PL, Cutfield WS, Robinson EM,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "A, Roche E, Shaikh G, et al. Timing of puberty, pubertal growth, and adult height in short chil dren born small for gestational age treated with growth hormone. J Clin Endocrinol Metab. 2022;107(8):2286–95. 112. Bangalore Krishna K, Fuqua JS, Rogol AD,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "124. Sas T, Mulder P, Aanstoot HJ, Houdijk M, Jansen",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Klein KO, Popovic J, Houk CP, et al. Use of gonadotropin-releasing hormone analogs in chil dren: update by an international consortium. Horm Res Paediatr. 2019;91(6):357–72. 113. Dahlgren J, Wikland KA, Swedish Study Group",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "125. van Dijk M, Bannink EM, van Pareren YK,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "for Growth Hormone Treatment. Final height in short children born small for gestational age treated with growth hormone. Pediatr Res. 2005;57(2):216–22. 114. Sas T, Mulder P, Hokken-Koelega A. Body com",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "126. GH Research Society. Consensus guidelines for",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "position, blood pressure, and lipid metabolism before and during long-term growth hormone (GH) treatment in children with short stature born small for gestational age either with or with out GH deficiency. J Clin Endocrinol Metab. 2000;85(10):3786–92. 115. Horikawa R, Tanaka T, Nishinaga H, Ogawa Y,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "127. Boguszewski MCS, Boguszewski CL, Chemaitilly",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Yokoya S. The influence of a long-term growth hormone treatment on lipid and glucose metabo lism: a randomized trial in short Japanese chil dren born small for gestational age. Int J Pediatr Endocrinol. 2016;2016:19. 116. Smeets CCJ, van der Steen M, Renes JS, Hokken-",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "128. Shalet SM, Brennan BM, Reddingius RE. Growth",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "129. Swerdlow AJ, Reddingius RE, Higgins CD,",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Koelega ACS. Bone mineral density after cessa tion of GH treatment in young adults born SGA: a 5-year longitudinal study. J Clin Endocrinol Metab. 2017;102(9):3508–16.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Hokken-Koelega A. Adult height and healthrelated quality of life after growth hormone ther apy in small for gestational age subjects. J Med Econ. 2010;13(2):221–7.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Raat H, Mulder PG, Hokken-Koelega AC. Quality of life in adolescents born small for gestational age: does growth hormone make a dif ference? Horm Res. 2005;64(4):166–74.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "hormone in children and adolescents with GH deficiency. Front Endocrinol (Lausanne). 2021;12:720419.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "S. Growth hormone safety update from the National Cooperative Growth Study. J Pediatr Endocrinol Metab. 2000;13(Suppl 2):1035–44.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "mellitus. Ann Intern Med. 1999;130(4 Pt 1):322–4.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "EO. Small for gestational age: short stature and beyond. Endocr Rev. 2007;28(2):219–51.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Bergman RN, Menon RK, Sperling MA, et al. Insulin resistance in short children with intrauter ine growth retardation. J Clin Endocrinol Metab. 1997;82(2):402–6.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "M, Reeser M, et al. Carbohydrate metabolism during long-term growth hormone treatment in children with short stature born small for gesta tional age. Clin Endocrinol (Oxf). 2001;54(2):243–51.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Mulder PG, Hokken-Koelega AC. Risk factors for diabetes mellitus type 2 and metabolic syn drome are comparable for previously growth hormone-treated young adults born small for ges tational age (SGA) and untreated short SGA con trols. J Clin Endocrinol Metab. 2007;92(1):160–5.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "the diagnosis and treatment of growth hormone (GH) deficiency in childhood and adolescence: summary statement of the GH Research Society. J Clin Endocrinol Metab. 2000;85(11):3990–3.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "W, Cohen LE, Gebauer J, Higham C, et al. Safety of growth hormone replacement in survivors of cancer and intracranial and pituitary tumours: a consensus statement. Eur J Endocrinol. 2022;186(6):P35–52.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "hormone therapy and malignancy. Horm Res. 1997;48(Suppl 4):29–32.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "Spoudeas HA, Phipps K, Qiao Z, et al. Growth hormone treatment of children with brain tumors and risk of tumor recurrence. J Clin Endocrinol Metab. 2000;85(12):4444–9.",
+      "heading": "4",
+      "pdf_page": 134,
+      "printed_page": 117
+    },
+    {
+      "text": "130. Chan JM, Stampfer MJ, Giovannucci E, Gann",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "PH, Ma J, Wilkinson P, et al. Plasma insulin-like growth factor-I and prostate cancer risk: a pro spective study. Science. 1998;279(5350):563–6. 131. Hankinson SE, Willett WC, Colditz GA, Hunter",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "135. Swerdlow AJ, Cooke R, Albertsson-Wikland K,",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "DJ, Michaud DS, Deroo B, et al. Circulating con centrations of insulin-like growth factor-I and risk of breast cancer. Lancet. 1998;351(9113):1393–6. 132. Khandwala HM, McCutcheon IE, Flyvbjerg A,",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "136. Carel JC, Ecosse E, Landier F, Meguellati-",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "Friend KE. The effects of insulin-like growth fac tors on tumorigenesis and neoplastic growth. Endocr Rev. 2000;21(3):215–44. 133. Raman S, Grimberg A, Waguespack SG, Miller",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "BS, Sklar CA, Meacham LR, et al. Risk of neo plasia in pediatric patients receiving growth hor mone therapy—a report from the Pediatric Endocrine Society Drug and Therapeutics Committee. J Clin Endocrinol Metab. 2015;100(6):2192–203. 134. Savendahl L, Cooke R, Tidblad A, Beckers D,",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "137. Poidvin A, Touze E, Ecosse E, Landier F, Bejot Y,",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "138. Ranke",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "Butler G, Cianfarani S, et al. Long-term mortal ity after childhood growth hormone treatment:",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "the SAGhE cohort study. Lancet Diabetes Endocrinol. 2020;8(8):683–92.",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "Borgstrom B, Butler G, Cianfarani S, et al. Description of the SAGhE cohort: a large European study of mortality and cancer inci dence risks after childhood treatment with recom binant growth hormone. Horm Res Paediatr. 2015;84(3):172–83.",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "Hakkas D, Kaguelidou F, Rey G, et al. Longterm mortality after recombinant growth hormone treatment for isolated growth hormone deficiency or childhood short stature: preliminary report of the French SAGhE study. J Clin Endocrinol Metab. 2012;97(2):416–25.",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    },
+    {
+      "text": "Giroud M, et al. Growth hormone treatment for childhood short stature and risk of stroke in early adulthood. Neurology. 2014;83(9):780–6. M. KIGS: 20 years. Horm Res. 2007;68(Suppl 5):40.",
+      "heading": "4",
+      "pdf_page": 135,
+      "printed_page": 118
+    }
+  ],
+  "figures": [
+    {
+      "path": "figures/ch004_p0120_01.jpg",
+      "caption": "Unmatched source image; PDF page 120. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 120,
+      "printed_page": 103,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0122_01.jpg",
+      "caption": "Unmatched source image; PDF page 122. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 122,
+      "printed_page": 105,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0124_01.jpg",
+      "caption": "Unmatched source image; PDF page 124. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 124,
+      "printed_page": 107,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0125_01.jpg",
+      "caption": "Unmatched source image; PDF page 125. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 125,
+      "printed_page": 108,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0125_02.jpg",
+      "caption": "Unmatched source image; PDF page 125. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 125,
+      "printed_page": 108,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0128_01.jpg",
+      "caption": "Unmatched source image; PDF page 128. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 128,
+      "printed_page": 111,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0128_02.jpg",
+      "caption": "Unmatched source image; PDF page 128. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 128,
+      "printed_page": 111,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0128_03.jpg",
+      "caption": "Unmatched source image; PDF page 128. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 128,
+      "printed_page": 111,
+      "chapter": 4
+    },
+    {
+      "path": "figures/ch004_p0128_04.jpg",
+      "caption": "Unmatched source image; PDF page 128. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 128,
+      "printed_page": 111,
+      "chapter": 4
+    }
+  ],
+  "tables": [
+    {
+      "path": "tables/ch004_p0116_1.jpg",
+      "markdown": "|Gene(s)|Disorder|Major clinical features|Comments|References|\n|---|---|---|---|---|\n|_IGF1_|Short stature|Severe pre- and postnatal growth failure,<br>microcephaly, deafness, carbohydrate<br>intolerance|Very rare|[32–34]|\n|_IGF2_|Silver-Russell syndrome|Severe pre- and postnatal growth failure|Epigenetic variation at imprinted locus|[35–37]|\n|_IGF1R_ (IGF1<br>receptor)|Short stature|Severe pre- and postnatal growth failure,<br>variable CNS abnormalities|Variable increases in circulating levels of<br>IGF1|[38, 39]|\n|_INS_|Congenital diabetes|Fetal growth retardation, diabetes mellitus|10% of permanent neonatal DM|[40]|\n|_KCNJ11_, _ABCC8_<br>(KATP channel)|Congenital diabetes|Fetal growth retardation, diabetes mellitus,<br>transient or permanent|40% of permanent neonatal DM<br>CNS disease in some_KCNJ11_ mutations<br>Activating mutations|[41–43]|\n|Chromosome 6 ICR<br>abnormality|Congenital diabetes|Fetal growth retardation, transient diabetes<br>mellitus|70% of transient neonatal DM<br>Paternal isodisomy or DNA methylation<br>defect|[44]|\n|_INSR_ (insulin<br>receptor)|Donohue (leprechaun)<br>syndrome, Rabson-Mendenhall<br>syndrome|Fetal growth retardation, diabetes mellitus,<br>moderate to severe insulin resistance|Treatment with rhIGF1 may be benefcial|[45, 46]|\n|_PTF1A_, _IPF1_|Pancreatic agenesis|Fetal growth retardation, diabetes mellitus|Cerebellar involvement with_PTF1A_|[47]|\n|_FANC A-M_|Fanconi syndrome|Severe pre- and postnatal growth failure,<br>absent thumb/radius|Associated with GH defciency, hypothy-<br>roidism, hypogonadism, and malignancy|[48, 49]|\n|_BLM_|Bloom syndrome|Severe pre- and postnatal growth failure|Increased risk for neoplasms|[50]|\n|_ACAN_|Short stature|Variable growth phenotype with advanced<br>bone age and midface hypoplasia|Early-onset osteoarthritis|[51]|\n\n",
+      "pdf_page": 116,
+      "printed_page": 99,
+      "orientation_normalized": true
+    },
+    {
+      "path": "tables/ch004_p0121_1.jpg",
+      "markdown": "|Col1|FDA<br>(2001)|EMEA (2003)|Consensus<br>statement (2023)|Japan<br>(2007)|Consensus Latin-­<br>America (2011)|\n|---|---|---|---|---|---|\n|SGA defned|Not<br>defned|Birth weight or<br>length<−2 SD|Birth weight or<br>length<−2 SD||Birth weight or<br>length<−2SD|\n|Earliest age at<br>start (years)|2|4|3–4years|3|2|\n|Height at start<br>SDS|≤−2.0|≤−2.5||≤−2.5|≤−2.0|\n|Growth velocity|No<br>catch-up|<0 SDS|No catch-up|<0 SDS|<25 Pc|\n|Reference to<br>midparental<br>height|Not<br>defned|<−1.0 SDS||Not<br>defned|Not defned|\n|Doses|70μg/kg/<br>day|35μg/kg/day<br>(1mg/m2/day)|33–67μg/kg/day|||\n\n",
+      "pdf_page": 121,
+      "printed_page": 104,
+      "orientation_normalized": false
+    }
+  ],
+  "raw_md": "# 4. Growth Hormone Treatment of the Short Child Born Small for Gestational Age\n> Source attribution: [Source credits](../../SOURCE_CREDITS.md).\n\n\n## PDF page 112 | printed page 95\n\n### Growth Hormone Treatment of the Short Child Born Small for Gestational Age\n\nDebora Braslavsky and Steven D. Chernausek\n\nContents\n\n4.1 Introduction – 96\n\n4.1.1 Normal Fetal Growth – 96\n\n4.2 Etiology – 98\n\n4.3 Clinical Presentation – 100\n\n4.4 Diagnostic Evaluation – 100\n\n4.5 Treatment – 104\n\n4.5.1 Effects on Skeletal Growth – 104 4.5.2 Criteria for Initiating rhGH Therapy – 105 4.5.3 rhGH Dosing and Monitoring – 106\n\n4.6 Outcomes – 108\n\n4.7 Safety – 109\n\n4.8 Summary – 111\n\nReferences – 112\n\n© The Author(s), under exclusive license to Springer Nature Switzerland AG 2024 S. Radovick, M. Misra (eds.), Pediatric Endocrinology, https://doi.org/10.1007/978-3-031-66296-6_4\n\n\n## PDF page 113 | printed page 96\n\nKey Points\n\n5 Intrauterine growth retardation is caused by a variety of conditions that affect the offspring in multiple ways. 5 Most individuals born small for gesta\n\ntional age (SGA) show catch-up growth by age 2 years for those born at term and by 3 years for the preterm and reach a normal adult height. 5 For those who do not show catch-up\n\n### 4\n\ngrowth, growth hormone treatment accelerates growth and increases stat ure, but the responses are variable. 5 The dose of growth hormone used to\n\ntreat the short children born SGA is more than that used for growth hor mone deficiency. 5 Treatment at relatively young ages\n\nyields an improved response.\n\n### 4.1 Introduction\n\nIntrauterine growth retardation (IUGR) is a pathologic condition where fetal growth is restrained by either extrinsic (maternal) fac tors or a disorder intrinsic to the fetus itself. Each year upwards of 30 million infants are born following IUGR worldwide [1]; rates are especially high in developing countries because of poor nutrition and limited prena tal care. This is a significant problem because of the morbidity that accompanies IUGR. Complications in the immediate post partum period include hypoglycemia, necro tizing enterocolitis, and persistence of the fetal circulation, to name a few [2]. Moreover, the first-year survival rate is substantially reduced in infants who have experienced IUGR [3, 4].\n\nThere are long-term sequelae of IUGR as well [5]. Affected children may have poor school performance and attenuated intellec tual development [6, 7]. There is evidence that intrauterine nutrient deprivation leads to obe sity, insulin resistance, and hyperlipidemia\n\nlater in life, an effect thought to be due to in utero “programming” of metabolic status [8, 9]. Postnatal growth is also affected adversely [10, 11]. Somewhere between 10% and 40% of children born following IUGR remain growth-retarded in childhood [12, 13]. Many never reach normal adult size [14]. The effect of IUGR on subsequent growth and its ame lioration by growth hormone (GH) therapy are the focus of this chapter.\n\nThe percentage of newborns said to have had IUGR depends on the definition applied but generally is around 3% in the United States and 10% in developing countries. It is important to consider definitions used to define IUGR as they have some bearing on the interpretation of published reports [15]. Intrauterine growth retardation (or intrauter ine growth restriction) is a failure to grow at a normal rate in the in utero environment. Sequential measurements of fetal size in utero are becoming increasingly common and now allow IUGR to be documented with greater precision and the phase of pregnancy during which the growth aberration occurred defined [16]. The more commonly used term is small for gestational age (SGA), which is simply a statistical threshold defining low birth weight at the calculated gestational age. Typical lines of demarcation are −2 SDs or <3rd percen tile. Though newborns who fall below this are assumed to have had a period of IUGR, in some cases they simply represent the end of the normal spectrum of birth size. Similarly, infants may have experienced IUGR, espe cially in the last trimester, but have a birth weight that surpasses the minimal standards. These newborns may have other features of IUGR such as decreased subcutaneous tissue and hypoglycemia.\n\n### 4.1.1 Normal Fetal Growth\n\nThe growth rate of a human is greatest during the prenatal period with a linear growth veloc ity of up to 60 cm/year, making this period\n\n\n## PDF page 114 | printed page 97\n\nespecially vulnerable to factors that affect the regulation of growth [17, 18]. Fetal growth is determined by a complex interaction of maternal, placental, and fetal factors involv ing genetic, epigenetic, and hormonal path ways. Epigenetic mechanisms are of particular interest as they control the function of the genome by regulating gene expression without altering the DNA nucleotide sequence. Epigenetic modifications are heritable at the cell level and influenced by the environment, thus providing a mechanism by which the pre natal environment may “program” the off spring to develop altered metabolic states such as obesity or diabetes [19]. Given the essential role of (epi)genetics and nutrition in\n\n\n\n21\n\nfetal growth and development, it is not sur prising that pathogenic variants in genes involved in cell division or differentiation can negatively affect fetal growth and may explain the absence of postnatal catch-up growth in some cases [20, 21]. Gene clusters involved in growth and regulated by epigenetic mecha nisms are found in chromosomal regions 11p.15.5, 7p11.2, 15q11-q13, 14q32, and 20q13.32 [22].\n\n\n\n\n\n4.1\n\n23\n\n\n## PDF page 115 | printed page 98\n\ninsulin secretion increases in response to fetal glycemia, acting mainly in the third trimester when fetal weight velocity peaks. The placenta produces both IGF1 and IGF2, which are secreted into the fetal circulation. The pla centa also expresses multiple IGFBPs, influ encing the bioavailability of IGFs in the fetus [21]. IGF1 and IGF2 can compensate, at least partially, for deficiency of each other [24–27]. The growth-promoting effects of the IGFs are principally mediated by the type I or IGF1 receptor, a homolog of the insulin receptor [26]. The IGF2 “receptor,” in contrast, serves as a clearance mechanism of IGF2 and thereby modulates tissue IGF2 abundance [28, 29]. During fetal life, the IGF system operates largely independently of GH, which has little influence on body size before birth in humans. Thereafter the influence of IGF2 declines, and IGF1, under the control of GH, becomes the dominant growth regulator of postnatal life. However, at midgestation a GH variant (GHV) secreted by the placenta appears in the maternal circulation. GHV stimulates lipolysis and gluconeogenesis, increases maternal blood glucose, which passes through the placenta to the fetus. GHV also stimulates the synthesis of maternal IGF- 1, which is able to cross the placental barrier.\n\n### 4\n\n### 4.2 Etiology\n\nThe etiologies of IUGR are as varied as those for postnatal short stature but typically fall into one of three classes. Maternal factors that lead to IUGR include deprivation of oxy gen or nutrients (severe maternal malnutri tion, multiple gestation, cigarette smoking, and high-altitude living), infection (CMV, toxoplasmosis, and AIDS), and toxins (alco hol). Placental deficiency due to suboptimal\n\nimplantation site, placental undergrowth, infarction, or vascular anomalies such as vela mentous cord insertion and placental heman giomas can also lead to IUGR. Factors intrinsic to the fetus constitute the final clas sification and are exemplified by chromosome aneuploidy (Turner syndrome, trisomy 13 and 18) and specific genetic defects (for a review see Finken et al. [21]).\n\nA deficiency of insulin secretion (such as that which occurs in pancreatic agenesis) or action (e.g., insulin receptor deficiency/lepre chaunism) severely impairs fetal growth and is a rare cause of IUGR [30]. More common fetal insults that produce IUGR are hypoxia and nutrient deprivation. Restriction of oxy gen or nutrients results in adaptive responses by the fetus which tend to preserve organ dif ferentiation and maturation at the expense of physical growth and energy stores (i.e., fat and glycogen). The insulin-like growth factor (IGF) axis is intimately involved in these adaptive responses.\n\n31\n\n\n\n4.1\n\n\n\n52\n\n32 53 38 53\n\n54 56\n\n\n## PDF page 116 | printed page 99\n\nGene(s) Disorder Major clinical features Comments References\n\nIGF1 [38, 39]\n\nVery rare [32–34]\n\nIGF2 Silver-Russell syndrome Severe pre- and postnatal growth failure Epigenetic variation at imprinted locus [35–37]\n\n[41–43]\n\nINS Congenital diabetes Fetal growth retardation, diabetes mellitus 10% of permanent neonatal DM [40]\n\n[44]\n\nPaternal isodisomy or DNA methylation\n\nvariable CNS abnormalities Variable increases in circulating levels of\n\nCNS disease in some KCNJ11 mutations\n\ntransient or permanent 40% of permanent neonatal DM\n\nmellitus 70% of transient neonatal DM\n\nActivating mutations\n\ndefect\n\nabnormality Congenital diabetes Fetal growth retardation, transient diabetes\n\n(KATP channel) Congenital diabetes Fetal growth retardation, diabetes mellitus,\n\nIGF1 Short stature Severe pre- and postnatal growth failure,\n\nreceptor) Short stature Severe pre- and postnatal growth failure,\n\nmicrocephaly, deafness, carbohydrate\n\nTable 4.1 Important genetic anomalies causing intrauterine growth retardation in humans\n\nintolerance\n\nChromosome 6 ICR\n\nKCNJ11, ABCC8\n\nIGF1R (IGF1\n\nmoderate to severe insulin resistance Treatment with rhIGF1 may be beneficial [45, 46]\n\nroidism, hypogonadism, and malignancy [48, 49]\n\nPTF1A, IPF1 Pancreatic agenesis Fetal growth retardation, diabetes mellitus Cerebellar involvement with PTF1A [47]\n\nBLM Bloom syndrome Severe pre- and postnatal growth failure Increased risk for neoplasms [50]\n\nbone age and midface hypoplasia Early-onset osteoarthritis [51]\n\nabsent thumb/radius Associated with GH deficiency, hypothy\n\nFetal growth retardation, diabetes mellitus,\n\nACAN Short stature Variable growth phenotype with advanced\n\nFANC A-M Fanconi syndrome Severe pre- and postnatal growth failure,\n\nsyndrome, Rabson-Mendenhall\n\nreceptor) Donohue (leprechaun)\n\nsyndrome\n\nINSR (insulin\n\n\n### Automatic table extraction — verify rendered original\n\n|Gene(s)|Disorder|Major clinical features|Comments|References|\n|---|---|---|---|---|\n|_IGF1_|Short stature|Severe pre- and postnatal growth failure,<br>microcephaly, deafness, carbohydrate<br>intolerance|Very rare|[32–34]|\n|_IGF2_|Silver-Russell syndrome|Severe pre- and postnatal growth failure|Epigenetic variation at imprinted locus|[35–37]|\n|_IGF1R_ (IGF1<br>receptor)|Short stature|Severe pre- and postnatal growth failure,<br>variable CNS abnormalities|Variable increases in circulating levels of<br>IGF1|[38, 39]|\n|_INS_|Congenital diabetes|Fetal growth retardation, diabetes mellitus|10% of permanent neonatal DM|[40]|\n|_KCNJ11_, _ABCC8_<br>(KATP channel)|Congenital diabetes|Fetal growth retardation, diabetes mellitus,<br>transient or permanent|40% of permanent neonatal DM<br>CNS disease in some_KCNJ11_ mutations<br>Activating mutations|[41–43]|\n|Chromosome 6 ICR<br>abnormality|Congenital diabetes|Fetal growth retardation, transient diabetes<br>mellitus|70% of transient neonatal DM<br>Paternal isodisomy or DNA methylation<br>defect|[44]|\n|_INSR_ (insulin<br>receptor)|Donohue (leprechaun)<br>syndrome, Rabson-Mendenhall<br>syndrome|Fetal growth retardation, diabetes mellitus,<br>moderate to severe insulin resistance|Treatment with rhIGF1 may be benefcial|[45, 46]|\n|_PTF1A_, _IPF1_|Pancreatic agenesis|Fetal growth retardation, diabetes mellitus|Cerebellar involvement with_PTF1A_|[47]|\n|_FANC A-M_|Fanconi syndrome|Severe pre- and postnatal growth failure,<br>absent thumb/radius|Associated with GH defciency, hypothy-<br>roidism, hypogonadism, and malignancy|[48, 49]|\n|_BLM_|Bloom syndrome|Severe pre- and postnatal growth failure|Increased risk for neoplasms|[50]|\n|_ACAN_|Short stature|Variable growth phenotype with advanced<br>bone age and midface hypoplasia|Early-onset osteoarthritis|[51]|\n\n\n\n[Original table](../../tables/ch004_p0116_1.jpg)\n\n\n## PDF page 117 | printed page 100\n\n### 4.3 Clinical Presentation\n\nably expected to be helpful [60]. There are important reasons for establishing a diagno sis; however, it should be emphasized that in many cases it is impossible to ascertain the precise cause of prenatal growth failure [21]. Since this chapter deals primarily with the use of rhGH in augmenting growth in such chil dren, the diagnostic discussion is directed toward determining whether rhGH therapy is warranted. The diagnostic approach is framed under several relevant questions. 1. Does the patient have a disorder that limits\n\nAfter birth, most SGA newborns increase their growth velocity substantially and approx imately 85% eventually catch up in height [12, 57, 58]. However, there is a relationship between birth weight and stature that is main tained for several years during childhood, with patients being born especially small and remaining short on the average [14, 59].\n\n### 4\n\nPatients generally present to the endocri nologist in one of two ways. The first is imme diately following birth when categorized as SGA. The questions that arise at this time relate to potential causes of IUGR and whether the patient will have normal growth thereafter. The extent of the evaluation will depend on the severity of growth retardation, the existence of concurrent medical condi tions or dysmorphic features, and whether the cause of IUGR is evident.\n\nA more common presentation is that of the short child between the ages of 3 and 8 years. The child was born with a low birth weight and was expected to “catch up.” However, catch-up never occurred, and the child has had the same relative degree of short stature for many years. That is, when plotted on the growth chart, the trajectory seems to parallel the norm, just three to five SDS below average. The child has been otherwise healthy, and parents are concerned that the short stat ure will become increasingly problematic as the patient ages. They wonder whether any thing can be done to improve stature. It is not always evident that the persistent small size is related to a growth disorder that began prior to birth. Only by reviewing the birth weight and history of pregnancy and delivery does this information come to light.\n\n2. Is the cause of IUGR obvious?\n\n### 4.4 Diagnostic Evaluation\n\nThe causes of growth failure are many, as are the tests that can be applied to such patients. One should consider the likely possibilities and apply the diagnostic tests that are reason\n\nboth pre- and postnatal growth?\n\nCertain common endocrine disorders, such as hypothyroidism and GH defi ciency, have the most pronounced effects on postnatal growth. Even when the con dition is congenital, most are born within the normal range for length and weight. Thus, these diagnoses are usually elimi nated when prenatal growth restriction is prominent. The same applies to common, acquired causes of growth failure such as celiac disease. Patients who are born SGA without dysmorphic features and show catch-up growth during the first year do not require further evaluation. Patients being evaluated for IUGR who are still in the first few months of life should simply be tracked in terms of growth if they have no dysmorphic features, malformations, or suspicious symptoms. Most patients des tined to catch up will demonstrate increased growth velocity during the first 6 months of life and will have caught up by the end of the first year [12, 61, 62]. Patients who have shown no evidence of improved growth following birth need fur ther evaluation.\n\nA careful history and physical exami nation can be very helpful in explaining IUGR. Maternal hypertension and poor weight gain during pregnancy suggest a maternal factor. Dysmorphic features in the baby imply that a syndrome associated with IUGR is present. Useful diagnostic tests for evaluating patients with IUGR\n\n\n## PDF page 118 | printed page 101\n\nare listed in Box 4.1. A karyotype is par ticularly important for females because Turner syndrome is typically accompanied by mild prenatal growth restriction some times without the characteristic pheno type. Patients with dysmorphic features should have karyotyping as well or be con sidered for other specialized genetic tests with further evaluation by a geneticist/dys morphologist. It is particularly important to recognize Bloom and Fanconi syn dromes, recessive disorders associated with severe IUGR, and poor postnatal growth. These patients have increased chromo somal breakage and usually develop malignancies later in childhood. For these reasons, rhGH therapy may be contraindi cated. The diagnosis of Bloom syndrome is often suspected with routine chromo some studies in which there is increased chromosome breakage and formation of triradial chromosomes. Confirmation requires direct gene analysis.\n\nAssessment of renal function is required because mild forms of renal dys plasia can produce IUGR and moderate postnatal growth failure that is otherwise not evident. These patients may manifest oligohydramnios as a clue to the diagnosis. 3. Why has the patient not shown catch-up\n\ngrowth?\n\nIf more were known about the mecha nisms involved in catch-up growth, it would be easier to explain why, in certain cases, it does not occur. In some situations, the fetal growth retardation may have been so severe and the cellular mass at birth is so low that the overall somatic size is ulti mately restricted. Even with the normal ization of nutritional and hormonal factors, simply restoring normal growth (body size doubling at normal intervals) still leaves a person small relative to the peers. In other cases, patients do not reach normal size following birth because of the persistence of a defect in growth regula tion or cellular growth and replication. From a practical point of view, it is impor\n\ntant to consider that catch-up growth may be impaired in patients whose nutritional status is compromised. A careful dietary history and review by a nutritionist can be helpful and is especially indicated in a patient with low weight for height.\n\nAbnormalities in the GH/IGF axis clearly explain the lack of catch-up in patients with molecular defects in IGF1, IGF2, and IGF1R. However, changes in the secretion and action of GH and the IGFs are also involved in the broader pop ulation of affected patients. Circulating concentrations of IGF-I tend to be rela tively low at birth in children born SGA and remain suppressed in those with poor catch-up [63]. Though the absence of GH clearly cannot explain their prenatal growth retardation, studies by Boguszewski et al. [64] and de Waal et al. [65] have sug gested that there is an increased incidence of low GH secretion in patients with short stature following IUGR. These data imply that reduced pituitary GH secretion con tributes to relatively poor postnatal growth in some cases. However, the ability of indi ces of GH secretion to predict response to GH therapy for this group of patients is not clear. Earlier reports suggested that low overnight GH concentrations or low IGF1 concentrations were associated with an improved response [66, 67], whereas later reports, examining greater numbers, found no predictive value in these mea sures [68–70]. However, such studies fre quently differ in the patient selection (e.g., severity of IUGR and short stature), the dosing of rhGH, and the tests of GH release. Studies that examine larger num bers of patients only slightly SGA likely include a significant proportion that does not necessarily have disorders of prenatal growth and/or have differing etiologies from those patients who are −4 to −5 SD below average for birth size. In addition, large doses of rhGH administered could obscure underlying differences in sensitiv ity to GH.\n\n\n## PDF page 119 | printed page 102\n\nThere is also evidence that short SGA children may have relative resistance to IGF1 [71]. Cutfield et al. [72] showed that circulating concentrations of IGF1, while lower than normal in short SGA children, were higher than those with idiopathic short stature of the same age. Chatelain et al. [73] demonstrated that short SGA children required higher circulating con centrations of IGF1 during GH treatment to achieve growth rates equal to children with GH deficiency or familial short stat ure treated with GH.\n\n### 4\n\nMost patients do not meet the bio chemical criteria for classic GH deficiency or other known endocrine disorders. Thus, the most likely explanation for their poor postnatal growth is the persistence of a problem intrinsic to the fetus. There may be a specific genetic defect that continues to limit growth, or the early growth restric tion has, in some way, reprogrammed the growth regulating system so that the child remains small. The evidence above sug gests that the reprogramming involves alterations in the GH/IGF axis that result in a situation analogous to that seen with type 2 diabetes mellitus. Type 2 diabetes is characterized by insulin resistance cou pled with reduced insulin secretion. Thus, the short child born SGA could be thought of as having “type 2 growth deficiency,” where there are inadequate circulating lev els of IGF1 in the face of relative IGF resistance.\n\n\n\n\n\n\n\n4.2\n\n51\n\n\n\n75\n\n\n\n74 76\n\n77\n\n\n\n\n\nBox 4.1 Useful Tests for IUGR-Associ ated Short Stature General\n\n5 Complete blood count\n\n5 BUN/creatinine\n\n5 Blood glucose\n\n5 Serum electrolytes\n\n5 IGF1/IGFBP-3\n\n5 Radiological skeletal survey\n\n5 Bone age\n\nSpecialized\n\n5 Karyotype in girls (Turner syndrome)\n\n5\n\n4.2 5 Cytogenetic studies to assess chromo\n\nsome stability (Bloom syndrome, Fan coni syndrome)\n\n\n## PDF page 120 | printed page 103\n\n\n\n21 37\n\n21 51 74\n\n20 74 76\n\n65\n\n32 34 38 39 50\n\n74\n\n\n\n\n\n\n\n20 21 74\n\n37\n\n\n\n\n\n![Source image](../../figures/ch004_p0120_01.jpg)\n\nUnmatched source image; PDF page 120. Consult the original caption.\n\n\n## PDF page 121 | printed page 104\n\n### 4.5 Treatment\n\n\n\n### 4\n\n\n\n\n\n4.2\n\nThe main goals of rhGH treatment of the short children born SGA are to improve height during childhood and to achieve a final height adequate for the appropriate popula tion. As previously described, primary distur bances of GH/IGF are uncommon explanations for the lack of catch-up growth\n\nTable 4.2 Indications for rhGH use in short children born small for gestational age\n\n### FDA\n\n(2001)\n\n### EMEA (2003)\n\nConsensus statement (2023)\n\nSGA defined Not defined\n\nBirth weight or length <−2 SD\n\nBirth weight or length <−2 SD\n\nEarliest age at start (years)\n\n2 4 3–4 years\n\n≤−2.0 ≤−2.5\n\nHeight at start SDS\n\nGrowth velocity No catch-up\n\n<0 SDS No catch-up\n\n<−1.0 SDS\n\nReference to midparental height\n\nNot defined\n\nDoses 70 μg/kg/ day\n\n35 μg/kg/day (1 mg/m2/day)\n\n33–67 μg/kg/day\n\nData are from somatropin package insert for the United States, from report 3478/03 by the Committee for Proprietary Medicinal Products of the EMEA from Hokken-Koelega et al. [74], Boguszewski et al. [78], and Tanaka et al. [79] SGA small for gestational age, SDS standard deviation score, Pc percentile\n\nin children born IUGR. Why then would one expect rhGH treatment to benefit patients with short stature associated with IUGR? The most straightforward answer is that rhGH administered at pharmacological dosages stimulates the GH/IGFs system sufficiently to overcome whatever cellular condition has not allowed the expected catch-up growth to restore age-appropriate size.\n\n### 4.5.1 Effects on Skeletal Growth\n\n\n\n80 82\n\n83\n\n84\n\nJapan (2007)\n\nConsensus Latin- America (2011)\n\nBirth weight or length <−2 SD\n\n3 2\n\n≤−2.5 ≤−2.0\n\n<0 SDS <25 Pc\n\nNot defined\n\nNot defined\n\n\n### Automatic table extraction — verify rendered original\n\n|Col1|FDA<br>(2001)|EMEA (2003)|Consensus<br>statement (2023)|Japan<br>(2007)|Consensus Latin-­<br>America (2011)|\n|---|---|---|---|---|---|\n|SGA defned|Not<br>defned|Birth weight or<br>length<−2 SD|Birth weight or<br>length<−2 SD||Birth weight or<br>length<−2SD|\n|Earliest age at<br>start (years)|2|4|3–4years|3|2|\n|Height at start<br>SDS|≤−2.0|≤−2.5||≤−2.5|≤−2.0|\n|Growth velocity|No<br>catch-up|<0 SDS|No catch-up|<0 SDS|<25 Pc|\n|Reference to<br>midparental<br>height|Not<br>defned|<−1.0 SDS||Not<br>defned|Not defned|\n|Doses|70μg/kg/<br>day|35μg/kg/day<br>(1mg/m2/day)|33–67μg/kg/day|||\n\n\n\n[Original table](../../tables/ch004_p0121_1.jpg)\n\n\n## PDF page 122 | printed page 105\n\nHowever, the doses employed were modest by today’s standards, being similar to those given to patients with GH deficiency at the time. Subsequent studies showed clearly that rhGH stimulates growth in short children born SGA and that such growth can be sustained for sev eral years [85] increasing adult height ( Fig. 4.3). Meaningful gains require a dose higher than typical for GH deficiency over several years of treatment. Overall, an increase of about 2 SDS in height over the height SDS at treatment initiation can be expected when rhGH is given for 5 years or more [70]. However, the outcome is significantly influ enced by the timing of puberty. Catch-up growth that yields a normal height for age and sex before starting puberty is required to achieve the expected final height. Only modest gains in SDS occur in the absence of treat ment or when treatment starts close to puber tal onset [87, 88].\n\n### 4.5.2 Criteria for Initiating rhGH\n\n### Therapy\n\nTreatment should be limited to those patients in whom short stature is at least moderately severe (<2.0 SDS) and where there is little\n\n\n\nexpectation of meaningful catch-up growth over the next several years. If significant catch-up is going to occur, it is usually evident during the first year of life. Since growth pat terns can be variable, careful measures over at least 6 months (preferably 12) should be per formed to assess underlying growth velocity in all patients prior to treatment. Patients born at term that present after age 2 with persistent short stature typically have a growth rate in the low-normal range and are unlikely to show substantial improvement in height SDS over the next several years. For preterm SGA, the expected age for catch-up growth is 3 years of age.\n\nAssessment of final height prognosis with a bone age measurement is not generally use ful in selecting those most likely to benefit from rhGH treatment. As most patients are quite young and may have underlying patho logical conditions, the prediction is usually inaccurate and overestimates final height [89].\n\nSince younger patients respond better, treatment can be initiated once it is clear that the growth velocity is insufficient to normalize height. Patients in mid-childhood would likely benefit as well, but those well into puberty are at a disadvantage because of the limited time before epiphyseal fusion [87].\n\n86\n\n![Source image](../../figures/ch004_p0122_01.jpg)\n\nUnmatched source image; PDF page 122. Consult the original caption.\n\n\n## PDF page 123 | printed page 106\n\nFew studies evaluate the growth response of patients with specific genetic syndromes in numbers sufficient to assess efficacy, with the exception is SRS. These patients, although typically shorter than the average SGA patient, show a growth response to rhGH equivalent to the nonsyndromic [90]. For other syndromic patients, in the absence of data to the contrary, it is reasonable to con sider that rhGH may also be effective and evaluate the response in each case.\n\n### 4\n\nMeasures of GH secretion, though fre quently performed, do not appear to predict growth response and are not recommended unless the growth velocity is persistently reduced and signs of GH deficiency or hypo pituitarism are present [74]. The authors’ approach is to measure circulating IGF1 and IGFBP-3 and only perform tests of GH release if these parameters are subnormal or there are other reasons to suspect pituitary involvement. If the IGFs and measures of GH release are all low, this suggests a lack of GH is limiting the skeletal growth and the need for supplementation clear. Aboveaverage concentrations of IGF1 may signify IGF insensitivity in a child with both pre- and postnatal growth failure [33, 38, 39]. The diag nosis of GH deficiency should not alter the decision to treat, but IGF1 insensitivity will blunt the response. The purpose of studying GH/IGF1 axis is to individualize the clinical management of the patients.\n\n### 4.5.3 rhGH Dosing and Monitoring\n\n1\n\n\n\n1 Clinical trials with long-acting GH preparations are currently underway in an attempt to improve adher ence by reducing the daily administrations to weekly or monthly. There are still areas of uncertainty including methods of dose adjustment, timing of monitoring of IGF-I, cost-effectiveness, and longterm efficacy and safety [91].\n\n74\n\n92\n\n\n\n\n\n93 94\n\n86\n\n\n\n4.4\n\n\n\nPeriodic assessment of circulating IGF1 during rhGH therapy is recommended for patients receiving rhGH to evaluate adher ence to treatment and as a safety approach. Doses of rhGH that produce supranormal circulating levels of IGF1 raise concerns regarding increased risk of severe adverse events, in particular risk of malignancies. The theory is reasonable, but unproven by the best-quality information available [95, 96]. In\n\n\n## PDF page 124 | printed page 107\n\n\n\naddition, the measurement of IGF1 in the cir culation is affected by multiple factors that may complicate the interpretation [97].\n\nFor short children born SGA, IGF1 levels may appear to be in the hazardous range while receiving rhGH, but it is possible that a degree of IGF1 resistance plays a role in growth limi tation. In that circumstance, raising IGF1 concentrations above normal might be needed, especially if the growth response is less than that desired [98]. Furthermore, the range of IGF1 blood levels is very wide among normal children suggesting varied sensitivity of individuals to IGF1 or that circulating IGF1 is a poor reflection of signal strength at the cellular level. In fact, titrating GH dose by circulating IGF1 in hopes of optimizing treat ment appears less effective than the standard dosing strategy [99, 100]. Clearly, more work needs to be done to define how biomarkers of GH action can be used in the selection of therapeutic regimens for patients [101]. In the meantime, a reasonable approach is to use rhGH in the dose ranges as outlined above, with adjustments to achieve growth rates yielding catch-up growth when the patient is below the 5th percentile for height and pre scribe rhGH at doses that will maintain nor mal growth when the patient is solidly in the normal range for height. With this approach circulating IGF1 levels are often within the\n\n86\n\nupper normal range during the growth main tenance phase [102].\n\nShort children born SGA may have reduced insulin sensitivity before the start of rhGH treatment [103]. Moreover, rhGH treat ment typically results in a further decrease in insulin sensitivity with a compensatory increase in insulin secretion due to the insulinantagonistic effects of GH [104–106]. However, rhGH therapy in short children born SGA rarely causes glucose intolerance or diabetes and metabolic parameters return to baseline or even improve following rhGH withdrawal [107]. Thus, there is no specific recommendation for monitoring glucose metabolism routinely except for patients with familial predisposition or obesity.\n\nMonitoring adherence to the treatment regimen is essential. Poor adherence is one of the most common factors underlying subopti mal growth during rhGH therapy and should be actively evaluated and managed before considering other illnesses that can affect growth, unresponsiveness, or an increment of dose. Improving families’ adherence to rhGH treatment is required to achieve the expected efficacy and promote pharmacoeconomy [108, 109].\n\nPatients should have re-evaluation at a minimum of 6 months intervals with careful history and physical examination, seeking\n\n![Source image](../../figures/ch004_p0124_01.jpg)\n\nUnmatched source image; PDF page 124. Consult the original caption.\n\n\n## PDF page 125 | printed page 108\n\nsigns and symptoms of scoliosis, other ortho pedic abnormalities, intracranial hyperten sion, and assessment of growth response to therapy. It is worth performing a bone age around the age of 8 years and regularly from the onset of puberty onwards [80]. This method is inaccurate in predicting adult height in children born SGA [74].\n\n### 4\n\nAs pubertal development has a great impact on final height, pubertal onset and progress need to be carefully monitored in SGA patients. The pattern of puberty in chil dren born SGA is heterogenous, with a sub group characterized by either early onset, shorter or earlier peak height velocity, and/or accelerated bone maturation [110, 111]. The combination of rhGH and gonadotropinreleasing hormone analog treatment in SGA children whose final height may be compro mised because of a significant growth deficit at the pubertal onset can be considered [112].\n\n### 4.6 Outcomes\n\n\n\n\n\n85\n\n\n\n4.5\n\n\n\nDespite the known individual response to treatment, there are recognizable factors asso ciated with an improved outcome such as younger age and greater height at the start of treatment, height gain during the first year of treatment, longer duration of treatment, length at birth, higher parental height, and delayed bone age for chronological age. Moreover, the underlying etiology of SGA also impacts the response to the treatment [74].\n\nAfter two decades of follow up of SGA patients treated with rhGH, benefits of rhGH\n\n\n\n\n\n113\n\n![Source image](../../figures/ch004_p0125_01.jpg)\n\nUnmatched source image; PDF page 125. Consult the original caption.\n\n![Source image](../../figures/ch004_p0125_02.jpg)\n\nUnmatched source image; PDF page 125. Consult the original caption.\n\n\n## PDF page 126 | printed page 109\n\ntreatment beyond stature have been observed. There is an improvement in body composition (i.e., a decrease in fat mass and an increase in lean body mass) due to the lipolytic and ana bolic effects of GH [104, 114, 115]. Positive effects on bone are reported as well with incre ments in bone mineral density [116] reflecting the significant role of the GH–IGF1 axis in the accrual of bone mass. Additionally, longterm GH treatment improves psychosocial development and health-related quality of life in children and adolescents born SGA [117, 118].\n\nIn summary, the efficacy of rhGH therapy is dependent upon making the correct diagno sis, starting treatment at an opportune time, administering the appropriate dose of rhGH, and maintaining patient adherence.\n\n### 4.7 Safety\n\nAn important issue facing a physician pre scribing any drug is the possibility of adverse effects. Safety issues during rhGH replace ment may be related to the substance itself, to the formulation of the drug (impurities and additives), or the result of the genuine (nor mal) effects (growth of bones or other tissues, and metabolic actions). They may be also due to inappropriate doses or a true incompatibil ity with the patient being treated [119]. After many years of rhGH treatment in a large number of children, it is evident that rhGH rarely causes serious morbidity [120]. However, the short children born SGA deserves special consideration. First, the dose of rhGH prescribed is higher than that used for GH deficiency, and second, this patient population may have unique susceptibilities to certain pharmacological properties of GH.\n\nEpidemiological and experimental data indicate that humans born SGA have an increased incidence of obesity and type 2 dia betes as adults, with the implication that a period of fetal undernutrition results in a resetting of intrinsic insulin sensitivity [121, 122]. Individuals who had IUGR show evi dence of decreased insulin sensitivity already as children [123]. Could increased levels of\n\nGH, which diminish insulin sensitivity, add to the risk of developing obesity, hyperlipidemia, and insulin resistance later in life? Thus far data from patients treated show only modest effects on basal insulin levels [124] and no clinically significant impact on glucose or lipid metabolism [114]. Moreover, measures of carbohydrate metabolism after the comple tion of rhGH treatment are no different in those treated compared to untreated adults born SGA. If anything, lipid profiles and blood pressure indices are better in those treated [125]. Nonetheless, the number of patients treated with the highest doses remains too few to detect uncommon, but significant, long-term sequelae.\n\nThe known pro-proliferative, angiogenic, and anti-apoptotic properties of GH and IGF1 have raised concerns regarding a possi ble increased risk of malignancy [126, 127] though this has been difficult to quantify. Analyses of the risk of rhGH treatment in patients who developed GH deficiency as a consequence of tumor treatment do not sug gest a role for GH in the development of a relapse [127–129]. However, large epidemio logical studies find that the risks for prostate cancer [130] and breast cancer [131] are increased for people with serum IGF1 con centrations in the upper ranges of normal. The studies do not prove cause and effect, but tumor cells in culture frequently express IGF1 receptors and replicate in response to IGF1 [132]. This raises the question as to whether the high IGF1 levels that generally accom pany high-dose rhGH therapy might increase the risk for neoplasia over the long term. Thus, rhGH treatment is usually contraindi cated in children with cancer predisposition syndromes (e.g., Bloom syndrome, Li Fraumeni syndrome, Lynch syndrome, and Fanconi anemia). However, it may be cau tiously considered in those with proven GH deficiency and only after informed discussion with the patient and parents/guardians [127]. Despite the above concerns, review by interna tional pediatric endocrinology societies con clude that rhGH can be safely administered to children without known risk factors for malig nancy [74, 133].\n\n\n## PDF page 127 | printed page 110\n\nMost published studies of rhGH safety in children focused on short- or intermediateterm events. Only recently has it been possible to begin to assess late effects in adults who were treated with rhGH during childhood for nongrowth hormone-deficient conditions such as the short children born SGA. SAGhE (Safety and Appropriateness of Growth Hormone Treatments in Europe) is an ongo ing large, epidemiologic study (n = approx. 24,000, with more than 400,000 patient-years of follow-up) that examines long-term outcomes of treatment [134, 135]. Initial reports suggested that all-cause mortality and stroke were increased in adults treated with rhGH in childhood and that the risk may increase with higher doses, at least for mortal ity [136, 137]. However, the number of adverse events detected was very low, the appropriate ness of reference populations challenged, and results not yet confirmed. Thus, a recent, society-sponsored, position paper concluded “the aggregate evidence from available data sets does not support an association between ongoing or previous rhGH therapy and allcause mortality” [98].\n\n### 4\n\nSavendahl et al. classified pediatric patients treated with rhGH into three risk groups based on diagnosis and considered the short children born SGA as a low-risk group. They analyzed individuals born SGA separately, showing that the risk of serious adverse effects is very low in individuals without predisposing risk factors, and there was no indication that rhGH therapy caused new malignancies or\n\nCase Study\n\n\n\n4.6\n\ndiabetes. On the contrary, short children born SGA with obesity, accelerated catch-up growth and/or familial diabetes are considered a subgroup with a higher risk of metabolic disorder in the long-term follow-up [134].\n\nFinally, additional complications described for rhGH therapy, include orthope dic problems such as scoliosis (inci dence—148/100,000) and slipped capital femoral epiphysis (15–19/100,000), especially in obese children and secondary intracranial hypertension (81/100,000) [138].\n\nMost patients without GH deficiency should cease rhGH treatment when near adult height is achieved, defined as growth velocity below 2 cm/year and/or bone maturation above 14 years in girls and 16 years in boys. The rationale for timely suspension lies in avoiding unnecessary exposure to rhGH when it no longer stimulates growth, preventing the occurrence of acromegaloid changes, and reducing cost. Treatment should be discontin ued or interrupted before adult height attain ment when the growth response is poor (height velocity <−1 SDS/age and sex), there is a severe adverse event, or a diagnosis is uncov ered with a high risk of malignancy [74].\n\nPresently there is no indication for con tinuing rhGH after epiphyseal closure. However, recent guidelines recommend that previously rhGH-treated young adults born SGA should maintain or adopt a healthy diet and lifestyle with regular exercise to avoid excessive weight gain in order to prevent met abolic and/or cardiovascular disease [74].\n\n\n\n\n\n4.6\n\n\n## PDF page 128 | printed page 111\n\n\n\n### 4.8 Summary\n\nThere are many reasons why a child is born SGA; at least half the time, the cause is not evident. Nevertheless, 80–90% of the children will show improved growth after birth and reach heights in the normal range by age 2 years. For those that remain short, stature below the 3rd percentile is likely to persist. Growth hormone treatment is effective at stimulating growth and improving adult height and is generally safe. Tests of growth hormone\n\nsecretion and action are typically not helpful in making specific diagnoses or predicting the response to treatment in this population. Careful monitoring during treatment and attention to appropriate dosing are important because responses are variable. Some patients will not respond sufficiently, and treatment is unlikely to benefit them. Advances in our abil ity to make specific diagnoses using molecular genetic techniques will likely improve our abil ity to establish causes of IUGR and determine appropriate treatment regimens.\n\n![Source image](../../figures/ch004_p0128_01.jpg)\n\nUnmatched source image; PDF page 128. Consult the original caption.\n\n![Source image](../../figures/ch004_p0128_02.jpg)\n\nUnmatched source image; PDF page 128. Consult the original caption.\n\n![Source image](../../figures/ch004_p0128_03.jpg)\n\nUnmatched source image; PDF page 128. Consult the original caption.\n\n![Source image](../../figures/ch004_p0128_04.jpg)\n\nUnmatched source image; PDF page 128. Consult the original caption.\n\n\n## PDF page 129 | printed page 112\n\nReview Questions\n\nConsider the case study for the following questions. 1. Immediately following the birth of her\n\n2. C. According to the guidelines [74],\n\nchild, the mother asks what are the chances that her small baby will grow and be “on the growth chart” by age 2 years. Which of the following best approximates the percentage of chil dren born SGA who show such catchup growth? A. 80% B. 40% C. 20% D. 10%\n\n### 4\n\n2. At age 3 years, growth hormone ther\n\napy is being considered. Which of the following tests should be performed at this time if not done previously? A. Sweat chloride B. Test of growth hormone release C. Karyotype D. Oral glucose tolerance test\n\n3. D. The idea that the short child or an\n\n3. GH treatment is initiated at age 3 years\n\nat a weight-based dose of 33 μg/kg/day. Substantial catch-up growth occurred and at age 4 and 1⁄2, she is now at the 10th percentile for height. Which of the following represents the best approach to continued management?\n\nA. Discontinue GH as she has now\n\n### References\n\nreached a height in the normal range. B. Double the dose of GH to account\n\n1. Lee AC, Katz J, Blencowe H, Cousens S, Kozuki\n\nN, Vogel JP, et al. National and regional estimates of term and preterm babies born small for gesta tional age in 138 low-income and middle-income countries 2013;1(1):e26–36. 2. Malhotra A, Allison BJ, Castillo-Melendez M,\n\nfor the declining response expected after 2 years of therapy. C. Adjust GH dose to achieve a circu\n\nlating IGF1 concentration that is within 1 standard deviation of the average for age and sex. D. Maintain the current regimen of\n\nJenkin G, Polglase GR, Miller SL. Neonatal mor bidities of fetal growth restriction: pathophysiol ogy and impact. Front Endocrinol (Lausanne). 2019;10:55. 3. Katz J, Lee AC, Kozuki N, Lawn JE, Cousens S,\n\nweight-based dosing with continu ing monitoring of growth response.\n\nBlencowe H, et al. Mortality risk in preterm and small-for-gestational-age infants in low-income and middle-income countries: a pooled country analysis. Lancet. 2013;382(9890):417–25. 4. Mendez-Figueroa H, Truong VT, Pedroza C,\n\nv Answers\n\n1. A. Although results vary by study, all\n\nfind that the majority of straightfor ward cases of IUGR show catch-up growth in the first 2 years of life. The\n\nChauhan SP. Morbidity and mortality in smallfor-gestational-age infants: a secondary analysis\n\nlargest study [12] indicated that 84% catch up by age 2.\n\nTurner syndrome needs to be excluded in short SGA girls. Patients with growth failure due to cystic fibrosis (tested by sweat chloride) do not show prenatal growth retardation. Tests of growth hormone release are only indi cated when there is suspicion. In this case, it would appear that the fetal growth retardation was a result of pla cental compromise/competition. Although one might be concerned about changes in insulin sensitivity that occur in conjunction with being born SGA and which might be aggra vated by growth hormone treatment, specific diagnostic measures such as an OGTT are not recommended.\n\nSGA would maintain a relative stature once in the normal range was dis proven scientifically [86]. The patient has responded well so there is no rea son to increase the dose which would exceed the label dose. IGF1-based dos ing has not proven advantageous in this condition.\n\nin 2010. Lancet Glob Health.\n\n\n## PDF page 130 | printed page 113\n\nof nine MFMU network studies. Am J Perinatol. 2017;34(4):323–32. 5. Chernausek SD. Update: consequences of abnor\n\n19. Gantenbein 20. Dauber 21. Finken MJJ, van der Steen M, Smeets CCJ,\n\nmal fetal growth. J Clin Endocrinol Metab. 2012;97(3):689–95. 6. Lindstrom L, Wikstrom AK, Bergman E,\n\nLundgren M. Born small for gestational age and poor school performance—how small is too small? Horm Res Paediatr. 2017;88(3–4):215–23. 7. Sacchi C, Marino C, Nosarti C, Vieno A, Visentin\n\nS, Simonelli A. Association of intrauterine growth restriction and small for gestational age status with childhood cognitive outcomes: a sys tematic review and meta-analysis. JAMA Pediatr. 2020;174(8):772–81. 8. Netchine I, van der Steen M, Lopez-Bermejo A,\n\n22. Wit JM, Oostdijk W, Losekoot M, van\n\nKoledova E, Maghnie M. New horizons in short children born small for gestational age. Front Pediatr. 2021;9:655931. 9. Gatford KL, Simmons RA. Prenatal program\n\n23. Netchine I, Azzi S, Le Bouc Y, Savage MO. IGF1\n\nming of insulin secretion in intrauterine growth restriction. Clin Obstet Gynecol. 2013;56(3):520–8. 10. Prendergast AJ, Humphrey JH. The stunting syn\n\n24. Baker J, Liu JP, Robertson EJ, Efstratiadis\n\ndrome in developing countries. Paediatr Int Child Health. 2014;34(4):250–65. 11. Christian P, Lee SE, Donahue Angel M, Adair\n\n25. DeChiara TM, Efstratiadis A, Robertson EJ. A\n\nLS, Arifeen SE, Ashorn P, et al. Risk of child hood undernutrition related to small-forgestational age and preterm birth in low- and middle-income countries. Int J Epidemiol. 2013;42(5):1340–55. 12. Albertsson-Wikland K, Karlberg J. Natural\n\n26. Liu JP, Baker J, Perkins AS, Robertson EJ,\n\ngrowth in children born small for gestational age with and without catch-up growth. Acta Paediatr Suppl. 1994;399:64–70; discussion 1. 13. Fitzhardinge PM, Steven EM. The small-for-date\n\n27. Powell-Braxton L, Hollingshead P, Warburton C,\n\ninfant. I. Later growth patterns. Pediatrics. 1972;49(5):671–81. 14. Leger J, Levy-Marchal C, Bloch J, Pinet A,\n\n28. Lau MM, Stewart CE, Liu Z, Bhatt H, Rotwein P,\n\nChevenne D, Porquet D, et al. Reduced final height and indications for insulin resistance in 20 year olds born small for gestational age: regional cohort study. BMJ. 1997;315(7104):341–7. 15. Beune IM, Bloomfield FH, Ganzevoort W,\n\n29. Wang ZQ, Fung MR, Barlow DP, Wagner\n\nEmbleton ND, Rozance PJ, van Wassenaer- Leemhuis AG, et al. Consensus based definition of growth restriction in the newborn. J Pediatr. 2018;196:71–6.e1. 16. Sovio U, White IR, Dacey A, Pasupathy D, Smith\n\n30. Fowden AL. Insulin deficiency: effects on fetal\n\nGCS. Screening for fetal growth restriction with universal third trimester ultrasonography in nul liparous women in the Pregnancy Outcome Prediction (POP) study: a prospective cohort study. Lancet. 2015;386(10008):2089–97. 17. Jee YH, Baron J. The biology of stature. J Pediatr.\n\n31. Lupu F, Terwilliger JD, Lee K, Segre GV,\n\n32. Woods KA, Camacho-Hubner C, Savage MO,\n\n2016;173:32–8. 18. Karlberg J. On the construction of the infancy-\n\nchildhood-puberty growth standard. Acta Paediatr Scand Suppl. 1989;356:26–37.\n\nKV, Kanaka-Gantenbein C. Highlighting the trajectory from intrauterine growth restriction to future obesity. Front Endocrinol (Lausanne). 2022;13:1041718. A, Rosenfeld RG, Hirschhorn JN. Genetic evaluation of short stature. J Clin Endocrinol Metab. 2014;99(9):3080–92.\n\nWalenkamp MJE, de Bruin C, Hokken-Koelega ACS, et al. Children born small for gestational age: differential diagnosis, molecular genetic eval uation, and implications. Endocr Rev. 2018;39(6):851–94.\n\nDuyvenvoorde HA, Ruivenkamp CA, Kant SG. Mechanisms in endocrinology: novel genetic causes of short stature. Eur J Endocrinol. 2016;174(4):R145–73.\n\nmolecular anomalies demonstrate its critical role in fetal, postnatal growth and brain development. Best Pract Res Clin Endocrinol Metab. 2011;25(1):181–90.\n\nA. Role of insulin-like growth factors in embry onic and postnatal growth. Cell. 1993;75(1):73–82.\n\ngrowth-deficiency phenotype in heterozygous mice carrying an insulin-like growth factor II gene disrupted by targeting. Nature. 1990;345(6270):78–80.\n\nEfstratiadis A. Mice carrying null mutations of the genes encoding insulin-like growth factor I (Igf-1) and type 1 IGF receptor (Igf1r). Cell. 1993;75(1):59–72.\n\nDowd M, Pitts-Meek S, Dalton D, et al. IGF-I is required for normal embryonic growth in mice. Genes Dev. 1993;7(12B):2609–17.\n\nStewart CL. Loss of the imprinted IGF2/cationindependent mannose 6-phosphate receptor results in fetal overgrowth and perinatal lethality. Genes Dev. 1994;8(24):2953–63.\n\nEF. Regulation of embryonic growth and lyso somal targeting by the imprinted Igf2/Mpr gene. Nature. 1994;372(6505):464–7.\n\ngrowth and development. J Paediatr Child Health. 1993;29(1):6–11.\n\nEfstratiadis A. Roles of growth hormone and insulin-like growth factor 1 in mouse postnatal growth. Dev Biol. 2001;229(1):141–62.\n\nClark AJ. Intrauterine growth retardation and postnatal growth failure associated with deletion of the insulin-like growth factor I gene. N Engl J Med. 1996;335(18):1363–7.\n\n\n## PDF page 131 | printed page 114\n\n33. Walenkamp MJ, Losekoot M, Wit JM. Molecular\n\nIGF-1 and IGF-1 receptor defects: from genetics to clinical management. Endocr Dev. 2013;24:128–37. 34. Bonapace G, Concolino D, Formicola S,\n\n46. Taylor SI, Cama A, Accili D, Barbetti F, Quon\n\nStrisciuglio P. A novel mutation in a patient with insulin-like growth factor 1 (IGF1) deficiency. J Med Genet. 2003;40(12):913–7. 35. Abu-Amero S, Monk D, Frost J, Preece M,\n\n47. Polak M, Cave H. Neonatal diabetes mellitus: a\n\nStanier P, Moore GE. The genetic aetiology of Silver-Russell syndrome. J Med Genet. 2008;45(4):193–9. 36. Gicquel C, Rossignol S, Cabrol S, Houang M,\n\n### 4\n\n48. Bagby GC, Alter BP. Fanconi anemia. Semin\n\nSteunou V, Barbu V, et al. Epimutation of the telomeric imprinting center region on chromo some 11p15 in Silver-Russell syndrome. Nat Genet. 2005;37(9):1003–7. 37. Netchine I, Rossignol S, Dufourg MN, Azzi S,\n\n49. Wang W. Emergence of a DNA-damage response\n\n50. Kaneko H, Kondo N. Clinical features of Bloom\n\nRousseau A, Perin L, et al. 11p15 imprinting cen ter region 1 loss of methylation is a common and specific cause of typical Russell-Silver syndrome: clinical scoring system and epigenetic-phenotypic correlations. J Clin Endocrinol Metab. 2007;92(8):3148–54. 38. Abuzzahab MJ, Schneider A, Goddard A,\n\n51. van der Steen M, Pfundt R, Maas S, Bakker-van\n\nGrigorescu F, Lautier C, Keller E, et al. IGF-I receptor mutations resulting in intrauterine and postnatal growth retardation. N Engl J Med. 2003;349(23):2211–22. 39. Kawashima Y, Takahashi S, Kanzaki S. Familial\n\n52. Rosenfeld RG, Rosenbloom AL, Guevara-\n\nshort stature with IGF-I receptor gene anomaly. Endocr J. 2012;59(3):179–85. 40. Edghill EL, Flanagan SE, Patch AM, Boustred\n\n53. Hwa V, Fujimoto M, Zhu G, Gao W, Foley C,\n\nC, Parrish A, Shields B, et al. Insulin mutation screening in 1,044 patients with diabetes: muta tions in the INS gene are a common cause of neo natal diabetes but a rare cause of diabetes diagnosed in childhood or adulthood. Diabetes. 2008;57(4):1034–42. 41. Babenko AP, Polak M, Cave H, Busiah K,\n\n54. Hawkes CP, Murray DM, Kenny LC, Kiely M,\n\nCzernichow P, Scharfmann R, et al. Activating mutations in the ABCC8 gene in neonatal diabe tes mellitus. N Engl J Med. 2006;355(5):456–66. 42. Gloyn AL, Pearson ER, Antcliff JF, Proks P,\n\n55. Lassarre C, Hardouin S, Daffos F, Forestier F,\n\nBruining GJ, Slingerland AS, et al. Activating mutations in the gene encoding the ATP-sensitive potassium-channel subunit Kir6.2 and perma nent neonatal diabetes. N Engl J Med. 2004;350(18):1838–49. 43. Gloyn AL, Siddiqui J, Ellard S. Mutations in the\n\n56. Reece EA, Wiznitzer A, Le E, Homko CJ,\n\ngenes encoding the pancreatic beta-cell KATP channel subunits Kir6.2 (KCNJ11) and SUR1 (ABCC8) in diabetes mellitus and hyperinsulin ism. Hum Mutat. 2006;27(3):220–31. 44. Arima T, Drewell RA, Arney KL, Inoue J, Makita\n\n57. Karlberg JP, Albertsson-Wikland K, Kwan EY,\n\nY, Hata A, et al. A conserved imprinting control region at the HYMAI/ZAC domain is implicated in transient neonatal diabetes mellitus. Hum Mol Genet. 2001;10(14):1475–83. 45. Accili D, Barbetti F, Cama A, Kadowaki H,\n\n58. Campisi SC, Carbone SE, Zlotkin S. Catch-up\n\nKadowaki T, Imano E, et al. Mutations in the\n\ninsulin receptor gene in patients with genetic syn dromes of insulin resistance and acanthosis nigri cans. J Invest Dermatol. 1992;98(6 Suppl):77S–81S.\n\nMJ, de la Luz SM, et al. Mutations in the insu lin receptor gene. Endocr Rev. 1992;13(3):566–95.\n\ndisease linked to multiple mechanisms. Orphanet J Rare Dis. 2007;2:12.\n\nHematol. 2006;43(3):147–56.\n\nnetwork consisting of Fanconi anaemia and BRCA proteins. Nat Rev Genet. 2007;8(10):735–48.\n\nsyndrome and function of the causative gene, BLM helicase. Expert Rev Mol Diagn. 2004;4(3):393–401.\n\nWaarde WM, Odink RJ, Hokken-Koelega ACS. ACAN gene mutations in short children born SGA and response to growth hormone treatment. J Clin Endocrinol Metab. 2017;102(5):1458–67.\n\nAguirre J. Growth hormone (GH) insensitivity due to primary GH receptor deficiency. Endocr Rev. 1994;15(3):369–90.\n\nKumbaji M, et al. Genetic causes of growth hor mone insensitivity beyond GHR. Rev Endocr Metab Disord. 2021;22(1):43–58.\n\nO’B Hourihane J, Irvine AD, et al. Correlation of insulin-like growth factor-I and -II concentra tions at birth measured by mass spectrometry and growth from birth to two months. Horm Res Paediatr. 2018;89(2):122–31.\n\nFrankenne F, Binoux M. Serum insulin-like growth factors and insulin-like growth factor binding proteins in the human fetus. Relationships with growth in normal subjects and in subjects with intrauterine growth retardation. Pediatr Res. 1991;29(3):219–25.\n\nBehrman H, Spencer EM. The relation between human fetal growth and fetal blood levels of insulin-like growth factors I and II, their binding proteins, and receptors. Obstet Gynecol. 1994;84(1):88–95.\n\nLam BC, Low LC. The timing of early postnatal catch-up growth in normal, full-term infants born short for gestational age. Horm Res. 1997;48(Suppl 1):17–24.\n\ngrowth in full-term small for gestational age\n\n\n## PDF page 132 | printed page 115\n\ninfants: a systematic review. Adv Nutr. 2019;10(1):104–11. 59. Binkin NJ, Yip R, Fleshood L, Trowbridge\n\n71. Ranke MB. Sensitivity to IGF-I in short children\n\nFL. Birth weight and childhood growth. Pediatrics. 1988;82(6):828–34. 60. Sisley S, Trujillo MV, Khoury J, Backeljauw\n\n72. Cutfield WS, Hofman PL, Vickers M, Breier B,\n\nP. Low incidence of pathology detection and high cost of screening in the evaluation of asymptom atic short children. J Pediatr. 2013;163(4):1045–51. 61. Fitzhardinge PM, Inwood S. Long-term growth\n\nin small-for-date children. Acta Paediatr Scand Suppl. 1989;349:27–33; discussion 4. 62. Hokken-Koelega AC, De Ridder MA, Lemmen\n\n73. Chatelain PG, Nicolino M, Claris O, Salle B,\n\nRJ, Den Hartog H, De Muinck Keizer-Schrama SM, Drop SL. Children born small for gesta tional age: do they catch up? Pediatr Res. 1995;38(2):267–71. 63. Renes JS, van Doorn J, Hokken-Koelega\n\n74. Hokken-Koelega ACS, van der Steen M,\n\nACS. Current insights into the role of the growth hormone-insulin-like growth factor system in short children born small for gestational age. Horm Res Paediatr. 2019;92(1):15–27. 64. Boguszewski M, Rosberg S, Albertsson-Wikland\n\n75. Canton AP, Costa SS, Rodrigues TC, Bertola\n\nK. Spontaneous 24-hour growth hormone pro files in prepubertal small for gestational age chil dren. J Clin Endocrinol Metab. 1995;80(9):2599–606. 65. de Waal WJ, Hokken-Koelega AC, Stijnen T, de\n\n76. Collett-Solberg PF, Ambler G, Backeljauw PF,\n\nMuinck Keizer-Schrama SM, Drop SL. Endogenous and stimulated GH secretion, urinary GH excretion, and plasma IGF-I and IGF-II levels in prepubertal children with short stature after intrauterine growth retardation. The Dutch Working Group on Growth Hormone. Clin Endocrinol (Oxf). 1994;41(5):621–30. 66. Frank GR, Cheung PT, Horn JA, Alfaro MP,\n\n77. Yengo L, Vedantam S, Marouli E, Sidorenko J,\n\nSmith EP, Chernausek SD. Predicting the growth response to growth hormone in patients with intrauterine growth retardation. Clin Endocrinol (Oxf). 1996;44(6):679–85. 67. Hindmarsh PC, Smith PJ, Pringle PJ, Brook\n\n78. Boguszewski MC, Mericq V, Bergada I, Damiani\n\n79. Tanaka T, Yokoya S, Nishi Y, Hasegawa Y,\n\nCG. The relationship between the response to growth hormone therapy and pre-treatment growth hormone secretory status. Clin Endocrinol (Oxf). 1988;28(5):559–63. 68. Azcona C, Albanese A, Bareille P, Stanhope\n\n80. Foley 81. Grunt JA, Enriquez AR, Daughaday WH. Acute\n\nR. Growth hormone treatment in growth hormone-sufficient and -insufficient children with intrauterine growth retardation/Russell-Silver syndrome. Horm Res. 1998;50(1):22–7. 69. Boguszewski M, Albertsson-Wikland K, Aronsson S, Gustafsson J, Hagenas L, Westgren U, et al. Growth hormone treatment of short chil dren born small-for-gestational-age: the Nordic Multicentre Trial. Acta Paediatr. 1998;87(3):257–63. 70. Sas T, de Waal W, Mulder P, Houdijk M, Jansen\n\n82. Lanes R, Plotnick LP, Lee PA. Sustained effect of\n\nM, Reeser M, et al. Growth hormone treatment in children with short stature born small for ges tational age: 5-year results of a randomized,\n\n83. Tanner JM, Lejarraga H, Cameron N. The natu\n\ndouble-blind, dose-response trial. J Clin Endocrinol Metab. 1999;84(9):3064–70.\n\nborn small for gestational age. J Endocrinol Investig. 2006;29(1 Suppl):21–6.\n\nBlum WF, Robinson EM. IGFs and binding pro teins in short children with intrauterine growth retardation. J Clin Endocrinol Metab. 2002;87(1):235–9.\n\nChaussain J. Multiple hormone resistance in short children born with intrauterine growth retardation? Horm Res. 1998;49(Suppl 2):20–2.\n\nBoguszewski MCS, Cianfarani S, Dahlgren J, Horikawa R, et al. International consensus guide line on small for gestational age (SGA): etiology and management from infancy to early adult hood. Endocr Rev. 2023;44:539.\n\nDR, Malaquias AC, Correa FA, et al. Genomewide screening of copy number variants in chil dren born small for gestational age reveals several candidate genes involved in growth pathways. Eur J Endocrinol. 2014;171(2):253–62.\n\nBidlingmaier M, Biller BMK, Boguszewski MCS, et al. Diagnosis, genetics, and therapy of short stature in children: a Growth Hormone Research Society international perspective. Horm Res Paediatr. 2019;92(1):1–14.\n\nBartell E, Sakaue S, et al. A saturated map of common genetic variants associated with human height. Nature. 2022;610(7933):704–12.\n\nD, Belgorosky A, Gunczler P, et al. Latin American consensus: children born small for ges tational age. BMC Pediatr. 2011;11:66.\n\nYorifuji T, Fujieda K, et al. Guideline for growth hormone therapy in children with small-for-gestational-age short stature. J Jpn Pediatr Soc. 2007;111:641–6. TP Jr, Thompson RG, Shaw M, Baghdassarian A, Nissley SP, Blizzard RM. Growth responses to human growth hor mone in patients with intrauterine growth retar dation. J Pediatr. 1974;84(5):635–41.\n\nand long term responses to hGH in children with idiopathic small-for-dates dwarfism. J Clin Endocrinol Metab. 1972;35(1):157–68.\n\nhuman growth hormone therapy on children with intrauterine growth retardation. Pediatrics. 1979;63(5):731–5.\n\nral history of the Silver-Russell syndrome: a lon\n\n\n## PDF page 133 | printed page 116\n\ngitudinal study of thirty-nine cases. Pediatr Res. 1975;9(8):611–23. 84. Stanhope R, Preece MA, Hamill G. Does growth\n\n96. van Dijk M, Mulder P, Houdijk M, Mulder J,\n\nhormone treatment improve final height attain ment of children with intrauterine growth retar dation? Arch Dis Child. 1991;66(10):1180–3. 85. Maiorana A, Cianfarani S. Impact of growth\n\nhormone therapy on adult height of children born small for gestational age. Pediatrics. 2009;124(3):e519–31. 86. de Zegher F, Albertsson-Wikland K, Wollmann\n\n97. Wit JM, Deeb A, Bin-Abbas B, Al Mutair A,\n\n### 4\n\nHA, Chatelain P, Chaussain JL, Lofstrom A, et al. Growth hormone treatment of short chil dren born small for gestational age: growth responses with continuous and discontinuous regimens over 6 years. J Clin Endocrinol Metab. 2000;85(8):2816–21. 87. Lem AJ, van der Kaay DC, de Ridder MA,\n\n98. Allen DB, Backeljauw P, Bidlingmaier M, Biller\n\nBakker-van Waarde WM, van der Hulst FJ, Mulder JC, et al. Adult height in short children born SGA treated with growth hormone and gonadotropin releasing hormone analog: results of a randomized, dose-response GH trial. J Clin Endocrinol Metab. 2012;97(11):4096–105. 88. Nilsson O, Baron J. Fundamental limits on longi\n\n99. Cohen P, Weng W, Rogol AD, Rosenfeld RG,\n\ntudinal bone growth: growth plate senescence and epiphyseal fusion. Trends Endocrinol Metab. 2004;15(8):370–4. 89. Cavallo F, Mohn A, Chiarelli F, Giannini\n\n100. Jensen RB, Thankamony A, O’Connell SM, Kirk\n\nC. Evaluation of bone age in children: a minireview. Front Pediatr. 2021;9:580314. 90. Wakeling EL, Brioude F, Lokulo-Sodipe O,\n\nO’Connell SM, Salem J, Bliek J, et al. Diagnosis and management of Silver-Russell syndrome: first international consensus statement. Nat Rev Endocrinol. 2017;13(2):105–24. 91. Miller BS, Velazquez E, Yuen KCJ. Long-acting\n\n101. Johannsson G, Bidlingmaier M, Biller BMK,\n\ngrowth hormone preparations—current status and future considerations. J Clin Endocrinol Metab. 2020;105(6):e2121–33. 92. Van Pareren Y, Mulder P, Houdijk M, Jansen M,\n\n102. Ballerini MG, Braslavsky D, Scaglia PA,\n\nReeser M, Hokken-Koelega A. Adult height after long-term, continuous growth hormone (GH) treatment in short children born small for gesta tional age: results of a randomized, double-blind, dose-response GH trial. J Clin Endocrinol Metab. 2003;88(8):3584–90. 93. Ranke MB, Lindberg A, Board KI. Prediction\n\n103. Arends NJ, Boonstra VH, Duivenvoorden HJ,\n\nmodels for short children born small for gesta tional age (SGA) covering the total growth phase. Analyses based on data from KIGS (Pfizer International Growth Database). BMC Med Inform Decis Mak. 2011;11:38. 94. Wit JM, Ranke MB, Albertsson-Wikland K,\n\n104. Lebl J, Lebenthal Y, Kolouskova S, Steensberg A,\n\nCarrascosa A, Rosenfeld RG, Van Buuren S, et al. Personalized approach to growth hormone treat ment: clinical use of growth prediction models. Horm Res Paediatr. 2013;79(5):257–70. 95. Savendahl L, Pournara E, Pedersen BT, Blankenstein O. Is safety of childhood growth hormone therapy related to dose? Data from a\n\n105. Kappelgaard AM, Kiyomi F, Horikawa R,\n\nlarge observational study. Eur J Endocrinol. 2016;174(5):681–91.\n\nNoordam K, Odink RJ, et al. High serum levels of growth hormone (GH) and insulin-like growth factor-I (IGF-I) during high-dose GH treatment in short children born small for gestational age. J Clin Endocrinol Metab. 2006;91(4):1390–6.\n\nKoledova E, Savage MO. Achieving optimal short- and long-term responses to paediatric growth hormone therapy. J Clin Res Pediatr Endocrinol. 2019;11(4):329–40.\n\nBM, Boguszewski M, Burman P, et al. GH safety workshop position paper: a critical appraisal of recombinant human GH therapy in children and adults. Eur J Endocrinol. 2016;174(2):P1–9.\n\nKappelgaard AM, Germak J. Dose-sparing and safety-enhancing effects of an IGF-I-based dos ing regimen in short children treated with growth hormone in a 2-year randomized controlled trial: therapeutic and pharmacoeconomic consider ations. Clin Endocrinol (Oxf). 2014;81(1):71–6.\n\nJ, Donaldson M, Ivarsson SA, et al. A ran domised controlled trial evaluating IGF1 titra tion in contrast to current GH dosing strategies in children born small for gestational age: the North European Small-for-Gestational-Age Study. Eur J Endocrinol. 2014;171(4):509–18.\n\nBoguszewski M, Casanueva FF, Chanson P, et al. Growth Hormone Research Society perspective on biomarkers of GH action in children and adults. Endocr Connect. 2018;7(3):R126–R34.\n\nKeselman A, Rodriguez ME, Martinez A, et al. Circulating IGF-I, IGFBP-3 and the IGF-I/ IGFBP-3 molar ratio concentration and height outcome in prepubertal short children on rhGH treatment over two years of therapy. Horm Res Paediatr. 2017;88(5):354–63.\n\nHofman PL, Cutfield WS, Hokken-Koelega AC. Reduced insulin sensitivity and the presence of cardiovascular risk factors in short prepuber tal children born small for gestational age (SGA). Clin Endocrinol (Oxf). 2005;62(1):44–50.\n\nJons K, Kappelgaard AM, et al. Metabolic impact of growth hormone treatment in short children born small for gestational age. Horm Res Paediatr. 2011;76(4):254–61.\n\nYokoya S, Tanaka T. The impact of long-term growth hormone treatment on metabolic param eters in Japanese patients with short stature born small for gestational age. Horm Res Paediatr. 2014;81(4):272–9.\n\n\n## PDF page 134 | printed page 117\n\n106. de Kort SW, Willemsen RH, van der Kaay DC,\n\n117. Bannink E, Djurhuus CB, Christensen T, Jons K,\n\nHokken-Koelega AC. The effect of growth hor mone treatment on metabolic and cardiovascular risk factors is similar in preterm and term short, small for gestational age children. Clin Endocrinol (Oxf). 2009;71(1):65–73. 107. van der Steen M, Hokken-Koelega AC. Growth\n\n118. Bannink EM, van Pareren YK, Theunissen NC,\n\nand metabolism in children born small for gesta tional age. Endocrinol Metab Clin N Am. 2016;45(2):283–94. 108. Koledova E, Tornincasa V, van Dommelen\n\n119. Ranke MB. Short and long-term effects of growth\n\nP. Analysis of real-world data on growth hor mone therapy adherence using a connected injec tion device. BMC Med Inform Decis Mak. 2020;20(1):176. 109. Cutfield WS, Derraik JG, Gunn AJ, Reid K,\n\n120. Maneatis T, Baptista J, Connelly K, Blethen\n\nDelany T, Robinson E, et al. Non-compliance with growth hormone treatment in children is common and impairs linear growth. PLoS One. 2011;6(1):e16223. 110. Lazar L, Pollak U, Kalter-Leibovici O, Pertzelan\n\n121. Barker DJ. The fetal origins of type 2 diabetes\n\n122. Saenger P, Czernichow P, Hughes I, Reiter\n\nA, Phillip M. Pubertal course of persistently short children born small for gestational age (SGA) compared with idiopathic short children born appropriate for gestational age (AGA). Eur J Endocrinol. 2003;149(5):425–32. 111. Upners EN, Raket LL, Petersen JH, Thankamony\n\n123. Hofman PL, Cutfield WS, Robinson EM,\n\nA, Roche E, Shaikh G, et al. Timing of puberty, pubertal growth, and adult height in short chil dren born small for gestational age treated with growth hormone. J Clin Endocrinol Metab. 2022;107(8):2286–95. 112. Bangalore Krishna K, Fuqua JS, Rogol AD,\n\n124. Sas T, Mulder P, Aanstoot HJ, Houdijk M, Jansen\n\nKlein KO, Popovic J, Houk CP, et al. Use of gonadotropin-releasing hormone analogs in chil dren: update by an international consortium. Horm Res Paediatr. 2019;91(6):357–72. 113. Dahlgren J, Wikland KA, Swedish Study Group\n\n125. van Dijk M, Bannink EM, van Pareren YK,\n\nfor Growth Hormone Treatment. Final height in short children born small for gestational age treated with growth hormone. Pediatr Res. 2005;57(2):216–22. 114. Sas T, Mulder P, Hokken-Koelega A. Body com\n\n126. GH Research Society. Consensus guidelines for\n\nposition, blood pressure, and lipid metabolism before and during long-term growth hormone (GH) treatment in children with short stature born small for gestational age either with or with out GH deficiency. J Clin Endocrinol Metab. 2000;85(10):3786–92. 115. Horikawa R, Tanaka T, Nishinaga H, Ogawa Y,\n\n127. Boguszewski MCS, Boguszewski CL, Chemaitilly\n\nYokoya S. The influence of a long-term growth hormone treatment on lipid and glucose metabo lism: a randomized trial in short Japanese chil dren born small for gestational age. Int J Pediatr Endocrinol. 2016;2016:19. 116. Smeets CCJ, van der Steen M, Renes JS, Hokken-\n\n128. Shalet SM, Brennan BM, Reddingius RE. Growth\n\n129. Swerdlow AJ, Reddingius RE, Higgins CD,\n\nKoelega ACS. Bone mineral density after cessa tion of GH treatment in young adults born SGA: a 5-year longitudinal study. J Clin Endocrinol Metab. 2017;102(9):3508–16.\n\nHokken-Koelega A. Adult height and healthrelated quality of life after growth hormone ther apy in small for gestational age subjects. J Med Econ. 2010;13(2):221–7.\n\nRaat H, Mulder PG, Hokken-Koelega AC. Quality of life in adolescents born small for gestational age: does growth hormone make a dif ference? Horm Res. 2005;64(4):166–74.\n\nhormone in children and adolescents with GH deficiency. Front Endocrinol (Lausanne). 2021;12:720419.\n\nS. Growth hormone safety update from the National Cooperative Growth Study. J Pediatr Endocrinol Metab. 2000;13(Suppl 2):1035–44.\n\nmellitus. Ann Intern Med. 1999;130(4 Pt 1):322–4.\n\nEO. Small for gestational age: short stature and beyond. Endocr Rev. 2007;28(2):219–51.\n\nBergman RN, Menon RK, Sperling MA, et al. Insulin resistance in short children with intrauter ine growth retardation. J Clin Endocrinol Metab. 1997;82(2):402–6.\n\nM, Reeser M, et al. Carbohydrate metabolism during long-term growth hormone treatment in children with short stature born small for gesta tional age. Clin Endocrinol (Oxf). 2001;54(2):243–51.\n\nMulder PG, Hokken-Koelega AC. Risk factors for diabetes mellitus type 2 and metabolic syn drome are comparable for previously growth hormone-treated young adults born small for ges tational age (SGA) and untreated short SGA con trols. J Clin Endocrinol Metab. 2007;92(1):160–5.\n\nthe diagnosis and treatment of growth hormone (GH) deficiency in childhood and adolescence: summary statement of the GH Research Society. J Clin Endocrinol Metab. 2000;85(11):3990–3.\n\nW, Cohen LE, Gebauer J, Higham C, et al. Safety of growth hormone replacement in survivors of cancer and intracranial and pituitary tumours: a consensus statement. Eur J Endocrinol. 2022;186(6):P35–52.\n\nhormone therapy and malignancy. Horm Res. 1997;48(Suppl 4):29–32.\n\nSpoudeas HA, Phipps K, Qiao Z, et al. Growth hormone treatment of children with brain tumors and risk of tumor recurrence. J Clin Endocrinol Metab. 2000;85(12):4444–9.\n\n\n## PDF page 135 | printed page 118\n\n130. Chan JM, Stampfer MJ, Giovannucci E, Gann\n\nPH, Ma J, Wilkinson P, et al. Plasma insulin-like growth factor-I and prostate cancer risk: a pro spective study. Science. 1998;279(5350):563–6. 131. Hankinson SE, Willett WC, Colditz GA, Hunter\n\n135. Swerdlow AJ, Cooke R, Albertsson-Wikland K,\n\nDJ, Michaud DS, Deroo B, et al. Circulating con centrations of insulin-like growth factor-I and risk of breast cancer. Lancet. 1998;351(9113):1393–6. 132. Khandwala HM, McCutcheon IE, Flyvbjerg A,\n\n136. Carel JC, Ecosse E, Landier F, Meguellati-\n\n### 4\n\nFriend KE. The effects of insulin-like growth fac tors on tumorigenesis and neoplastic growth. Endocr Rev. 2000;21(3):215–44. 133. Raman S, Grimberg A, Waguespack SG, Miller\n\nBS, Sklar CA, Meacham LR, et al. Risk of neo plasia in pediatric patients receiving growth hor mone therapy—a report from the Pediatric Endocrine Society Drug and Therapeutics Committee. J Clin Endocrinol Metab. 2015;100(6):2192–203. 134. Savendahl L, Cooke R, Tidblad A, Beckers D,\n\n137. Poidvin A, Touze E, Ecosse E, Landier F, Bejot Y,\n\n138. Ranke\n\nButler G, Cianfarani S, et al. Long-term mortal ity after childhood growth hormone treatment:\n\nthe SAGhE cohort study. Lancet Diabetes Endocrinol. 2020;8(8):683–92.\n\nBorgstrom B, Butler G, Cianfarani S, et al. Description of the SAGhE cohort: a large European study of mortality and cancer inci dence risks after childhood treatment with recom binant growth hormone. Horm Res Paediatr. 2015;84(3):172–83.\n\nHakkas D, Kaguelidou F, Rey G, et al. Longterm mortality after recombinant growth hormone treatment for isolated growth hormone deficiency or childhood short stature: preliminary report of the French SAGhE study. J Clin Endocrinol Metab. 2012;97(2):416–25.\n\nGiroud M, et al. Growth hormone treatment for childhood short stature and risk of stroke in early adulthood. Neurology. 2014;83(9):780–6. M. KIGS: 20 years. Horm Res. 2007;68(Suppl 5):40.\n"
+}

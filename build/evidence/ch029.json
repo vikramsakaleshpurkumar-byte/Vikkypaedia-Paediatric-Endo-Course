@@ -1,0 +1,1285 @@
+{
+  "num": 29,
+  "source_label": "29",
+  "title": "Hypoglycemia",
+  "start": 792,
+  "group": "VI: Pediatric Metabolic Disorders",
+  "columns": 2,
+  "end": 808,
+  "printed_start": 791,
+  "page_views": [],
+  "pdf_start": 792,
+  "pdf_end": 808,
+  "pages": [
+    792,
+    793,
+    794,
+    795,
+    796,
+    797,
+    798,
+    799,
+    800,
+    801,
+    802,
+    803,
+    804,
+    805,
+    806,
+    807,
+    808
+  ],
+  "printed_end": 807,
+  "paragraphs": [
+    {
+      "text": "Katherine Lord, Diva D. De León, and Charles A. Stanley",
+      "heading": "Hypoglycemia",
+      "pdf_page": 792,
+      "printed_page": 791
+    },
+    {
+      "text": "29.3.1 Insulin-Mediated Hypoglycemia – 794 29.3.2 Hormone Deficiencies (Isolated Cortisol and Growth Hormone Deficiencies) and Panhypopituitarism – 797 29.3.3 Disorders of Gluconeogenesis – 797 29.3.4 Glycogen Storage Disorders (GSD) – 797 29.3.5 Fatty Acid Oxidation Defects – 798 29.3.6 Ketotic Hypoglycemia – 798 29.3.7 Post-fundoplication Hyperinsulinemic Hypoglycemia – 799",
+      "heading": "29.3 Specific Disorders – 794",
+      "pdf_page": 792,
+      "printed_page": 791
+    },
+    {
+      "text": "29.5.1 Formal Fasting Test Protocol – 800 29.5.2 Other Tests – 801",
+      "heading": "29.5 Diagnostic Evaluation – 799",
+      "pdf_page": 792,
+      "printed_page": 791
+    },
+    {
+      "text": "29.7.1 Selected Drugs for Hypoglycemic Disorders – 802",
+      "heading": "29.7 Treatment – 802",
+      "pdf_page": 792,
+      "printed_page": 791
+    },
+    {
+      "text": "Hypoglycemia is a medical emergency that may result in seizures, permanent brain dam age, or even sudden death. Hypoglycemia can be the presenting sign of a large list of pathol ogies, and therefore, it is necessary to have a comprehensive and systematic strategy for diagnosis and therapy. This chapter presents an approach to disorders of hypoglycemia based on the metabolic and endocrine systems involved in successful adaptation to fasting. This “fasting systems” approach takes advan tage of the fact that almost all of the hypogly cemia problems in infants and children involve fasting. Since the integrity of these fasting systems is reflected in plasma levels of major fuels and counter-regulatory hormones at the time of hypoglycemia, the most important specimens for diagnosis are the ones obtained at the time of hypoglycemia, which is known as the “critical sample.”",
+      "heading": "29.1 Introduction and Background",
+      "pdf_page": 793,
+      "printed_page": 792
+    },
+    {
+      "text": "Within 1–2 h after birth, plasma glucose concentrations in newborns decrease to a nadir of 55–60 mg/dL [1]. A study of healthy newborns found a mean glucose of 59 +/− 11 mg/dL during the 48 h of life. However, by 72–96 h of life, the mean glucose was 82 +/− 12 mg/dL [2, 3]. Thus, the physiological plasma glucose range in neonates after the first 3–4 days of life is not different than that for older children and adults (70–100 mg/dL). When plasma glucose decreases below this threshold, the glucose counter-regulatory sys tems are activated. A critical sample obtained when plasma glucose is <50 mg/dL reflects the metabolic response to hypoglycemia and allows the determination of the underlying cause of hypoglycemia.",
+      "heading": "29.1 Introduction and Background",
+      "pdf_page": 793,
+      "printed_page": 792
+    },
+    {
+      "text": "In infants and children, hypoglycemia, with few exceptions, is almost always fasting hypo glycemia. The physiology of normal success ful fasting adaptation provides a useful framework that encompasses the diagnosis and treatment of potential hypoglycemia dis orders [2].",
+      "heading": "29.2 Etiology",
+      "pdf_page": 793,
+      "printed_page": 792
+    },
+    {
+      "text": "29.1 29.2",
+      "heading": "29.2 Etiology",
+      "pdf_page": 793,
+      "printed_page": 792
+    },
+    {
+      "text": "29.1",
+      "heading": "29.2 Etiology",
+      "pdf_page": 793,
+      "printed_page": 792
+    },
+    {
+      "text": "cogenolysis, supplemented by hepatic gluco neogenesis utilizing amino acids released by muscle protein turnover. After 12–16 h in nor mal infants (24–36 h in adults), glucose pro duction declines, since the supply of liver glycogen is limited and the rate of gluconeo genesis from amino acids remains constant. At this time, a transition to fat as the major fuel for the body begins, with accelerated adi pose tissue lipolysis and increased fatty acid oxidation in muscle and ketogenesis in liver. The brain cannot utilize fatty acids directly; therefore, ketones (β-hydroxybutyrate and",
+      "heading": "29.2 Etiology",
+      "pdf_page": 794,
+      "printed_page": 793
+    },
+    {
+      "text": "acetoacetate) provide an alternative fatderived fuel for the brain and permit a reduc tion of brain glucose consumption and the drain on essential muscle proteins. In late stages of fasting adaptation, fatty acid oxida tion and ketone utilization account for 90% of total oxygen consumption.",
+      "heading": "29.2 Etiology",
+      "pdf_page": 794,
+      "printed_page": 793
+    },
+    {
+      "text": "29.3",
+      "heading": "29.2 Etiology",
+      "pdf_page": 794,
+      "printed_page": 793
+    },
+    {
+      "text": "4",
+      "heading": "29.2 Etiology",
+      "pdf_page": 794,
+      "printed_page": 793
+    },
+    {
+      "text": "Insulin is the most important regulatory hor mone, and dysregulated insulin secretion with failure to suppress insulin during fasting is the most common cause of persistent hypoglyce mia in infants and children. This can be due to a genetic defect affecting the various steps involved in fuel-stimulated insulin secretion, or in the high-risk neonate precipitated by perinatal stress (IUGR, infants of mothers with preeclampsia, etc.), or an insulinproducing tumor in older children and adoles cents. The possibility of exogenous insulin administration or hypoglycemic agents should also be considered.",
+      "heading": "Hypoglycemia",
+      "pdf_page": 795,
+      "printed_page": 794
+    },
+    {
+      "text": "4",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 795,
+      "printed_page": 794
+    },
+    {
+      "text": "29.4",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 795,
+      "printed_page": 794
+    },
+    {
+      "text": "Recessive loss-of-function mutations of K",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 795,
+      "printed_page": 794
+    },
+    {
+      "text": "ATP-channel genes (ABCC8, encoding SUR1, sulfonylurea receptor; KCNJ11, encoding Kir6.2, potassium ion pore) [7, 8]. KATP-HI features include severe neonatal onset, LGA birthweight, protein-induced hypoglycemia, diazoxide unresponsiveness, and very high glucose requirement (up to 20–30 mg/kg/min).",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 795,
+      "printed_page": 794
+    },
+    {
+      "text": "Dominant loss-of-function mutations of ABCC8 and KCNJ11 [9]. Unlike the severe disease often associated with recessive muta tions in the KATP-channel, some dominant cases have milder hypoglycemia and are diazoxide-responsive. However, those patients who do not respond to diazoxide are clinically indistinguishable from those with recessive forms. Dominant ABCC8 and KCNJ11 muta tions are also associated with protein-induced hypoglycemia [10].",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 795,
+      "printed_page": 794
+    },
+    {
+      "text": "Focal hyperinsulinism [11, 12]. This is a consequence of somatic loss of heterozygosity for maternal 11p and expression of a pater nally transmitted recessive KATP-channel mutation (either ABCC8 or KCNJ11). The phenotype is very similar to recessive diffuse KATP-channel HI, and focal HI accounts for 40–60% of cases of severe diazoxideunresponsive HI [13]. Preoperative localiza tion of the lesion by 18F-fluoro-L-DOPA PET scan and resection of the lesion can result in cure of the hyperinsulinism [14–16].",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 796,
+      "printed_page": 795
+    },
+    {
+      "text": "Dominant gain-of-function mutations of glutamate dehydrogenase (GLUD1) :hyperin sulinism/hyperammonemia (HI/HA) syn drome [17–19]. Children with HI/HA typically present within the first year of life",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 796,
+      "printed_page": 795
+    },
+    {
+      "text": "but may not be diagnosed in the neonatal period as they have normal weight at birth and can fast longer than neonates with KATP-HI. HI/HA is characterized by fasting and protein-induced hypoglycemia which is diazoxide-responsive and a persistent mild hyperammonemia (plasma ammonium, 50–200 micromols/L). They also have increased rates of seizures (typically absence) and learning disabilities, which are thought to be unrelated to the hypoglycemia or the elevated ammonia levels [20].",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 796,
+      "printed_page": 795
+    },
+    {
+      "text": "Dominant gain-of-function mutations of glucokinase (GCK) [21]. Gain-of-function mutations in GCK result in a lower glucose threshold for insulin release. Children with GCK-HI have hypoglycemia of variable",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 796,
+      "printed_page": 795
+    },
+    {
+      "text": "degrees of severity and are only partially responsive to diazoxide [22].",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Aberrant expression of Hexokinase (HK1). HK1 is a high affinity glycolytic enzyme which is silenced in the pancreatic beta cell. Mutations in noncoding regions of HK1 lead to its expression in beta cells, resulting in excessive insulin secretion. Individuals with HK1-HI typically present at birth and have hypoglycemia which persists into adulthood. The majority of patients respond to diazox ide, although some have required pancreatec tomy [23].",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Recessive loss-of-function mutations of HADH (encoding SCHAD, the mitochon drial enzyme short-chain 3-hydroxyaxyl-CoA dehydrogenase) [22, 24]. In addition to its function in fatty acid oxidation, in the pancre atic beta cell, SCHAD functions as a negative regulator of glutamate dehydrogenase. Thus, similar to HI/HA, SCHAD-HI presents with fasting and protein-induced hypoglycemia, which is responsive to diazoxide therapy, but without the hyperammonemia. The biochemi cal hallmark, in addition to markers of increased insulin action, is increased levels of 3-hydroxybutyryl-carnitine in plasma and increased levels of 3-hydroxyglutarate in urine.",
+      "heading": "Hyperinsulinism (HI) [5, 6]",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Dominant loss-of-function mutations of hepatocyte nuclear factor 4 (HNF4A) and hepatocyte nuclear factor 1 (HNF1A) [25–27]. These transcription factors are well-known causes of familial monogenic diabetes (MODY1 and MODY3, respectively). More recently, it has been recognized that the phe notype in individuals with these mutations is biphasic with neonatal hypoglycemia due to hyperinsulinism and diabetes later in life. The hyperinsulinism phase can last from a few weeks to up to 8 years. Children with these forms of HI respond well to diazoxide.",
+      "heading": "29",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Dominant mutations of monocarboxylate transporter 1 (MCT1, encoded by SLC16A1) [28, 29]. Mutations in the promoter region of SLC16A1 result in aberrant expression of MCT1 in the beta cells and cause a rare form of HI, which is triggered by exercise. Characterized by episodes of hypoglycemia at the time of anaerobic exercise, MCT1-HI has been primarily identified in the Finnish popu",
+      "heading": "29",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "lation. The degree of hypoglycemia in response to exercise is variable.",
+      "heading": "29",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Dominant mutations of uncoupling protein 2 (UCP2) [30]. Loss-of-function mutations in UCP2, which encodes an inner mitochondrial membrane carrier, result in a diazoxideresponsive form of HI.",
+      "heading": "29",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Infant of a diabetic mother. Maternal hyper glycemia {XE “Maternal hyperglycemia”} triggers insulin hypersecretion by the fetal pancreatic beta cells, resulting in larger birth weight and hypoglycemia that typically resolves in 2–3 days. However, in cases com plicated by other perinatal stressors, i.e., pla cental insufficiency, the hyperinsulinism may last longer (see below).",
+      "heading": "Hyperinsulinism",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Perinatal stress-induced hyperinsulinism [31, 32]. It is associated with SGA birth weight, birth asphyxia, and maternal toxemia, and other perinatal stressors. Recent studies show that fetal hypoxia results in reduced KATP channel surface expression. Therefore, the glucose threshold for insulin release is decreased, resulting in a reduction in basal levels of plasma glucose. The hypoxic envi ronment during fetal life explains the low glu cose threshold for insulin release and transitional hypoglycemia in normal new borns, while perinatal hypoxic insults explain the more severe and prolonged hypoglycemia seen in perinatal stress-induced hyperinsulin ism (PNSHI) [33]. PNSHI can be clinically indistinguishable from the genetic forms of HI, apart from a history of perinatal insults. PNSHI typically resolves within a few weeks and rarely persists beyond the first 2–3 months of life. Most cases are responsive to treatment with diazoxide, although severe cases may require more intensive treatments [34].",
+      "heading": "Hyperinsulinism",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "Hypoglycemia due to HI can be the present ing symptom in children with Beckwith- Wiedemann syndrome (BWS), an overgrowth syndrome due to genetic or epigenetic abnor malities in the imprinted region of chromo some 11p which is close to the KATP-channel loci. The severity of the HI in BWS is vari",
+      "heading": "29.3.1.3 Syndromic Hyperinsulinism",
+      "pdf_page": 797,
+      "printed_page": 796
+    },
+    {
+      "text": "able; infants with paternal UPD11passociated HI have a persistent and severe HI phenotype compared to the transient hypo glycemia of BWS patients caused by other eti ologies [35]. Many other syndromes can be associated with HI including Turner syn drome, Kabuki syndrome, and congenital dis orders of glycosylation (CDG).",
+      "heading": "29.3.1.3 Syndromic Hyperinsulinism",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "Insulinomas are typically benign islet cell tumors, which are rarer in the pediatric popula tion than in adults. After diagnostic testing con firms evidence of insulin excess, imaging should be performed to localize the lesion. Multiple modalities (MRI, endoscopic ultrasound) may be necessary given the difficulty in localization. Resection is curative. Genetic testing for multi ple endocrine neoplasia type 1 (MEN1) should be done in any child with an insulinoma.",
+      "heading": "29.3.1.4 Insulinoma",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "Induced hypoglycemia by administration of either insulin or hypoglycemic agents should be considered in the differential of insulinmediated hypoglycemia. The clinical presen tation can be undistinguishable from endogenous forms of hyperinsulinism ; how ever, the abrupt onset of hypoglycemia of unpredictable pattern in an otherwise healthy child may trigger further investigation.",
+      "heading": "29.3.1.5 Factitous Hypoglycemia",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "Hypoglycemia from growth hormone and cortisol deficiency occurs primarily during infancy and presents as ketotic hypoglycemia. However, in the neonate, features may mimic hyperinsulinism, including high glucose requirement, low FFA and BOHB, and a gly cemic response to glucagon. This diagnosis should be suspected in neonates with the phe notype of HI, but who also have midline mal formations, microphthalmia, micropenis, or cholestatic liver disease. Low growth hormone",
+      "heading": "(Isolated Cortisol and Growth Hormone Deficiencies) and Panhypopituitarism",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "and cortisol levels obtained at the time of hypoglycemia are not diagnostic and prior to starting hormone replacement, appropriate stimulation tests should be performed to con firm the diagnosis [36], in addition to a brain MRI. In infants with midline defects, evidence of other pituitary abnormalities, and/or pitu itary defects on imaging, a low random growth hormone may be sufficient to make the diag nosis without the need for provocative testing. The hypoglycemia resolves with replacement of the missing hormones.",
+      "heading": "(Isolated Cortisol and Growth Hormone Deficiencies) and Panhypopituitarism",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "37",
+      "heading": "of Gluconeogenesis",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "29.5",
+      "heading": "of Gluconeogenesis",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "29.5",
+      "heading": "(GSD)",
+      "pdf_page": 798,
+      "printed_page": 797
+    },
+    {
+      "text": "myopathy. In contrast, GSD types VI and IX present with hypoglycemia following over night fasting, milder hepatomegaly and growth retardation, and minimal metabolic and hepatic abnormalities. Liver biopsy as the gold standard for diagnosis has been replaced by genetic mutation testing.",
+      "heading": "29",
+      "pdf_page": 799,
+      "printed_page": 798
+    },
+    {
+      "text": "29.6 38 39",
+      "heading": "29.3.5 Fatty Acid Oxidation Defects",
+      "pdf_page": 799,
+      "printed_page": 798
+    },
+    {
+      "text": "40",
+      "heading": "29.3.5 Fatty Acid Oxidation Defects",
+      "pdf_page": 799,
+      "printed_page": 798
+    },
+    {
+      "text": "41",
+      "heading": "29.3.5 Fatty Acid Oxidation Defects",
+      "pdf_page": 799,
+      "printed_page": 798
+    },
+    {
+      "text": "These are children, usually 1–4 years of age, with episodes of symptomatic fasting hypo glycemia, but do not have any identifiable metabolic or endocrine defect. In most instances, this can be thought of as merely a quantitative rather than a specific, qualitative abnormality of fasting adaptation. These children may simply represent the lower end",
+      "heading": "29.3.6 Ketotic Hypoglycemia",
+      "pdf_page": 799,
+      "printed_page": 798
+    },
+    {
+      "text": "of the normal distribution of fasting toler ance. Note, however, that the features of abbreviated but otherwise normal fasting response are shared by the milder glycogeno ses. Some cases of “ketotic hypoglycemia” have been found to have a mild GSD or inac tivating mutations of monocarboxylate trans porter 1 (MCT1) [42, 43].",
+      "heading": "29.3.6 Ketotic Hypoglycemia",
+      "pdf_page": 800,
+      "printed_page": 799
+    },
+    {
+      "text": "Postprandial hypoglycemia may occur in infants following fundoplication surgery for gastroesophageal reflux and may be severe enough to cause seizures and brain damage [44]. The mechanism involves rapid emptying of a meal into the small intestine, with early hyperglycemia followed by an exaggerated insulin surge and subsequent hypoglycemia, usually 1–2 h after the feed or meal. Increased secretion of the potent insulinotropic hor mone, glucagon-like peptide-1 (GLP-1), by intestinal enteroendocrine cells after a meal may, at least in part, be responsible for the postprandial hyperinsulinemia [45]. The diag nosis is made by demonstration of the typical plasma glucose and insulin patterns in response to a mixed meal or formula tolerance test. Treatment includes feeds of longer dura tion, reduced high glycemic index foods, and",
+      "heading": "Hyperinsulinemic Hypoglycemia",
+      "pdf_page": 800,
+      "printed_page": 799
+    },
+    {
+      "text": "inhibitors of gastric motility; the alpha gluco sidase inhibitor, acarbose, may be useful as a means to delay digestion and absorption of complex carbohydrates [46].",
+      "heading": "Hyperinsulinemic Hypoglycemia",
+      "pdf_page": 800,
+      "printed_page": 799
+    },
+    {
+      "text": "Older children and adults manifest Whipple’s classic triad: neurogenic and neuroglycopenic symptoms/signs of hypoglycemia, a con firmed low plasma glucose value, and resolu tion of the symptoms/signs when the glucose level is restored to normal. However, neo nates, infants, and younger children may not reliably demonstrate and/or lack the ability to communicate such symptoms and are fre quently asymptomatic, even with significant hypoglycemia. Hypoglycemic symptoms may be subtle and difficult to recognize in these age groups and include poor feeding, sweating, somnolence, apnea, and irritability. Myoclonic jerks and seizures may occur with severe hypo glycemia.",
+      "heading": "29.4 Clinical Presentation",
+      "pdf_page": 800,
+      "printed_page": 799
+    },
+    {
+      "text": "Guidelines published by the Pediatric Endocrine Society detail which infants and children require evaluation for hypoglycemia disorders [47]. High-risk neonates (LGA, SGA, perinatal stress, maternal diabetes,",
+      "heading": "29.5 Diagnostic Evaluation",
+      "pdf_page": 800,
+      "printed_page": 799
+    },
+    {
+      "text": "those with congenital syndromes and family history of genetic hypoglycemia disorders) with plasma glucoses <60 mg/dL after the first 48 h of life should undergo additional evaluation prior to discharge. Evaluation should also occur in infants and young chil dren if plasma glucose concentrations are documented to be <60 mg/dL on laboratory quality assays and in older children only if Whipple’s triad is documented.",
+      "heading": "29",
+      "pdf_page": 801,
+      "printed_page": 800
+    },
+    {
+      "text": "29.7",
+      "heading": "29",
+      "pdf_page": 801,
+      "printed_page": 800
+    },
+    {
+      "text": "The success of the fasting test requires an experienced team of nurses and physicians, a blood-drawing IV, and rapid and accurate plasma glucose monitoring (N.B. Standard bedside glucose meters are not accurate enough). The fast usually begins with an eve ning meal or feed, but may be adjusted later if very short fasting tolerance is suspected (con sider monitoring for 24 h on usual diet before starting the fasting test to assess glucose sta bility). From the beginning of the fast, moni tor plasma glucose and BOHB closely (e.g., every 3 h until <70 mg/dL, every 1 h until <60 mg/dL, then every 30 min to end). End the test at plasma glucose <50 mg/dL or when",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 801,
+      "printed_page": 800
+    },
+    {
+      "text": "bedside measurement of BOHB indicates val ues >2.5 mmol/L or a specific duration has been reached (18 h if <1 month; 24 h if 1–12 months; 36 h if >1 year; 48 h for adoles cents) or in case of any worrisome symptoms. At the end of the fast, obtain “critical sample” labs, which should include the basic metabolic panel, lactate, ammonia, insulin, c-peptide, BOHB, FFA, GH, cortisol, plasma acylcarnitine profile, plasma total and free carni tine, and urinary organic acid profile. If considering hyperinsulinism (low BOHB dur ing the fast), perform the glucagon stimula tion test, 1 mg IV, to test liver glycogen reserve (at plasma glucose <50 mg/dL, appropriate glycemic response is <30 mg/dL within 15–30 min after glucagon administration; gly cemic response above 30 mg/dL is consistent with hyperinsulinism) [4]. Caution: fasting tests are potentially hazardous provocative tests that, like the water deprivation test, must be closely monitored for patient safety. Sudden deaths during fasting tests have been reported in patients with fatty acid oxidation defects. Patients with fatty acid oxidation defects may develop life-threatening symp toms before plasma glucose levels fall below 60–65 mg/dL, including progressive lethargy, nausea, vomiting, or unexplained tachycar dia; fasts should be terminated in these cases without waiting for plasma glucose to reach 50 mg/dL.",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 801,
+      "printed_page": 800
+    },
+    {
+      "text": "29.6",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 801,
+      "printed_page": 800
+    },
+    {
+      "text": "with and without acidemia (HCO3 <16–18 vs. >16–18 mEq/L). The groups are then further divided based on the presence or absence of ketones and lactate: 1. Acidemia due to lactate accumulation typ",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "ifies defects in hepatic gluconeogenesis: glucose-6-phosphatase deficiency (GSD type I), GLUT2 deficiency, fructose-1,6diphosphatase deficiency, hereditary fruc tose intolerance, and ethanol ingestion. 2. Acidemia due to ketone accumulation typ",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "ifies normal children, ketotic hypoglyce mia (likely normal, but with shortened fasting tolerance), defects in glycogenoly sis (GSD types 0, III, VI, IX), growth hor mone and/or cortisol deficiencies, and ketone utilization defects. 3. No acidemia with ketones and free fatty",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "acids both suppressed: congenital, perina tal stress or syndromic hyperinsulinism, insulinoma, exogenous administration of insulin or oral hypoglycemic agents, and neonatal hypopituitarism. 4. No acidemia with suppressed ketones but",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "elevated free fatty acids: genetic defects in fatty acid oxidation and ketogenesis.",
+      "heading": "29.5.1 Formal Fasting Test Protocol",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "This test using tandem mass spectrometry measures the different fatty acids bound to carnitine to detect many (but not all) of the genetic defects in fatty acid oxidation. The method is now employed in most newborn screening programs using filter paper blood spots to screen for 20 or more inborn errors of metabolism. Medium-chain acyl-CoA dehy drogenase (MCAD) deficiency is particularly common (1/5000) and easily detected by this method [41].",
+      "heading": "Profile",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "Genetic testing for the most common forms of hyperinsulinism is available in commercial laboratories and should be obtained as soon as the diagnosis is confirmed. This is particu",
+      "heading": "29.5.2.2 Genetic Testing",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "larly important for infants with diazoxideunresponsive hyperinsulinism as >90% of these cases will have a KATP channel defect and, therefore, an approximately 50% likeli hood of having focal hyperinsulinism. Mutation screening is useful for glucose- 6-phosphatase deficiency, since 80% of patients have one of five common mutations. Ninety percent of MCAD patients have the common A985G mutation. In addition, for children with repeated episodes of “ketotic hypoglycemia,” genetic testing may identify those with an underlying defect in glycoge nolysis or ketone utilization.",
+      "heading": "29.5.2.2 Genetic Testing",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "Lymphoblasts or fibroblasts are useful for diagnosis of some inborn errors of metabo lism (such as fatty acid oxidation disorders) and as sources of DNA for mutation analysis for other genetic defects.",
+      "heading": "29.5.2.3 Cultured Cells",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "Severe or recurrent hypoglycemia results in neurologic dysfunction and, in rare cases, death. Therefore, early recognition and treat ment are essential to avoid neurologic damage and later risk of learning disabilities and epi lepsy. Long-term studies of HI patients have found rates of neurodevelopmental abnor malities between 26% and 48% and epilepsy between 13% and 43% [48–50]. Despite a bet ter understanding and recognition of the dis ease, individuals diagnosed with HI in the last 20 years have not demonstrated substantially improved outcomes compared to older indi viduals with HI [51]. This suggests that the neurologic insult from hypoglycemia occurs in the first several days of life and speaks about the importance of screening high-risk infants for hypoglycemia. Given the high risk of neu rocognitive dysfunction, children with HI, regardless of etiology or treatment, require periodic developmental testing.",
+      "heading": "29.6 Outcomes",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "Children with HI who undergo pancre atectomy are at increased risk of developing diabetes. By age 14 years, over 90% of indi viduals who have undergone 98% pancreatec",
+      "heading": "29.6 Outcomes",
+      "pdf_page": 802,
+      "printed_page": 801
+    },
+    {
+      "text": "tomy develop insulin-dependent diabetes [52]. The risk of diabetes is significantly higher in those with surgically treated diffuse disease compared to those with focal form, because of the limited pancreatic resection required for focal lesions [51]. Additionally, children with HI due to HNF4A and HNF1A muta tions require screening for diabetes given the risk of beta cell failure and subsequent diabe tes.",
+      "heading": "29.6 Outcomes",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "1. Dextrose (emergency Rx): IV 0.2 gm/kg",
+      "heading": "29.7 Treatment",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "The management of children with hypoglyce mia should be guided by the following goals: (1) prevention of brain damage from recur rent hypoglycemia, (2) establishment of a spe cific diagnosis and therapy, and (3) encouragement of normal feeding behavior while assuring safe fasting tolerance.",
+      "heading": "29.7 Treatment",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "47",
+      "heading": "29",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "2. Glucagon (emergency Rx only in case of",
+      "heading": "29",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "29.8",
+      "heading": "29",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "bolus (2 mL/kg of D10%), followed by D10% administered continuously. The glu cose infusion rate is adjusted to maintain plasma glucoses greater than 70 mg/ dL. Children with HI may need infusion rates of glucose as high as 20–30 mg/kg/ min. Continuous dextrose (20%) can be given enterally for certain forms of diazox ide-unresponsive HI.",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "insulin-induced hypoglycemia): 1 mg IM",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 803,
+      "printed_page": 802
+    },
+    {
+      "text": "or IV. This can also be used as a continu ous intravenous infusion (2.5–20 mcg/ kg/h) in HI as a temporary measure to reduce glucose requirements, while the infant is in the hospital. 3. Diazoxide. 5–15 mg/kg/day divided into",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 804,
+      "printed_page": 803
+    },
+    {
+      "text": "two oral doses for HI. The starting dose should be 5–10 mg/kg/day based on the severity, increasing to a maximum of 15 mg/kg/day if necessary. A fasting test to demonstrate that the cardinal feature of HI: hypoketotic hypoglycemia, has been corrected by treatment should be per formed after five full days of therapy (since the half-life is 24–36 h) [53]. The major side effects are fluid retention and hyper trichosis. A diuretic (i.e., chlorothiazide 10–30 mg/kg/day) should be used in all neonates and infants undergoing diazox",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 804,
+      "printed_page": 803
+    },
+    {
+      "text": "A full-term baby boy with a birth weight of 4500 gm (LGA) was found to have a plasma glucose of 25 mg/dL shortly after birth. Due to persistent pre-feed plasma glucose values in the 30 s, on DOL #2 he was started on dextrose containing IVF, which were subsequently weaned off over the next several days. His hypoglycemia was declared “resolved,” and he was discharged home with no further evalua tion. At 2 months of age, he had a generalized tonic clonic seizure and EMS was called. His plasma glucose was 30 mg/dL. He was admit ted to the hospital where he was found to have persistent hypoglycemia. He underwent a fast ing test, during which he fasted only 3 h with plasma glucoses above 50 mg/dL. His critical sample showed the following: glucose 45 mg/ dL, HCO3 24 mmol/L, BOHB 0.1 mmol/L, lac tate 0.5 mmol/L, insulin 2 uU/mL, FFA 0.15 mmol/L, cortisol 18 mcg/dL, and GH",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 804,
+      "printed_page": 803
+    },
+    {
+      "text": "ide treatment to prevent fluid overload or pulmonary hypertension. 4. Somatostatin analogs:: For patients with",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 804,
+      "printed_page": 803
+    },
+    {
+      "text": "diffuse diazoxide unresponsive HI, ocreo tide 5–20 mcg/kg/day SQ divided q 6–8 h can be used alone or in combination with continuous enteral dextrose. Tachyphy laxis is commonly encountered. Due to the risk of necrotizing enterocolitis in neo nates treated with octreotide [54], we advise against its use in infants less than 2 months old. After the first year of life, children can be switched to lanreotide, a long-acting somatostatin analog, that can be dosed once a month [55]. 5. Cornstarch: 1.6 g/kg every 3–4 h for GSD",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 804,
+      "printed_page": 803
+    },
+    {
+      "text": "type I [37]. This may also be used at bed time for other forms of GSD or for young children with abbreviated fasting tolerance.",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 804,
+      "printed_page": 803
+    },
+    {
+      "text": "12 ng/mL. Glucagon 1 mg was given when his plasma glucose was 45 mg/dL and increased to 90 mg/dL by 20 min. He was diagnosed with hyperinsulinism and was started on diazoxide at a dose of 15 mg/kg/day. After 5 days, he con tinued to require a GIR of 16 mg/kg/min and could not be weaned off his IVF. Diazoxide was discontinued. Genetic testing of the HI genes had been sent on him and his parents and showed a paternally inherited autosomal reces sive mutation of ABCC8. He underwent an 18F–fluoro-L-DOPA PET scan, which demon strated focal uptake of the tracer in the tail of the pancreas. He was taken to surgery and underwent a 15% partial pancreatectomy after analysis of frozen samples confirmed focal HI histology. After recovery from surgery, he underwent another fasting test during which he was able to fast for 24 h with plasma glucose levels >70 mg/dL.",
+      "heading": "for Hypoglycemic Disorders",
+      "pdf_page": 804,
+      "printed_page": 803
+    },
+    {
+      "text": "Hypoglycemia disorders are rare but have potentially severe consequences for children if unrecognized. An understanding of normal fasting adaption and a systematic approach to the interpretation of the critical sample allow for narrowing of the differential diagnosis and making an accurate diagnosis.. Children with hypoglycemic disorders, particularly those with hyperinsulinism, are at risk of neurologic damage, so early detection and initiation of the appropriate disease-specific treatment is critical to improve neurocognitive outcomes.",
+      "heading": "29.8 Summary",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "Review Questions",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "3. You are consulted to evaluate a 2-week-",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "1. A 9-month-old male presents to the",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "emergency department with new onset seizures and a plasma glucose of 38 mg/dL. A critical sample obtained at presentation showed bicarbon ate = 20 mmol/L, FFA = 0.82 mmol/L, BOHB = 0.95 mmol/L, plasma insu lin = 3 uU/mL, lactate = 1 mmol/L, GH = 0.48 ng/mL, cortisol = 4.14 ug/ dL, and ammonia = 120 umol/L.",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "What additional test would help establish the underlying cause of hypo glycemia? A. Arginine/clonidine GH stimulation",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "test B. Fed glucagon stimulation test C. CRH stimulation test D. Glucagon stimulation test E. Both A and C",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "2. A 6-month-old female is referred for",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "evaluation of poor growth and hypogly cemia. Laboratory testing ordered by the pediatrician showed a plasma glu cose of 49 mg/dL, bicarbon ate = 14 mmol/L, lactate = 6.8 mmol/L, AST = 120 U/L, ALT = 100 U/L, tri glycerides = 800 mg/dL, and hemoglo bin = 9 g/dL.",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "v Answers",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "1. (D)",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "The diagnosis is best confirmed by which of the following results? A. Following injection of glucagon",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "1 mg IV, the plasma glucose rises from 49 mg/dL to 80 mg/dL after 30 min.",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "B. Following injection of glucagon",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "1 mg IV, the blood lactate rises from 6.8 mmol/L to 10 mmol/L after 20 min. C. Following ingestion of an oral pro",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "tein supplement, 1.5 g/kg, the plasma glucose falls from 70 mg/dL to 40 mg/dL after 30 min. D. Following ingestion of oral glucose,",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "1.75 g/kg, the plasma glucose rises to 250 mg/dL at 1 h and then falls to 35 mg/dL at 2 h. E. Following injection of galactose,",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "1 g/kg IV, the plasma glucose rises from 80 to 150 mg/dL after 30 min.",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "old male with persistent hypoglycemia. He was born by emergency cesarean section due to non-reassuring fetal heart rate at 35 weeks of gestation and was SGA at birth. His initial plasma glucose was 10 mg/dL. He was on intravenous fluids with dextrose for 1 week and fortified formula every 3 h. Pre-feeding glucoses are now 55–60 mg/dL.",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "The most appropriate next step in the management of this infant is: A. To initiate therapy with hydrocorti",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "sone 10 mg/m2/day. B. No further evaluations are required",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "since plasma glucose is now above 50 mg/dL. C. To perform a diagnostic fasting test. D. To recommend feeding the infant",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "every 2 h. E. To add cornstarch 1 g/kg to the for",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "mula.",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "The findings of suppressed β-hydroxybutyrate and free fatty acids and a positive response to glucagon (>30 mg/dL) at the time of hypoglyce mia are diagnostic of hyperinsulinism. It is not unusual to find that insulin is not elevated in cases of hyperinsulin ism; therefore, low plasma insulin at the time of hypoglycemia does not rule out the diagnosis. Accordingly, the diagnosis must often be based on the",
+      "heading": "29",
+      "pdf_page": 805,
+      "printed_page": 804
+    },
+    {
+      "text": "examination of other physiologic man ifestations of excessive insulin secre tion, such as suppression of glycogenolysis, lipolysis, and ketogen esis, which can be inferred by the find ing of a glycemic response to glucagon and the suppression of plasma free fatty acids and β-hydroxybutyrate con centrations during hypoglycemia. The late presentation and the elevated ammonia are characteristic of GDH hyperinsulinism, or the hyperinsulin ism hyperammonemia syndrome, caused by an activating mutation in GLUD1. Note that frequently GH and cortisol levels are not elevated in the critical sample in HI patients; also, except for the immediate postnatal period, deficiencies of these two hor mones do not cause hypo-ketonemic, hypo-fatty acidemic hypoglycemia. 2. (B) The clinical picture of growth fail",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "3. Harris DL, Weston PJ, Gamble GD, Harding",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "4. Finegold DN, Stanley CA, Baker L. Glycemic",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "5. Lord K, De Leon DD. Monogenic hyperinsulin",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "6. Stanley CA. Perspective on the genetics and diag",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "7. Thomas PM, Cote GJ, Wohllk N, Haddad B,",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "8. Thomas P, Ye Y, Lightner E. Mutation of the pan",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "9. Huopio H, Reimann F, Ashfield R, Komulainen J,",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "ure, hypoglycemia, hypertriglyceride mia, elevated liver enzymes, and lactic acidemia suggests glycogen storage dis ease type I (deficiency of glucose 6-phos phatase). The diagnosis can be confirmed by a fed glucagon stimulation test, which will show failure of glucose to rise and elevation of lactate as a result of increased glycogenolysis. 3. (C) The finding of persistent hypoglyce",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "10. Pinney SE, MacMullen C, Becker S, Lin Y-W,",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "11. De Lonlay P, Fournet JC, Rahier J, Gross-Morand",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "mia (beyond 2–3 days after birth) in this high-risk neonate suggests an ongoing problem with glucose regulation. The history suggests perinatal stress-induced hyperinsulinism that has not yet resolved. Prompt evaluation with a diag nostic fasting test will help determine the underlying cause and initiate appro priate therapy.",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "12. Verkarre V, Fournet JC, De Lonlay P, Gross-",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "13. Lord K, Dzata E, Snider KE, Gallagher PR, De",
+      "heading": "29",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "1. Stanley CA, Rozance PJ, Thornton PS, De Leon",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "DD, Harris D, Haymond MW, et al. Re-evaluating “transitional neonatal hypoglycemia”: mechanism and implications for management. J Pediatr. 2015;166(6):1520–5.e1. 2. Stanley CA, Baker L. Hypoglycemia. In: Kaye R,",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "14. Otonkoski T, Nanto-Salonen K, Seppanen M,",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "Oski FA, Barness LA, editors. Core textbook of",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "pediatrics. Philadelphia: Lippincott; 1978. p. 280–305.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "JE. Glucose profiles in healthy term infants in the first 5 days: the glucose in well babies (GLOW) study. J Pediatr. 2020;223:34–41.e34.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "response to glucagon during fasting hypoglycemia: an aid in the diagnosis of hyperinsulinism. J Pediatr. 1980;96(2):257–9.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "emic hypoglycemia: current insights into the pathogenesis and management. Int J Pediatr Endocrinol. 2013;2013(1):3.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "nosis of congenital Hyperinsulinism disorders. J Clin Endocrinol Metab. 2016;101(3):815–26.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "Mathew PM, Rabl W, et al. Mutations in the sulfo nylurea receptor gene in familial persistent hyper insulinemic hypoglycemia of infancy. Science. 1995;268(5209):426–9.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "creatic islet inward rectifier Kir6.2 also leads to familial persistent hyperinsulinemic hypoglycemia of infancy. Hum Mol Genet. 1996;5(11):1809–12.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "Lenko HL, Rahier J, et al. Dominantly inherited hyperinsulinism caused by a mutation in the sulfo nylurea receptor type 1. J Clin Invest. 2000;106(7):897–906.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "Hanna C, Thornton P, et al. Clinical characteris tics and biochemical mechanisms of congenital hyperinsulinism associated with dominant KATP channel mutations. J Clin Invest. 2008;118(8):2877–86.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "MS, Poggi-Travert F, Foussier V, et al. Somatic deletion of the imprinted 11p15 region in sporadic persistent hyperinsulinemic hypoglycemia of infancy is specific of focal adenomatous hyperpla sia and endorses partial pancreatectomy. J Clin Invest. 1997;100(4):802–7.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "Morand MS, Devillers M, Rahier J, et al. Paternal mutation of the sulfonylurea receptor (SUR1) gene and maternal loss of 11p15 imprinted genes lead to persistent hyperinsulinism in focal adeno matous hyperplasia. J Clin Invest. 1998;102(7):1286–91.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "Leon DD. Clinical presentation and management of children with diffuse and focal hyperinsulinism: a review of 223 cases. J Clin Endocrinol Metab. 2013;98(11):E1786–9.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "Veijola R, Huopio H, Hussain K, et al. Noninvasive diagnosis of focal hyperinsulinism of infancy with [18F]-DOPA positron emission tomography. Diabetes. 2006;55(1):13–8.",
+      "heading": "References",
+      "pdf_page": 806,
+      "printed_page": 805
+    },
+    {
+      "text": "15. Hardy OT, Hernandez-Pampaloni M, Saffer JR,",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Scheuermann JS, Ernst LM, Freifelder R, et al. Accuracy of [18F]fluorodopa positron emission tomography for diagnosing and localizing focal congenital hyperinsulinism. J Clin Endocrinol Metab. 2007;92(12):4706–11. 16. Adzick NS, De Leon DD, States LJ, Lord K,",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "27. Stanescu DE, Hughes N, Kaplan B, Stanley CA,",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Bhatti TR, Becker SA, Stanley CA. Surgical treat ment of congenital hyperinsulinism: results from 500 pancreatectomies in neonates and children. J Pediatr Surg. 2019;54(1):27–32. 17. Weinzimer SA, Stanley CA, Berry GT, Yudkoff M,",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "28. Meissner T, Otonkoski T, Feneberg R, Beinbrech",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "29. Otonkoski T, Jiao H, Kaminen-Ahola N, Tapia-",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Tuchman M, Thornton PS. A syndrome of con genital hyperinsulinism and hyperammonemia. J Pediatr. 1997;130(4):661–4. 18. Stanley CA, Lieu YK, Hsu BY, Burlina AB,",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Greenberg CR, Hopwood NJ, et al. Hyperinsulinism and hyperammonemia in infants with regulatory mutations of the glutamate dehy drogenase gene. N Engl J Med. 1998;338(19):1352–7. 19. Kelly A, Ng D, Ferry RJ Jr, Grimberg A, Koo-",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "30. González-Barroso MM, Giurgea I, Bouillaud F,",
+      "heading": "References",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "McCoy S, Thornton PS, et al. Acute insulin responses to leucine in children with the hyperinsulinism/hyperammonemia syndrome. J Clin Endocrinol Metab. 2001;86(8):3724–8. 20. Bahi-Buisson N, Roze E, Dionisi C, Escande F,",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "31. Collins JE, Leonard JV. Hyperinsulinism in",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Valayannopoulos V, Feillet F, et al. Neurological aspects of hyperinsulinism-hyperammonaemia syndrome. Dev Med Child Neurol. 2008;50(12):945–9. 21. Glaser B, Kesavan P, Heyman M, Davis E, Cuesta",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "32. Hoe FM, Thornton PS, Wanner LA, Steinkrauss",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "A, Buchs A, et al. Familial hyperinsulinism caused by an activating glucokinase mutation. N Engl J Med. 1998;338(4):226–30. 22. Li C, Chen P, Palladino A, Narayan S, Russell LK,",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "33. Yang J, Hammoud B, Li C, Ridler A, Yau D, Kim",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Sayed S, et al. Mechanism of hyperinsulinism in short-chain 3-hydroxyacyl-CoA dehydrogenase deficiency involves activation of glutamate dehy drogenase. J Biol Chem. 2010;285(41):31806–18. 23. Wakeling MN, Owens NDL, Hopkinson JR,",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "34. Sigal WM, Alzahrani O, Guadalupe GM, Guzman",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Johnson MB, Houghton JAL, Dastamani A, Flaxman CS, Wyatt RC, Hewat TI, Hopkins JJ, Laver TW, van Heugten R, Weedon MN, De Franco E, Patel KA, Ellard S, Morgan NG, Cheesman E, Banerjee I, Hattersley AT, Dunne MJ, Richardson SJ, Flanagan SE. Non-coding variants disrupting a tissue-specific regulatory ele ment in HK1 cause congenital hyperinsulinism. Nat Genet. 2022;54:1615–20. 24. Clayton PT. Hyperinsulinism in short-chain l-3-",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "35. Kalish JM, Boodhansingh KE, Bhatti TR,",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "36. Kelly A, Tang R, Becker S, Stanley CA. Poor spec",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "hydroxyacyl-CoA dehydrogenase deficiency reveals the importance of beta-oxidation in insulin secre tion. J Clin Invest. 2001;108(3):457–65. 25. Pearson ER, Boj SF, Steele AM, Barrett T, Stals K,",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "37. Kishnani PS, Austin SL, Abdenur JE, Arn P, Bali",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Shield JP, et al. Macrosomia and hyperinsulinae mic hypoglycaemia in patients with heterozygous mutations in the HNF4A gene. PLoS Med. 2007;4(4):e118. 26. Kapoor RR, Locke J, Colclough K, Wales J, Conn",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "38. Stanley CA, Bennett MJ. Disorders of mitochon",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "JJ, Hattersley AT, et al. Persistent hyperinsulin emic hypoglycemia and maturity-onset diabetes of",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "the young due to heterozygous HNF4A mutations. Diabetes. 2008;57(6):1659–63.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "De Leon DD. Novel presentations of congenital hyperinsulinism due to mutations in the MODY genes: HNF1A and HNF4A. J Clin Endocrinol Metab. 2012;97(10):E2026–30.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "B, Apostolidou S, Sipila I, et al. Exercise induced hypoglycaemic hyperinsulinism. Arch Dis Child. 2001;84(3):254–7.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Paez I, Ullah MS, Parton LE, et al. Physical exer cise–induced hypoglycemia caused by failed silencing of monocarboxylate transporter 1 in pancreatic β cells. Am J Hum Genet. 2007;81(3):467–74.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Anedda A, Bellanné-Chantelot C, Hubert L, et al. Mutations in UCP2 in congenital hyperinsulinism reveal a role for regulation of insulin secretion. PLoS One. 2008;3(12):e3850.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "asphyxiated and small-for-dates infants with hypo glycaemia. Lancet (London, England). 1984;2(8398):311–3.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "L, Simmons RA, Stanley CA. Clinical features and insulin regulation in infants with a syndrome of prolonged neonatal hyperinsulinism. J Pediatr. 2006;148(2):207–12.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "J, Won KJ, Stanley CA, Hoshi T, Stanescu DE. Decreased KATP channel activity contributes to the low glucose threshold for insulin secretion of rat neonatal islets. Endocrinology. 2021;162:bqab121.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "H, Radcliffe J, Thomas NH, Jawad AF, De Leon DD. Front Pediatr. 2022;10:999274.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "Ganguly A, Conlin LK, Becker SA, et al. Congenital hyperinsulinism in children with pater nal 11p uniparental isodisomy and Beckwith- Wiedemann syndrome. J Med Genet. 2016;53(1):53–61.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "ificity of low growth hormone and cortisol levels during fasting hypoglycemia for the diagnoses of growth hormone deficiency and adrenal insuffi ciency. Pediatrics. 2008;122(3):e522–e8.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "DS, Boney A, et al. Diagnosis and management of glycogen storage disease type I: a practice guide line of the American College of Medical Genetics and Genomics. Genet Med. 2014;16(11):e1.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "drial fatty acid beta-oxidation. In: Kliegman RM, Behrman RE, Jenson HB, Stanton BF, editors. Nelson textbook of pediatrics. 18th ed. Philadelphia: W.B. Saunders; 2007. p. 567–73.",
+      "heading": "29",
+      "pdf_page": 807,
+      "printed_page": 806
+    },
+    {
+      "text": "39. Stanley CA. Dissecting the spectrum of fatty acid",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "oxidation disorders. J Pediatr. 1998;132(3 Pt 1):384–6. 40. Stanley CA, Coates PM. Inherited defects of fatty",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "48. Menni F, de Lonlay P, Sevin C, Touati G, Peigne C,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "acid oxidation which resemble Reye’s syndrome. In: Pollack JD, editor. Reye’s syndrome IV. Bryan: NRSF; 1985. 41. Ziadeh R, Hoffman EP, Finegold DN, Hoop RC,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "49. Steinkrauss L, Lipman TH, Hendell CD, Gerdes",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Brackett JC, Strauss AW, et al. Medium chain acyl- CoA dehydrogenase deficiency in Pennsylvania: neonatal screening shows high incidence and unex pected mutation frequencies. Pediatr Res. 1995;37(5):675–8. 42. Weinstein DA, Correia CE, Saunders AC,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "50. Ludwig A, Ziegenhorn K, Empting S, Meissner T,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Wolfsdorf JI. Hepatic glycogen synthase defi ciency: an infrequently recognized cause of ketotic hypoglycemia. Mol Genet Metab. 2006;87(4):284–8. 43. van Hasselt PM, Ferdinandusse S, Monroe GR,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "51. Lord K, Radcliffe J, Gallagher PR, Adzick NS,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Ruiter JP, Turkenburg M, Geerlings MJ, et al. Monocarboxylate transporter 1 deficiency and ketone utilization. N Engl J Med. 2014;371(20):1900–7. 44. Samuk I, Afriat R, Horne T, Bistritzer T, Barr J,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "52. Beltrand J, Caquard M, Arnoux JB, et al. Glucose",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Vinograd I. Dumping syndrome following Nissen fundoplication, diagnosis, and treatment. J Pediatr Gastroenterol Nutr. 1996;23(3):235–40. 45. Palladino AA, Sayed S, Levitt Katz LE, Gallagher",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "53. Dayton PG, Pruitt AW, Faraj BA, Israili",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "PR, De Leon DD. Increased glucagon-like pep tide-1 secretion and postprandial hypoglycemia in children after Nissen fundoplication. J Clin Endocrinol Metab. 2009;94(1):39–44. 46. Ng DD, Ferry RJ Jr, Kelly A, Weinzimer SA,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "54. Laje 55. Cuff H, Lord K, Ballester L, Scully T, Stewart N,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Stanley CA, Katz LE. Acarbose treatment of post prandial hypoglycemia in children after Nissen fundoplication. J Pediatr. 2001;139(6):877–9. 47. Thornton PS, Stanley CA, De Leon DD, Harris D,",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Haymond MW, Hussain K, et al. Recommendations from the pediatric endocrine society for evaluation",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "and management of persistent hypoglycemia in neonates, infants, and children. J Pediatr. 2015;167:238.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Barbier V, et al. Neurologic outcomes of 90 neo nates and infants with persistent hyperinsulinemic hypoglycemia. Pediatrics. 2001;107(3):476–9.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "M, Thornton PS, Stanley CA. Effects of hypogly cemia on developmental outcome in children with congenital hyperinsulinism. J Pediatr Nurs. 2005;20(2):109–18.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Marquard J, Holl R, et al. Glucose metabolism and neurological outcome in congenital hyperinsu linism. Semin Pediatr Surg. 2011;20(1):45–9.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "Stanley CA, De Leon DD. High risk of diabetes and neurobehavioral deficits in individuals with surgically treated hyperinsulinism. J Clin Endocrinol Metab. 2015;100(11):4133–9.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "metabolism in 105 children and adolescents after pancreatectomy for congenital hyperinsulinism. Diabetes Care. 2012;35(2):198–203.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "ZH. Metabolism and disposition of diazoxide. A mini-review. Drug Metab Dispos. 1975;3(3):226–9. P, Halaby L, Adzick NS, Stanley CA. Necrotizing enterocolitis in neonates receiving octreotide for the management of congenital hyperinsulinism. Pediatr Diabetes. 2010;11(2):142–7.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    },
+    {
+      "text": "De Leon DD. The use of lanreotide in the treat ment of congenital hyperinsulinism. J Clin Endocrinol Metab. 2022;107(8):e3115–20.",
+      "heading": "29",
+      "pdf_page": 808,
+      "printed_page": 807
+    }
+  ],
+  "figures": [
+    {
+      "path": "figures/ch029_p0794_01.jpg",
+      "caption": "Unmatched source image; PDF page 794. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 794,
+      "printed_page": 793,
+      "chapter": 29
+    },
+    {
+      "path": "figures/ch029_p0794_02.jpg",
+      "caption": "Unmatched source image; PDF page 794. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 794,
+      "printed_page": 793,
+      "chapter": 29
+    },
+    {
+      "path": "figures/ch029_p0795_01.jpg",
+      "caption": "Unmatched source image; PDF page 795. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 795,
+      "printed_page": 794,
+      "chapter": 29
+    },
+    {
+      "path": "figures/ch029_p0799_01.jpg",
+      "caption": "Unmatched source image; PDF page 799. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 799,
+      "printed_page": 798,
+      "chapter": 29
+    },
+    {
+      "path": "figures/ch029_p0801_01.jpg",
+      "caption": "Unmatched source image; PDF page 801. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 801,
+      "printed_page": 800,
+      "chapter": 29
+    }
+  ],
+  "tables": [],
+  "raw_md": "# 29. Hypoglycemia\n> Source attribution: [Source credits](../../SOURCE_CREDITS.md).\n\n\n## PDF page 792 | printed page 791\n\n### Hypoglycemia\n\nKatherine Lord, Diva D. De León, and Charles A. Stanley\n\n### Contents\n\n### 29.1 Introduction and Background – 792\n\n### 29.2 Etiology – 792\n\n### 29.3 Specific Disorders – 794\n\n29.3.1 Insulin-Mediated Hypoglycemia – 794 29.3.2 Hormone Deficiencies (Isolated Cortisol and Growth Hormone Deficiencies) and Panhypopituitarism – 797 29.3.3 Disorders of Gluconeogenesis – 797 29.3.4 Glycogen Storage Disorders (GSD) – 797 29.3.5 Fatty Acid Oxidation Defects – 798 29.3.6 Ketotic Hypoglycemia – 798 29.3.7 Post-fundoplication Hyperinsulinemic Hypoglycemia – 799\n\n### 29.4 Clinical Presentation – 799\n\n### 29.5 Diagnostic Evaluation – 799\n\n29.5.1 Formal Fasting Test Protocol – 800 29.5.2 Other Tests – 801\n\n### 29.6 Outcomes – 801\n\n### 29.7 Treatment – 802\n\n29.7.1 Selected Drugs for Hypoglycemic Disorders – 802\n\n### 29.8 Summary – 804\n\n### References – 805\n\n© The Author(s), under exclusive license to Springer Nature Switzerland AG 2024 S. Radovick, M. Misra (eds.), Pediatric Endocrinology, https://doi.org/10.1007/978-3-031-66296-6_29\n\n\n## PDF page 793 | printed page 792\n\nKey Points\n\n5 Hypoglycemia disorders in children are\n\nrare but may have severe consequences if they are unrecognized or inappropri ately managed. 5 Evaluation for hypoglycemia disorders\n\nis recommended for:\n\n–– Neonates with plasma glucose\n\n<60 mg/dL after the first 48 h of life –– Infants and young children if\n\nplasma glucose concentrations are documented to be <60 mg/dL on laboratory quality assays –– Older children and adolescents\n\n### 29\n\nwith documented Whipple’s triad (symptoms/signs of hypoglycemia, a documented low plasma glucose, and relief of signs/symptoms when plasma glucose is restored to nor mal) 5 The therapeutic plasma glucose goal for\n\nneonates, infants, and children with a hypoglycemia disorder is >70 mg/dL\n\n### 29.1 Introduction and Background\n\nHypoglycemia is a medical emergency that may result in seizures, permanent brain dam age, or even sudden death. Hypoglycemia can be the presenting sign of a large list of pathol ogies, and therefore, it is necessary to have a comprehensive and systematic strategy for diagnosis and therapy. This chapter presents an approach to disorders of hypoglycemia based on the metabolic and endocrine systems involved in successful adaptation to fasting. This “fasting systems” approach takes advan tage of the fact that almost all of the hypogly cemia problems in infants and children involve fasting. Since the integrity of these fasting systems is reflected in plasma levels of major fuels and counter-regulatory hormones at the time of hypoglycemia, the most important specimens for diagnosis are the ones obtained at the time of hypoglycemia, which is known as the “critical sample.”\n\nWithin 1–2 h after birth, plasma glucose concentrations in newborns decrease to a nadir of 55–60 mg/dL [1]. A study of healthy newborns found a mean glucose of 59 +/− 11 mg/dL during the 48 h of life. However, by 72–96 h of life, the mean glucose was 82 +/− 12 mg/dL [2, 3]. Thus, the physiological plasma glucose range in neonates after the first 3–4 days of life is not different than that for older children and adults (70–100 mg/dL). When plasma glucose decreases below this threshold, the glucose counter-regulatory sys tems are activated. A critical sample obtained when plasma glucose is <50 mg/dL reflects the metabolic response to hypoglycemia and allows the determination of the underlying cause of hypoglycemia.\n\n### 29.2 Etiology\n\nIn infants and children, hypoglycemia, with few exceptions, is almost always fasting hypo glycemia. The physiology of normal success ful fasting adaptation provides a useful framework that encompasses the diagnosis and treatment of potential hypoglycemia dis orders [2].\n\n\n\n\n\n\n\n\n\n29.1 29.2\n\n\n\n\n\n29.1\n\n\n\n\n## PDF page 794 | printed page 793\n\ncogenolysis, supplemented by hepatic gluco neogenesis utilizing amino acids released by muscle protein turnover. After 12–16 h in nor mal infants (24–36 h in adults), glucose pro duction declines, since the supply of liver glycogen is limited and the rate of gluconeo genesis from amino acids remains constant. At this time, a transition to fat as the major fuel for the body begins, with accelerated adi pose tissue lipolysis and increased fatty acid oxidation in muscle and ketogenesis in liver. The brain cannot utilize fatty acids directly; therefore, ketones (β-hydroxybutyrate and\n\n\n\n\n\n\n\nacetoacetate) provide an alternative fatderived fuel for the brain and permit a reduc tion of brain glucose consumption and the drain on essential muscle proteins. In late stages of fasting adaptation, fatty acid oxida tion and ketone utilization account for 90% of total oxygen consumption.\n\n\n\n\n\n29.3\n\n4\n\n\n\n![Source image](../../figures/ch029_p0794_01.jpg)\n\nUnmatched source image; PDF page 794. Consult the original caption.\n\n![Source image](../../figures/ch029_p0794_02.jpg)\n\nUnmatched source image; PDF page 794. Consult the original caption.\n\n\n## PDF page 795 | printed page 794\n\n\n\n\n\n### 29\n\n### 29.3 Specific Disorders\n\n### 29.3.1 Insulin-Mediated\n\n### Hypoglycemia\n\nInsulin is the most important regulatory hor mone, and dysregulated insulin secretion with failure to suppress insulin during fasting is the most common cause of persistent hypoglyce mia in infants and children. This can be due to a genetic defect affecting the various steps involved in fuel-stimulated insulin secretion, or in the high-risk neonate precipitated by perinatal stress (IUGR, infants of mothers with preeclampsia, etc.), or an insulinproducing tumor in older children and adoles cents. The possibility of exogenous insulin administration or hypoglycemic agents should also be considered.\n\n### 29.3.1.1 Congenital Monogenic\n\n### Hyperinsulinism (HI) [5, 6]\n\n\n\n4\n\n\n\n29.4\n\nRecessive loss-of-function mutations of K\n\nATP-channel genes (ABCC8, encoding SUR1, sulfonylurea receptor; KCNJ11, encoding Kir6.2, potassium ion pore) [7, 8]. KATP-HI features include severe neonatal onset, LGA birthweight, protein-induced hypoglycemia, diazoxide unresponsiveness, and very high glucose requirement (up to 20–30 mg/kg/min).\n\nDominant loss-of-function mutations of ABCC8 and KCNJ11 [9]. Unlike the severe disease often associated with recessive muta tions in the KATP-channel, some dominant cases have milder hypoglycemia and are diazoxide-responsive. However, those patients who do not respond to diazoxide are clinically indistinguishable from those with recessive forms. Dominant ABCC8 and KCNJ11 muta tions are also associated with protein-induced hypoglycemia [10].\n\n![Source image](../../figures/ch029_p0795_01.jpg)\n\nUnmatched source image; PDF page 795. Consult the original caption.\n\n\n## PDF page 796 | printed page 795\n\n\n\n\n\n\n\nFocal hyperinsulinism [11, 12]. This is a consequence of somatic loss of heterozygosity for maternal 11p and expression of a pater nally transmitted recessive KATP-channel mutation (either ABCC8 or KCNJ11). The phenotype is very similar to recessive diffuse KATP-channel HI, and focal HI accounts for 40–60% of cases of severe diazoxideunresponsive HI [13]. Preoperative localiza tion of the lesion by 18F-fluoro-L-DOPA PET scan and resection of the lesion can result in cure of the hyperinsulinism [14–16].\n\nDominant gain-of-function mutations of glutamate dehydrogenase (GLUD1) :hyperin sulinism/hyperammonemia (HI/HA) syn drome [17–19]. Children with HI/HA typically present within the first year of life\n\n\n\n\n\n\n\nbut may not be diagnosed in the neonatal period as they have normal weight at birth and can fast longer than neonates with KATP-HI. HI/HA is characterized by fasting and protein-induced hypoglycemia which is diazoxide-responsive and a persistent mild hyperammonemia (plasma ammonium, 50–200 micromols/L). They also have increased rates of seizures (typically absence) and learning disabilities, which are thought to be unrelated to the hypoglycemia or the elevated ammonia levels [20].\n\nDominant gain-of-function mutations of glucokinase (GCK) [21]. Gain-of-function mutations in GCK result in a lower glucose threshold for insulin release. Children with GCK-HI have hypoglycemia of variable\n\n\n## PDF page 797 | printed page 796\n\ndegrees of severity and are only partially responsive to diazoxide [22].\n\nAberrant expression of Hexokinase (HK1). HK1 is a high affinity glycolytic enzyme which is silenced in the pancreatic beta cell. Mutations in noncoding regions of HK1 lead to its expression in beta cells, resulting in excessive insulin secretion. Individuals with HK1-HI typically present at birth and have hypoglycemia which persists into adulthood. The majority of patients respond to diazox ide, although some have required pancreatec tomy [23].\n\nRecessive loss-of-function mutations of HADH (encoding SCHAD, the mitochon drial enzyme short-chain 3-hydroxyaxyl-CoA dehydrogenase) [22, 24]. In addition to its function in fatty acid oxidation, in the pancre atic beta cell, SCHAD functions as a negative regulator of glutamate dehydrogenase. Thus, similar to HI/HA, SCHAD-HI presents with fasting and protein-induced hypoglycemia, which is responsive to diazoxide therapy, but without the hyperammonemia. The biochemi cal hallmark, in addition to markers of increased insulin action, is increased levels of 3-hydroxybutyryl-carnitine in plasma and increased levels of 3-hydroxyglutarate in urine.\n\n### 29\n\nDominant loss-of-function mutations of hepatocyte nuclear factor 4 (HNF4A) and hepatocyte nuclear factor 1 (HNF1A) [25–27]. These transcription factors are well-known causes of familial monogenic diabetes (MODY1 and MODY3, respectively). More recently, it has been recognized that the phe notype in individuals with these mutations is biphasic with neonatal hypoglycemia due to hyperinsulinism and diabetes later in life. The hyperinsulinism phase can last from a few weeks to up to 8 years. Children with these forms of HI respond well to diazoxide.\n\nDominant mutations of monocarboxylate transporter 1 (MCT1, encoded by SLC16A1) [28, 29]. Mutations in the promoter region of SLC16A1 result in aberrant expression of MCT1 in the beta cells and cause a rare form of HI, which is triggered by exercise. Characterized by episodes of hypoglycemia at the time of anaerobic exercise, MCT1-HI has been primarily identified in the Finnish popu\n\nlation. The degree of hypoglycemia in response to exercise is variable.\n\nDominant mutations of uncoupling protein 2 (UCP2) [30]. Loss-of-function mutations in UCP2, which encodes an inner mitochondrial membrane carrier, result in a diazoxideresponsive form of HI.\n\n### 29.3.1.2 Transient Neonatal\n\n### Hyperinsulinism\n\nInfant of a diabetic mother. Maternal hyper glycemia {XE “Maternal hyperglycemia”} triggers insulin hypersecretion by the fetal pancreatic beta cells, resulting in larger birth weight and hypoglycemia that typically resolves in 2–3 days. However, in cases com plicated by other perinatal stressors, i.e., pla cental insufficiency, the hyperinsulinism may last longer (see below).\n\nPerinatal stress-induced hyperinsulinism [31, 32]. It is associated with SGA birth weight, birth asphyxia, and maternal toxemia, and other perinatal stressors. Recent studies show that fetal hypoxia results in reduced KATP channel surface expression. Therefore, the glucose threshold for insulin release is decreased, resulting in a reduction in basal levels of plasma glucose. The hypoxic envi ronment during fetal life explains the low glu cose threshold for insulin release and transitional hypoglycemia in normal new borns, while perinatal hypoxic insults explain the more severe and prolonged hypoglycemia seen in perinatal stress-induced hyperinsulin ism (PNSHI) [33]. PNSHI can be clinically indistinguishable from the genetic forms of HI, apart from a history of perinatal insults. PNSHI typically resolves within a few weeks and rarely persists beyond the first 2–3 months of life. Most cases are responsive to treatment with diazoxide, although severe cases may require more intensive treatments [34].\n\n### 29.3.1.3 Syndromic Hyperinsulinism\n\nHypoglycemia due to HI can be the present ing symptom in children with Beckwith- Wiedemann syndrome (BWS), an overgrowth syndrome due to genetic or epigenetic abnor malities in the imprinted region of chromo some 11p which is close to the KATP-channel loci. The severity of the HI in BWS is vari\n\n\n## PDF page 798 | printed page 797\n\nable; infants with paternal UPD11passociated HI have a persistent and severe HI phenotype compared to the transient hypo glycemia of BWS patients caused by other eti ologies [35]. Many other syndromes can be associated with HI including Turner syn drome, Kabuki syndrome, and congenital dis orders of glycosylation (CDG).\n\n### 29.3.1.4 Insulinoma\n\nInsulinomas are typically benign islet cell tumors, which are rarer in the pediatric popula tion than in adults. After diagnostic testing con firms evidence of insulin excess, imaging should be performed to localize the lesion. Multiple modalities (MRI, endoscopic ultrasound) may be necessary given the difficulty in localization. Resection is curative. Genetic testing for multi ple endocrine neoplasia type 1 (MEN1) should be done in any child with an insulinoma.\n\n### 29.3.1.5 Factitous Hypoglycemia\n\nInduced hypoglycemia by administration of either insulin or hypoglycemic agents should be considered in the differential of insulinmediated hypoglycemia. The clinical presen tation can be undistinguishable from endogenous forms of hyperinsulinism ; how ever, the abrupt onset of hypoglycemia of unpredictable pattern in an otherwise healthy child may trigger further investigation.\n\n### 29.3.2 Hormone Deficiencies\n\n### (Isolated Cortisol and Growth Hormone Deficiencies) and Panhypopituitarism\n\nHypoglycemia from growth hormone and cortisol deficiency occurs primarily during infancy and presents as ketotic hypoglycemia. However, in the neonate, features may mimic hyperinsulinism, including high glucose requirement, low FFA and BOHB, and a gly cemic response to glucagon. This diagnosis should be suspected in neonates with the phe notype of HI, but who also have midline mal formations, microphthalmia, micropenis, or cholestatic liver disease. Low growth hormone\n\nand cortisol levels obtained at the time of hypoglycemia are not diagnostic and prior to starting hormone replacement, appropriate stimulation tests should be performed to con firm the diagnosis [36], in addition to a brain MRI. In infants with midline defects, evidence of other pituitary abnormalities, and/or pitu itary defects on imaging, a low random growth hormone may be sufficient to make the diag nosis without the need for provocative testing. The hypoglycemia resolves with replacement of the missing hormones.\n\n### 29.3.3 Disorders\n\n### of Gluconeogenesis\n\n\n\n37\n\n\n\n29.5\n\n\n\n\n\n### 29.3.4 Glycogen Storage Disorders\n\n### (GSD)\n\n\n\n\n\n29.5\n\n\n\n\n## PDF page 799 | printed page 798\n\n### 29\n\n\n\nmyopathy. In contrast, GSD types VI and IX present with hypoglycemia following over night fasting, milder hepatomegaly and growth retardation, and minimal metabolic and hepatic abnormalities. Liver biopsy as the gold standard for diagnosis has been replaced by genetic mutation testing.\n\n### 29.3.5 Fatty Acid Oxidation Defects\n\n\n\n\n\n29.6 38 39\n\n\n\n40\n\n\n\n41\n\n### 29.3.6 Ketotic Hypoglycemia\n\nThese are children, usually 1–4 years of age, with episodes of symptomatic fasting hypo glycemia, but do not have any identifiable metabolic or endocrine defect. In most instances, this can be thought of as merely a quantitative rather than a specific, qualitative abnormality of fasting adaptation. These children may simply represent the lower end\n\n![Source image](../../figures/ch029_p0799_01.jpg)\n\nUnmatched source image; PDF page 799. Consult the original caption.\n\n\n## PDF page 800 | printed page 799\n\n\n\nof the normal distribution of fasting toler ance. Note, however, that the features of abbreviated but otherwise normal fasting response are shared by the milder glycogeno ses. Some cases of “ketotic hypoglycemia” have been found to have a mild GSD or inac tivating mutations of monocarboxylate trans porter 1 (MCT1) [42, 43].\n\n### 29.3.7 Post-fundoplication\n\n### Hyperinsulinemic Hypoglycemia\n\nPostprandial hypoglycemia may occur in infants following fundoplication surgery for gastroesophageal reflux and may be severe enough to cause seizures and brain damage [44]. The mechanism involves rapid emptying of a meal into the small intestine, with early hyperglycemia followed by an exaggerated insulin surge and subsequent hypoglycemia, usually 1–2 h after the feed or meal. Increased secretion of the potent insulinotropic hor mone, glucagon-like peptide-1 (GLP-1), by intestinal enteroendocrine cells after a meal may, at least in part, be responsible for the postprandial hyperinsulinemia [45]. The diag nosis is made by demonstration of the typical plasma glucose and insulin patterns in response to a mixed meal or formula tolerance test. Treatment includes feeds of longer dura tion, reduced high glycemic index foods, and\n\ninhibitors of gastric motility; the alpha gluco sidase inhibitor, acarbose, may be useful as a means to delay digestion and absorption of complex carbohydrates [46].\n\n### 29.4 Clinical Presentation\n\nOlder children and adults manifest Whipple’s classic triad: neurogenic and neuroglycopenic symptoms/signs of hypoglycemia, a con firmed low plasma glucose value, and resolu tion of the symptoms/signs when the glucose level is restored to normal. However, neo nates, infants, and younger children may not reliably demonstrate and/or lack the ability to communicate such symptoms and are fre quently asymptomatic, even with significant hypoglycemia. Hypoglycemic symptoms may be subtle and difficult to recognize in these age groups and include poor feeding, sweating, somnolence, apnea, and irritability. Myoclonic jerks and seizures may occur with severe hypo glycemia.\n\n### 29.5 Diagnostic Evaluation\n\nGuidelines published by the Pediatric Endocrine Society detail which infants and children require evaluation for hypoglycemia disorders [47]. High-risk neonates (LGA, SGA, perinatal stress, maternal diabetes,\n\n\n## PDF page 801 | printed page 800\n\n\n\n### 29\n\nthose with congenital syndromes and family history of genetic hypoglycemia disorders) with plasma glucoses <60 mg/dL after the first 48 h of life should undergo additional evaluation prior to discharge. Evaluation should also occur in infants and young chil dren if plasma glucose concentrations are documented to be <60 mg/dL on laboratory quality assays and in older children only if Whipple’s triad is documented.\n\n\n\n\n\n\n\n29.7\n\n### 29.5.1 Formal Fasting Test Protocol\n\nThe success of the fasting test requires an experienced team of nurses and physicians, a blood-drawing IV, and rapid and accurate plasma glucose monitoring (N.B. Standard bedside glucose meters are not accurate enough). The fast usually begins with an eve ning meal or feed, but may be adjusted later if very short fasting tolerance is suspected (con sider monitoring for 24 h on usual diet before starting the fasting test to assess glucose sta bility). From the beginning of the fast, moni tor plasma glucose and BOHB closely (e.g., every 3 h until <70 mg/dL, every 1 h until <60 mg/dL, then every 30 min to end). End the test at plasma glucose <50 mg/dL or when\n\nbedside measurement of BOHB indicates val ues >2.5 mmol/L or a specific duration has been reached (18 h if <1 month; 24 h if 1–12 months; 36 h if >1 year; 48 h for adoles cents) or in case of any worrisome symptoms. At the end of the fast, obtain “critical sample” labs, which should include the basic metabolic panel, lactate, ammonia, insulin, c-peptide, BOHB, FFA, GH, cortisol, plasma acylcarnitine profile, plasma total and free carni tine, and urinary organic acid profile. If considering hyperinsulinism (low BOHB dur ing the fast), perform the glucagon stimula tion test, 1 mg IV, to test liver glycogen reserve (at plasma glucose <50 mg/dL, appropriate glycemic response is <30 mg/dL within 15–30 min after glucagon administration; gly cemic response above 30 mg/dL is consistent with hyperinsulinism) [4]. Caution: fasting tests are potentially hazardous provocative tests that, like the water deprivation test, must be closely monitored for patient safety. Sudden deaths during fasting tests have been reported in patients with fatty acid oxidation defects. Patients with fatty acid oxidation defects may develop life-threatening symp toms before plasma glucose levels fall below 60–65 mg/dL, including progressive lethargy, nausea, vomiting, or unexplained tachycar dia; fasts should be terminated in these cases without waiting for plasma glucose to reach 50 mg/dL.\n\n\n\n\n\n29.6\n\n![Source image](../../figures/ch029_p0801_01.jpg)\n\nUnmatched source image; PDF page 801. Consult the original caption.\n\n\n## PDF page 802 | printed page 801\n\nwith and without acidemia (HCO3 <16–18 vs. >16–18 mEq/L). The groups are then further divided based on the presence or absence of ketones and lactate: 1. Acidemia due to lactate accumulation typ\n\nifies defects in hepatic gluconeogenesis: glucose-6-phosphatase deficiency (GSD type I), GLUT2 deficiency, fructose-1,6diphosphatase deficiency, hereditary fruc tose intolerance, and ethanol ingestion. 2. Acidemia due to ketone accumulation typ\n\nifies normal children, ketotic hypoglyce mia (likely normal, but with shortened fasting tolerance), defects in glycogenoly sis (GSD types 0, III, VI, IX), growth hor mone and/or cortisol deficiencies, and ketone utilization defects. 3. No acidemia with ketones and free fatty\n\nacids both suppressed: congenital, perina tal stress or syndromic hyperinsulinism, insulinoma, exogenous administration of insulin or oral hypoglycemic agents, and neonatal hypopituitarism. 4. No acidemia with suppressed ketones but\n\nelevated free fatty acids: genetic defects in fatty acid oxidation and ketogenesis.\n\n### 29.5.2 Other Tests\n\n### 29.5.2.1 Plasma Acyl-Carnitine\n\n### Profile\n\nThis test using tandem mass spectrometry measures the different fatty acids bound to carnitine to detect many (but not all) of the genetic defects in fatty acid oxidation. The method is now employed in most newborn screening programs using filter paper blood spots to screen for 20 or more inborn errors of metabolism. Medium-chain acyl-CoA dehy drogenase (MCAD) deficiency is particularly common (1/5000) and easily detected by this method [41].\n\n### 29.5.2.2 Genetic Testing\n\nGenetic testing for the most common forms of hyperinsulinism is available in commercial laboratories and should be obtained as soon as the diagnosis is confirmed. This is particu\n\nlarly important for infants with diazoxideunresponsive hyperinsulinism as >90% of these cases will have a KATP channel defect and, therefore, an approximately 50% likeli hood of having focal hyperinsulinism. Mutation screening is useful for glucose- 6-phosphatase deficiency, since 80% of patients have one of five common mutations. Ninety percent of MCAD patients have the common A985G mutation. In addition, for children with repeated episodes of “ketotic hypoglycemia,” genetic testing may identify those with an underlying defect in glycoge nolysis or ketone utilization.\n\n### 29.5.2.3 Cultured Cells\n\nLymphoblasts or fibroblasts are useful for diagnosis of some inborn errors of metabo lism (such as fatty acid oxidation disorders) and as sources of DNA for mutation analysis for other genetic defects.\n\n### 29.6 Outcomes\n\nSevere or recurrent hypoglycemia results in neurologic dysfunction and, in rare cases, death. Therefore, early recognition and treat ment are essential to avoid neurologic damage and later risk of learning disabilities and epi lepsy. Long-term studies of HI patients have found rates of neurodevelopmental abnor malities between 26% and 48% and epilepsy between 13% and 43% [48–50]. Despite a bet ter understanding and recognition of the dis ease, individuals diagnosed with HI in the last 20 years have not demonstrated substantially improved outcomes compared to older indi viduals with HI [51]. This suggests that the neurologic insult from hypoglycemia occurs in the first several days of life and speaks about the importance of screening high-risk infants for hypoglycemia. Given the high risk of neu rocognitive dysfunction, children with HI, regardless of etiology or treatment, require periodic developmental testing.\n\nChildren with HI who undergo pancre atectomy are at increased risk of developing diabetes. By age 14 years, over 90% of indi viduals who have undergone 98% pancreatec\n\n\n## PDF page 803 | printed page 802\n\ntomy develop insulin-dependent diabetes [52]. The risk of diabetes is significantly higher in those with surgically treated diffuse disease compared to those with focal form, because of the limited pancreatic resection required for focal lesions [51]. Additionally, children with HI due to HNF4A and HNF1A muta tions require screening for diabetes given the risk of beta cell failure and subsequent diabe tes.\n\n\n\n### 29.7.1 Selected Drugs\n\n### 29.7 Treatment\n\n1. Dextrose (emergency Rx): IV 0.2 gm/kg\n\nThe management of children with hypoglyce mia should be guided by the following goals: (1) prevention of brain damage from recur rent hypoglycemia, (2) establishment of a spe cific diagnosis and therapy, and (3) encouragement of normal feeding behavior while assuring safe fasting tolerance.\n\n### 29\n\n47\n\n2. Glucagon (emergency Rx only in case of\n\n\n\n\n\n29.8\n\n### for Hypoglycemic Disorders\n\nbolus (2 mL/kg of D10%), followed by D10% administered continuously. The glu cose infusion rate is adjusted to maintain plasma glucoses greater than 70 mg/ dL. Children with HI may need infusion rates of glucose as high as 20–30 mg/kg/ min. Continuous dextrose (20%) can be given enterally for certain forms of diazox ide-unresponsive HI.\n\ninsulin-induced hypoglycemia): 1 mg IM\n\n\n## PDF page 804 | printed page 803\n\nor IV. This can also be used as a continu ous intravenous infusion (2.5–20 mcg/ kg/h) in HI as a temporary measure to reduce glucose requirements, while the infant is in the hospital. 3. Diazoxide. 5–15 mg/kg/day divided into\n\ntwo oral doses for HI. The starting dose should be 5–10 mg/kg/day based on the severity, increasing to a maximum of 15 mg/kg/day if necessary. A fasting test to demonstrate that the cardinal feature of HI: hypoketotic hypoglycemia, has been corrected by treatment should be per formed after five full days of therapy (since the half-life is 24–36 h) [53]. The major side effects are fluid retention and hyper trichosis. A diuretic (i.e., chlorothiazide 10–30 mg/kg/day) should be used in all neonates and infants undergoing diazox\n\nCase Study\n\nA full-term baby boy with a birth weight of 4500 gm (LGA) was found to have a plasma glucose of 25 mg/dL shortly after birth. Due to persistent pre-feed plasma glucose values in the 30 s, on DOL #2 he was started on dextrose containing IVF, which were subsequently weaned off over the next several days. His hypoglycemia was declared “resolved,” and he was discharged home with no further evalua tion. At 2 months of age, he had a generalized tonic clonic seizure and EMS was called. His plasma glucose was 30 mg/dL. He was admit ted to the hospital where he was found to have persistent hypoglycemia. He underwent a fast ing test, during which he fasted only 3 h with plasma glucoses above 50 mg/dL. His critical sample showed the following: glucose 45 mg/ dL, HCO3 24 mmol/L, BOHB 0.1 mmol/L, lac tate 0.5 mmol/L, insulin 2 uU/mL, FFA 0.15 mmol/L, cortisol 18 mcg/dL, and GH\n\nide treatment to prevent fluid overload or pulmonary hypertension. 4. Somatostatin analogs:: For patients with\n\ndiffuse diazoxide unresponsive HI, ocreo tide 5–20 mcg/kg/day SQ divided q 6–8 h can be used alone or in combination with continuous enteral dextrose. Tachyphy laxis is commonly encountered. Due to the risk of necrotizing enterocolitis in neo nates treated with octreotide [54], we advise against its use in infants less than 2 months old. After the first year of life, children can be switched to lanreotide, a long-acting somatostatin analog, that can be dosed once a month [55]. 5. Cornstarch: 1.6 g/kg every 3–4 h for GSD\n\ntype I [37]. This may also be used at bed time for other forms of GSD or for young children with abbreviated fasting tolerance.\n\n12 ng/mL. Glucagon 1 mg was given when his plasma glucose was 45 mg/dL and increased to 90 mg/dL by 20 min. He was diagnosed with hyperinsulinism and was started on diazoxide at a dose of 15 mg/kg/day. After 5 days, he con tinued to require a GIR of 16 mg/kg/min and could not be weaned off his IVF. Diazoxide was discontinued. Genetic testing of the HI genes had been sent on him and his parents and showed a paternally inherited autosomal reces sive mutation of ABCC8. He underwent an 18F–fluoro-L-DOPA PET scan, which demon strated focal uptake of the tracer in the tail of the pancreas. He was taken to surgery and underwent a 15% partial pancreatectomy after analysis of frozen samples confirmed focal HI histology. After recovery from surgery, he underwent another fasting test during which he was able to fast for 24 h with plasma glucose levels >70 mg/dL.\n\n\n## PDF page 805 | printed page 804\n\n### 29.8 Summary\n\nHypoglycemia disorders are rare but have potentially severe consequences for children if unrecognized. An understanding of normal fasting adaption and a systematic approach to the interpretation of the critical sample allow for narrowing of the differential diagnosis and making an accurate diagnosis.. Children with hypoglycemic disorders, particularly those with hyperinsulinism, are at risk of neurologic damage, so early detection and initiation of the appropriate disease-specific treatment is critical to improve neurocognitive outcomes.\n\n### 29\n\nReview Questions\n\n3. You are consulted to evaluate a 2-week-\n\n1. A 9-month-old male presents to the\n\nemergency department with new onset seizures and a plasma glucose of 38 mg/dL. A critical sample obtained at presentation showed bicarbon ate = 20 mmol/L, FFA = 0.82 mmol/L, BOHB = 0.95 mmol/L, plasma insu lin = 3 uU/mL, lactate = 1 mmol/L, GH = 0.48 ng/mL, cortisol = 4.14 ug/ dL, and ammonia = 120 umol/L.\n\nWhat additional test would help establish the underlying cause of hypo glycemia? A. Arginine/clonidine GH stimulation\n\ntest B. Fed glucagon stimulation test C. CRH stimulation test D. Glucagon stimulation test E. Both A and C\n\n2. A 6-month-old female is referred for\n\nevaluation of poor growth and hypogly cemia. Laboratory testing ordered by the pediatrician showed a plasma glu cose of 49 mg/dL, bicarbon ate = 14 mmol/L, lactate = 6.8 mmol/L, AST = 120 U/L, ALT = 100 U/L, tri glycerides = 800 mg/dL, and hemoglo bin = 9 g/dL.\n\nv Answers\n\n1. (D)\n\nThe diagnosis is best confirmed by which of the following results? A. Following injection of glucagon\n\n1 mg IV, the plasma glucose rises from 49 mg/dL to 80 mg/dL after 30 min.\n\nB. Following injection of glucagon\n\n1 mg IV, the blood lactate rises from 6.8 mmol/L to 10 mmol/L after 20 min. C. Following ingestion of an oral pro\n\ntein supplement, 1.5 g/kg, the plasma glucose falls from 70 mg/dL to 40 mg/dL after 30 min. D. Following ingestion of oral glucose,\n\n1.75 g/kg, the plasma glucose rises to 250 mg/dL at 1 h and then falls to 35 mg/dL at 2 h. E. Following injection of galactose,\n\n1 g/kg IV, the plasma glucose rises from 80 to 150 mg/dL after 30 min.\n\nold male with persistent hypoglycemia. He was born by emergency cesarean section due to non-reassuring fetal heart rate at 35 weeks of gestation and was SGA at birth. His initial plasma glucose was 10 mg/dL. He was on intravenous fluids with dextrose for 1 week and fortified formula every 3 h. Pre-feeding glucoses are now 55–60 mg/dL.\n\nThe most appropriate next step in the management of this infant is: A. To initiate therapy with hydrocorti\n\nsone 10 mg/m2/day. B. No further evaluations are required\n\nsince plasma glucose is now above 50 mg/dL. C. To perform a diagnostic fasting test. D. To recommend feeding the infant\n\nevery 2 h. E. To add cornstarch 1 g/kg to the for\n\nmula.\n\nThe findings of suppressed β-hydroxybutyrate and free fatty acids and a positive response to glucagon (>30 mg/dL) at the time of hypoglyce mia are diagnostic of hyperinsulinism. It is not unusual to find that insulin is not elevated in cases of hyperinsulin ism; therefore, low plasma insulin at the time of hypoglycemia does not rule out the diagnosis. Accordingly, the diagnosis must often be based on the\n\n\n## PDF page 806 | printed page 805\n\nexamination of other physiologic man ifestations of excessive insulin secre tion, such as suppression of glycogenolysis, lipolysis, and ketogen esis, which can be inferred by the find ing of a glycemic response to glucagon and the suppression of plasma free fatty acids and β-hydroxybutyrate con centrations during hypoglycemia. The late presentation and the elevated ammonia are characteristic of GDH hyperinsulinism, or the hyperinsulin ism hyperammonemia syndrome, caused by an activating mutation in GLUD1. Note that frequently GH and cortisol levels are not elevated in the critical sample in HI patients; also, except for the immediate postnatal period, deficiencies of these two hor mones do not cause hypo-ketonemic, hypo-fatty acidemic hypoglycemia. 2. (B) The clinical picture of growth fail\n\n3. Harris DL, Weston PJ, Gamble GD, Harding\n\n4. Finegold DN, Stanley CA, Baker L. Glycemic\n\n5. Lord K, De Leon DD. Monogenic hyperinsulin\n\n6. Stanley CA. Perspective on the genetics and diag\n\n7. Thomas PM, Cote GJ, Wohllk N, Haddad B,\n\n8. Thomas P, Ye Y, Lightner E. Mutation of the pan\n\n9. Huopio H, Reimann F, Ashfield R, Komulainen J,\n\nure, hypoglycemia, hypertriglyceride mia, elevated liver enzymes, and lactic acidemia suggests glycogen storage dis ease type I (deficiency of glucose 6-phos phatase). The diagnosis can be confirmed by a fed glucagon stimulation test, which will show failure of glucose to rise and elevation of lactate as a result of increased glycogenolysis. 3. (C) The finding of persistent hypoglyce\n\n10. Pinney SE, MacMullen C, Becker S, Lin Y-W,\n\n11. De Lonlay P, Fournet JC, Rahier J, Gross-Morand\n\nmia (beyond 2–3 days after birth) in this high-risk neonate suggests an ongoing problem with glucose regulation. The history suggests perinatal stress-induced hyperinsulinism that has not yet resolved. Prompt evaluation with a diag nostic fasting test will help determine the underlying cause and initiate appro priate therapy.\n\n12. Verkarre V, Fournet JC, De Lonlay P, Gross-\n\n13. Lord K, Dzata E, Snider KE, Gallagher PR, De\n\n### References\n\n1. Stanley CA, Rozance PJ, Thornton PS, De Leon\n\nDD, Harris D, Haymond MW, et al. Re-evaluating “transitional neonatal hypoglycemia”: mechanism and implications for management. J Pediatr. 2015;166(6):1520–5.e1. 2. Stanley CA, Baker L. Hypoglycemia. In: Kaye R,\n\n14. Otonkoski T, Nanto-Salonen K, Seppanen M,\n\nOski FA, Barness LA, editors. Core textbook of\n\npediatrics. Philadelphia: Lippincott; 1978. p. 280–305.\n\nJE. Glucose profiles in healthy term infants in the first 5 days: the glucose in well babies (GLOW) study. J Pediatr. 2020;223:34–41.e34.\n\nresponse to glucagon during fasting hypoglycemia: an aid in the diagnosis of hyperinsulinism. J Pediatr. 1980;96(2):257–9.\n\nemic hypoglycemia: current insights into the pathogenesis and management. Int J Pediatr Endocrinol. 2013;2013(1):3.\n\nnosis of congenital Hyperinsulinism disorders. J Clin Endocrinol Metab. 2016;101(3):815–26.\n\nMathew PM, Rabl W, et al. Mutations in the sulfo nylurea receptor gene in familial persistent hyper insulinemic hypoglycemia of infancy. Science. 1995;268(5209):426–9.\n\ncreatic islet inward rectifier Kir6.2 also leads to familial persistent hyperinsulinemic hypoglycemia of infancy. Hum Mol Genet. 1996;5(11):1809–12.\n\nLenko HL, Rahier J, et al. Dominantly inherited hyperinsulinism caused by a mutation in the sulfo nylurea receptor type 1. J Clin Invest. 2000;106(7):897–906.\n\nHanna C, Thornton P, et al. Clinical characteris tics and biochemical mechanisms of congenital hyperinsulinism associated with dominant KATP channel mutations. J Clin Invest. 2008;118(8):2877–86.\n\nMS, Poggi-Travert F, Foussier V, et al. Somatic deletion of the imprinted 11p15 region in sporadic persistent hyperinsulinemic hypoglycemia of infancy is specific of focal adenomatous hyperpla sia and endorses partial pancreatectomy. J Clin Invest. 1997;100(4):802–7.\n\nMorand MS, Devillers M, Rahier J, et al. Paternal mutation of the sulfonylurea receptor (SUR1) gene and maternal loss of 11p15 imprinted genes lead to persistent hyperinsulinism in focal adeno matous hyperplasia. J Clin Invest. 1998;102(7):1286–91.\n\nLeon DD. Clinical presentation and management of children with diffuse and focal hyperinsulinism: a review of 223 cases. J Clin Endocrinol Metab. 2013;98(11):E1786–9.\n\nVeijola R, Huopio H, Hussain K, et al. Noninvasive diagnosis of focal hyperinsulinism of infancy with [18F]-DOPA positron emission tomography. Diabetes. 2006;55(1):13–8.\n\n\n## PDF page 807 | printed page 806\n\n15. Hardy OT, Hernandez-Pampaloni M, Saffer JR,\n\nScheuermann JS, Ernst LM, Freifelder R, et al. Accuracy of [18F]fluorodopa positron emission tomography for diagnosing and localizing focal congenital hyperinsulinism. J Clin Endocrinol Metab. 2007;92(12):4706–11. 16. Adzick NS, De Leon DD, States LJ, Lord K,\n\n27. Stanescu DE, Hughes N, Kaplan B, Stanley CA,\n\nBhatti TR, Becker SA, Stanley CA. Surgical treat ment of congenital hyperinsulinism: results from 500 pancreatectomies in neonates and children. J Pediatr Surg. 2019;54(1):27–32. 17. Weinzimer SA, Stanley CA, Berry GT, Yudkoff M,\n\n28. Meissner T, Otonkoski T, Feneberg R, Beinbrech\n\n29. Otonkoski T, Jiao H, Kaminen-Ahola N, Tapia-\n\nTuchman M, Thornton PS. A syndrome of con genital hyperinsulinism and hyperammonemia. J Pediatr. 1997;130(4):661–4. 18. Stanley CA, Lieu YK, Hsu BY, Burlina AB,\n\nGreenberg CR, Hopwood NJ, et al. Hyperinsulinism and hyperammonemia in infants with regulatory mutations of the glutamate dehy drogenase gene. N Engl J Med. 1998;338(19):1352–7. 19. Kelly A, Ng D, Ferry RJ Jr, Grimberg A, Koo-\n\n30. González-Barroso MM, Giurgea I, Bouillaud F,\n\n### 29\n\nMcCoy S, Thornton PS, et al. Acute insulin responses to leucine in children with the hyperinsulinism/hyperammonemia syndrome. J Clin Endocrinol Metab. 2001;86(8):3724–8. 20. Bahi-Buisson N, Roze E, Dionisi C, Escande F,\n\n31. Collins JE, Leonard JV. Hyperinsulinism in\n\nValayannopoulos V, Feillet F, et al. Neurological aspects of hyperinsulinism-hyperammonaemia syndrome. Dev Med Child Neurol. 2008;50(12):945–9. 21. Glaser B, Kesavan P, Heyman M, Davis E, Cuesta\n\n32. Hoe FM, Thornton PS, Wanner LA, Steinkrauss\n\nA, Buchs A, et al. Familial hyperinsulinism caused by an activating glucokinase mutation. N Engl J Med. 1998;338(4):226–30. 22. Li C, Chen P, Palladino A, Narayan S, Russell LK,\n\n33. Yang J, Hammoud B, Li C, Ridler A, Yau D, Kim\n\nSayed S, et al. Mechanism of hyperinsulinism in short-chain 3-hydroxyacyl-CoA dehydrogenase deficiency involves activation of glutamate dehy drogenase. J Biol Chem. 2010;285(41):31806–18. 23. Wakeling MN, Owens NDL, Hopkinson JR,\n\n34. Sigal WM, Alzahrani O, Guadalupe GM, Guzman\n\nJohnson MB, Houghton JAL, Dastamani A, Flaxman CS, Wyatt RC, Hewat TI, Hopkins JJ, Laver TW, van Heugten R, Weedon MN, De Franco E, Patel KA, Ellard S, Morgan NG, Cheesman E, Banerjee I, Hattersley AT, Dunne MJ, Richardson SJ, Flanagan SE. Non-coding variants disrupting a tissue-specific regulatory ele ment in HK1 cause congenital hyperinsulinism. Nat Genet. 2022;54:1615–20. 24. Clayton PT. Hyperinsulinism in short-chain l-3-\n\n35. Kalish JM, Boodhansingh KE, Bhatti TR,\n\n36. Kelly A, Tang R, Becker S, Stanley CA. Poor spec\n\nhydroxyacyl-CoA dehydrogenase deficiency reveals the importance of beta-oxidation in insulin secre tion. J Clin Invest. 2001;108(3):457–65. 25. Pearson ER, Boj SF, Steele AM, Barrett T, Stals K,\n\n37. Kishnani PS, Austin SL, Abdenur JE, Arn P, Bali\n\nShield JP, et al. Macrosomia and hyperinsulinae mic hypoglycaemia in patients with heterozygous mutations in the HNF4A gene. PLoS Med. 2007;4(4):e118. 26. Kapoor RR, Locke J, Colclough K, Wales J, Conn\n\n38. Stanley CA, Bennett MJ. Disorders of mitochon\n\nJJ, Hattersley AT, et al. Persistent hyperinsulin emic hypoglycemia and maturity-onset diabetes of\n\nthe young due to heterozygous HNF4A mutations. Diabetes. 2008;57(6):1659–63.\n\nDe Leon DD. Novel presentations of congenital hyperinsulinism due to mutations in the MODY genes: HNF1A and HNF4A. J Clin Endocrinol Metab. 2012;97(10):E2026–30.\n\nB, Apostolidou S, Sipila I, et al. Exercise induced hypoglycaemic hyperinsulinism. Arch Dis Child. 2001;84(3):254–7.\n\nPaez I, Ullah MS, Parton LE, et al. Physical exer cise–induced hypoglycemia caused by failed silencing of monocarboxylate transporter 1 in pancreatic β cells. Am J Hum Genet. 2007;81(3):467–74.\n\nAnedda A, Bellanné-Chantelot C, Hubert L, et al. Mutations in UCP2 in congenital hyperinsulinism reveal a role for regulation of insulin secretion. PLoS One. 2008;3(12):e3850.\n\nasphyxiated and small-for-dates infants with hypo glycaemia. Lancet (London, England). 1984;2(8398):311–3.\n\nL, Simmons RA, Stanley CA. Clinical features and insulin regulation in infants with a syndrome of prolonged neonatal hyperinsulinism. J Pediatr. 2006;148(2):207–12.\n\nJ, Won KJ, Stanley CA, Hoshi T, Stanescu DE. Decreased KATP channel activity contributes to the low glucose threshold for insulin secretion of rat neonatal islets. Endocrinology. 2021;162:bqab121.\n\nH, Radcliffe J, Thomas NH, Jawad AF, De Leon DD. Front Pediatr. 2022;10:999274.\n\nGanguly A, Conlin LK, Becker SA, et al. Congenital hyperinsulinism in children with pater nal 11p uniparental isodisomy and Beckwith- Wiedemann syndrome. J Med Genet. 2016;53(1):53–61.\n\nificity of low growth hormone and cortisol levels during fasting hypoglycemia for the diagnoses of growth hormone deficiency and adrenal insuffi ciency. Pediatrics. 2008;122(3):e522–e8.\n\nDS, Boney A, et al. Diagnosis and management of glycogen storage disease type I: a practice guide line of the American College of Medical Genetics and Genomics. Genet Med. 2014;16(11):e1.\n\ndrial fatty acid beta-oxidation. In: Kliegman RM, Behrman RE, Jenson HB, Stanton BF, editors. Nelson textbook of pediatrics. 18th ed. Philadelphia: W.B. Saunders; 2007. p. 567–73.\n\n\n## PDF page 808 | printed page 807\n\n39. Stanley CA. Dissecting the spectrum of fatty acid\n\noxidation disorders. J Pediatr. 1998;132(3 Pt 1):384–6. 40. Stanley CA, Coates PM. Inherited defects of fatty\n\n48. Menni F, de Lonlay P, Sevin C, Touati G, Peigne C,\n\nacid oxidation which resemble Reye’s syndrome. In: Pollack JD, editor. Reye’s syndrome IV. Bryan: NRSF; 1985. 41. Ziadeh R, Hoffman EP, Finegold DN, Hoop RC,\n\n49. Steinkrauss L, Lipman TH, Hendell CD, Gerdes\n\nBrackett JC, Strauss AW, et al. Medium chain acyl- CoA dehydrogenase deficiency in Pennsylvania: neonatal screening shows high incidence and unex pected mutation frequencies. Pediatr Res. 1995;37(5):675–8. 42. Weinstein DA, Correia CE, Saunders AC,\n\n50. Ludwig A, Ziegenhorn K, Empting S, Meissner T,\n\nWolfsdorf JI. Hepatic glycogen synthase defi ciency: an infrequently recognized cause of ketotic hypoglycemia. Mol Genet Metab. 2006;87(4):284–8. 43. van Hasselt PM, Ferdinandusse S, Monroe GR,\n\n51. Lord K, Radcliffe J, Gallagher PR, Adzick NS,\n\nRuiter JP, Turkenburg M, Geerlings MJ, et al. Monocarboxylate transporter 1 deficiency and ketone utilization. N Engl J Med. 2014;371(20):1900–7. 44. Samuk I, Afriat R, Horne T, Bistritzer T, Barr J,\n\n52. Beltrand J, Caquard M, Arnoux JB, et al. Glucose\n\nVinograd I. Dumping syndrome following Nissen fundoplication, diagnosis, and treatment. J Pediatr Gastroenterol Nutr. 1996;23(3):235–40. 45. Palladino AA, Sayed S, Levitt Katz LE, Gallagher\n\n53. Dayton PG, Pruitt AW, Faraj BA, Israili\n\nPR, De Leon DD. Increased glucagon-like pep tide-1 secretion and postprandial hypoglycemia in children after Nissen fundoplication. J Clin Endocrinol Metab. 2009;94(1):39–44. 46. Ng DD, Ferry RJ Jr, Kelly A, Weinzimer SA,\n\n54. Laje 55. Cuff H, Lord K, Ballester L, Scully T, Stewart N,\n\nStanley CA, Katz LE. Acarbose treatment of post prandial hypoglycemia in children after Nissen fundoplication. J Pediatr. 2001;139(6):877–9. 47. Thornton PS, Stanley CA, De Leon DD, Harris D,\n\nHaymond MW, Hussain K, et al. Recommendations from the pediatric endocrine society for evaluation\n\nand management of persistent hypoglycemia in neonates, infants, and children. J Pediatr. 2015;167:238.\n\nBarbier V, et al. Neurologic outcomes of 90 neo nates and infants with persistent hyperinsulinemic hypoglycemia. Pediatrics. 2001;107(3):476–9.\n\nM, Thornton PS, Stanley CA. Effects of hypogly cemia on developmental outcome in children with congenital hyperinsulinism. J Pediatr Nurs. 2005;20(2):109–18.\n\nMarquard J, Holl R, et al. Glucose metabolism and neurological outcome in congenital hyperinsu linism. Semin Pediatr Surg. 2011;20(1):45–9.\n\nStanley CA, De Leon DD. High risk of diabetes and neurobehavioral deficits in individuals with surgically treated hyperinsulinism. J Clin Endocrinol Metab. 2015;100(11):4133–9.\n\nmetabolism in 105 children and adolescents after pancreatectomy for congenital hyperinsulinism. Diabetes Care. 2012;35(2):198–203.\n\nZH. Metabolism and disposition of diazoxide. A mini-review. Drug Metab Dispos. 1975;3(3):226–9. P, Halaby L, Adzick NS, Stanley CA. Necrotizing enterocolitis in neonates receiving octreotide for the management of congenital hyperinsulinism. Pediatr Diabetes. 2010;11(2):142–7.\n\nDe Leon DD. The use of lanreotide in the treat ment of congenital hyperinsulinism. J Clin Endocrinol Metab. 2022;107(8):e3115–20.\n"
+}

@@ -1,0 +1,718 @@
+{
+  "reviewed": true,
+  "title": "Pediatric Endocrinology: A Practical Clinical Guide",
+  "course_name": "Vikkypaedia · Pediatric Endocrinology",
+  "edition": "Fourth Edition",
+  "year": 2024,
+  "publisher": "Springer Nature Switzerland AG",
+  "authors": "Sally Radovick and Madhusmita Misra (Editors)",
+  "subtitle": "Pediatric Endocrinology · Guided Curriculum, Clinical Atlas & Board Review",
+  "permissions_note": "Original text, tables, figures, captions, and clinical attributions remain with their respective authors and Springer Nature Switzerland AG (2024, https://doi.org/10.1007/978-3-031-66296-6). Personal educational build; public redistribution requires appropriate rights clearance.",
+  "chapters": [
+    {
+      "num": 1,
+      "source_label": "1",
+      "title": "Childhood Growth Hormone Deficiency and Hypopituitarism",
+      "start": 21,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 52,
+      "printed_start": 3,
+      "page_views": [
+        42
+      ]
+    },
+    {
+      "num": 2,
+      "source_label": "2",
+      "title": "Growth Hormone Insensitivity",
+      "start": 53,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 90,
+      "printed_start": 35,
+      "page_views": []
+    },
+    {
+      "num": 3,
+      "source_label": "3",
+      "title": "Normal Variant and Idiopathic Short Stature",
+      "start": 91,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 111,
+      "printed_start": 73,
+      "page_views": []
+    },
+    {
+      "num": 4,
+      "source_label": "4",
+      "title": "Growth Hormone Treatment of the Short Child Born Small for Gestational Age",
+      "start": 112,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 135,
+      "printed_start": 95,
+      "page_views": [
+        116,
+        120
+      ]
+    },
+    {
+      "num": 5,
+      "source_label": "5",
+      "title": "Growth Hormone Therapy in Children with Prader–Willi Syndrome",
+      "start": 136,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 153,
+      "printed_start": 119,
+      "page_views": []
+    },
+    {
+      "num": 6,
+      "source_label": "6",
+      "title": "Growth Hormone Therapy in Children with Turner Syndrome, Noonan Syndrome, and SHOX Gene Mutations",
+      "start": 154,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 188,
+      "printed_start": 137,
+      "page_views": []
+    },
+    {
+      "num": 7,
+      "source_label": "7",
+      "title": "Management of Adults with Childhood-Onset Growth Hormone Deficiency",
+      "start": 189,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 226,
+      "printed_start": 173,
+      "page_views": [
+        202,
+        203,
+        206,
+        207,
+        208
+      ]
+    },
+    {
+      "num": 8,
+      "source_label": "8",
+      "title": "Skeletal Dysplasias",
+      "start": 227,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 257,
+      "printed_start": 211,
+      "page_views": []
+    },
+    {
+      "num": 9,
+      "source_label": "9",
+      "title": "Growth Hormone Excess and Other Conditions of Overgrowth",
+      "start": 258,
+      "group": "I: Pediatric Growth Disorders",
+      "columns": 2,
+      "end": 274,
+      "printed_start": 243,
+      "page_views": []
+    },
+    {
+      "num": 10,
+      "source_label": "10",
+      "title": "Adrenal Insufficiency",
+      "start": 276,
+      "group": "II: Pediatric Adrenal Disorders",
+      "columns": 2,
+      "end": 307,
+      "printed_start": 263,
+      "page_views": []
+    },
+    {
+      "num": 11,
+      "source_label": "11",
+      "title": "Congenital Adrenal Hyperplasia",
+      "start": 308,
+      "group": "II: Pediatric Adrenal Disorders",
+      "columns": 2,
+      "end": 336,
+      "printed_start": 295,
+      "page_views": [
+        312,
+        323
+      ]
+    },
+    {
+      "num": 12,
+      "source_label": "12",
+      "title": "Cushing Syndrome in Childhood",
+      "start": 337,
+      "group": "II: Pediatric Adrenal Disorders",
+      "columns": 2,
+      "end": 362,
+      "printed_start": 325,
+      "page_views": [
+        338,
+        340,
+        348,
+        354
+      ]
+    },
+    {
+      "num": 13,
+      "source_label": "13",
+      "title": "Mineralocorticoid Disorders and Endocrine Hypertension",
+      "start": 363,
+      "group": "II: Pediatric Adrenal Disorders",
+      "columns": 2,
+      "end": 380,
+      "printed_start": 351,
+      "page_views": []
+    },
+    {
+      "num": 14,
+      "source_label": "14",
+      "title": "Congenital Hypothyroidism",
+      "start": 382,
+      "group": "III: Pediatric Thyroid Disorders",
+      "columns": 2,
+      "end": 395,
+      "printed_start": 371,
+      "page_views": []
+    },
+    {
+      "num": 15,
+      "source_label": "15",
+      "title": "Autoimmune Thyroid Disease",
+      "start": 396,
+      "group": "III: Pediatric Thyroid Disorders",
+      "columns": 2,
+      "end": 412,
+      "printed_start": 385,
+      "page_views": []
+    },
+    {
+      "num": 16,
+      "source_label": "16",
+      "title": "Non-thyroidal Illness Syndrome",
+      "start": 413,
+      "group": "III: Pediatric Thyroid Disorders",
+      "columns": 2,
+      "end": 430,
+      "printed_start": 403,
+      "page_views": []
+    },
+    {
+      "num": 17,
+      "source_label": "17",
+      "title": "Resistance to Thyroid Hormone (RTH) and Resistance to TSH (RTSH)",
+      "start": 431,
+      "group": "III: Pediatric Thyroid Disorders",
+      "columns": 2,
+      "end": 452,
+      "printed_start": 421,
+      "page_views": []
+    },
+    {
+      "num": 18,
+      "source_label": "18",
+      "title": "Thyroid Neoplasia",
+      "start": 453,
+      "group": "III: Pediatric Thyroid Disorders",
+      "columns": 2,
+      "end": 483,
+      "printed_start": 443,
+      "page_views": [
+        457,
+        467
+      ]
+    },
+    {
+      "num": 19,
+      "source_label": "19",
+      "title": "Abnormalities in Calcium Homeostasis",
+      "start": 485,
+      "group": "IV: Pediatric Mineral and Bone Disorders",
+      "columns": 2,
+      "end": 505,
+      "printed_start": 477,
+      "page_views": []
+    },
+    {
+      "num": 20,
+      "source_label": "20",
+      "title": "Disorders of Phosphate Homeostasis",
+      "start": 506,
+      "group": "IV: Pediatric Mineral and Bone Disorders",
+      "columns": 2,
+      "end": 532,
+      "printed_start": 499,
+      "page_views": [
+        518
+      ]
+    },
+    {
+      "num": 21,
+      "source_label": "21",
+      "title": "Rickets: The Skeletal Disorders of Impaired Calcium or Phosphate Availability",
+      "start": 533,
+      "group": "IV: Pediatric Mineral and Bone Disorders",
+      "columns": 2,
+      "end": 562,
+      "printed_start": 527,
+      "page_views": []
+    },
+    {
+      "num": 22,
+      "source_label": "22",
+      "title": "Pseudohypoparathyroidism",
+      "start": 563,
+      "group": "IV: Pediatric Mineral and Bone Disorders",
+      "columns": 2,
+      "end": 607,
+      "printed_start": 557,
+      "page_views": [
+        572,
+        573,
+        577,
+        585
+      ]
+    },
+    {
+      "num": 23,
+      "source_label": "23",
+      "title": "The Management of Osteoporosis in Children",
+      "start": 608,
+      "group": "IV: Pediatric Mineral and Bone Disorders",
+      "columns": 2,
+      "end": 665,
+      "printed_start": 603,
+      "page_views": [
+        618,
+        619,
+        620,
+        621,
+        622,
+        623,
+        624,
+        626,
+        639,
+        640,
+        641,
+        642,
+        643,
+        644,
+        645,
+        646
+      ]
+    },
+    {
+      "num": 24,
+      "source_label": "24",
+      "title": "Delayed Puberty Onset and Hypogonadism",
+      "start": 667,
+      "group": "V: Pediatric Pubertal and Reproductive Disorders",
+      "columns": 2,
+      "end": 691,
+      "printed_start": 663,
+      "page_views": []
+    },
+    {
+      "num": 25,
+      "source_label": "25",
+      "title": "Precocious Puberty",
+      "start": 692,
+      "group": "V: Pediatric Pubertal and Reproductive Disorders",
+      "columns": 2,
+      "end": 723,
+      "printed_start": 689,
+      "page_views": [
+        714,
+        715
+      ]
+    },
+    {
+      "num": 26,
+      "source_label": "26",
+      "title": "Management of Infants Born with Disorders/Differences of Sex Development",
+      "start": 724,
+      "group": "V: Pediatric Pubertal and Reproductive Disorders",
+      "columns": 2,
+      "end": 749,
+      "printed_start": 721,
+      "page_views": []
+    },
+    {
+      "num": 27,
+      "source_label": "27",
+      "title": "Menstrual Disorders and Hyperandrogenism in Adolescence",
+      "start": 750,
+      "group": "V: Pediatric Pubertal and Reproductive Disorders",
+      "columns": 2,
+      "end": 779,
+      "printed_start": 747,
+      "page_views": [
+        764,
+        765,
+        768,
+        769,
+        770
+      ]
+    },
+    {
+      "num": 28,
+      "source_label": "28",
+      "title": "Hyperprolactinemia",
+      "start": 780,
+      "group": "V: Pediatric Pubertal and Reproductive Disorders",
+      "columns": 2,
+      "end": 790,
+      "printed_start": 777,
+      "page_views": []
+    },
+    {
+      "num": 29,
+      "source_label": "29",
+      "title": "Hypoglycemia",
+      "start": 792,
+      "group": "VI: Pediatric Metabolic Disorders",
+      "columns": 2,
+      "end": 808,
+      "printed_start": 791,
+      "page_views": []
+    },
+    {
+      "num": 30,
+      "source_label": "30",
+      "title": "Type 1 Diabetes in Children and Adolescents",
+      "start": 809,
+      "group": "VI: Pediatric Metabolic Disorders",
+      "columns": 2,
+      "end": 835,
+      "printed_start": 809,
+      "page_views": []
+    },
+    {
+      "num": 31,
+      "source_label": "31",
+      "title": "Type 2 Diabetes Mellitus in Youth",
+      "start": 836,
+      "group": "VI: Pediatric Metabolic Disorders",
+      "columns": 2,
+      "end": 857,
+      "printed_start": 837,
+      "page_views": []
+    },
+    {
+      "num": 32,
+      "source_label": "32",
+      "title": "Disorders of Lipid Metabolism",
+      "start": 858,
+      "group": "VI: Pediatric Metabolic Disorders",
+      "columns": 2,
+      "end": 886,
+      "printed_start": 859,
+      "page_views": [
+        861
+      ]
+    },
+    {
+      "num": 33,
+      "source_label": "33",
+      "title": "Endocrinologic Sequelae of Anorexia Nervosa and Obesity",
+      "start": 887,
+      "group": "VI: Pediatric Metabolic Disorders",
+      "columns": 2,
+      "end": 920,
+      "printed_start": 889,
+      "page_views": []
+    },
+    {
+      "num": 34,
+      "source_label": "34",
+      "title": "Diabetes Insipidus: Arginine Vasopressin Deficiency and Arginine Vasopressin Resistance",
+      "start": 922,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 942,
+      "printed_start": 925,
+      "page_views": []
+    },
+    {
+      "num": 35,
+      "source_label": "35",
+      "title": "Autoimmune Endocrine Disorders",
+      "start": 943,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 956,
+      "printed_start": 947,
+      "page_views": []
+    },
+    {
+      "num": 36,
+      "source_label": "36",
+      "title": "Multiple Endocrine Neoplasia and Familial Isolated Pituitary Adenoma in the Paediatric Population",
+      "start": 957,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 992,
+      "printed_start": 961,
+      "page_views": [
+        959,
+        960
+      ]
+    },
+    {
+      "num": 37,
+      "source_label": "37",
+      "title": "McCune-Albright Syndrome",
+      "start": 993,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 1002,
+      "printed_start": 997,
+      "page_views": []
+    },
+    {
+      "num": 38,
+      "source_label": "38",
+      "title": "Management of Acute and Late Endocrine Effects of Childhood Cancer Treatment",
+      "start": 1003,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 1021,
+      "printed_start": 1007,
+      "page_views": []
+    },
+    {
+      "num": 39,
+      "source_label": "39",
+      "title": "Care of Transgender and Gender Diverse Youth",
+      "start": 1022,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 1037,
+      "printed_start": 1027,
+      "page_views": []
+    },
+    {
+      "num": 40,
+      "source_label": "40",
+      "title": "Management of Endocrine Emergencies",
+      "start": 1038,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 1062,
+      "printed_start": 1043,
+      "page_views": [
+        1043
+      ]
+    },
+    {
+      "num": 41,
+      "source_label": "41",
+      "title": "The Endocrine Response to Critical Illness",
+      "start": 1063,
+      "group": "VII: Other Pediatric Endocrine Disorders",
+      "columns": 2,
+      "end": 1090,
+      "printed_start": 1069,
+      "page_views": []
+    }
+  ],
+  "omitted_pages": [
+    {
+      "start": 1,
+      "end": 19,
+      "reason": "Front matter (half-title, series page, title page, copyright, dedication, preface, contents, contributors)"
+    },
+    {
+      "start": 20,
+      "end": 20,
+      "reason": "Part I title divider page (I: Pediatric Growth Disorders)"
+    },
+    {
+      "start": 275,
+      "end": 275,
+      "reason": "Part II title divider page (II: Pediatric Adrenal Disorders)"
+    },
+    {
+      "start": 381,
+      "end": 381,
+      "reason": "Part III title divider page (III: Pediatric Thyroid Disorders)"
+    },
+    {
+      "start": 484,
+      "end": 484,
+      "reason": "Part IV title divider page (IV: Pediatric Mineral and Bone Disorders)"
+    },
+    {
+      "start": 666,
+      "end": 666,
+      "reason": "Part V title divider page (V: Pediatric Pubertal and Reproductive Disorders)"
+    },
+    {
+      "start": 791,
+      "end": 791,
+      "reason": "Part VI title divider page (VI: Pediatric Metabolic Disorders)"
+    },
+    {
+      "start": 921,
+      "end": 921,
+      "reason": "Part VII title divider page (VII: Other Pediatric Endocrine Disorders)"
+    },
+    {
+      "start": 1091,
+      "end": 1112,
+      "reason": "Back matter (Subject Index)"
+    }
+  ],
+  "glyph_map": {
+    "BlikButtons": {
+      "5": "",
+      "7": "",
+      ".": "",
+      "z": "",
+      "v": "",
+      "?": "",
+      "k": "",
+      " ": ""
+    }
+  },
+  "features": [
+    {
+      "label": "Short stature & growth failure",
+      "pattern": "\\b(?:short stature|growth failure|growth deceleration|height velocity)\\b"
+    },
+    {
+      "label": "Tall stature & overgrowth",
+      "pattern": "\\b(?:tall stature|overgrowth|gigantism|acromegaly|macrosomia)\\b"
+    },
+    {
+      "label": "Bone age delay or advancement",
+      "pattern": "\\b(?:bone age|skeletal maturation|epiphyseal fusion)\\b"
+    },
+    {
+      "label": "Disproportionate skeletal dysplasia",
+      "pattern": "\\b(?:skeletal dysplasia|achondroplasia|rhizomelia|mesomelia|madelung|shox)\\b"
+    },
+    {
+      "label": "Neonatal hypoglycemia",
+      "pattern": "\\b(?:neonatal hypoglycemia|hyperinsulinism|ketotic hypoglycemia|neuroglycopenia)\\b"
+    },
+    {
+      "label": "Micropenis or cryptorchidism",
+      "pattern": "\\b(?:micropenis|microphallus|cryptorchidism|undescended test)\\b"
+    },
+    {
+      "label": "Ectopic posterior pituitary / SOD",
+      "pattern": "\\b(?:ectopic posterior pituitary|septo-optic dysplasia|pituitary stalk|holoprosencephaly)\\b"
+    },
+    {
+      "label": "Severe IGF-I deficiency / GH resistance",
+      "pattern": "\\b(?:growth hormone insensitivity|laron|igf-i deficiency|gh receptor|stat5b)\\b"
+    },
+    {
+      "label": "Hypotonia & hyperphagia (PWS)",
+      "pattern": "\\b(?:prader.willi|hyperphagia|neonatal hypotonia)\\b"
+    },
+    {
+      "label": "Lymphedema, webbed neck & coarctation",
+      "pattern": "\\b(?:turner syndrome|webbed neck|lymphedema|coarctation|streak gonad)\\b"
+    },
+    {
+      "label": "Adrenal crisis & salt wasting",
+      "pattern": "\\b(?:adrenal crisis|salt.wasting|hyponatremia|hyperkalemia|adrenal insufficiency)\\b"
+    },
+    {
+      "label": "Hyperpigmentation & elevated ACTH",
+      "pattern": "\\b(?:hyperpigmentation|acth|cosyntropin|primary adrenal)\\b"
+    },
+    {
+      "label": "Ambiguous genitalia / virilization / CAH",
+      "pattern": "\\b(?:21-hydroxylase|17-hydroxyprogesterone|virilization|ambiguous genitalia|clitoromegaly)\\b"
+    },
+    {
+      "label": "Cushingoid weight gain & growth arrest",
+      "pattern": "\\b(?:cushing|hypercortisolism|dexamethasone suppression|striae|moon facies)\\b"
+    },
+    {
+      "label": "Low-renin endocrine hypertension",
+      "pattern": "\\b(?:aldosteronism|mineralocorticoid|hypokalemic alkalosis|plasma renin)\\b"
+    },
+    {
+      "label": "Congenital hypothyroidism & NBS",
+      "pattern": "\\b(?:congenital hypothyroidism|thyroid dysgenesis|dyshormonogenesis|levothyroxine)\\b"
+    },
+    {
+      "label": "Goiter & thyroid autoantibodies",
+      "pattern": "\\b(?:goiter|hashimoto|thyroid peroxidase|thyroglobulin antibod|autoimmune thyroid)\\b"
+    },
+    {
+      "label": "Thyrotoxicosis & Graves orbitopathy",
+      "pattern": "\\b(?:graves|thyrotoxicosis|methimazole|trab|tsi|thyroid storm)\\b"
+    },
+    {
+      "label": "Thyroid nodule & medullary/papillary cancer",
+      "pattern": "\\b(?:thyroid nodule|papillary thyroid|medullary thyroid|calcitonin|ret proto-oncogene)\\b"
+    },
+    {
+      "label": "Hypocalcemia, tetany & low/high PTH",
+      "pattern": "\\b(?:hypocalcemia|tetany|chvostek|trousseau|hypoparathyroidism|calcitriol)\\b"
+    },
+    {
+      "label": "Hypercalcemia & parathyroid disorder",
+      "pattern": "\\b(?:hypercalcemia|hyperparathyroidism|casr|nephrocalcinosis|hypercalciuria)\\b"
+    },
+    {
+      "label": "Hypophosphatemic rickets & FGF23",
+      "pattern": "\\b(?:rickets|hypophosphatemia|fgf23|phex|burosumab|rachitic)\\b"
+    },
+    {
+      "label": "Brachydactyly & hormone resistance (GNAS)",
+      "pattern": "\\b(?:pseudohypoparathyroidism|albright hereditary|brachydactyly|gnas|subcutaneous ossification)\\b"
+    },
+    {
+      "label": "Vertebral fractures & low BMD",
+      "pattern": "\\b(?:osteoporosis|osteogenesis imperfecta|bisphosphonate|zoledronic|vertebral fracture|dxa)\\b"
+    },
+    {
+      "label": "Delayed puberty & anosmia (Kallmann)",
+      "pattern": "\\b(?:delayed puberty|hypogonadotropic|kallmann|anosmia|klinefelter)\\b"
+    },
+    {
+      "label": "Central or peripheral precocious puberty",
+      "pattern": "\\b(?:precocious puberty|thelarche|pubarche|gnrh agonist|leuprolide|testotoxicosis)\\b"
+    },
+    {
+      "label": "Disorders/differences of sex development (DSD)",
+      "pattern": "\\b(?:sex development|dsd|müllerian|wolffian|androgen insensitivity|sry|gonadal dysgenesis)\\b"
+    },
+    {
+      "label": "Adolescent PCOS, hirsutism & amenorrhea",
+      "pattern": "\\b(?:polycystic ovar|pcos|hirsutism|hyperandrogenism|amenorrhea|oligomenorrhea)\\b"
+    },
+    {
+      "label": "Galactorrhea & prolactinoma",
+      "pattern": "\\b(?:hyperprolactinemia|prolactinoma|galactorrhea|cabergoline|dopamine agonist)\\b"
+    },
+    {
+      "label": "Diabetic ketoacidosis & Type 1 diabetes",
+      "pattern": "\\b(?:type 1 diabetes|diabetic ketoacidosis|dka|insulin pump|continuous glucose|autoantibodies)\\b"
+    },
+    {
+      "label": "Obesity, insulin resistance & dyslipidemia",
+      "pattern": "\\b(?:type 2 diabetes|acanthosis nigricans|metformin|glp-1|dyslipidemia|hypertriglyceridemia|anorexia nervosa)\\b"
+    },
+    {
+      "label": "Polyuria, polydipsia & diabetes insipidus",
+      "pattern": "\\b(?:diabetes insipidus|vasopressin|desmopressin|ddavp|polyuria|polydipsia|water deprivation)\\b"
+    }
+  ],
+  "column_split": null,
+  "header_fraction": 0.075,
+  "footer_fraction": 0.05
+}

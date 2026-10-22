@@ -1,0 +1,1255 @@
+{
+  "num": 28,
+  "source_label": "28",
+  "title": "Hyperprolactinemia",
+  "start": 780,
+  "group": "V: Pediatric Pubertal and Reproductive Disorders",
+  "columns": 2,
+  "end": 790,
+  "printed_start": 777,
+  "page_views": [],
+  "pdf_start": 780,
+  "pdf_end": 790,
+  "pages": [
+    780,
+    781,
+    782,
+    783,
+    784,
+    785,
+    786,
+    787,
+    788,
+    789,
+    790
+  ],
+  "printed_end": 787,
+  "paragraphs": [
+    {
+      "text": "Takara L. Stanley",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "Contents",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.1 Introduction – 778",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.2 Prolactin Regulation and Secretion – 779",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.3 Physiologic Causes of Hyperprolactinemia – 780",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.4 Medications that Raise Prolactin – 781",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.5 Pathologic Causes of Hyperprolactinemia – 782",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.6 Evaluation of Patients with Hyperprolactinemia – 782",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.7 Management of Patients with Prolactinoma – 784",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "28.8 Conclusion – 786",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "References – 786",
+      "heading": "Hyperprolactinemia",
+      "pdf_page": 780,
+      "printed_page": 777
+    },
+    {
+      "text": "5 Stress, including the stress of venipunc",
+      "heading": "Key Points",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "ture, is a common cause of mild eleva tions in prolactin. Repeating prolactin in the morning, fasting, and with as little stress as possible, is often a good initial step in evaluation of mild hyper prolactinemia. 5 Persistent elevations in prolactin require",
+      "heading": "Key Points",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "endocrine evaluation to assess for path ological causes such as sellar or supra sellar lesions. 5 Prolactinoma is a common cause of",
+      "heading": "Key Points",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "hyperprolactinemia in children and usually can be managed with dopamine agonist therapy, with cabergoline serv ing as the first-line treatment for patients without contraindications to its use.",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Etiology",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Physiologic",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Stress, coitus, exercise",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Nipple stimulation",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Infancy",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Pregnancy",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Lactation",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Medication-Related",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Risperidone",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Metoclopramide",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Other atypical antipsychotics",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Typical antipsychotics",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Opiates",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Ranitidine",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Phenytoin",
+      "heading": "28",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "28.1",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Approximate range of expected elevations",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Up to 90 ng/mL in some studies; generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Up to ~100 ng/mL, normalizes by 3 months of age",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Up to 200 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Generally ≤100 ng/mL but may be higher immediately postpartum",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Up to 200–250 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Up to 200–250 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "(continued)",
+      "heading": "28.1 Introduction",
+      "pdf_page": 781,
+      "printed_page": 778
+    },
+    {
+      "text": "Etiology Approximate range of expected elevations",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Labetolol, verapamil Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Estradiola Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "SSRIsb Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Tricyclic antidepressantsc Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "MAO inhibitorsc Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Pathologic",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Prolactinoma Any range, up to 1000s (ng/mL). Degree of elevation typically correlates with tumor size except in cystic tumors.",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Other sellar, suprasellar, or pituitary stalk lesions",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Pituitary stalk interruption Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Septo-optic dysplasia Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "ROHHAD Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Primary hypothyroidism Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Chest wall trauma Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Surgery Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Seizure Generally <100 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Renal failure Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Liver failure/cirrhosis Generally <50 ng/mL",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Abbreviations: MAO monoamine oxidase; ROHHAD rapid-onset obesity with hypothalamic dysfunction, hypoventilation, autonomic dysfunction; SSRI selective serotonin reuptake inhibitor a Doses of ethinyl estradiol in commonly used oral contraceptives are not expected to raise prolactin, nor is",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "physiological replacement with 17-beta estradiol. Mild hyperprolactinemia in individuals on estradiol requires full evaluation for other possible etiologies b Most studies show no to minimal effect of SSRIs on prolactin, although case reports and case series do sup",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "port SSRIs as an apparent cause of hyperprolactinemia, albeit uncommonly. Mild hyperprolactinemia in individuals on SSRIs requires full evaluation for other possible etiologies c Antidepressants in the classes of tricyclic antidepressions and monoamine oxidase inhibitors have been",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "reported to cause mild elevations in prolactin, but literature is conflicting. Mild hyperprolactinemia in indi viduals on these classes of antidepressant requires full evaluation for other possible etiologies",
+      "heading": "28.1 Introduction",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "Prolactin is a 23-kilodalton (kDa) protein secreted by lactotrophs (also called mammot rophs) that comprise approximately 15–25% of the cells of the anterior pituitary gland [1]. Whereas secretion of other anterior pituitary hormones requires stimulation from the hypo",
+      "heading": "and Secretion",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "thalamus, lactotrophs exhibit spontaneous prolactin secretion [2]. Prolactin secretion is thus primarily regulated by the inhibitory effect of dopamine neurons in the medial basal hypothalamus, which secrete dopamine at the median eminence of the pituitary into the pituitary portal vessels [2–4]. Factors that either stimulate or inhibit dopamine neurons also inhibit or stimulate prolactin secretion,",
+      "heading": "and Secretion",
+      "pdf_page": 782,
+      "printed_page": 779
+    },
+    {
+      "text": "respectively. Factors that increase prolactin secretion include thyrotropin releasing hor mone (TRH), oxytocin, vasoactive intestinal peptide, estradiol, vasopressin, angiotensin II, serotonin, opioids, and histamine [2]. Alongside dopamine, other factors that decrease prolactin secretion include GABA, acetylcholine, and somatostatin [2]. Prolactin also stimulates dopamine neurons in a “shortloop” feedback mechanism that inhibits fur ther prolactin secretion [2, 3].",
+      "heading": "and Secretion",
+      "pdf_page": 783,
+      "printed_page": 780
+    },
+    {
+      "text": "Prolactin has both tonic and pulsatile secre tion and exhibits a circadian rhythm, with levels highest during sleep and in the early morning hours and lowest a few hours after awakening [2, 5]. Levels also rise slightly after eating [5]. With regard to prolactin levels across the life course, newborns have high prolactin levels at birth, decreasing to within the normal child hood range by 3 months of age [5]. Childhood prolactin levels are similar between males and females before puberty; during puberty, prolac tin levels rise in females, accounting for the higher normal ranges in female adolescents and adults than males [5]. Levels also increase sig nificantly during pregnancy, due at least in part to stimulation by estradiol. By the same mecha nism, prolactin levels may also increase slightly during the preovulatory phase of the menstrual cycle [4]. Suckling and/or nipple stimulation raises prolactin within 1–3 min, with elevations lasting 20–30 min [2], and prolactin levels are elevated during lactation.",
+      "heading": "and Secretion",
+      "pdf_page": 783,
+      "printed_page": 780
+    },
+    {
+      "text": "There are multiple forms of prolactin in circulation: 23 kDa monomeric prolactin; dimeric prolactin, also called “big prolactin;” and macroprolactin, also called “big big pro lactin,” which is over 150 kDa in size and rep resents some combination of prolactin multimers joined by glycosylation and/or immunoglobulin A or immunoglobulin G [3]. Typically, monomeric prolactin comprises approximately 85% of total circulating pro lactin, but some individuals have a predomi nance of big prolactin or macroprolactin [6]. Importantly, dimeric prolactin and macropro lactin have minimal biological activity, but all forms may be measured in immunoassay.",
+      "heading": "28",
+      "pdf_page": 783,
+      "printed_page": 780
+    },
+    {
+      "text": "Key actions of prolactin include promoting the differentiation and proliferation of mam mary cells and, during lactation, increasing",
+      "heading": "28",
+      "pdf_page": 783,
+      "printed_page": 780
+    },
+    {
+      "text": "milk production [1]. Additionally, prolactin suppresses gonadotropins (luteinizing hormone [LH] and follicle-stimulating hormone [FSH]) with a putative mechanism of inhibitory prolac tin signaling at kisspeptin (KNDy) neurons resulting in reduced GnRH [1, 4]. Metabolic effects of prolactin, beyond the scope of this chapter, are also increasingly appreciated [1].",
+      "heading": "28",
+      "pdf_page": 783,
+      "printed_page": 780
+    },
+    {
+      "text": "Prolactin levels rise with sleep, exercise, coitus, and both physical and psychological stress. Stress—including the stress of venipunc ture—is a common cause of benign elevations in prolactin. To assess the effect of venipunc ture on prolactin levels, multiple studies have assessed “cannulated prolactin levels,” achieved via intravenous catheter (IV) place ment and serial measurement of prolactin at baseline and periodic intervals over the next two or more hours. These studies report two important findings: (1) on average, prolactin levels decline as time from venipuncture increases, and (2) a large percentage of indi viduals with elevated baseline prolactin levels have normal prolactin after 2 h [7, 8]. For example, in a large cohort of adult women referred for infertility and found to have ele vated prolactin levels on two occasions, 61% had normal 2-h prolactin values, including 5 of 11 women with initial prolactin values above 47 ng/mL (1000 mIU/L) [8]. In a differ ent cohort of 235 men and women referred for hyperprolactinemia with initial values up to 260 ng/mL (5500 mIU/L), 17% of adults had a normal baseline repeat sample, and an addi tional 9% had a normal 2-h “resting” prolac tin [7]. In this cohort, the reduction in prolactin between baseline and 2-h ranged from 2.1 to 35.3 ng/mL (44–749 mIU/L), and, among the female participants, an initial referral prolactin value of 96.2 ng/mL (2040 mU/L) had 97% specificity to detect true hyperprolactinemia [7]. Although similar studies in children are not present in the litera ture, children may also have elevated prolactin due to stress of venipuncture, and placing an",
+      "heading": "of Hyperprolactinemia",
+      "pdf_page": 783,
+      "printed_page": 780
+    },
+    {
+      "text": "IV to draw prolactin after 90–120 min may be a helpful step in the diagnostic process.",
+      "heading": "of Hyperprolactinemia",
+      "pdf_page": 784,
+      "printed_page": 781
+    },
+    {
+      "text": "Another important physiologic cause of apparent hyperprolactinemia is “macropro lactinemia,” or an overabundance of circulat ing macroprolactin, which has little biological effect but raises measured prolactin. Assays can differentiate between macroprolactin and monomeric prolactin using either size exclu sion gel filtration chromatography (GFC, the gold standard) or the quicker method of poly ethylene glycol (PEG) precipitation, which precipitates out the macroprolactin along with a small percentage of monomeric prolac tin [9]. If ≤40% of total prolactin remains as monomeric prolactin following PEG precipi tation, macroprolactinemia is confirmed [9]. Macroprolactinemia can coexist with patho logic elevations in monomeric prolactin, such that the diagnosis of benign macroprolac tinemia requires both precipitation of ≥60% immunoreactive prolactin and normalization of remaining monomeric prolactin levels fol lowing PEG precipitation [9]. Additionally, the presence of macroprolactin varies over time within individuals [10], so measurement of macroprolactin may need to be repeated in patients with changing clinical circumstances, such as an individual who previously had macroprolactinemia and newly presents with increasing prolactin elevation and/or new symptoms consistent with hyperprolac tinemia. The 2011 Endocrine Society guide lines recommend checking for macroprolactin in those who are asymptomatic [6]. Individuals with benign macroprolactinemia may also have nonspecific symptoms that could be attributed to hyperprolactinemia, such that clinicians may also want to assess for macrop rolactin if symptoms are nonspecific. Because of the substantial overlap between symptoms in those with true monomeric hyperprolac tinemia and benign macroprolactinemia, the American Association of Clinical Endocrinologists recommends consideration of macroprolactin measurement in any clini cal situation with possible inconsistencies between labs, symptoms, imaging findings, and/or response to treatment [9]. At present, there are insufficient data in the pediatric pop ulation to guide a specific pediatric recom",
+      "heading": "of Hyperprolactinemia",
+      "pdf_page": 784,
+      "printed_page": 781
+    },
+    {
+      "text": "mendation regarding testing for macroprolactin, and we typically send it in asymptomatic cases and also in those cases with inconsistencies or nonspecific symptoms.",
+      "heading": "of Hyperprolactinemia",
+      "pdf_page": 784,
+      "printed_page": 781
+    },
+    {
+      "text": "Several medications antagonize dopamine and thereby increase serum prolactin. Medication-induced hyperprolactinemia is most common with certain atypical antipsy chotics, with risperidone causing the largest elevations, up to 200–250 ng/mL (4255–5319 mIU/L), and paliperidone and olanzapine potentially causing more modest elevations [11]. Among the other atypical anti psychotics, aripiprazole tends to lower prolac tin, whereas quetiapine and lurasidone have minimal effect on prolactin levels [11]. Typical antipsychotics such as haloperidol and chlor promazine can also raise prolactin, although not typically to the degree that risperidone does [12, 13]. The antiemetic metoclopramide also raises prolactin, potentially up to 200–250 ng/mL (4225–5319 mIU/L) [14].",
+      "heading": "Prolactin",
+      "pdf_page": 784,
+      "printed_page": 781
+    },
+    {
+      "text": "Several other medications may increase prolactin modestly, as described below, but patients with significant prolactin elevations who also happen to be receiving these medica tions should undergo full evaluation for alter native causes of hyperprolactinemia. There are suggestions in the literature that tricyclic anti depressants and monoamine oxidase inhibi tors may cause modest elevations in serum prolactin, but evidence is scant and conflicting [12]. Selective serotonin reuptake inhibitors (SSRIs) may also increase prolactin slightly, although these effects are not clinically rele vant in most patients. SSRIs have been reported to cause frank hyperprolactinemia in some individuals, although routine monitoring of prolactin levels is not necessary with SSRI administration [12, 15]. Other medications that may cause mild elevations in prolactin include antihypertensives (verapamil, methyl dopa, and reserpine), opiates, cocaine, and estrogens [12]. Oral contraceptives with rela tively higher doses of ethinyl estradiol could potentially cause mild elevations in prolactin,",
+      "heading": "Prolactin",
+      "pdf_page": 784,
+      "printed_page": 781
+    },
+    {
+      "text": "although there is no definitive evidence that this occurs. A study of transgender women suggests no effect of estradiol treatment on serum prolactin [16], and studies of physio logic hormone replacement with estrogens also do not support an effect on prolactin [12].",
+      "heading": "Prolactin",
+      "pdf_page": 785,
+      "printed_page": 782
+    },
+    {
+      "text": "The most common cause of hyperprolac tinemia in children is prolactinoma [17]. A prolactinoma is an adenoma comprised of pituitary lactotrophs that excessively synthe size and secrete prolactin. Prolactinomas are divided by size into microadenomas (<10 mm) and macroadenomas (≥10 mm). Females are more likely to present with prolactinoma than males, and the most common time of pediatric presentation is adolescence [18, 19]. Other sel lar or suprasellar lesions can also cause hyper prolactinemia through compression of the pituitary stalk. Hyperprolactinemia due to “stalk effect” most commonly occurs in chil dren with craniopharyngiomas, germinomas, or large pituitary macroadenomas, although this effect can be seen with any mass or infil trative process that compromises the pituitary stalk. Of note, serum prolactin in children with stalk compression from a mass that is not a prolactinoma typically has prolactin levels below 100 ng/mL (2128 mIU/L), in contrast to the much higher levels seen in prolactinomas. Hyperprolactinemia can also be seen in rapidonset obesity with hypothalamic dysfunction, hypoventilation, autonomic dysfunction syn drome (ROHHAD), septo-optic dysplasia, or pituitary stalk interruption [20].",
+      "heading": "of Hyperprolactinemia",
+      "pdf_page": 785,
+      "printed_page": 782
+    },
+    {
+      "text": "Another pathological cause of hyperpro lactinemia is severe primary hypothyroidism, in which elevated TRH stimulates prolactin secretion. Chronic kidney disease may also cause hyperprolactinemia through both increased prolactin secretion and reduced pro lactin clearance [21]. Serum prolactin is also elevated in patients with advanced liver disease, presumably due to multifactorial etiology, although substantial elevations in prolactin in patients with liver disease still require evalua",
+      "heading": "28",
+      "pdf_page": 785,
+      "printed_page": 782
+    },
+    {
+      "text": "tion for other causes [22, 23]. Chest wall trau mas, including burns, other chest injuries, and mastectomy, also raise serum prolactin, pre sumably through the same neural stimulation by which suckling increases prolactin [24]. There is discussion in the literature regarding whether mild elevations in prolactin occur in polycystic ovary syndrome (PCOS) [25]. Given the risks of missing primary hyperprolac tinemia as a cause of oligomenorrhea in this population, the presence of PCOS should not preclude full evaluation of patients for other causes of prolactin elevation.",
+      "heading": "28",
+      "pdf_page": 785,
+      "printed_page": 782
+    },
+    {
+      "text": "28.2",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 785,
+      "printed_page": 782
+    },
+    {
+      "text": "History",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Review of medications",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Assessment for signs/symptoms of pubertal delay or altered growth and galactorrhea",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Menstrual history and assessment of libido and sexual function when applicable",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Assessment for signs/symptoms of mass effect including headaches, visual changes, vomiting",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Family history of hyperparathyroidism or pituitary adenomas",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "Physical Examination",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Thorough and with special attention to visual field exam, assessment of gynecomastia in males, careful",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "pubertal staging. Physical assessment of galactorrhea if warranted, although nipple stimulation precludes accurate prolactin measurement immediately afterward",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "Laboratory Evaluation:",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Consider repeat in the morning, fasting, with serial dilution to assess for hook effect",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Consider measurement of macroprolactinoma to assess for macroprolactinemia",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Consider cannulated prolactin (IV placement with measurement of prolactin after 90–120 min to exclude",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "physiologic elevations due to phlebotomy stress)",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– LH, FSH, estradiol, or testosterone to assess for hypogonadism",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Urine or serum HCG to exclude pregnancy when applicable",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– TSH to assess for primary hypothyroidism as a cause",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Creatinine and liver function tests to assess for advanced renal and liver disease, respectively",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "Magnetic Resonance Imaging of the brain using pituitary protocol pre- and post-contrast with 1 mm cuts",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "Additional Evaluation for Patients with Prolactinoma or Sellar/Suprasellar Pathology on MRI",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– In patients with any adenoma, IGF-1 to assess for co-secretion of GH",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– In patients with any prolactinoma, DXA",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– In patients with macroprolactinoma or other large sellar/suprasellar mass, assessment of morning cortisol",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "or other test of adrenal sufficiency; assessment of IGF-1 to assess for GH deficiency; if symptoms warrant, assessment for diabetes insipidus",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Consider monitoring calcium in all patients with prolactinoma given possibility of MEN1",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Consider genetic testing for MEN1 for all patients with prolactinoma and family history of pituitary",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "adenoma or hyperparathyroidism",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Consider genetic testing for AIP mutations for all patients with prolactinoma and family history of",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "pituitary adenoma",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Consider genetic testing for MEN1 and API mutation in all children with macroadenoma, regardless of",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "family history",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "– Visual field testing in patients with macroadenomas or other sellar masses that may abut or compress the",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "optic chiasm",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "Abbreviations: AIP aryl hydrocarbon receptor interacting protein; DXA dual energy x-ray absorptiometry; FSH follicle-stimulating hormone; GH growth hormone; HCG human chorionic gonadotropin; IGF-1 insu lin-like growth factor 1; LH luteinizing hormone; MEN1 multiple endocrine neoplasia 1; TSH thyroidstimulating hormone",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "hyperprolactinemia could be decreased related to pubertal stalling or concomitant GH defi ciency from a pituitary mass, or it could be accelerated in the less common case of an adenoma co-secreting growth hormone and prolactin. Physical examination in children with hyperprolactinemia should be thorough and include specific focus on the visual field exam and pubertal staging. Clinicians may want to defer physical assessment of galactor",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "rhea during the examination if they are repeating laboratory evaluation at the visit, as the nipple stimulation may raise serum pro lactin.",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "For children who present with one elevated prolactin value, the first step is usually to con firm prolactin elevation with repeat testing. Although guidelines in adults recommend that a single elevated value is enough to con firm hyperprolactinemia [6], our practice is",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 786,
+      "printed_page": 783
+    },
+    {
+      "text": "nearly always to repeat the level in children given the possible effects of stress as well as numerous assay considerations including tim ing of the blood draw, possibility of macrop rolactinemia, and need to assess for “hook effect”. Drawing prolactin in the morning, fasting, avoids the mild elevations in prolactin that may occur with eating and standardizes timing at a nadir of the circadian rhythm of prolactin. It is also good practice to request serial dilutions to exclude the “hook effect,” which is an artifact related to the prolactin immunoassay process by which very high serum prolactin actually causes lower assay results. We find it helpful to assess for hook effect on initial evaluation, and in most cases, it is not present and is not required in further prolactin testing. In children with mild eleva tions in prolactin and/or no signs or symp toms related to hyperprolactinemia, sending a macroprolactin level is also helpful. Additionally, clinicians should consider the possibility of a cannulated prolactin, for which an IV is placed and the prolactin level is drawn 90–120 min after placement to exclude possible elevations due to phlebotomy-related stress.",
+      "heading": "with Hyperprolactinemia",
+      "pdf_page": 787,
+      "printed_page": 784
+    },
+    {
+      "text": "Additional laboratory evaluation should include assessment of TSH, creatinine, and liver function tests, to exclude primary hypo thyroidism, renal disease, and liver disease as causes, respectfully. When clinically applica ble, urine or serum HCG should be sent to assess for pregnancy. Gonadotropins (LH and FSH) and relevant gonadal steroids should be sent to assess for hypogonadism caused by hyperprolactinemia. IGF-1 level may also be useful to assess for the possibility of a GH and prolactin co-secreting tumor. Evaluation of other pituitary axes can also be performed at this time in patients with significant prolac tin elevations, although such testing may not be necessary for those with mild elevations until after MRI results are known.",
+      "heading": "28",
+      "pdf_page": 787,
+      "printed_page": 784
+    },
+    {
+      "text": "Once hyperprolactinemia is confirmed on repeat testing, subsequent evaluation depends on the degree of prolactin elevation and the clinical context. For example, children taking a medication that could explain their degree of prolactin elevation can be followed conser vatively if they have a normal pretreatment",
+      "heading": "28",
+      "pdf_page": 787,
+      "printed_page": 784
+    },
+    {
+      "text": "prolactin value and are not having any signs or symptoms related to hyperprolactinemia. In the absence of a documented pretreatment prolactin that was normal, clinicians may want to consider the possibility of withdraw ing or substituting the offending drug, if pos sible, versus proceeding with an evaluation to exclude other causes of hyperprolactinemia. Asymptomatic children with minimally ele vated prolactin levels can also be followed conservatively, with consideration of cannu lated prolactin versus serial clinical and labo ratory follow-ups. Beyond these two scenarios, most children with persistently elevated pro lactin generally require magnetic resonance imaging (MRI) of the brain using pituitary protocol, with 1 mm cuts and use of a gadolinium-based contrast agent. MRI results will typically guide further evaluation and management, as those without lesions can be followed conservatively and those with sellar or suprasellar lesions will be managed accord ingly. Patients whose MRIs show macroade nomas that may be abutting or compromising the optic chiasm should be referred for visual field testing, as neurosurgical involvement and potentially more aggressive treatment are warranted in cases with visual field impair ment.",
+      "heading": "28",
+      "pdf_page": 787,
+      "printed_page": 784
+    },
+    {
+      "text": "Goals of therapy in patients with prolacti noma include (1) reduction of prolactin to a level that alleviates symptoms and permits normal functioning of the hypothalamicpituitary-gonadal axis and (2) stability or reduction of tumor size. Dopamine agonists are the first-line treatment for most prolacti nomas. Appropriate treatment differs depend ing on the size of the prolactinoma and the degree of symptomatology. Patients with microprolactinomas, modest prolactin eleva tions, and few or no symptoms may benefit most from observation, gonadal steroid replacement, or dopamine agonist therapy [6]. Patients with more significant elevations in prolactin and/or larger tumors will require",
+      "heading": "with Prolactinoma",
+      "pdf_page": 787,
+      "printed_page": 784
+    },
+    {
+      "text": "dopamine agonist therapy, and patients with aggressive tumors and/or visual field compro mise may also require surgery or radiotherapy. At the time of this writing, pediatric-specific guidelines for the management of prolacti noma are not published, and adult guidelines are cited as relevant below [6].",
+      "heading": "with Prolactinoma",
+      "pdf_page": 788,
+      "printed_page": 785
+    },
+    {
+      "text": "Patients with microprolactinoma, modest prolactin elevations, and no or minimal symp toms may not require medical therapy. Although the natural history of untreated macroprolactinoma is not well-described in children, adult data suggest that microprolac tinomas have a relatively benign course, some times resolving without treatment and rarely progressing [6, 26]. For this reason, children with asymptomatic microprolactinomas can be observed without therapy, with serial pro lactin measurements and MRI. Similarly, for those with microprolactinoma complicated only by hypogonadism, gonadal steroid replacement can be used instead of dopamine agonists as long as immediate fertility is not desired [6]. Of note, these strategies are evidence-based in adults [6], but are not welldescribed in the pediatric literature, nor are there head-to-head comparisons of dopamine agonist therapy versus more conservative treatments in children.",
+      "heading": "with Prolactinoma",
+      "pdf_page": 788,
+      "printed_page": 785
+    },
+    {
+      "text": "Dopamine agonists used for the treatment of prolactinomas include cabergoline, bro mocriptine, and, where available, quinagolide. At the time of this writing, the first-line dopa mine agonist is generally cabergoline, which has proven both more effective and better tol erated than bromocriptine in adults [6, 27–33]. Although cabergoline does not have regula tory approval by the United States Food and Drug Administration for the pediatric age group (<18y), we and others routinely use cabergoline as first-line therapy in children, and multiple reports in the literature support use and efficacy in this age group [18–20]. Starting doses of cabergoline are 0.25–0.5 mg/ week, given once or twice weekly, and the majority of patients will achieve normaliza tion of prolactin on these doses [20]. Cabergoline doses are titrated to achieve nor mal prolactin and can be increased up to 3 mg/week, with doses higher than 3 mg potentially effective in select cases [18, 19, 34,",
+      "heading": "with Prolactinoma",
+      "pdf_page": 788,
+      "printed_page": 785
+    },
+    {
+      "text": "35]. Dopamine agonists at high doses can cause valvular abnormalities, and echocar diography at baseline and follow-up may be warranted for patients requiring higher doses of cabergoline [6].",
+      "heading": "with Prolactinoma",
+      "pdf_page": 788,
+      "printed_page": 785
+    },
+    {
+      "text": "Prolactin levels should be repeated within 1 month after starting dopamine agonist ther apy and serially thereafter based on clinical context [6]. Patients with macroprolactinomas should have a repeat MRI within 3 months, whereas an initial interval of 6–12 months is likely appropriate for those with microprolac tinomas [6]. Clinicians should titrate dopa mine agonist therapy to normalize prolactin and perform serial MRIs at intervals of 3–12 months as needed to ensure stability or shrinkage of the prolactinoma. In patients with microprolactinomas for whom prolactin normalizes and the adenoma decreases or resolves over time, tapering and eventual dis continuation of dopamine agonist may be appropriate [6], although, again, data are scant in the pediatric age group. Patients with macroadenomas also typically achieve longterm biochemical and tumor control with dopamine agonists, and the dosage can be titrated to maintain normal prolactin and control of adenoma size.",
+      "heading": "with Prolactinoma",
+      "pdf_page": 788,
+      "printed_page": 785
+    },
+    {
+      "text": "Patients who have visual field compromise and/or who do not achieve control with maxi mal doses of dopamine agonist require man agement by a multidisciplinary team that includes neurosurgery and neuroophthalmol ogy. Cabergoline may still be the appropriate first-line therapy for those presenting with visual field compromise, although we recom mend involvement of neurosurgery and neur oophthalmology from diagnosis for close monitoring and, if the visual field defect does not resolve with dopamine agonists, timely TSS. TSS is the appropriate second-line ther apy for those who cannot tolerate required doses of dopamine agonist or those whose tumor is refractory to treatment [6]. Adjunctive radiotherapy and/or temozolamide may also be necessary in rare cases of aggressive pro lactinoma [33].",
+      "heading": "with Prolactinoma",
+      "pdf_page": 788,
+      "printed_page": 785
+    },
+    {
+      "text": "Other important considerations in the management of prolactinomas in children include evaluating the possibility of a genetic etiology and screening for bone health. Given",
+      "heading": "with Prolactinoma",
+      "pdf_page": 788,
+      "printed_page": 785
+    },
+    {
+      "text": "the possibility of multiple endocrine neopla sia 1 (MEN1), our practice is to follow inter val calcium levels in children with prolactinoma. Genetic testing for MEN1 should be considered in those with a family history of hyperparathyroidism or pituitary adenoma, and children with family history of pituitary adenomas should also be tested for AIP mutations [36]. Finally, in children with macroadenomas, genetic testing for MENIN or AIP mutations is advisable even in the absence of family history, as genetic testing in cohorts of children and young adults with apparently sporadic macroprolactinomas has detected mutations in approximately 10–15% of cases [19, 37].",
+      "heading": "References",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "1. Bernard V, Young J, Binart N. Prolactin—a pleio",
+      "heading": "References",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "2. Low MJ. Neuroendocrinology. In: Melmed KP,",
+      "heading": "References",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "3. Saleem M, Martin H, Coates P. Prolactin biology",
+      "heading": "References",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "4. Phillipps HR, Yip SH, Grattan DR. Patterns of",
+      "heading": "References",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "5. Chahal 6. Melmed S, Casanueva FF, Hoffman AR, Kleinberg",
+      "heading": "28",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "Adolescents with prolactinoma demon strate reduced bone mineral density, which improves but does not necessarily normalize with treatment of hyperprolactinemia [38]. Longer follow-up studies in adults also dem onstrate reduced bone mineral density despite control of hyperprolactinemia and resolution of hypogonadism in patients with prolacti noma [39]. Consequently, bone mineral den sity should be assessed serially in children with prolactinoma to evaluate for low bone density and monitor improvements following therapy.",
+      "heading": "28",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "7. Whyte MB, Pramodh S, Srikugan L, Gilbert JA,",
+      "heading": "28",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "8. Searle L, McDowell S, Willink R, Krebs J. A can",
+      "heading": "28",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "9. Samson 10. Barth JH, Lippiatt CM, Gibbons SG, Desborough",
+      "heading": "28",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "The etiology of hyperprolactinemia in the pediatric age group ranges from benign physi ologic elevations to aggressive macroadeno mas, with medication-related elevations also relatively common. Timely evaluation of chil dren with hyperprolactinemia is critical in determining the etiology and proceeding with necessary management. Prolactinoma is the most common etiology of prolactin elevation in children and usually can be managed suc cessfully with relatively low doses of cabergo line. Less commonly, macroadenomas may require neurosurgery and, less commonly, additional radiotherapy and/or temozol amide.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "11. Kroigaard SM, Clemmensen L, Tarp S, Pagsberg",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "12. Molitch ME. Drugs and prolactin. Pituitary.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "13. Zhu Y, Zhang C, Siafis S, Zhuo K, Zhu D, Wu H,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "14. Cunha-Filho JS, Gross JL, Vettori D, Dias EC,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "tropic factor in health and disease. Nat Rev Endocrinol. 2019;15(6):356–65.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "Larsen PR, Kronenberg HM, editors. Williams textbook of endocrinology. 13th ed. Elsevier; 2015.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "and laboratory measurement: an update on physi ology and current analytical issues. Clin Biochem Rev. 2018;39(1):3–16.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "prolactin secretion. Mol Cell Endocrinol. 2020;502:110679. J, Schlechte J. Hyperprolactinemia. Pituitary. 2008;11(2):141–6.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "DL, Montori VM, Schlechte JA, et al. Diagnosis and treatment of hyperprolactinemia: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2011;96(2):273–88.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "Miell JP, Sherwood RA, et al. Importance of can nulated prolactin test in the definition of hyperpro lactinaemia. Pituitary. 2015;18(3):319–25.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "nulated prolactin series reduces the need for fur ther investigations in women with infertility and lowers the number of false positive screening pro lactin measurements. Aust N Z J Obstet Gynaecol. 2021;61(6):949–54. SL, Hamrahian AH, Ezzat S, Neuroendocrine A, Pituitary Scientific C, American College of E. American Association of Clinical Endocrinologists, American College of Endocrinology Disease State Clinical Review. Clinical relevance of macroprolactin in the absence or presence of true hyperprolactinemia. Endocr Pract. 2015;21(12):1427–35.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "RA. Observational studies on macroprolactin in a routine clinical laboratory. Clin Chem Lab Med. 2018;56(8):1259–62.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "AK. A meta-analysis of antipsychotic-induced hypo- and hyperprolactinemia in children and ado lescents. J Child Adolesc Psychopharmacol. 2022;32(7):374–89.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "2008;11(2):209–18.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "et al. Prolactin levels influenced by antipsychotic drugs in schizophrenia: a systematic review and network meta-analysis. Schizophr Res. 2021;237:20–5.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "Passos EP. Growth hormone and prolactin secre",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 789,
+      "printed_page": 786
+    },
+    {
+      "text": "tion after metoclopramide administration (DA2 receptor blockade) in fertile women. Horm Metab Res. 2001;33(9):536–9. 15. Kim S, Park YM. Serum prolactin and macropro",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "28. De Rosa M, Colao A, Di Sarno A, Ferone D,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "lactin levels among outpatients with major depres sive disorder following the administration of selective serotonin-reuptake inhibitors: a crosssectional pilot study. PLoS One. 2013;8(12):e82749. 16. Bisson JR, Chan KJ, Safer JD. Prolactin levels do",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "29. Sabuncu 30. Di Sarno A, Landi ML, Cappabianca P, Di Salle F,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "not rise among transgender women treated with estradiol and spironolactone. Endocr Pract. 2018;24(7):646–51. 17. Eren E, Torel Ergur A, Isguven SP, Celebi Bitkin",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "E, Berberoglu M, Siklar Z, et al. Clinical and labo ratory characteristics of hyperprolactinemia in children and adolescents: national survey. J Clin Res Pediatr Endocrinol. 2019;11(2):149–56. 18. Hoffmann A, Adelmann S, Lohle K, Claviez A,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "31. Arduc A, Gokay F, Isik S, Ozuguz U, Akbaba G,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Muller HL. Pediatric prolactinoma: initial presen tation, treatment, and long-term prognosis. Eur J Pediatr. 2018;177(1):125–32. 19. Salenave S, Ancelle D, Bahougne T, Raverot G,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Kamenicky P, Bouligand J, et al. Macroprolactinomas in children and adolescents: factors associated with the response to treatment in 77 patients. J Clin Endocrinol Metab. 2015;100(3):1177–86. 20. Kontbay T, Siklar Z, Ozsu E, Uyanik R, Bilici E,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "32. dos Santos NV, El Dib R, Boguszewski CL,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "33. Auriemma RS, Pirchio R, Pivonello C, Garifalos",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Ceran A, et al. Hyperprolactinemia in children and adolescents and longterm follow-up results of pro lactinoma cases: a single-centre experience. Turk J Pediatr. 2022;64(5):892–9. 21. Huang W, Molitch ME. Prolactin and other",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "34. Spinks JJ, Ryan FJ. Cabergoline resistance in pedi",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Pituitary disorders in kidney disease. Semin Nephrol. 2021;41(2):156–67. 22. Balakrishnan CH, Rajeev H. Correlation of serum",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "35. Hoffmann A, Adelmann S, Lohle K, Claviez A,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "prolactin level to child Pugh scoring system in cir rhosis of liver. J Clin Diagn Res. 2017;11(7):OC30-OC3. 23. Ress C, Maeser PA, Tschoner A, Loacker L,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "36. Beckers A, Aaltonen LA, Daly AF, Karhu",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Salzmann K, Staudacher G, et al. Serum prolactin in advanced chronic liver disease. Horm Metab Res. 2014;46(11):800–3. 24. Herman V, Kalk WJ, de Moor NG, Levin J. Serum",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "prolactin after chest wall surgery: elevated levels after mastectomy. J Clin Endocrinol Metab. 1981;52(1):148–51. 25. Saei Ghare Naz M, Mousavi M, Mahboobifard F,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "37. Cuny T, Pertuit M, Sahnoun-Fathallah M, Daly A,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Niknam A, Ramezani Tehrani F. A meta-analysis of observational studies on prolactin levels in women with polycystic ovary syndrome. Diagnostics (Basel). 2022;12(12). 26. Schlechte J, Dolan K, Sherman B, Chapler F,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "38. Colao A, Di Somma C, Loche S, Di Sarno A,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Luciano A. The natural history of untreated hyperprolactinemia: a prospective analysis. J Clin Endocrinol Metab. 1989;68(2):412–8. 27. Webster J, Piscitelli G, Polli A, Ferrari CI, Ismail I,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "39. Andereggen L, Frey J, Andres RH, Luedi MM,",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Scanlon MF. A comparison of cabergoline and bromocriptine in the treatment of hyperprolactin",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "emic amenorrhea. Cabergoline comparative study group. N Engl J Med. 1994;331(14):904–9.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Landi ML, Zarrilli S, et al. Cabergoline treatment rapidly improves gonadal function in hyperprolac tinemic males: a comparison with bromocriptine. Eur J Endocrinol. 1998;138(3):286–93. T, Arikan E, Tasan E, Hatemi H. Comparison of the effects of cabergoline and bromocriptine on prolactin levels in hyperprolac tinemic patients. Intern Med. 2001;40(9):857–61.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Rossi FW, Pivonello R, et al. Resistance to caber goline as compared with bromocriptine in hyperp rolactinemia: prevalence, clinical definition, and therapeutic strategy. J Clin Endocrinol Metab. 2001;86(11):5256–61.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Tutuncu Y, et al. Retrospective comparison of cab ergoline and bromocriptine effects in hyperprolac tinemia: a single center experience. J Endocrinol Investig. 2015;38(4):447–53.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Nogueira CR. Cabergoline versus bromocriptine in the treatment of hyperprolactinemia: a system atic review of randomized controlled trials and meta-analysis. Pituitary. 2011;14(3):259–65.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "F, Colao A, Pivonello R. Approach to the patient with prolactinoma. J Clin Endocrinol Metab. 2023;108:2400.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "atric prolactinomas. J Pediatr Hematol Oncol. 2009;31(5):377–9.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Muller HL. Pediatric prolactinoma: initial presen tation, treatment, and long-term prognosis. Eur J Pediatr. 2017.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "A. Familial isolated pituitary adenomas (FIPA) and the pituitary adenoma predisposition due to mutations in the aryl hydrocarbon receptor inter acting protein (AIP) gene. Endocr Rev. 2013;34(2):239–77.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Occhi G, Odou MF, et al. Genetic analysis in young patients with sporadic pituitary macroade nomas: besides AIP don’t forget MEN1 genetic analysis. Eur J Endocrinol. 2013;168(4):533–41.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Klain M, Pivonello R, et al. Prolactinomas in ado lescents: persistent bone loss after 2 years of pro lactin normalization. Clin Endocrinol. 2000;52(3):319–27.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    },
+    {
+      "text": "Widmer HR, Beck J, et al. Persistent bone impair ment despite long-term control of hyperprolac tinemia and hypogonadism in men and women with prolactinomas. Sci Rep. 2021;11(1):5122.",
+      "heading": "28.8 Conclusion",
+      "pdf_page": 790,
+      "printed_page": 787
+    }
+  ],
+  "figures": [],
+  "tables": [
+    {
+      "path": "tables/ch028_p0781_2.jpg",
+      "markdown": "|Physiologic|Col2|\n|---|---|\n|Stress, coitus, exercise|Up to 90ng/mL in some studies; generally <50ng/mL|\n|Nipple stimulation|Generally <50ng/mL|\n|Infancy|Up to ~100ng/mL, normalizes by 3months of age|\n|Pregnancy|Up to 200ng/mL|\n|Lactation|Generally≤100ng/mL but may be higher immediately<br>postpartum|\n\n",
+      "pdf_page": 781,
+      "printed_page": 778,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch028_p0781_3.jpg",
+      "markdown": "|Medication-Related|Col2|\n|---|---|\n|Risperidone|Up to 200–250ng/mL|\n|Metoclopramide|Up to 200–250ng/mL|\n|Other atypical antipsychotics|Generally <50ng/mL|\n|Typical antipsychotics|Generally <50ng/mL|\n|Opiates|Generally <50ng/mL|\n|Ranitidine|Generally <50ng/mL|\n|Phenytoin|Generally <50ng/mL|\n\n",
+      "pdf_page": 781,
+      "printed_page": 778,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch028_p0782_1.jpg",
+      "markdown": "|Etiology|Approximate range of expected elevations|\n|---|---|\n|Labetolol, verapamil|Generally <50ng/mL|\n|Estradiola|Generally <50ng/mL|\n|SSRIsb|Generally <50ng/mL|\n|Tricyclic antidepressantsc|Generally <50ng/mL|\n|MAO inhibitorsc|Generally <50ng/mL|\n\n",
+      "pdf_page": 782,
+      "printed_page": 779,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch028_p0782_2.jpg",
+      "markdown": "|Pathologic|Col2|\n|---|---|\n|Prolactinoma|Any range, up to 1000s (ng/mL). Degree of elevation typically<br>correlates with tumor size except in cystic tumors.|\n|Other sellar, suprasellar, or pituitary stalk<br>lesions|Generally <100ng/mL|\n|Pituitary stalk interruption|Generally <100ng/mL|\n|Septo-optic dysplasia|Generally <100ng/mL|\n|ROHHAD|Generally <100ng/mL|\n|Primary hypothyroidism|Generally <100ng/mL|\n|Chest wall trauma|Generally <100ng/mL|\n|Surgery|Generally <100ng/mL|\n|Seizure|Generally <100ng/mL|\n|Renal failure|Generally <50ng/mL|\n|Liver failure/cirrhosis|Generally <50ng/mL|\n\n",
+      "pdf_page": 782,
+      "printed_page": 779,
+      "orientation_normalized": false
+    }
+  ],
+  "raw_md": "# 28. Hyperprolactinemia\n> Source attribution: [Source credits](../../SOURCE_CREDITS.md).\n\n\n## PDF page 780 | printed page 777\n\n### Hyperprolactinemia\n\nTakara L. Stanley\n\nContents\n\n28.1 Introduction – 778\n\n28.2 Prolactin Regulation and Secretion – 779\n\n28.3 Physiologic Causes of Hyperprolactinemia – 780\n\n28.4 Medications that Raise Prolactin – 781\n\n28.5 Pathologic Causes of Hyperprolactinemia – 782\n\n28.6 Evaluation of Patients with Hyperprolactinemia – 782\n\n28.7 Management of Patients with Prolactinoma – 784\n\n28.8 Conclusion – 786\n\nReferences – 786\n\n© The Author(s), under exclusive license to Springer Nature Switzerland AG 2024 S. Radovick, M. Misra (eds.), Pediatric Endocrinology, https://doi.org/10.1007/978-3-031-66296-6_28\n\n\n## PDF page 781 | printed page 778\n\n### Key Points\n\n5 Stress, including the stress of venipunc\n\nture, is a common cause of mild eleva tions in prolactin. Repeating prolactin in the morning, fasting, and with as little stress as possible, is often a good initial step in evaluation of mild hyper prolactinemia. 5 Persistent elevations in prolactin require\n\nendocrine evaluation to assess for path ological causes such as sellar or supra sellar lesions. 5 Prolactinoma is a common cause of\n\n### 28\n\nhyperprolactinemia in children and usually can be managed with dopamine agonist therapy, with cabergoline serv ing as the first-line treatment for patients without contraindications to its use.\n\nTable 28.1 Causes of hyperprolactinemia\n\nEtiology\n\nPhysiologic\n\nStress, coitus, exercise\n\nNipple stimulation\n\nInfancy\n\nPregnancy\n\nLactation\n\nMedication-Related\n\nRisperidone\n\nMetoclopramide\n\nOther atypical antipsychotics\n\nTypical antipsychotics\n\nOpiates\n\nRanitidine\n\nPhenytoin\n\n### 28.1 Introduction\n\n\n\n\n\n\n\n\n\n28.1\n\n\n\n\n\nApproximate range of expected elevations\n\nUp to 90 ng/mL in some studies; generally <50 ng/mL\n\nGenerally <50 ng/mL\n\nUp to ~100 ng/mL, normalizes by 3 months of age\n\nUp to 200 ng/mL\n\nGenerally ≤100 ng/mL but may be higher immediately postpartum\n\nUp to 200–250 ng/mL\n\nUp to 200–250 ng/mL\n\nGenerally <50 ng/mL\n\nGenerally <50 ng/mL\n\nGenerally <50 ng/mL\n\nGenerally <50 ng/mL\n\nGenerally <50 ng/mL\n\n(continued)\n\n\n### Automatic table extraction — verify rendered original\n\n|Physiologic|Col2|\n|---|---|\n|Stress, coitus, exercise|Up to 90ng/mL in some studies; generally <50ng/mL|\n|Nipple stimulation|Generally <50ng/mL|\n|Infancy|Up to ~100ng/mL, normalizes by 3months of age|\n|Pregnancy|Up to 200ng/mL|\n|Lactation|Generally≤100ng/mL but may be higher immediately<br>postpartum|\n\n\n\n[Original table](../../tables/ch028_p0781_2.jpg)\n\n\n### Automatic table extraction — verify rendered original\n\n|Medication-Related|Col2|\n|---|---|\n|Risperidone|Up to 200–250ng/mL|\n|Metoclopramide|Up to 200–250ng/mL|\n|Other atypical antipsychotics|Generally <50ng/mL|\n|Typical antipsychotics|Generally <50ng/mL|\n|Opiates|Generally <50ng/mL|\n|Ranitidine|Generally <50ng/mL|\n|Phenytoin|Generally <50ng/mL|\n\n\n\n[Original table](../../tables/ch028_p0781_3.jpg)\n\n\n## PDF page 782 | printed page 779\n\nTable 28.1 (continued)\n\nEtiology Approximate range of expected elevations\n\nLabetolol, verapamil Generally <50 ng/mL\n\nEstradiola Generally <50 ng/mL\n\nSSRIsb Generally <50 ng/mL\n\nTricyclic antidepressantsc Generally <50 ng/mL\n\nMAO inhibitorsc Generally <50 ng/mL\n\nPathologic\n\nProlactinoma Any range, up to 1000s (ng/mL). Degree of elevation typically correlates with tumor size except in cystic tumors.\n\nOther sellar, suprasellar, or pituitary stalk lesions\n\nGenerally <100 ng/mL\n\nPituitary stalk interruption Generally <100 ng/mL\n\nSepto-optic dysplasia Generally <100 ng/mL\n\nROHHAD Generally <100 ng/mL\n\nPrimary hypothyroidism Generally <100 ng/mL\n\nChest wall trauma Generally <100 ng/mL\n\nSurgery Generally <100 ng/mL\n\nSeizure Generally <100 ng/mL\n\nRenal failure Generally <50 ng/mL\n\nLiver failure/cirrhosis Generally <50 ng/mL\n\nAbbreviations: MAO monoamine oxidase; ROHHAD rapid-onset obesity with hypothalamic dysfunction, hypoventilation, autonomic dysfunction; SSRI selective serotonin reuptake inhibitor a Doses of ethinyl estradiol in commonly used oral contraceptives are not expected to raise prolactin, nor is\n\nphysiological replacement with 17-beta estradiol. Mild hyperprolactinemia in individuals on estradiol requires full evaluation for other possible etiologies b Most studies show no to minimal effect of SSRIs on prolactin, although case reports and case series do sup\n\nport SSRIs as an apparent cause of hyperprolactinemia, albeit uncommonly. Mild hyperprolactinemia in individuals on SSRIs requires full evaluation for other possible etiologies c Antidepressants in the classes of tricyclic antidepressions and monoamine oxidase inhibitors have been\n\nreported to cause mild elevations in prolactin, but literature is conflicting. Mild hyperprolactinemia in indi viduals on these classes of antidepressant requires full evaluation for other possible etiologies\n\n### 28.2 Prolactin Regulation\n\n### and Secretion\n\nProlactin is a 23-kilodalton (kDa) protein secreted by lactotrophs (also called mammot rophs) that comprise approximately 15–25% of the cells of the anterior pituitary gland [1]. Whereas secretion of other anterior pituitary hormones requires stimulation from the hypo\n\nthalamus, lactotrophs exhibit spontaneous prolactin secretion [2]. Prolactin secretion is thus primarily regulated by the inhibitory effect of dopamine neurons in the medial basal hypothalamus, which secrete dopamine at the median eminence of the pituitary into the pituitary portal vessels [2–4]. Factors that either stimulate or inhibit dopamine neurons also inhibit or stimulate prolactin secretion,\n\n\n### Automatic table extraction — verify rendered original\n\n|Etiology|Approximate range of expected elevations|\n|---|---|\n|Labetolol, verapamil|Generally <50ng/mL|\n|Estradiola|Generally <50ng/mL|\n|SSRIsb|Generally <50ng/mL|\n|Tricyclic antidepressantsc|Generally <50ng/mL|\n|MAO inhibitorsc|Generally <50ng/mL|\n\n\n\n[Original table](../../tables/ch028_p0782_1.jpg)\n\n\n### Automatic table extraction — verify rendered original\n\n|Pathologic|Col2|\n|---|---|\n|Prolactinoma|Any range, up to 1000s (ng/mL). Degree of elevation typically<br>correlates with tumor size except in cystic tumors.|\n|Other sellar, suprasellar, or pituitary stalk<br>lesions|Generally <100ng/mL|\n|Pituitary stalk interruption|Generally <100ng/mL|\n|Septo-optic dysplasia|Generally <100ng/mL|\n|ROHHAD|Generally <100ng/mL|\n|Primary hypothyroidism|Generally <100ng/mL|\n|Chest wall trauma|Generally <100ng/mL|\n|Surgery|Generally <100ng/mL|\n|Seizure|Generally <100ng/mL|\n|Renal failure|Generally <50ng/mL|\n|Liver failure/cirrhosis|Generally <50ng/mL|\n\n\n\n[Original table](../../tables/ch028_p0782_2.jpg)\n\n\n## PDF page 783 | printed page 780\n\nrespectively. Factors that increase prolactin secretion include thyrotropin releasing hor mone (TRH), oxytocin, vasoactive intestinal peptide, estradiol, vasopressin, angiotensin II, serotonin, opioids, and histamine [2]. Alongside dopamine, other factors that decrease prolactin secretion include GABA, acetylcholine, and somatostatin [2]. Prolactin also stimulates dopamine neurons in a “shortloop” feedback mechanism that inhibits fur ther prolactin secretion [2, 3].\n\nProlactin has both tonic and pulsatile secre tion and exhibits a circadian rhythm, with levels highest during sleep and in the early morning hours and lowest a few hours after awakening [2, 5]. Levels also rise slightly after eating [5]. With regard to prolactin levels across the life course, newborns have high prolactin levels at birth, decreasing to within the normal child hood range by 3 months of age [5]. Childhood prolactin levels are similar between males and females before puberty; during puberty, prolac tin levels rise in females, accounting for the higher normal ranges in female adolescents and adults than males [5]. Levels also increase sig nificantly during pregnancy, due at least in part to stimulation by estradiol. By the same mecha nism, prolactin levels may also increase slightly during the preovulatory phase of the menstrual cycle [4]. Suckling and/or nipple stimulation raises prolactin within 1–3 min, with elevations lasting 20–30 min [2], and prolactin levels are elevated during lactation.\n\n### 28\n\nThere are multiple forms of prolactin in circulation: 23 kDa monomeric prolactin; dimeric prolactin, also called “big prolactin;” and macroprolactin, also called “big big pro lactin,” which is over 150 kDa in size and rep resents some combination of prolactin multimers joined by glycosylation and/or immunoglobulin A or immunoglobulin G [3]. Typically, monomeric prolactin comprises approximately 85% of total circulating pro lactin, but some individuals have a predomi nance of big prolactin or macroprolactin [6]. Importantly, dimeric prolactin and macropro lactin have minimal biological activity, but all forms may be measured in immunoassay.\n\nKey actions of prolactin include promoting the differentiation and proliferation of mam mary cells and, during lactation, increasing\n\nmilk production [1]. Additionally, prolactin suppresses gonadotropins (luteinizing hormone [LH] and follicle-stimulating hormone [FSH]) with a putative mechanism of inhibitory prolac tin signaling at kisspeptin (KNDy) neurons resulting in reduced GnRH [1, 4]. Metabolic effects of prolactin, beyond the scope of this chapter, are also increasingly appreciated [1].\n\n### 28.3 Physiologic Causes\n\n### of Hyperprolactinemia\n\nProlactin levels rise with sleep, exercise, coitus, and both physical and psychological stress. Stress—including the stress of venipunc ture—is a common cause of benign elevations in prolactin. To assess the effect of venipunc ture on prolactin levels, multiple studies have assessed “cannulated prolactin levels,” achieved via intravenous catheter (IV) place ment and serial measurement of prolactin at baseline and periodic intervals over the next two or more hours. These studies report two important findings: (1) on average, prolactin levels decline as time from venipuncture increases, and (2) a large percentage of indi viduals with elevated baseline prolactin levels have normal prolactin after 2 h [7, 8]. For example, in a large cohort of adult women referred for infertility and found to have ele vated prolactin levels on two occasions, 61% had normal 2-h prolactin values, including 5 of 11 women with initial prolactin values above 47 ng/mL (1000 mIU/L) [8]. In a differ ent cohort of 235 men and women referred for hyperprolactinemia with initial values up to 260 ng/mL (5500 mIU/L), 17% of adults had a normal baseline repeat sample, and an addi tional 9% had a normal 2-h “resting” prolac tin [7]. In this cohort, the reduction in prolactin between baseline and 2-h ranged from 2.1 to 35.3 ng/mL (44–749 mIU/L), and, among the female participants, an initial referral prolactin value of 96.2 ng/mL (2040 mU/L) had 97% specificity to detect true hyperprolactinemia [7]. Although similar studies in children are not present in the litera ture, children may also have elevated prolactin due to stress of venipuncture, and placing an\n\n\n## PDF page 784 | printed page 781\n\nIV to draw prolactin after 90–120 min may be a helpful step in the diagnostic process.\n\nAnother important physiologic cause of apparent hyperprolactinemia is “macropro lactinemia,” or an overabundance of circulat ing macroprolactin, which has little biological effect but raises measured prolactin. Assays can differentiate between macroprolactin and monomeric prolactin using either size exclu sion gel filtration chromatography (GFC, the gold standard) or the quicker method of poly ethylene glycol (PEG) precipitation, which precipitates out the macroprolactin along with a small percentage of monomeric prolac tin [9]. If ≤40% of total prolactin remains as monomeric prolactin following PEG precipi tation, macroprolactinemia is confirmed [9]. Macroprolactinemia can coexist with patho logic elevations in monomeric prolactin, such that the diagnosis of benign macroprolac tinemia requires both precipitation of ≥60% immunoreactive prolactin and normalization of remaining monomeric prolactin levels fol lowing PEG precipitation [9]. Additionally, the presence of macroprolactin varies over time within individuals [10], so measurement of macroprolactin may need to be repeated in patients with changing clinical circumstances, such as an individual who previously had macroprolactinemia and newly presents with increasing prolactin elevation and/or new symptoms consistent with hyperprolac tinemia. The 2011 Endocrine Society guide lines recommend checking for macroprolactin in those who are asymptomatic [6]. Individuals with benign macroprolactinemia may also have nonspecific symptoms that could be attributed to hyperprolactinemia, such that clinicians may also want to assess for macrop rolactin if symptoms are nonspecific. Because of the substantial overlap between symptoms in those with true monomeric hyperprolac tinemia and benign macroprolactinemia, the American Association of Clinical Endocrinologists recommends consideration of macroprolactin measurement in any clini cal situation with possible inconsistencies between labs, symptoms, imaging findings, and/or response to treatment [9]. At present, there are insufficient data in the pediatric pop ulation to guide a specific pediatric recom\n\nmendation regarding testing for macroprolactin, and we typically send it in asymptomatic cases and also in those cases with inconsistencies or nonspecific symptoms.\n\n### 28.4 Medications that Raise\n\n### Prolactin\n\nSeveral medications antagonize dopamine and thereby increase serum prolactin. Medication-induced hyperprolactinemia is most common with certain atypical antipsy chotics, with risperidone causing the largest elevations, up to 200–250 ng/mL (4255–5319 mIU/L), and paliperidone and olanzapine potentially causing more modest elevations [11]. Among the other atypical anti psychotics, aripiprazole tends to lower prolac tin, whereas quetiapine and lurasidone have minimal effect on prolactin levels [11]. Typical antipsychotics such as haloperidol and chlor promazine can also raise prolactin, although not typically to the degree that risperidone does [12, 13]. The antiemetic metoclopramide also raises prolactin, potentially up to 200–250 ng/mL (4225–5319 mIU/L) [14].\n\nSeveral other medications may increase prolactin modestly, as described below, but patients with significant prolactin elevations who also happen to be receiving these medica tions should undergo full evaluation for alter native causes of hyperprolactinemia. There are suggestions in the literature that tricyclic anti depressants and monoamine oxidase inhibi tors may cause modest elevations in serum prolactin, but evidence is scant and conflicting [12]. Selective serotonin reuptake inhibitors (SSRIs) may also increase prolactin slightly, although these effects are not clinically rele vant in most patients. SSRIs have been reported to cause frank hyperprolactinemia in some individuals, although routine monitoring of prolactin levels is not necessary with SSRI administration [12, 15]. Other medications that may cause mild elevations in prolactin include antihypertensives (verapamil, methyl dopa, and reserpine), opiates, cocaine, and estrogens [12]. Oral contraceptives with rela tively higher doses of ethinyl estradiol could potentially cause mild elevations in prolactin,\n\n\n## PDF page 785 | printed page 782\n\nalthough there is no definitive evidence that this occurs. A study of transgender women suggests no effect of estradiol treatment on serum prolactin [16], and studies of physio logic hormone replacement with estrogens also do not support an effect on prolactin [12].\n\n### 28.5 Pathologic Causes\n\n### of Hyperprolactinemia\n\nThe most common cause of hyperprolac tinemia in children is prolactinoma [17]. A prolactinoma is an adenoma comprised of pituitary lactotrophs that excessively synthe size and secrete prolactin. Prolactinomas are divided by size into microadenomas (<10 mm) and macroadenomas (≥10 mm). Females are more likely to present with prolactinoma than males, and the most common time of pediatric presentation is adolescence [18, 19]. Other sel lar or suprasellar lesions can also cause hyper prolactinemia through compression of the pituitary stalk. Hyperprolactinemia due to “stalk effect” most commonly occurs in chil dren with craniopharyngiomas, germinomas, or large pituitary macroadenomas, although this effect can be seen with any mass or infil trative process that compromises the pituitary stalk. Of note, serum prolactin in children with stalk compression from a mass that is not a prolactinoma typically has prolactin levels below 100 ng/mL (2128 mIU/L), in contrast to the much higher levels seen in prolactinomas. Hyperprolactinemia can also be seen in rapidonset obesity with hypothalamic dysfunction, hypoventilation, autonomic dysfunction syn drome (ROHHAD), septo-optic dysplasia, or pituitary stalk interruption [20].\n\n### 28\n\nAnother pathological cause of hyperpro lactinemia is severe primary hypothyroidism, in which elevated TRH stimulates prolactin secretion. Chronic kidney disease may also cause hyperprolactinemia through both increased prolactin secretion and reduced pro lactin clearance [21]. Serum prolactin is also elevated in patients with advanced liver disease, presumably due to multifactorial etiology, although substantial elevations in prolactin in patients with liver disease still require evalua\n\ntion for other causes [22, 23]. Chest wall trau mas, including burns, other chest injuries, and mastectomy, also raise serum prolactin, pre sumably through the same neural stimulation by which suckling increases prolactin [24]. There is discussion in the literature regarding whether mild elevations in prolactin occur in polycystic ovary syndrome (PCOS) [25]. Given the risks of missing primary hyperprolac tinemia as a cause of oligomenorrhea in this population, the presence of PCOS should not preclude full evaluation of patients for other causes of prolactin elevation.\n\n### 28.6 Evaluation of Patients\n\n### with Hyperprolactinemia\n\n\n\n28.2\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n## PDF page 786 | printed page 783\n\nTable 28.2 Evaluation of hyperprolactinemia\n\nHistory\n\n– Review of medications\n\n– Assessment for signs/symptoms of pubertal delay or altered growth and galactorrhea\n\n– Menstrual history and assessment of libido and sexual function when applicable\n\n– Assessment for signs/symptoms of mass effect including headaches, visual changes, vomiting\n\n– Family history of hyperparathyroidism or pituitary adenomas\n\nPhysical Examination\n\n– Thorough and with special attention to visual field exam, assessment of gynecomastia in males, careful\n\npubertal staging. Physical assessment of galactorrhea if warranted, although nipple stimulation precludes accurate prolactin measurement immediately afterward\n\nLaboratory Evaluation:\n\n– Consider repeat in the morning, fasting, with serial dilution to assess for hook effect\n\n– Consider measurement of macroprolactinoma to assess for macroprolactinemia\n\n– Consider cannulated prolactin (IV placement with measurement of prolactin after 90–120 min to exclude\n\nphysiologic elevations due to phlebotomy stress)\n\n– LH, FSH, estradiol, or testosterone to assess for hypogonadism\n\n– Urine or serum HCG to exclude pregnancy when applicable\n\n– TSH to assess for primary hypothyroidism as a cause\n\n– Creatinine and liver function tests to assess for advanced renal and liver disease, respectively\n\nMagnetic Resonance Imaging of the brain using pituitary protocol pre- and post-contrast with 1 mm cuts\n\nAdditional Evaluation for Patients with Prolactinoma or Sellar/Suprasellar Pathology on MRI\n\n– In patients with any adenoma, IGF-1 to assess for co-secretion of GH\n\n– In patients with any prolactinoma, DXA\n\n– In patients with macroprolactinoma or other large sellar/suprasellar mass, assessment of morning cortisol\n\nor other test of adrenal sufficiency; assessment of IGF-1 to assess for GH deficiency; if symptoms warrant, assessment for diabetes insipidus\n\n– Consider monitoring calcium in all patients with prolactinoma given possibility of MEN1\n\n– Consider genetic testing for MEN1 for all patients with prolactinoma and family history of pituitary\n\nadenoma or hyperparathyroidism\n\n– Consider genetic testing for AIP mutations for all patients with prolactinoma and family history of\n\npituitary adenoma\n\n– Consider genetic testing for MEN1 and API mutation in all children with macroadenoma, regardless of\n\nfamily history\n\n– Visual field testing in patients with macroadenomas or other sellar masses that may abut or compress the\n\noptic chiasm\n\nAbbreviations: AIP aryl hydrocarbon receptor interacting protein; DXA dual energy x-ray absorptiometry; FSH follicle-stimulating hormone; GH growth hormone; HCG human chorionic gonadotropin; IGF-1 insu lin-like growth factor 1; LH luteinizing hormone; MEN1 multiple endocrine neoplasia 1; TSH thyroidstimulating hormone\n\nhyperprolactinemia could be decreased related to pubertal stalling or concomitant GH defi ciency from a pituitary mass, or it could be accelerated in the less common case of an adenoma co-secreting growth hormone and prolactin. Physical examination in children with hyperprolactinemia should be thorough and include specific focus on the visual field exam and pubertal staging. Clinicians may want to defer physical assessment of galactor\n\nrhea during the examination if they are repeating laboratory evaluation at the visit, as the nipple stimulation may raise serum pro lactin.\n\nFor children who present with one elevated prolactin value, the first step is usually to con firm prolactin elevation with repeat testing. Although guidelines in adults recommend that a single elevated value is enough to con firm hyperprolactinemia [6], our practice is\n\n\n## PDF page 787 | printed page 784\n\nnearly always to repeat the level in children given the possible effects of stress as well as numerous assay considerations including tim ing of the blood draw, possibility of macrop rolactinemia, and need to assess for “hook effect”. Drawing prolactin in the morning, fasting, avoids the mild elevations in prolactin that may occur with eating and standardizes timing at a nadir of the circadian rhythm of prolactin. It is also good practice to request serial dilutions to exclude the “hook effect,” which is an artifact related to the prolactin immunoassay process by which very high serum prolactin actually causes lower assay results. We find it helpful to assess for hook effect on initial evaluation, and in most cases, it is not present and is not required in further prolactin testing. In children with mild eleva tions in prolactin and/or no signs or symp toms related to hyperprolactinemia, sending a macroprolactin level is also helpful. Additionally, clinicians should consider the possibility of a cannulated prolactin, for which an IV is placed and the prolactin level is drawn 90–120 min after placement to exclude possible elevations due to phlebotomy-related stress.\n\n### 28\n\nAdditional laboratory evaluation should include assessment of TSH, creatinine, and liver function tests, to exclude primary hypo thyroidism, renal disease, and liver disease as causes, respectfully. When clinically applica ble, urine or serum HCG should be sent to assess for pregnancy. Gonadotropins (LH and FSH) and relevant gonadal steroids should be sent to assess for hypogonadism caused by hyperprolactinemia. IGF-1 level may also be useful to assess for the possibility of a GH and prolactin co-secreting tumor. Evaluation of other pituitary axes can also be performed at this time in patients with significant prolac tin elevations, although such testing may not be necessary for those with mild elevations until after MRI results are known.\n\nOnce hyperprolactinemia is confirmed on repeat testing, subsequent evaluation depends on the degree of prolactin elevation and the clinical context. For example, children taking a medication that could explain their degree of prolactin elevation can be followed conser vatively if they have a normal pretreatment\n\nprolactin value and are not having any signs or symptoms related to hyperprolactinemia. In the absence of a documented pretreatment prolactin that was normal, clinicians may want to consider the possibility of withdraw ing or substituting the offending drug, if pos sible, versus proceeding with an evaluation to exclude other causes of hyperprolactinemia. Asymptomatic children with minimally ele vated prolactin levels can also be followed conservatively, with consideration of cannu lated prolactin versus serial clinical and labo ratory follow-ups. Beyond these two scenarios, most children with persistently elevated pro lactin generally require magnetic resonance imaging (MRI) of the brain using pituitary protocol, with 1 mm cuts and use of a gadolinium-based contrast agent. MRI results will typically guide further evaluation and management, as those without lesions can be followed conservatively and those with sellar or suprasellar lesions will be managed accord ingly. Patients whose MRIs show macroade nomas that may be abutting or compromising the optic chiasm should be referred for visual field testing, as neurosurgical involvement and potentially more aggressive treatment are warranted in cases with visual field impair ment.\n\n### 28.7 Management of Patients\n\n### with Prolactinoma\n\nGoals of therapy in patients with prolacti noma include (1) reduction of prolactin to a level that alleviates symptoms and permits normal functioning of the hypothalamicpituitary-gonadal axis and (2) stability or reduction of tumor size. Dopamine agonists are the first-line treatment for most prolacti nomas. Appropriate treatment differs depend ing on the size of the prolactinoma and the degree of symptomatology. Patients with microprolactinomas, modest prolactin eleva tions, and few or no symptoms may benefit most from observation, gonadal steroid replacement, or dopamine agonist therapy [6]. Patients with more significant elevations in prolactin and/or larger tumors will require\n\n\n## PDF page 788 | printed page 785\n\ndopamine agonist therapy, and patients with aggressive tumors and/or visual field compro mise may also require surgery or radiotherapy. At the time of this writing, pediatric-specific guidelines for the management of prolacti noma are not published, and adult guidelines are cited as relevant below [6].\n\nPatients with microprolactinoma, modest prolactin elevations, and no or minimal symp toms may not require medical therapy. Although the natural history of untreated macroprolactinoma is not well-described in children, adult data suggest that microprolac tinomas have a relatively benign course, some times resolving without treatment and rarely progressing [6, 26]. For this reason, children with asymptomatic microprolactinomas can be observed without therapy, with serial pro lactin measurements and MRI. Similarly, for those with microprolactinoma complicated only by hypogonadism, gonadal steroid replacement can be used instead of dopamine agonists as long as immediate fertility is not desired [6]. Of note, these strategies are evidence-based in adults [6], but are not welldescribed in the pediatric literature, nor are there head-to-head comparisons of dopamine agonist therapy versus more conservative treatments in children.\n\nDopamine agonists used for the treatment of prolactinomas include cabergoline, bro mocriptine, and, where available, quinagolide. At the time of this writing, the first-line dopa mine agonist is generally cabergoline, which has proven both more effective and better tol erated than bromocriptine in adults [6, 27–33]. Although cabergoline does not have regula tory approval by the United States Food and Drug Administration for the pediatric age group (<18y), we and others routinely use cabergoline as first-line therapy in children, and multiple reports in the literature support use and efficacy in this age group [18–20]. Starting doses of cabergoline are 0.25–0.5 mg/ week, given once or twice weekly, and the majority of patients will achieve normaliza tion of prolactin on these doses [20]. Cabergoline doses are titrated to achieve nor mal prolactin and can be increased up to 3 mg/week, with doses higher than 3 mg potentially effective in select cases [18, 19, 34,\n\n35]. Dopamine agonists at high doses can cause valvular abnormalities, and echocar diography at baseline and follow-up may be warranted for patients requiring higher doses of cabergoline [6].\n\nProlactin levels should be repeated within 1 month after starting dopamine agonist ther apy and serially thereafter based on clinical context [6]. Patients with macroprolactinomas should have a repeat MRI within 3 months, whereas an initial interval of 6–12 months is likely appropriate for those with microprolac tinomas [6]. Clinicians should titrate dopa mine agonist therapy to normalize prolactin and perform serial MRIs at intervals of 3–12 months as needed to ensure stability or shrinkage of the prolactinoma. In patients with microprolactinomas for whom prolactin normalizes and the adenoma decreases or resolves over time, tapering and eventual dis continuation of dopamine agonist may be appropriate [6], although, again, data are scant in the pediatric age group. Patients with macroadenomas also typically achieve longterm biochemical and tumor control with dopamine agonists, and the dosage can be titrated to maintain normal prolactin and control of adenoma size.\n\nPatients who have visual field compromise and/or who do not achieve control with maxi mal doses of dopamine agonist require man agement by a multidisciplinary team that includes neurosurgery and neuroophthalmol ogy. Cabergoline may still be the appropriate first-line therapy for those presenting with visual field compromise, although we recom mend involvement of neurosurgery and neur oophthalmology from diagnosis for close monitoring and, if the visual field defect does not resolve with dopamine agonists, timely TSS. TSS is the appropriate second-line ther apy for those who cannot tolerate required doses of dopamine agonist or those whose tumor is refractory to treatment [6]. Adjunctive radiotherapy and/or temozolamide may also be necessary in rare cases of aggressive pro lactinoma [33].\n\nOther important considerations in the management of prolactinomas in children include evaluating the possibility of a genetic etiology and screening for bone health. Given\n\n\n## PDF page 789 | printed page 786\n\n### References\n\nthe possibility of multiple endocrine neopla sia 1 (MEN1), our practice is to follow inter val calcium levels in children with prolactinoma. Genetic testing for MEN1 should be considered in those with a family history of hyperparathyroidism or pituitary adenoma, and children with family history of pituitary adenomas should also be tested for AIP mutations [36]. Finally, in children with macroadenomas, genetic testing for MENIN or AIP mutations is advisable even in the absence of family history, as genetic testing in cohorts of children and young adults with apparently sporadic macroprolactinomas has detected mutations in approximately 10–15% of cases [19, 37].\n\n1. Bernard V, Young J, Binart N. Prolactin—a pleio\n\n2. Low MJ. Neuroendocrinology. In: Melmed KP,\n\n3. Saleem M, Martin H, Coates P. Prolactin biology\n\n4. Phillipps HR, Yip SH, Grattan DR. Patterns of\n\n### 28\n\n5. Chahal 6. Melmed S, Casanueva FF, Hoffman AR, Kleinberg\n\nAdolescents with prolactinoma demon strate reduced bone mineral density, which improves but does not necessarily normalize with treatment of hyperprolactinemia [38]. Longer follow-up studies in adults also dem onstrate reduced bone mineral density despite control of hyperprolactinemia and resolution of hypogonadism in patients with prolacti noma [39]. Consequently, bone mineral den sity should be assessed serially in children with prolactinoma to evaluate for low bone density and monitor improvements following therapy.\n\n7. Whyte MB, Pramodh S, Srikugan L, Gilbert JA,\n\n8. Searle L, McDowell S, Willink R, Krebs J. A can\n\n9. Samson 10. Barth JH, Lippiatt CM, Gibbons SG, Desborough\n\n### 28.8 Conclusion\n\nThe etiology of hyperprolactinemia in the pediatric age group ranges from benign physi ologic elevations to aggressive macroadeno mas, with medication-related elevations also relatively common. Timely evaluation of chil dren with hyperprolactinemia is critical in determining the etiology and proceeding with necessary management. Prolactinoma is the most common etiology of prolactin elevation in children and usually can be managed suc cessfully with relatively low doses of cabergo line. Less commonly, macroadenomas may require neurosurgery and, less commonly, additional radiotherapy and/or temozol amide.\n\n11. Kroigaard SM, Clemmensen L, Tarp S, Pagsberg\n\n12. Molitch ME. Drugs and prolactin. Pituitary.\n\n13. Zhu Y, Zhang C, Siafis S, Zhuo K, Zhu D, Wu H,\n\n14. Cunha-Filho JS, Gross JL, Vettori D, Dias EC,\n\ntropic factor in health and disease. Nat Rev Endocrinol. 2019;15(6):356–65.\n\nLarsen PR, Kronenberg HM, editors. Williams textbook of endocrinology. 13th ed. Elsevier; 2015.\n\nand laboratory measurement: an update on physi ology and current analytical issues. Clin Biochem Rev. 2018;39(1):3–16.\n\nprolactin secretion. Mol Cell Endocrinol. 2020;502:110679. J, Schlechte J. Hyperprolactinemia. Pituitary. 2008;11(2):141–6.\n\nDL, Montori VM, Schlechte JA, et al. Diagnosis and treatment of hyperprolactinemia: an Endocrine Society clinical practice guideline. J Clin Endocrinol Metab. 2011;96(2):273–88.\n\nMiell JP, Sherwood RA, et al. Importance of can nulated prolactin test in the definition of hyperpro lactinaemia. Pituitary. 2015;18(3):319–25.\n\nnulated prolactin series reduces the need for fur ther investigations in women with infertility and lowers the number of false positive screening pro lactin measurements. Aust N Z J Obstet Gynaecol. 2021;61(6):949–54. SL, Hamrahian AH, Ezzat S, Neuroendocrine A, Pituitary Scientific C, American College of E. American Association of Clinical Endocrinologists, American College of Endocrinology Disease State Clinical Review. Clinical relevance of macroprolactin in the absence or presence of true hyperprolactinemia. Endocr Pract. 2015;21(12):1427–35.\n\nRA. Observational studies on macroprolactin in a routine clinical laboratory. Clin Chem Lab Med. 2018;56(8):1259–62.\n\nAK. A meta-analysis of antipsychotic-induced hypo- and hyperprolactinemia in children and ado lescents. J Child Adolesc Psychopharmacol. 2022;32(7):374–89.\n\n2008;11(2):209–18.\n\net al. Prolactin levels influenced by antipsychotic drugs in schizophrenia: a systematic review and network meta-analysis. Schizophr Res. 2021;237:20–5.\n\nPassos EP. Growth hormone and prolactin secre\n\n\n## PDF page 790 | printed page 787\n\ntion after metoclopramide administration (DA2 receptor blockade) in fertile women. Horm Metab Res. 2001;33(9):536–9. 15. Kim S, Park YM. Serum prolactin and macropro\n\n28. De Rosa M, Colao A, Di Sarno A, Ferone D,\n\nlactin levels among outpatients with major depres sive disorder following the administration of selective serotonin-reuptake inhibitors: a crosssectional pilot study. PLoS One. 2013;8(12):e82749. 16. Bisson JR, Chan KJ, Safer JD. Prolactin levels do\n\n29. Sabuncu 30. Di Sarno A, Landi ML, Cappabianca P, Di Salle F,\n\nnot rise among transgender women treated with estradiol and spironolactone. Endocr Pract. 2018;24(7):646–51. 17. Eren E, Torel Ergur A, Isguven SP, Celebi Bitkin\n\nE, Berberoglu M, Siklar Z, et al. Clinical and labo ratory characteristics of hyperprolactinemia in children and adolescents: national survey. J Clin Res Pediatr Endocrinol. 2019;11(2):149–56. 18. Hoffmann A, Adelmann S, Lohle K, Claviez A,\n\n31. Arduc A, Gokay F, Isik S, Ozuguz U, Akbaba G,\n\nMuller HL. Pediatric prolactinoma: initial presen tation, treatment, and long-term prognosis. Eur J Pediatr. 2018;177(1):125–32. 19. Salenave S, Ancelle D, Bahougne T, Raverot G,\n\nKamenicky P, Bouligand J, et al. Macroprolactinomas in children and adolescents: factors associated with the response to treatment in 77 patients. J Clin Endocrinol Metab. 2015;100(3):1177–86. 20. Kontbay T, Siklar Z, Ozsu E, Uyanik R, Bilici E,\n\n32. dos Santos NV, El Dib R, Boguszewski CL,\n\n33. Auriemma RS, Pirchio R, Pivonello C, Garifalos\n\nCeran A, et al. Hyperprolactinemia in children and adolescents and longterm follow-up results of pro lactinoma cases: a single-centre experience. Turk J Pediatr. 2022;64(5):892–9. 21. Huang W, Molitch ME. Prolactin and other\n\n34. Spinks JJ, Ryan FJ. Cabergoline resistance in pedi\n\nPituitary disorders in kidney disease. Semin Nephrol. 2021;41(2):156–67. 22. Balakrishnan CH, Rajeev H. Correlation of serum\n\n35. Hoffmann A, Adelmann S, Lohle K, Claviez A,\n\nprolactin level to child Pugh scoring system in cir rhosis of liver. J Clin Diagn Res. 2017;11(7):OC30-OC3. 23. Ress C, Maeser PA, Tschoner A, Loacker L,\n\n36. Beckers A, Aaltonen LA, Daly AF, Karhu\n\nSalzmann K, Staudacher G, et al. Serum prolactin in advanced chronic liver disease. Horm Metab Res. 2014;46(11):800–3. 24. Herman V, Kalk WJ, de Moor NG, Levin J. Serum\n\nprolactin after chest wall surgery: elevated levels after mastectomy. J Clin Endocrinol Metab. 1981;52(1):148–51. 25. Saei Ghare Naz M, Mousavi M, Mahboobifard F,\n\n37. Cuny T, Pertuit M, Sahnoun-Fathallah M, Daly A,\n\nNiknam A, Ramezani Tehrani F. A meta-analysis of observational studies on prolactin levels in women with polycystic ovary syndrome. Diagnostics (Basel). 2022;12(12). 26. Schlechte J, Dolan K, Sherman B, Chapler F,\n\n38. Colao A, Di Somma C, Loche S, Di Sarno A,\n\nLuciano A. The natural history of untreated hyperprolactinemia: a prospective analysis. J Clin Endocrinol Metab. 1989;68(2):412–8. 27. Webster J, Piscitelli G, Polli A, Ferrari CI, Ismail I,\n\n39. Andereggen L, Frey J, Andres RH, Luedi MM,\n\nScanlon MF. A comparison of cabergoline and bromocriptine in the treatment of hyperprolactin\n\nemic amenorrhea. Cabergoline comparative study group. N Engl J Med. 1994;331(14):904–9.\n\nLandi ML, Zarrilli S, et al. Cabergoline treatment rapidly improves gonadal function in hyperprolac tinemic males: a comparison with bromocriptine. Eur J Endocrinol. 1998;138(3):286–93. T, Arikan E, Tasan E, Hatemi H. Comparison of the effects of cabergoline and bromocriptine on prolactin levels in hyperprolac tinemic patients. Intern Med. 2001;40(9):857–61.\n\nRossi FW, Pivonello R, et al. Resistance to caber goline as compared with bromocriptine in hyperp rolactinemia: prevalence, clinical definition, and therapeutic strategy. J Clin Endocrinol Metab. 2001;86(11):5256–61.\n\nTutuncu Y, et al. Retrospective comparison of cab ergoline and bromocriptine effects in hyperprolac tinemia: a single center experience. J Endocrinol Investig. 2015;38(4):447–53.\n\nNogueira CR. Cabergoline versus bromocriptine in the treatment of hyperprolactinemia: a system atic review of randomized controlled trials and meta-analysis. Pituitary. 2011;14(3):259–65.\n\nF, Colao A, Pivonello R. Approach to the patient with prolactinoma. J Clin Endocrinol Metab. 2023;108:2400.\n\natric prolactinomas. J Pediatr Hematol Oncol. 2009;31(5):377–9.\n\nMuller HL. Pediatric prolactinoma: initial presen tation, treatment, and long-term prognosis. Eur J Pediatr. 2017.\n\nA. Familial isolated pituitary adenomas (FIPA) and the pituitary adenoma predisposition due to mutations in the aryl hydrocarbon receptor inter acting protein (AIP) gene. Endocr Rev. 2013;34(2):239–77.\n\nOcchi G, Odou MF, et al. Genetic analysis in young patients with sporadic pituitary macroade nomas: besides AIP don’t forget MEN1 genetic analysis. Eur J Endocrinol. 2013;168(4):533–41.\n\nKlain M, Pivonello R, et al. Prolactinomas in ado lescents: persistent bone loss after 2 years of pro lactin normalization. Clin Endocrinol. 2000;52(3):319–27.\n\nWidmer HR, Beck J, et al. Persistent bone impair ment despite long-term control of hyperprolac tinemia and hypogonadism in men and women with prolactinomas. Sci Rep. 2021;11(1):5122.\n"
+}

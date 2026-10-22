@@ -1,0 +1,1250 @@
+{
+  "num": 14,
+  "source_label": "14",
+  "title": "Congenital Hypothyroidism",
+  "start": 382,
+  "group": "III: Pediatric Thyroid Disorders",
+  "columns": 2,
+  "end": 395,
+  "printed_start": 371,
+  "page_views": [],
+  "pdf_start": 382,
+  "pdf_end": 395,
+  "pages": [
+    382,
+    383,
+    384,
+    385,
+    386,
+    387,
+    388,
+    389,
+    390,
+    391,
+    392,
+    393,
+    394,
+    395
+  ],
+  "printed_end": 384,
+  "paragraphs": [
+    {
+      "text": "Nana-Hawa Yayah Jones and Susan R. Rose",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "Contents",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "14.1 Introduction and Background Information – 372",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "14.2 Etiology – 375",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "14.3 Clinical Presentation – 378",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "14.4 Diagnostic Evaluation – 378",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "14.5 Treatment – 379",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "14.6 Case Studies – 380",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "14.7 Summary – 382",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "References – 382",
+      "heading": "Congenital Hypothyroidism",
+      "pdf_page": 382,
+      "printed_page": 371
+    },
+    {
+      "text": "Most infants born with CH have no appre ciable physical stigmata of the disease; there fore, screening to detect which newborns are at risk for thyroid disease is paramount. The introduction of NBS in the 1970s has decreased the incidence of untreated CH although prevalence rates have increased [1]. Prevalence of CH ranges from 1:1404 to 1:4149 depending on region and ethnicity [2]. Before screening, only one-third of hypothy roid infants were clinically detected before 3 months of age, leading children to suffer from severe intellectual disability, including language, learning, and coordination delays. With the introduction of screening, the age of detection has steadily declined. In the early phases of NBS, the target was to identify and initiate treatment by 2 months of life. Currently, with rapid specimen transport of newborn specimens collected on average day of life 2, and advances in technology which allow rapid thyroxine (T4) and thyrotropin (TSH) analysis, many screening programs detect and initiate treatment within 1–2 weeks",
+      "heading": "14.1.1 Newborn Screening",
+      "pdf_page": 383,
+      "printed_page": 372
+    },
+    {
+      "text": "of age, allowing more normal developmental outcomes [3]. NBS can be implemented in sev eral ways, some more sensitive than others. In general, an appropriate interpretation of TSH and/or T4 values, be it total T4 or free T4 (fT4), is required to appropriately diagnose CH.",
+      "heading": "14",
+      "pdf_page": 383,
+      "printed_page": 372
+    },
+    {
+      "text": "A common method for screening newborns for CH consists of collecting blood spots on filter paper for the whole blood total T4. Subsequently, TSH screening occurs only in a select group, based on low T4 values, often the lowest 3rd to 10th percentiles [4]. Using this methodology, the specific numeric cutoff may vary from week to week. The benefits of pri mary T4 screening are its sensitivity for the detection of newborns with hypothalamicpituitary hypothyroidism. Known as central hypothyroidism, delayed detection of this form of hypothyroidism also results in devel opmental deficits. In this form of pituitary dysfunction, TSH is not elevated, often nor mal; therefore, primary TSH screening would not detect this abnormality. Even more pro found is the high prevalence of coexistent pituitary hormone deficiencies such as adre nocorticotropic (ACTH) and growth hor mone deficiency. Isolated central hypothyroidism is rare (incidence 1:65,000); therefore, if central hypothyroidism is detected, consequences such as hypoglycemia and adrenal crisis can be averted [5]. Primary T4 assays offer a significant benefit in detect ing a rare but high-risk thyroid disease.",
+      "heading": "NBS Method",
+      "pdf_page": 383,
+      "printed_page": 372
+    },
+    {
+      "text": "Unfortunately, primary T4 NBS is non specific in other high-risk populations such as low and very low birth weight infants (V/ LBW). Prematurity also lowers the efficacy of the primary T4 assay. Low T4 concentrations in V/LBW and premature infants increase the number of TSH assays by 10% [6]. Low total T4 concentrations may result from deficient protein binding of thyroid hormones, the pri mary cause of transient neonatal hypothy roidism in premature infants and in infants",
+      "heading": "NBS Method",
+      "pdf_page": 383,
+      "printed_page": 372
+    },
+    {
+      "text": "with T4-binding globulin (TBG) deficiency. Transient hypothyroidism also occurs as a result of maternal TSH receptor-blocking antibodies, exposure to antithyroid medica tions during pregnancy, and iodine deficiency or excess [4]. T4 screening in these infants leads to unnecessary testing and possible treatment in children who require no interven tion.",
+      "heading": "NBS Method",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Used in most developed countries, the pri mary TSH screening is overall a better screen ing test than the T4/TSH screening [7]. TSH is a suitable indicator of iodine deficiency [8] and a sensitive marker of pituitary triiodothy ronine (T3) concentrations. Intraneural con centration of T3 (derived from the intracellular conversion of T4 to T3) is essential for neuro genesis, neuronal migration, neuronal and glial cell differentiation, as well as myelination in the developing fetus [9]. Given that pitu",
+      "heading": "with and Without T4 NBS Method",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Laboratory results",
+      "heading": "with and Without T4 NBS Method",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Medications Amphetamines Biotina",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Amiodarone Biotina",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Bromocriptine Dopamine GCC Octreotide",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Iodinated contrast media Metoclopramide",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "↓ deceased, ↑ increased, TSH thyroid-stimulating hormone (thyrotropin), fT4 free thyroxine, T4 total thyrox ine, IV intravenous, Al(OH)3 aluminum hydroxide, β beta, Ca+ calcium, FeSO4 ferrous sulfate, GCC gluco corticoids (dexamethasone, hydrocortisone), PPI proton pump inhibitors (omeprazole, lansoprazole), NSAIDS nonsteroidal anti-inflammatory drugs a Biotin has both positive and negative interference with streptavidin/biotin-based immunoassays [13]",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "itary T3 levels cannot be measured, TSH is the most sensitive surrogate.",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "10",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "11",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "14.1",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "10 12",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "↑(f)T4 ↓(f)T4",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Amiodarone Biotina",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Al(OH)3 β-Blockers Biotina",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Iodinated contrast media IV furosemide (↑fT4) IV heparin (↑↑↑fT4) Methadone (↑T4) NSAIDS Salicylates (↑fT4)",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "Ca+ carbonate/ citrate/acetate Carbamazepine Cimetidine FeSO4 GCC IV furosemide (↓T4) Phenobarbital Phenytoin Phosphate binders PPI Salicylates (↓T4)",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 384,
+      "printed_page": 373
+    },
+    {
+      "text": "of illness, including higher TSH values. These higher TSH values can mislead clinicians to diagnose thyroid disease in euthyroid patients. In a TSH/T4 program, T4 assays increase by 6% given the higher number of TSH eleva tions [6].",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 385,
+      "printed_page": 374
+    },
+    {
+      "text": "Also problematic is the hospital manage ment systems’ implementation of early dis charge. Infants discharged from the hospital before 48 h of life often undergo screening on day of life 1, leading to a high rate of false positives in those infants who have a physiologic postnatal rise in TSH [14]. After birth, as a physiological response to temper ature change, TSH concentration increases in order to stimulate neonatal rise in T4 and T3. TSH values peak between 70 and 100 mIU/L within 1 h of life. Thyrotropin values progressively decline over the follow ing 48 h of life, while T4 and T3 values nor malize by 3–5 days [15]. As noted in the discussion of primary T4 assays, TSH surge is blunted in the preterm and V/LBW infants. In term infants, early hospital dis charge has increased the ratio of false-posi tive TSH elevations from 3:1 to 5:1. Recommendations suggest that NBS be per formed at 48 h of age; however, the optimal time to obtain a primary TSH NBS is around 3–5 days of life [4].",
+      "heading": "↓TSH ↑TSH",
+      "pdf_page": 385,
+      "printed_page": 374
+    },
+    {
+      "text": "Recent data show that primary TSH screening is more cost-effective in reducing false-positive and false-negative cases for mass screening despite the dual TSH and T4 approach theo retically being the ideal method of screening [16]. Dual TSH and T4 screening is expensive and not practical in most countries. As with any screening, the value of identifying an infant with CH must be balanced against the cost of screening normal newborns. NBS is expensive and not weighed in the costs are the psychosocial burdens created by screening for",
+      "heading": "Method",
+      "pdf_page": 385,
+      "printed_page": 374
+    },
+    {
+      "text": "nondisease [17]. Given recall rates of 0.05%, over 1000 children will undergo further diag nostic testing with negative results for each child with true-positive results. Even more costly are children without true hypothyroid ism who undergo therapeutic intervention. Not limited to monetary disadvantages are the psychosocial burdens associated with non disease, including, but not limited to, parental anxiety, aversion of the child to repeat intrave nous catheters, and risks of therapeutic side effects.",
+      "heading": "Method",
+      "pdf_page": 385,
+      "printed_page": 374
+    },
+    {
+      "text": "14.1",
+      "heading": "14.1.5 Confirmatory Results",
+      "pdf_page": 385,
+      "printed_page": 374
+    },
+    {
+      "text": "NBS test results must be communicated rapidly back to the physician or hospital iden tified on the screening filter paper card. The responsibility for transmission of these results rests with the authority or agency that per formed the test. In general, when an abnormal screening result is found, the responsible phy sician is notified immediately so that he or she can arrange for follow-up testing. Screening test results should be entered into the patient’s record. If the informed physician is no longer caring for or cannot locate the infant, he or she should notify the NBS laboratory imme diately. In such situations, the local health department is often helpful in locating these infants to ensure that they are not lost to fol low-up [14, 18, 19].",
+      "heading": "14.1.5 Confirmatory Results",
+      "pdf_page": 385,
+      "printed_page": 374
+    },
+    {
+      "text": "14.2",
+      "heading": "14.2 Etiology",
+      "pdf_page": 386,
+      "printed_page": 375
+    },
+    {
+      "text": "20",
+      "heading": "14.2 Etiology",
+      "pdf_page": 386,
+      "printed_page": 375
+    },
+    {
+      "text": "Genetic predisposition to thyroid dysgen esis may in part explain the observed higher incidence of CH among certain ethnic groups [21]. Mutations in developmental genes, which play important roles in embryogenesis and developmental cell migrations, contribute to genetic predisposition to thyroid dysgenesis. Mutations in genes (such as TTF-1, TTF-2, and PAX8) have been associated with devel opmental anomalies including thyroid dys genesis and likely account for the higher incidence of CH in Hispanic patients [3].",
+      "heading": "14.2 Etiology",
+      "pdf_page": 386,
+      "printed_page": 375
+    },
+    {
+      "text": "14.2",
+      "heading": "14.2 Etiology",
+      "pdf_page": 386,
+      "printed_page": 375
+    },
+    {
+      "text": "Thyroid dysgenesis Thyroid dyshormonogenesis Defects in thyroid anatomy",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Defects in thyroid hormone production",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Causes",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Ectopy Aplasia Hypoplasia Hemiagenesis",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Sodium-iodide symporter defect (NIS) Thyroid peroxidase defects (TPO) Hydrogen peroxide generation defects Pendrin defect Thyroglobulin defect Iodotyrosine deiodinase defect",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Mutations",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "TTF-1, TTF-2, PAX8, NKX1–5, GLIS3, FOXE1, JAG1, NTN1, BORELIN, TUBB1, TRPC4AP, GBP1",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "SECISBP2, SLC5A5, SLC26A4/PDS DUOX1/DUOX2, DUOXA2 TPO TG, IYD/DEHAL1, SLC26A7",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Testing",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Aplasia TSH >100a",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "TSH >20a",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "T4 <8b",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Hypoplasia TSH >20 Hemiagenesis TSH >6",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Imaging",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Ultrasound Aplasia = absent Hypoplasia = small or normal Hemiagenesis = small",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Large gland",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "↑Uptake in eutopic location",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Scintigraphy Aplasia no uptake Hypoplasia ↓uptake Ectopia ↓uptake",
+      "heading": "14.2 Etiology",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "↓ decreased, ↑ increased, TSH thyroid-stimulating hormone (thyrotropin), T4 total thyroxine, TSHR TSH receptor, TRβ thyroid receptor beta a mIU/L b mcg/dL",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "the path of thyroid hormone production ( Fig. 14.2). Dyshormonogenesis results from insufficient intake of iodine or a number of mostly autosomal recessive mutations. These mutations include but are not limited to defects in: 1. Sodium-iodide symporter (NIS) : NIS is",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "3. Dual oxidase 2 (DUOX) and dual oxidase",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "responsible for actively transporting iodine into thyroid follicular cells. 2. Pendrin (Pendred gene SLC26A4, also",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "termed PDS): PDS is a sodiumindependent chloride/iodide transporter found on the apical membrane of thyroid",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Thyroid receptor mutations",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Defects in thyroid action",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "TSH receptor (TSHR) defect Thyroid receptor β (TRβ) mutation",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "TSHR, TRβ",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Variable depending on the degree of resistance",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Variable depending on the degree of resistance",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "Variable depending on the degree of resistance",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "follicular cells. Its role is to transport iodide from the cytoplasm into the follicu lar lumen. PDS is also found in the inner ear; hence, the association with sensori neural hearing loss is noted in Pendred syndrome.",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "maturation factor 2 (DUOXA2): Within follicular cells, DUOX2 proteins are essen tial for thyroid hormone biosynthesis. The presence of hydrogen peroxide (H2O2) is required for organification of iodine. Duox2 proteins, glycosylated and bound",
+      "heading": "14",
+      "pdf_page": 387,
+      "printed_page": 376
+    },
+    {
+      "text": "at the apical membrane, catalyze the for mation of H2O2. DUOXA2 is required for DUOX2 maturation and activation [22]. 4. Iodotyrosine dehalogenase (DEHAL1):",
+      "heading": "14",
+      "pdf_page": 388,
+      "printed_page": 377
+    },
+    {
+      "text": "6. Selenocysteine insertion sequence-binding",
+      "heading": "14",
+      "pdf_page": 388,
+      "printed_page": 377
+    },
+    {
+      "text": "Homozygous mutations of DEHAL1 pre vent the recycling of iodide at the apical membrane of the follicular cell. Iodotyrosine accounts for almost 70% of iodine in thyroglobulin and hence is the rate-limiting step in T4 and T3 production [23]. 5. Monocarboxylate transporter 8 (MCT8) :",
+      "heading": "14",
+      "pdf_page": 388,
+      "printed_page": 377
+    },
+    {
+      "text": "Allan-Herndon-Dudley syndrome results from a mutation of the thyroid hormone transporter MCT8 (also referred to as SLC16A2). Located on the X chromo some, the MCT8 gene is responsible for the transport of T3 across the blood–brain barrier, resulting in the uptake of T3 into neuronal cells [24]. This X-linked hypothy roidism is associated with intellectual dis ability and several neurologic problems.",
+      "heading": "14",
+      "pdf_page": 388,
+      "printed_page": 377
+    },
+    {
+      "text": "protein 2 (SECISBP2): Deiodinases are selenoenzymes responsible for the conver sion of T4 to the biologically active form, T3. Deiodinases possess enzymatic activ ity, requiring selenocysteine for its action. SECISBP2 aids in the recognition of sele nocysteine binding. As a cell membrane transporter element, SECISBP2 regulates intracellular thyroid metabolism by regu lating the influx and efflux of T4 and T3 within the neuron [25, 26].",
+      "heading": "14",
+      "pdf_page": 388,
+      "printed_page": 377
+    },
+    {
+      "text": "14.2A–G",
+      "heading": "14",
+      "pdf_page": 388,
+      "printed_page": 377
+    },
+    {
+      "text": "RTH are rarely diagnosed in the newborn period, given the propensity for normal TSH values and elevated T4 values. The thyrotro pin receptor (TSHR) is also involved in thy roid organogenesis. Thus, mutations in the TSHR gene can cause CH as well.",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "Except in geographic regions of iodine defi ciency, the diagnosis of CH is rarely made on physical examination. In industrialized coun tries with a high emphasis on prenatal care, signs and symptoms of CH are rarely appar ent. Unfortunately, it is within this newborn period when missing clinical features of hypo thyroidism lend to irreversible brain damage, thus the importance of newborn screening [7, 18, 19].",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "Symptoms and signs suggestive of CH include the following, with additional signs evident as infants become older:",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Cardiac malformations",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Delay in skeletal maturation (absence of",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "femoral and tibial epiphyses) 5 Hypothermia",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Jaundice",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Lethargy/decreased activity",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Macroglossia",
+      "heading": "14.3 Clinical Presentation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Macrosomia",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Mottled and dry skin",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Open and wide posterior fontanelle",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "(>2 cm) 5 Poor feeding",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Umbilical hernia",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Wide anterior fontanelle",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Constipation",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Decreased muscle tone",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Failure to thrive",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Hoarse cry",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Linear growth deceleration",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Poor feeding",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Prolonged jaundice",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Delayed tooth eruption",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Growth failure",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Pseudomuscular hypertrophy",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "5 Psychomotor retardation",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "Infants with CH are often described as “good babies” as they sleep well and cry infre quently. As with any newborn, a complete history, including maternal thyroid status and family history, should be obtained, and careful physical examination must be per formed.",
+      "heading": "14",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "Laboratory assessment of thyroid function provides a sensitive and specific methodology for diagnosing CH. The most significant con founder in the confirmation of CH is its tran sient form. The most common form of transient hypothyroidism worldwide is iodine deficiency. Iodine deficiency must be consid ered in high-risk populations such as those from underdeveloped countries, infants of mothers whose diets are limited in meats (vegans) or iodinated salts (sea salt consum ers), and infants whose condition limits gas tric intake of nutrients (total parenteral nutrition-dependence). Even in infants with transient neonatal hypothyroidism, treat ment is recommended if certain diagnostic criteria are met. If newborns continue to exhibit persistent TSH elevation with normal f/T4 after 4–6 weeks of life, treatment is rec ommended [19].",
+      "heading": "14.4 Diagnostic Evaluation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "A common cause of transient neonatal hypothyroidism in developed countries is pre maturity (gestational age <37 weeks). Temporary thyroid dysfunction also occurs in infants who are born 10% below expected body weight (i.e., V/LBW), ill neonates admit ted to the neonatal intensive care unit, neo nates who are discharged within the first 24 h of life, and cohorts of multiple births, includ ing monozygotic twins. In these special popu lations, a repeat NBS specimen should be",
+      "heading": "14.4 Diagnostic Evaluation",
+      "pdf_page": 389,
+      "printed_page": 378
+    },
+    {
+      "text": "collected at about 2 weeks of age or 2 weeks after the first screening test was carried out [7], at 4 weeks later [18, 19], and at 36 weeks corrected gestational age [10].",
+      "heading": "14.4 Diagnostic Evaluation",
+      "pdf_page": 390,
+      "printed_page": 379
+    },
+    {
+      "text": "To confirm the diagnosis of permanent CH, the European Society for Pediatric Endocrinology (ESPE) recommends perform ing imaging studies to determine its specific etiology [7]. The American Academy of Pediatrics denotes that imaging before the age of 3 years is unlikely to change clinical man agement [18, 19]. Diagnostic imaging may be helpful in cases in which CH diagnosis is not clear [18, 19]. Treatment may be altered based on results, especially if clinical evaluation is also consistent with CH. The option to initi ate, hold, and potentially stop treatment may be based on imaging results as well. When the cause of abnormal thyroid studies cannot be determined as either transient or permanent, both scintigraphy and ultrasound can be con sidered in neonates with abnormal TSH val ues. Of course, the time interval to imaging should not delay treatment in any circum stance in which there is a high degree of suspi cion of thyroid disease. Even in circumstances in which differentiation between transient and permanent CH is blurred, imaging can always be deferred until the child reaches the age of 3 years. At 3 years, neuronal migration and myelination are fairly advanced; thus risk of neurocognitive dysfunction as a result of thy roid hormone withdrawal at age 3 years is lower than what would have been expected in the first 3 years of life [9].",
+      "heading": "14.4 Diagnostic Evaluation",
+      "pdf_page": 390,
+      "printed_page": 379
+    },
+    {
+      "text": "In the era of genetic testing, several muta tions have been discovered which account for some cases of CH. Genetic studies for muta tions in thyroid hormone synthesis can con firm inborn errors of thyroid hormone biosynthesis [28]. Despite the importance of confirming CH in permanent cases, the costs of genetic testing do not yet outweigh the ben efits. The exceptions include families in which multiple siblings are affected. In these cases, genetic counseling is suggested to ensure fam ilies are aware of potential risks in future pregnancies.",
+      "heading": "14.4 Diagnostic Evaluation",
+      "pdf_page": 390,
+      "printed_page": 379
+    },
+    {
+      "text": "Once the diagnosis of CH is confirmed, levo thyroxine replacement is recommended as the treatment of choice. There is no place in pediatric thyroid disease for formularies including T3 treatment or desiccated animal product. Treatment with levothyroxine (crushed tablets or branded liquid) should be started as soon as possible. Goal for initia tion of treatment is within the first 2 weeks of life. However, given that some abnormal screenings require repeated measurements or further diagnostic testing, treatment should begin once testing confirms the disease. Initial treatment is with levothyroxine 10–15 mg/kg/day; however, several factors interfere with thyroid hormone absorption. Severity of the disease also affects the choice of replacement dose. More severe disease, such as athyreosis, indicates the use of doses at the upper end of the treatment scale (15 mg/kg/day), while the same dose in infants affected by defects in thyroid hor mone synthesis may lead to overtreatment. Goal of all therapy is to normalize thyroid hormone function [7, 18, 19].",
+      "heading": "14.5 Treatment",
+      "pdf_page": 390,
+      "printed_page": 379
+    },
+    {
+      "text": "Based on TSH concentration, the dosage of levothyroxine is adjusted. Use of serum fT4 can be adjunctive in ensuring an appro priate clinical response. In the first 3 years, serum total T4 and/or fT4 values should be in the upper half of the reference range, and serum TSH levels should be between 0.5 and 2.0 mIU/L [14, 18, 19]. Relative pituitary resistance may delay the normalization of serum TSH, resulting in a normal or increased serum T4 concentration with an inappropri ately high TSH level. In these cases, the dose should be titrated based on the TSH value, after first ruling out nonadherence to treat ment.",
+      "heading": "14.5 Treatment",
+      "pdf_page": 390,
+      "printed_page": 379
+    },
+    {
+      "text": "Normalizing thyroid function may be challenging in the first year of life. Despite tightened Federal Drug Administration regu lations, levothyroxine preparations can vary by up to 12% in the amount of active hor mone, even within the brand [29]. Guidelines",
+      "heading": "14.5 Treatment",
+      "pdf_page": 390,
+      "printed_page": 379
+    },
+    {
+      "text": "recommend brand name levothyroxine; how ever, the cost can be prohibitive for most fam ilies whose formularies require generic prescriptions [7]. Children initiated on generic formulations should remain on generic, and those started on brand name formulations should remain on brand. If there is any change in the thyroid hormone manufacturer, followup laboratory testing should be ordered to ensure euthyroidism [18, 19].",
+      "heading": "14.5 Treatment",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "Other factors affecting thyroid hormone dosing include absorption in the gastrointesti nal tract, ranging from 70% to 80%, hence the pharmaceutical company’s recommendations for consuming levothyroxine on an empty stomach [30]. Practically, however, infants are in a perpetual postprandial state. Adhering to specific preprandial timing of medication administration has been associated with lower medication adherence [31]. Therefore, medica tion can be given with or without food as long as there remains consistency with each dose. Dosing can be adjusted based on the most realistic mode of consumption.",
+      "heading": "14.5 Treatment",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "Several other factors can also interfere with thyroid hormone absorption, some to such a degree that the medication and inter fering substance should be separated by at",
+      "heading": "14.5 Treatment",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "least 3–4 h. These products include those listed below as “BASIC” acronym:",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "5 B = Bile acid-binding resins (i.e., chole",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "styramine) 5 A = Aluminum-containing antacids (i.e.,",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "Rolaids®) 5 S = Sucralfate/soy",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "5 I = Iron",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "5 C = Calcium/caffeine",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "Rapid normalization of thyroid hormone lev els (within the first 2 weeks after treatment initiation) and maintenance of relatively higher fT4 concentrations during the first year of life lead to better intellectual outcomes. However, overtreatment has also been associ ated with lower intelligence quotients in chil dren with CH [32].",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "Thyroid function testing should be per formed every 1–2 months for the first 6 months of life, 2–3 months in the latter half of the first year of life, and subsequently every 3–4 months until the age of 3 years. Perform thyroid function testing approximately 4–6 weeks after dose changes or changes in brand or administration route. If clinical symptoms of thyroid disease develop, repeat testing is indicated even if normal previously.",
+      "heading": "14",
+      "pdf_page": 391,
+      "printed_page": 380
+    },
+    {
+      "text": "with laboratory results confirming his euthy roid state. He did not return for any clinical care until age 8. At 8 years of age, he exhibited symptoms including fatigue, sluggish move ments, cold sensitivity, dry skin, hoarse voice, joint stiffness, and difficulty arousing from sleep. He lacked toilet-training skills and was unable to speak in full sentences. Growth parameters showed severe abnormalities with weight 13.7 kg [−6.1 standard deviations (SD)],",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "A 2-month-old male presents for the evaluation of abnormal thyroid studies. He was a full-term baby born by Cesarean section delivery, after in vitro fertilization. His NBS returned abnor mal with the following results: TSH 35.2 mIU/L (normal, <34 mIU/L) and T4 14.4 (normal, >8 ng/dL). Repeated serum thyroid studies at 1 week of life revealed TSH 9.8 (normal, 1.0–5.6) and T4 9.4 mcg/dL (normal, 8.1–16.5). Repeat thyroid function testing 2 weeks later revealed TSH of 9.8 (normal, 1.0–5.6) and fT4",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "One month after discontinuing thyroid hor mone replacement, the mother called with con cerns about behavior change including refusing to take naps and irritability. This was thought to be a viral illness, so TSH elevation was attrib uted to nonthyroidal illness. Two months after the trial off medication, the patient was noted to be back to normal behavior but constipated and more tired than usual. Since TSH was nor malizing, labs were repeated a third time. The patient continued to have worsening constipa",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "height 83.5 cm (−8.7 SD), and BMI 19.7 kg/m2 (93rd percentile).",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "This case clearly demonstrates that NBS works to diagnose severe CH but is not enough to prevent the debilitating effects of thyroid hormone deficiency. CH patients require daily administration of medication, frequent clinical examination, dosage adjustments, laboratory assessments, and evaluation for potential barri ers to care.",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "1.4 (normal, 1–2 ng/dL). Due to consistent TSH elevation beyond 1 month of age, he was started on levothyroxine 25 mcg daily. He was adherent to therapy and follow-up, remaining on 25 mcg of levothyroxine until 2.8 years of age when his parents agreed to trial off medica tion. At that time, he was receiving less than 10 mcg/kg/day of thyroid hormone replace ment. The following is a summary of thyroid function testing once levothyroxine therapy was discontinued.",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "tion, fatigue, and reported weight gain. Ultrasonography of the thyroid gland revealed the absence of the left thyroid lobe and isthmus. Right thyroid lobe was normal but ectopic thy mic tissue was noted between the right common carotid artery and internal jugular vein. Thyroid hormone was restarted, after which constipa tion, fatigue, and excess weight gain resolved.",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "This case illustrates how thyroid imaging can aid in differentiating permanent versus transient CH.",
+      "heading": "14",
+      "pdf_page": 392,
+      "printed_page": 381
+    },
+    {
+      "text": "Neurocognitive development and growth are dependent on sufficient serum thyroid hor mone concentration in fetal and early child development. Iodine is essential for thyroid hormone production, and deficiency (hypo thyroidism) can affect maternal, fetal, and postnatal thyroid function. Hypothyroidism remains the leading cause worldwide of treat able intellectual disability. At birth, there may be few signs or symptoms of hypothyroidism, making NBS for thyroid function a critical step in detecting CH. Interpretation of NBS in various clinical settings may alter diagnosis and treatment. Once identified early and treated appropriately. CH becomes a treatable condition with normal or near-normal devel opmental outcomes [3].",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "2. FALSE. NBS programs screen for",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "3. FALSE. A primary T4 assay is adven",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "Review Questions",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "1. Given the physiologic TSH surge of",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "the newborn, when is the optimal tim ing for CH screening? 2. If NBS TSH values exceed 100 mIU/L,",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "4. Technetium 99m scan showing uptake",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "serum laboratory testing is not required to confirm the diagnosis. TRUE or FALSE? 3. A primary T4 assay is performed in a",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "36-week EGA (estimated gestational age) infant at 2 days of life. Further testing returns a normal serum TSH. No further workup is required. TRUE or FALSE? 4. A 7-day-old presents with abnormal",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "5. Overtreatment. Although higher doses",
+      "heading": "14.7 Summary",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "newborn screening and serum confir matory screening suggestive of CH. The most likely abnormality to be described on scintigraphy would be? 5. An infant is started on 15 mcg/kg/day",
+      "heading": "14",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "of levothyroxine replacement. Four weeks later, TSH is <0.01 mIU/L, and fT4 is elevated at 3 ng/dL. What is the most likely cause of biochemical hyperthyroidism?",
+      "heading": "References",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "v Answers",
+      "heading": "References",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "14.1",
+      "heading": "References",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "high-risk diseases and attempt to cap ture all infants with the disease. As such, infants without disease are also captured lending to high false-positive rates. This is quite prevalent in vulner able populations such as preterm infants. Screening should always be followed by serum confirmation. Confirmatory venous results must be obtained within 1–2 days of NBS. However, the results of serum confirmation need not delay treatment.",
+      "heading": "References",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "titious in detecting hypothalamic-pitu itary hypothyroidism. A normal TSH with concurrent low (f)T4 should be further investigated to rule out central hypothyroidism.",
+      "heading": "References",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "in ectopic location, i.e., ectopic gland. Dysgenesis is the most common cause of congenital hypothyroidism, occur ring in 85% of cases. Ectopia accounts for almost 70% of dysgenic CH, fol lowed by athyreosis and hypoplasia.",
+      "heading": "References",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "of levothyroxine lead to better overall developmental outcomes, higher doses have also been associated with decre ments in cognitive outcomes. Goal of all treatment is to ensure the normal ization of thyroid function.",
+      "heading": "References",
+      "pdf_page": 393,
+      "printed_page": 382
+    },
+    {
+      "text": "3. Larson C. Congenital hypothyroidism. In: Radovick S, MacGillivray M, editors. Pediatric endocrinology. 2nd ed. New York: Humana; 2013. p. 261–73. 4. Büyükgebiz A. Newborn screening for congenital",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "18. Rose SR, Wassner AJ, Wintergerst K, Yayah Jones",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "hypothyroidism. J Clin Res Pediatr Endocrinol. 2013;5(Suppl 1):8–12. 5. Schoenmakers N, Alatzoglou K, Chatterjee V,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "19. Rose SR, Wassner AJ, Wintergerst K, Yayah Jones",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Dattani M. Recent advances in central congenital hypothyroidism. J Endocrinol. 2015;227(3):R51–71. 6. Frank J, Faix J, Hermos R, Mullaney D, Rojan D,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Mitchell M, et al. Thyroid function in very low birth weight infants: effects on neonatal hypothy roidism screening. J Pediatr. 1996;128(4):548–54. 7. van Trotsenburg AS, Stoupa A, Léger J, et al.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "20. Polak M, Van Liet G. Disorders of the thyroid",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Congenital hypothyroidism: a 2020–2021 consen sus guidelines update—an ENDO-European Reference Network Initiative endorsed by the European Society for Pediatric Endocrinology and the European Society for Endocrinology. Thyroid. 2021;31(3):387–419. 8. Vandevijvere S, Coucke W, Vanderpas J, Trumpff",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "21. Stoupa A, Kariyawasam D, Polak M, Carré",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "22. Yi RH, Zhu WB, Yang LY, Lan L, Chen Y, Zhou",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "C, Fauvart M, Meulemans A, et al. Neonatal thyroid-stimulating hormone concentrations in Belgium: a useful indicator for detecting mild iodine deficiency. PLoS One. 2012;7(10):e47770. 9. Bernal J, Nunez J. Thyroid hormones and brain",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "23. Gnidehou S, Caillou B, Talbot M, Ohayon R,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "development. Eur J Endocrinol. 1995;133(4):390–8. 10. Rose SR, Blunden C, Jarrett OO, Kaplan K,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Caravantes R, Akinbi HT. Utility of repeat testing for congenital hypothyroidism in very low birth weight infants. J Pediatr. 2022;242:152–8. 11. Larson C, Hermos R, Delaney A, Daley D,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "24. Friesema EC, Jansen J, Heuer H, Trajkovic M,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Mitchell M. Risk factors associated with delayed thyrotropin elevations in congenital hypothyroid ism. J Pediatr. 2003;143(5):587–91. 12. Hemmati F, Pishva N. Evaluation of thyroid status",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "of infants in the intensive care setting. Singapore Med J. 2009;50(9):875–8. 13. Liwanpo L, Hershman JM. Conditions and drugs",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "25. Fu J, Dumitrescu AM. Inherited defects in thyroid",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "interfering with thyroxine absorption. Best Pract Res Clin Endocrinol Metab. 2009;23:781–92. 14. American Academy of Pediatrics, Rose SR,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "26. Ramos JC, Lacerda Filho L, DeMartini Ade A,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Section on Endocrinology and Committee on Genetics, American Thyroid Association, Brown RS, Lawson Wilkins Pediatric Endocrine Society, et al. Update of newborn screening and therapy for congenital hypothyroidism. Pediatrics. 2006;117(6):2290–303. 15. Fisher D. Thyroid system immaturities in very low",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "27. Larsen PR, Davies TF, Schlumberger M, Hay",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "birth weight premature infants. Semin Perinatol. 2008;32(6):387–97. 16. Korzeniewski S, Grigorescu V, Kleyn M, Young W,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Birbeck G, Todem D, et al. Performance metrics after changes in screening protocol for congenital hypothyroidism. Pediatrics. 2012;130(5):e1252–60. 17. Tu W, He J, Chen H, Shi XD, Li Y. Psychological",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "28. Rastogi MV, LaFranchi SH. Congenital hypothy",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "29. Eisenberg M, Distefano JJ. TSH-based protocol,",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "effects of false-positive results in expanded new born screening in China [Internet]. PLoS One. 2012;7(4):e36235.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "NH, Hopkin RJ, Chuang J, Smith JR, Abell K, LaFranchi SH. Clinical report: Congenital hypo thyroidism: screening and management. Pediatrics. 2023;151(1):e2022060419. https://doi.org/10.1542/ peds.2022-0604192023.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "NH, Hopkin RJ, Chuang J, Smith JR, Abell K, LaFranchi SH. Technical report: Congenital hypo thyroidism: screening and management. Pediatrics. 2023;151(1):e2022060420. https://doi.org/10.1542/ peds.2022-060420.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "gland. In: Sarafoglou K, Hoffman GF, Roth KS, editors. Pediatric endocrinology and inborn errors of metabolism. 1st ed. New York: McGraw-Hill; 2008. p. 355–82.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "A. Genetics of congenital hypothyroidism: mod ern concepts. Pediatr Investig. 2022;6(2):123–34. https://doi.org/10.1002/ped4.12324. eCollection 2022 Jun.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "JF, et al. A novel dual oxidase maturation factor 2 gene mutation for congenital hypothyroidism. Int J Mol Med. 2013;31(2):467–70.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Kaniewski J, Noël-Hudson MS, et al. Iodotyrosine dehalogenase 1 (DEHAL1) is a transmembrane protein involved in the recycling of iodide close to the thyroglobulin iodination site. FASEB J. 2004;18(13):1574–6.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Bauer K, Visser TJ. Mechanisms of disease: psy chomotor retardation and high T3 levels caused by mutations in monocarboxylate transporter 8. Nat Clin Pract Endocrinol Metab. 2006;2(9):512–23.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "hormone cell-membrane transport and metabo lism. Best Pract Res Clin Endocrinol Metab. 2014;28(2):189–201.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "Silveira RB, Pereira RM, Sandrini Neto R, et al. Clinical and laboratory features of chil dren and adolescents with congenital hypothy roidism due to dyshormonogenesis in southern Brazil. Arq Bras Endocrinol Metabol. 2012;56(3):201–8.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "I. Thyroid physiology and diagnostic evaluation of patients with thyroid disorders. In: Kronenberg HM, Melmed S, Polonsky K, editors. William’s textbook of endocrinology. 10th ed. Philadelphia: Saunders/Elsevier; 2008. p. 421.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "roidism. Orphanet J Rare Dis. 2010;10(5):17–39.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "tablet instability, and absorption effects on L-T4 bioequivalence. Thyroid. 2009;19(2):103–10.",
+      "heading": "References",
+      "pdf_page": 394,
+      "printed_page": 383
+    },
+    {
+      "text": "30. Colucci P, Yue CS, Ducharme M, Benvenga S. A",
+      "heading": "References",
+      "pdf_page": 395,
+      "printed_page": 384
+    },
+    {
+      "text": "32. Bongers-Schokking JJ, Resing WC, de Rijke YB,",
+      "heading": "References",
+      "pdf_page": 395,
+      "printed_page": 384
+    },
+    {
+      "text": "review of the pharmacokinetics of levothyroxine for the treatment of hypothyroidism. Eur Endocrinol. 2013;9(1):40–7. 31. Jimmy B, Jose J. Patient medication adherence:",
+      "heading": "References",
+      "pdf_page": 395,
+      "printed_page": 384
+    },
+    {
+      "text": "measures in daily practice. Oman Med J. 2011;26(3):155–9.",
+      "heading": "References",
+      "pdf_page": 395,
+      "printed_page": 384
+    },
+    {
+      "text": "de Ridder MA, de Muinck Keizer-Schrama SM. Cognitive development in congenital hypo thyroidism: is overtreatment a greater threat than undertreatment? J Clin Endocrinol Metab. 2013;98(11):4499–506.",
+      "heading": "14",
+      "pdf_page": 395,
+      "printed_page": 384
+    }
+  ],
+  "figures": [
+    {
+      "path": "figures/ch014_p0386_01.jpg",
+      "caption": "Unmatched source image; PDF page 386. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 386,
+      "printed_page": 375,
+      "chapter": 14
+    },
+    {
+      "path": "figures/ch014_p0388_01.jpg",
+      "caption": "Unmatched source image; PDF page 388. Consult the original caption.",
+      "caption_matched": false,
+      "pdf_page": 388,
+      "printed_page": 377,
+      "chapter": 14
+    }
+  ],
+  "tables": [
+    {
+      "path": "tables/ch014_p0384_1.jpg",
+      "markdown": "|.  Table 14.1|Medications that alter thyroid function testing|Col3|Col4|Col5|\n|---|---|---|---|---|\n||**Laboratory results**|**Laboratory results**|**Laboratory results**|**Laboratory results**|\n||**↓TSH**|**↑TSH**|**↑(f)T4**|**↓(f)T4**|\n|Medications|Amphetamines<br>Biotina<br>Bromocriptine<br>Dopamine<br>GCC<br>Octreotide|Amiodarone<br>Biotina<br>Iodinated contrast media<br>Metoclopramide|Amiodarone<br>Biotina<br>Iodinated contrast<br>media<br>IV furosemide (↑fT4)<br>IV heparin (↑↑↑fT4)<br>Methadone (↑T4)<br>NSAIDS<br>Salicylates (↑fT4)|Al(OH)3<br>β-Blockers<br>Biotina<br>Ca+ carbonate/<br>citrate/acetate<br>Carbamazepine<br>Cimetidine<br>FeSO4<br>GCC<br>IV furosemide (↓T4)<br>Phenobarbital<br>Phenytoin<br>Phosphate binders<br>PPI<br>Salicylates (↓T4)|\n\n",
+      "pdf_page": 384,
+      "printed_page": 373,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch014_p0387_1.jpg",
+      "markdown": "|Col1|Thyroid dysgenesis|Thyroid dyshormonogenesis|Thyroid receptor<br>mutations<br>Defects in thyroid action|\n|---|---|---|---|\n||**Defects in thyroid**<br>**anatomy**|**Defects in thyroid hormone production**|**Defects in thyroid hormone production**|\n\n",
+      "pdf_page": 387,
+      "printed_page": 376,
+      "orientation_normalized": false
+    },
+    {
+      "path": "tables/ch014_p0387_5.jpg",
+      "markdown": "|Imaging|Col2|Col3|Col4|\n|---|---|---|---|\n|Ultrasound|Aplasia=absent<br>Hypoplasia=small or<br>normal<br>Hemiagenesis=small|Large gland|Variable depending on<br>the degree of<br>resistance|\n|Scintigraphy|Aplasia no uptake<br>Hypoplasia↓uptake<br>Ectopia↓uptake|↑Uptake in eutopic location|Variable depending on<br>the degree of<br>resistance|\n\n",
+      "pdf_page": 387,
+      "printed_page": 376,
+      "orientation_normalized": false
+    }
+  ],
+  "raw_md": "# 14. Congenital Hypothyroidism\n> Source attribution: [Source credits](../../SOURCE_CREDITS.md).\n\n\n## PDF page 382 | printed page 371\n\n### Congenital Hypothyroidism\n\nNana-Hawa Yayah Jones and Susan R. Rose\n\nContents\n\n14.1 Introduction and Background Information – 372\n\n14.1.1 Newborn Screening – 372 14.1.2 Primary T4, Secondary TSH NBS Method – 372 14.1.3 Primary TSH with and Without T4 NBS Method – 373 14.1.4 Dual TSH and T4 NBS Method – 374 14.1.5 Confirmatory Results – 374\n\n14.2 Etiology – 375\n\n14.3 Clinical Presentation – 378\n\n14.4 Diagnostic Evaluation – 378\n\n14.5 Treatment – 379\n\n14.6 Case Studies – 380\n\n14.7 Summary – 382\n\nReferences – 382\n\n© The Author(s), under exclusive license to Springer Nature Switzerland AG 2024 S. Radovick, M. Misra (eds.), Pediatric Endocrinology, https://doi.org/10.1007/978-3-031-66296-6_14\n\n\n## PDF page 383 | printed page 372\n\nKey Points\n\n5 Congenital hypothyroidism is a devas\n\ntating yet preventable cause of intellec tual disability. 5 Newborn screening for congenital\n\nhypothyroidism is crucial for the pre vention of long-term impairments in child development. 5 Interpretation of laboratory results\n\nrequires an understanding of newborn screening methodologies and the timing of data collection. 5 Optimal treatment of congenital hypo\n\nthyroidism requires timely confirmation of diagnosis and adequate medication administration.\n\n### 14.1 Introduction and Background\n\n### Information\n\n### 14.1.1 Newborn Screening\n\nMost infants born with CH have no appre ciable physical stigmata of the disease; there fore, screening to detect which newborns are at risk for thyroid disease is paramount. The introduction of NBS in the 1970s has decreased the incidence of untreated CH although prevalence rates have increased [1]. Prevalence of CH ranges from 1:1404 to 1:4149 depending on region and ethnicity [2]. Before screening, only one-third of hypothy roid infants were clinically detected before 3 months of age, leading children to suffer from severe intellectual disability, including language, learning, and coordination delays. With the introduction of screening, the age of detection has steadily declined. In the early phases of NBS, the target was to identify and initiate treatment by 2 months of life. Currently, with rapid specimen transport of newborn specimens collected on average day of life 2, and advances in technology which allow rapid thyroxine (T4) and thyrotropin (TSH) analysis, many screening programs detect and initiate treatment within 1–2 weeks\n\n### 14\n\nof age, allowing more normal developmental outcomes [3]. NBS can be implemented in sev eral ways, some more sensitive than others. In general, an appropriate interpretation of TSH and/or T4 values, be it total T4 or free T4 (fT4), is required to appropriately diagnose CH.\n\n### 14.1.2 Primary T4, Secondary TSH\n\n### NBS Method\n\nA common method for screening newborns for CH consists of collecting blood spots on filter paper for the whole blood total T4. Subsequently, TSH screening occurs only in a select group, based on low T4 values, often the lowest 3rd to 10th percentiles [4]. Using this methodology, the specific numeric cutoff may vary from week to week. The benefits of pri mary T4 screening are its sensitivity for the detection of newborns with hypothalamicpituitary hypothyroidism. Known as central hypothyroidism, delayed detection of this form of hypothyroidism also results in devel opmental deficits. In this form of pituitary dysfunction, TSH is not elevated, often nor mal; therefore, primary TSH screening would not detect this abnormality. Even more pro found is the high prevalence of coexistent pituitary hormone deficiencies such as adre nocorticotropic (ACTH) and growth hor mone deficiency. Isolated central hypothyroidism is rare (incidence 1:65,000); therefore, if central hypothyroidism is detected, consequences such as hypoglycemia and adrenal crisis can be averted [5]. Primary T4 assays offer a significant benefit in detect ing a rare but high-risk thyroid disease.\n\nUnfortunately, primary T4 NBS is non specific in other high-risk populations such as low and very low birth weight infants (V/ LBW). Prematurity also lowers the efficacy of the primary T4 assay. Low T4 concentrations in V/LBW and premature infants increase the number of TSH assays by 10% [6]. Low total T4 concentrations may result from deficient protein binding of thyroid hormones, the pri mary cause of transient neonatal hypothy roidism in premature infants and in infants\n\n\n## PDF page 384 | printed page 373\n\nwith T4-binding globulin (TBG) deficiency. Transient hypothyroidism also occurs as a result of maternal TSH receptor-blocking antibodies, exposure to antithyroid medica tions during pregnancy, and iodine deficiency or excess [4]. T4 screening in these infants leads to unnecessary testing and possible treatment in children who require no interven tion.\n\n### 14.1.3 Primary TSH\n\n### with and Without T4 NBS Method\n\nUsed in most developed countries, the pri mary TSH screening is overall a better screen ing test than the T4/TSH screening [7]. TSH is a suitable indicator of iodine deficiency [8] and a sensitive marker of pituitary triiodothy ronine (T3) concentrations. Intraneural con centration of T3 (derived from the intracellular conversion of T4 to T3) is essential for neuro genesis, neuronal migration, neuronal and glial cell differentiation, as well as myelination in the developing fetus [9]. Given that pitu\n\nTable 14.1 Medications that alter thyroid function testing\n\nLaboratory results\n\n### ↓TSH ↑TSH\n\nMedications Amphetamines Biotina\n\nAmiodarone Biotina\n\nBromocriptine Dopamine GCC Octreotide\n\nIodinated contrast media Metoclopramide\n\n↓ deceased, ↑ increased, TSH thyroid-stimulating hormone (thyrotropin), fT4 free thyroxine, T4 total thyrox ine, IV intravenous, Al(OH)3 aluminum hydroxide, β beta, Ca+ calcium, FeSO4 ferrous sulfate, GCC gluco corticoids (dexamethasone, hydrocortisone), PPI proton pump inhibitors (omeprazole, lansoprazole), NSAIDS nonsteroidal anti-inflammatory drugs a Biotin has both positive and negative interference with streptavidin/biotin-based immunoassays [13]\n\nitary T3 levels cannot be measured, TSH is the most sensitive surrogate.\n\n10\n\n\n\n\n\n11\n\n\n\n\n\n14.1\n\n\n\n10 12\n\n\n\n↑(f)T4 ↓(f)T4\n\nAmiodarone Biotina\n\nAl(OH)3 β-Blockers Biotina\n\nIodinated contrast media IV furosemide (↑fT4) IV heparin (↑↑↑fT4) Methadone (↑T4) NSAIDS Salicylates (↑fT4)\n\nCa+ carbonate/ citrate/acetate Carbamazepine Cimetidine FeSO4 GCC IV furosemide (↓T4) Phenobarbital Phenytoin Phosphate binders PPI Salicylates (↓T4)\n\n\n### Automatic table extraction — verify rendered original\n\n|.  Table 14.1|Medications that alter thyroid function testing|Col3|Col4|Col5|\n|---|---|---|---|---|\n||**Laboratory results**|**Laboratory results**|**Laboratory results**|**Laboratory results**|\n||**↓TSH**|**↑TSH**|**↑(f)T4**|**↓(f)T4**|\n|Medications|Amphetamines<br>Biotina<br>Bromocriptine<br>Dopamine<br>GCC<br>Octreotide|Amiodarone<br>Biotina<br>Iodinated contrast media<br>Metoclopramide|Amiodarone<br>Biotina<br>Iodinated contrast<br>media<br>IV furosemide (↑fT4)<br>IV heparin (↑↑↑fT4)<br>Methadone (↑T4)<br>NSAIDS<br>Salicylates (↑fT4)|Al(OH)3<br>β-Blockers<br>Biotina<br>Ca+ carbonate/<br>citrate/acetate<br>Carbamazepine<br>Cimetidine<br>FeSO4<br>GCC<br>IV furosemide (↓T4)<br>Phenobarbital<br>Phenytoin<br>Phosphate binders<br>PPI<br>Salicylates (↓T4)|\n\n\n\n[Original table](../../tables/ch014_p0384_1.jpg)\n\n\n## PDF page 385 | printed page 374\n\nof illness, including higher TSH values. These higher TSH values can mislead clinicians to diagnose thyroid disease in euthyroid patients. In a TSH/T4 program, T4 assays increase by 6% given the higher number of TSH eleva tions [6].\n\nAlso problematic is the hospital manage ment systems’ implementation of early dis charge. Infants discharged from the hospital before 48 h of life often undergo screening on day of life 1, leading to a high rate of false positives in those infants who have a physiologic postnatal rise in TSH [14]. After birth, as a physiological response to temper ature change, TSH concentration increases in order to stimulate neonatal rise in T4 and T3. TSH values peak between 70 and 100 mIU/L within 1 h of life. Thyrotropin values progressively decline over the follow ing 48 h of life, while T4 and T3 values nor malize by 3–5 days [15]. As noted in the discussion of primary T4 assays, TSH surge is blunted in the preterm and V/LBW infants. In term infants, early hospital dis charge has increased the ratio of false-posi tive TSH elevations from 3:1 to 5:1. Recommendations suggest that NBS be per formed at 48 h of age; however, the optimal time to obtain a primary TSH NBS is around 3–5 days of life [4].\n\n### 14\n\n### 14.1.4 Dual TSH and T4 NBS\n\n### Method\n\nRecent data show that primary TSH screening is more cost-effective in reducing false-positive and false-negative cases for mass screening despite the dual TSH and T4 approach theo retically being the ideal method of screening [16]. Dual TSH and T4 screening is expensive and not practical in most countries. As with any screening, the value of identifying an infant with CH must be balanced against the cost of screening normal newborns. NBS is expensive and not weighed in the costs are the psychosocial burdens created by screening for\n\nnondisease [17]. Given recall rates of 0.05%, over 1000 children will undergo further diag nostic testing with negative results for each child with true-positive results. Even more costly are children without true hypothyroid ism who undergo therapeutic intervention. Not limited to monetary disadvantages are the psychosocial burdens associated with non disease, including, but not limited to, parental anxiety, aversion of the child to repeat intrave nous catheters, and risks of therapeutic side effects.\n\n### 14.1.5 Confirmatory Results\n\n\n\n\n\n14.1\n\n\n\n\n\nNBS test results must be communicated rapidly back to the physician or hospital iden tified on the screening filter paper card. The responsibility for transmission of these results rests with the authority or agency that per formed the test. In general, when an abnormal screening result is found, the responsible phy sician is notified immediately so that he or she can arrange for follow-up testing. Screening test results should be entered into the patient’s record. If the informed physician is no longer caring for or cannot locate the infant, he or she should notify the NBS laboratory imme diately. In such situations, the local health department is often helpful in locating these infants to ensure that they are not lost to fol low-up [14, 18, 19].\n\n\n## PDF page 386 | printed page 375\n\n\n\n\n\n### 14.2 Etiology\n\n\n\n14.2\n\n20\n\n\n\n\n\n\n\n\n\n\n\nGenetic predisposition to thyroid dysgen esis may in part explain the observed higher incidence of CH among certain ethnic groups [21]. Mutations in developmental genes, which play important roles in embryogenesis and developmental cell migrations, contribute to genetic predisposition to thyroid dysgenesis. Mutations in genes (such as TTF-1, TTF-2, and PAX8) have been associated with devel opmental anomalies including thyroid dys genesis and likely account for the higher incidence of CH in Hispanic patients [3].\n\n\n\n\n\n14.2\n\n![Source image](../../figures/ch014_p0386_01.jpg)\n\nUnmatched source image; PDF page 386. Consult the original caption.\n\n\n## PDF page 387 | printed page 376\n\nTable 14.2 Etiology, genotype, and phenotype of congenital hypothyroidism [21]\n\nThyroid dysgenesis Thyroid dyshormonogenesis Defects in thyroid anatomy\n\nDefects in thyroid hormone production\n\nCauses\n\nEctopy Aplasia Hypoplasia Hemiagenesis\n\nSodium-iodide symporter defect (NIS) Thyroid peroxidase defects (TPO) Hydrogen peroxide generation defects Pendrin defect Thyroglobulin defect Iodotyrosine deiodinase defect\n\nMutations\n\nTTF-1, TTF-2, PAX8, NKX1–5, GLIS3, FOXE1, JAG1, NTN1, BORELIN, TUBB1, TRPC4AP, GBP1\n\nSECISBP2, SLC5A5, SLC26A4/PDS DUOX1/DUOX2, DUOXA2 TPO TG, IYD/DEHAL1, SLC26A7\n\nTesting\n\nAplasia TSH >100a\n\nTSH >20a\n\nT4 <8b\n\nHypoplasia TSH >20 Hemiagenesis TSH >6\n\nImaging\n\nUltrasound Aplasia = absent Hypoplasia = small or normal Hemiagenesis = small\n\nLarge gland\n\n↑Uptake in eutopic location\n\nScintigraphy Aplasia no uptake Hypoplasia ↓uptake Ectopia ↓uptake\n\n### 14\n\n↓ decreased, ↑ increased, TSH thyroid-stimulating hormone (thyrotropin), T4 total thyroxine, TSHR TSH receptor, TRβ thyroid receptor beta a mIU/L b mcg/dL\n\nthe path of thyroid hormone production ( Fig. 14.2). Dyshormonogenesis results from insufficient intake of iodine or a number of mostly autosomal recessive mutations. These mutations include but are not limited to defects in: 1. Sodium-iodide symporter (NIS) : NIS is\n\n3. Dual oxidase 2 (DUOX) and dual oxidase\n\nresponsible for actively transporting iodine into thyroid follicular cells. 2. Pendrin (Pendred gene SLC26A4, also\n\ntermed PDS): PDS is a sodiumindependent chloride/iodide transporter found on the apical membrane of thyroid\n\nThyroid receptor mutations\n\nDefects in thyroid action\n\nTSH receptor (TSHR) defect Thyroid receptor β (TRβ) mutation\n\nTSHR, TRβ\n\nVariable depending on the degree of resistance\n\nVariable depending on the degree of resistance\n\nVariable depending on the degree of resistance\n\nfollicular cells. Its role is to transport iodide from the cytoplasm into the follicu lar lumen. PDS is also found in the inner ear; hence, the association with sensori neural hearing loss is noted in Pendred syndrome.\n\nmaturation factor 2 (DUOXA2): Within follicular cells, DUOX2 proteins are essen tial for thyroid hormone biosynthesis. The presence of hydrogen peroxide (H2O2) is required for organification of iodine. Duox2 proteins, glycosylated and bound\n\n\n### Automatic table extraction — verify rendered original\n\n|Col1|Thyroid dysgenesis|Thyroid dyshormonogenesis|Thyroid receptor<br>mutations<br>Defects in thyroid action|\n|---|---|---|---|\n||**Defects in thyroid**<br>**anatomy**|**Defects in thyroid hormone production**|**Defects in thyroid hormone production**|\n\n\n\n[Original table](../../tables/ch014_p0387_1.jpg)\n\n\n### Automatic table extraction — verify rendered original\n\n|Imaging|Col2|Col3|Col4|\n|---|---|---|---|\n|Ultrasound|Aplasia=absent<br>Hypoplasia=small or<br>normal<br>Hemiagenesis=small|Large gland|Variable depending on<br>the degree of<br>resistance|\n|Scintigraphy|Aplasia no uptake<br>Hypoplasia↓uptake<br>Ectopia↓uptake|↑Uptake in eutopic location|Variable depending on<br>the degree of<br>resistance|\n\n\n\n[Original table](../../tables/ch014_p0387_5.jpg)\n\n\n## PDF page 388 | printed page 377\n\n\n\n\n\n\n\nat the apical membrane, catalyze the for mation of H2O2. DUOXA2 is required for DUOX2 maturation and activation [22]. 4. Iodotyrosine dehalogenase (DEHAL1):\n\n6. Selenocysteine insertion sequence-binding\n\nHomozygous mutations of DEHAL1 pre vent the recycling of iodide at the apical membrane of the follicular cell. Iodotyrosine accounts for almost 70% of iodine in thyroglobulin and hence is the rate-limiting step in T4 and T3 production [23]. 5. Monocarboxylate transporter 8 (MCT8) :\n\nAllan-Herndon-Dudley syndrome results from a mutation of the thyroid hormone transporter MCT8 (also referred to as SLC16A2). Located on the X chromo some, the MCT8 gene is responsible for the transport of T3 across the blood–brain barrier, resulting in the uptake of T3 into neuronal cells [24]. This X-linked hypothy roidism is associated with intellectual dis ability and several neurologic problems.\n\n\n\n27\n\nprotein 2 (SECISBP2): Deiodinases are selenoenzymes responsible for the conver sion of T4 to the biologically active form, T3. Deiodinases possess enzymatic activ ity, requiring selenocysteine for its action. SECISBP2 aids in the recognition of sele nocysteine binding. As a cell membrane transporter element, SECISBP2 regulates intracellular thyroid metabolism by regu lating the influx and efflux of T4 and T3 within the neuron [25, 26].\n\n\n\n\n\n14.2A–G\n\n![Source image](../../figures/ch014_p0388_01.jpg)\n\nUnmatched source image; PDF page 388. Consult the original caption.\n\n\n## PDF page 389 | printed page 378\n\nRTH are rarely diagnosed in the newborn period, given the propensity for normal TSH values and elevated T4 values. The thyrotro pin receptor (TSHR) is also involved in thy roid organogenesis. Thus, mutations in the TSHR gene can cause CH as well.\n\n### 14.3 Clinical Presentation\n\nExcept in geographic regions of iodine defi ciency, the diagnosis of CH is rarely made on physical examination. In industrialized coun tries with a high emphasis on prenatal care, signs and symptoms of CH are rarely appar ent. Unfortunately, it is within this newborn period when missing clinical features of hypo thyroidism lend to irreversible brain damage, thus the importance of newborn screening [7, 18, 19].\n\nSymptoms and signs suggestive of CH include the following, with additional signs evident as infants become older:\n\n0 days of life\n\n5 Cardiac malformations\n\n5 Delay in skeletal maturation (absence of\n\nfemoral and tibial epiphyses) 5 Hypothermia\n\n5 Jaundice\n\n5 Lethargy/decreased activity\n\n5 Macroglossia\n\n### 14\n\n5 Macrosomia\n\n5 Mottled and dry skin\n\n5 Open and wide posterior fontanelle\n\n(>2 cm) 5 Poor feeding\n\n5 Umbilical hernia\n\n5 Wide anterior fontanelle\n\nEarly infancy (0–2 months of life)\n\n5 Constipation\n\n5 Decreased muscle tone\n\n5 Failure to thrive\n\n5 Hoarse cry\n\n5 Linear growth deceleration\n\n5 Poor feeding\n\n5 Prolonged jaundice\n\nLate infancy (>2 months of life)\n\n5 Delayed tooth eruption\n\n5 Growth failure\n\n5 Pseudomuscular hypertrophy\n\n5 Psychomotor retardation\n\nInfants with CH are often described as “good babies” as they sleep well and cry infre quently. As with any newborn, a complete history, including maternal thyroid status and family history, should be obtained, and careful physical examination must be per formed.\n\n### 14.4 Diagnostic Evaluation\n\nLaboratory assessment of thyroid function provides a sensitive and specific methodology for diagnosing CH. The most significant con founder in the confirmation of CH is its tran sient form. The most common form of transient hypothyroidism worldwide is iodine deficiency. Iodine deficiency must be consid ered in high-risk populations such as those from underdeveloped countries, infants of mothers whose diets are limited in meats (vegans) or iodinated salts (sea salt consum ers), and infants whose condition limits gas tric intake of nutrients (total parenteral nutrition-dependence). Even in infants with transient neonatal hypothyroidism, treat ment is recommended if certain diagnostic criteria are met. If newborns continue to exhibit persistent TSH elevation with normal f/T4 after 4–6 weeks of life, treatment is rec ommended [19].\n\nA common cause of transient neonatal hypothyroidism in developed countries is pre maturity (gestational age <37 weeks). Temporary thyroid dysfunction also occurs in infants who are born 10% below expected body weight (i.e., V/LBW), ill neonates admit ted to the neonatal intensive care unit, neo nates who are discharged within the first 24 h of life, and cohorts of multiple births, includ ing monozygotic twins. In these special popu lations, a repeat NBS specimen should be\n\n\n## PDF page 390 | printed page 379\n\ncollected at about 2 weeks of age or 2 weeks after the first screening test was carried out [7], at 4 weeks later [18, 19], and at 36 weeks corrected gestational age [10].\n\nTo confirm the diagnosis of permanent CH, the European Society for Pediatric Endocrinology (ESPE) recommends perform ing imaging studies to determine its specific etiology [7]. The American Academy of Pediatrics denotes that imaging before the age of 3 years is unlikely to change clinical man agement [18, 19]. Diagnostic imaging may be helpful in cases in which CH diagnosis is not clear [18, 19]. Treatment may be altered based on results, especially if clinical evaluation is also consistent with CH. The option to initi ate, hold, and potentially stop treatment may be based on imaging results as well. When the cause of abnormal thyroid studies cannot be determined as either transient or permanent, both scintigraphy and ultrasound can be con sidered in neonates with abnormal TSH val ues. Of course, the time interval to imaging should not delay treatment in any circum stance in which there is a high degree of suspi cion of thyroid disease. Even in circumstances in which differentiation between transient and permanent CH is blurred, imaging can always be deferred until the child reaches the age of 3 years. At 3 years, neuronal migration and myelination are fairly advanced; thus risk of neurocognitive dysfunction as a result of thy roid hormone withdrawal at age 3 years is lower than what would have been expected in the first 3 years of life [9].\n\nIn the era of genetic testing, several muta tions have been discovered which account for some cases of CH. Genetic studies for muta tions in thyroid hormone synthesis can con firm inborn errors of thyroid hormone biosynthesis [28]. Despite the importance of confirming CH in permanent cases, the costs of genetic testing do not yet outweigh the ben efits. The exceptions include families in which multiple siblings are affected. In these cases, genetic counseling is suggested to ensure fam ilies are aware of potential risks in future pregnancies.\n\n### 14.5 Treatment\n\nOnce the diagnosis of CH is confirmed, levo thyroxine replacement is recommended as the treatment of choice. There is no place in pediatric thyroid disease for formularies including T3 treatment or desiccated animal product. Treatment with levothyroxine (crushed tablets or branded liquid) should be started as soon as possible. Goal for initia tion of treatment is within the first 2 weeks of life. However, given that some abnormal screenings require repeated measurements or further diagnostic testing, treatment should begin once testing confirms the disease. Initial treatment is with levothyroxine 10–15 mg/kg/day; however, several factors interfere with thyroid hormone absorption. Severity of the disease also affects the choice of replacement dose. More severe disease, such as athyreosis, indicates the use of doses at the upper end of the treatment scale (15 mg/kg/day), while the same dose in infants affected by defects in thyroid hor mone synthesis may lead to overtreatment. Goal of all therapy is to normalize thyroid hormone function [7, 18, 19].\n\nBased on TSH concentration, the dosage of levothyroxine is adjusted. Use of serum fT4 can be adjunctive in ensuring an appro priate clinical response. In the first 3 years, serum total T4 and/or fT4 values should be in the upper half of the reference range, and serum TSH levels should be between 0.5 and 2.0 mIU/L [14, 18, 19]. Relative pituitary resistance may delay the normalization of serum TSH, resulting in a normal or increased serum T4 concentration with an inappropri ately high TSH level. In these cases, the dose should be titrated based on the TSH value, after first ruling out nonadherence to treat ment.\n\nNormalizing thyroid function may be challenging in the first year of life. Despite tightened Federal Drug Administration regu lations, levothyroxine preparations can vary by up to 12% in the amount of active hor mone, even within the brand [29]. Guidelines\n\n\n## PDF page 391 | printed page 380\n\nrecommend brand name levothyroxine; how ever, the cost can be prohibitive for most fam ilies whose formularies require generic prescriptions [7]. Children initiated on generic formulations should remain on generic, and those started on brand name formulations should remain on brand. If there is any change in the thyroid hormone manufacturer, followup laboratory testing should be ordered to ensure euthyroidism [18, 19].\n\nOther factors affecting thyroid hormone dosing include absorption in the gastrointesti nal tract, ranging from 70% to 80%, hence the pharmaceutical company’s recommendations for consuming levothyroxine on an empty stomach [30]. Practically, however, infants are in a perpetual postprandial state. Adhering to specific preprandial timing of medication administration has been associated with lower medication adherence [31]. Therefore, medica tion can be given with or without food as long as there remains consistency with each dose. Dosing can be adjusted based on the most realistic mode of consumption.\n\nSeveral other factors can also interfere with thyroid hormone absorption, some to such a degree that the medication and inter fering substance should be separated by at\n\n### 14.6 Case Studies\n\n### 14\n\nCase Study #1\n\nA 9-day-old former 36-week twin B born to 25-year-old gravida 4, para 3 mother is admit ted to NICU for poor oral intake. NBS obtained on postnatal day 2 revealed TSH 302 (normal, <34 mIU/L) and T4 5.9 mcg/dL (nor mal, 7.6–16 mcg/dL). Serum confirmation was significant for TSH 435 mIU/L (normal, 0.5–5 mIU/L). He was started on levothyroxine 50 mcg, followed by 37.5 mcg on day 2, then 25 mcg daily. At 23 days of life, he was dis charged from the NICU on 25 mcg of daily levothyroxine replacement. He subsequently missed his first outpatient endocrinology\n\nleast 3–4 h. These products include those listed below as “BASIC” acronym:\n\n5 B = Bile acid-binding resins (i.e., chole\n\nstyramine) 5 A = Aluminum-containing antacids (i.e.,\n\nRolaids®) 5 S = Sucralfate/soy\n\n5 I = Iron\n\n5 C = Calcium/caffeine\n\nRapid normalization of thyroid hormone lev els (within the first 2 weeks after treatment initiation) and maintenance of relatively higher fT4 concentrations during the first year of life lead to better intellectual outcomes. However, overtreatment has also been associ ated with lower intelligence quotients in chil dren with CH [32].\n\nThyroid function testing should be per formed every 1–2 months for the first 6 months of life, 2–3 months in the latter half of the first year of life, and subsequently every 3–4 months until the age of 3 years. Perform thyroid function testing approximately 4–6 weeks after dose changes or changes in brand or administration route. If clinical symptoms of thyroid disease develop, repeat testing is indicated even if normal previously.\n\nappointment; however, repeat labs obtained by his pediatrician revealed elevated TSH 100 mIU/L and low fT4 0.4 ng/dL (normal, 0.8–2 ng/dL). Levothyroxine was increased to 37.5 mcg. At his first ambulatory endocrinol ogy visit at 3 months of age, elevated TSH 488 mIU/L persisted, and the exam revealed dry skin and macroglossia. Thus, levothyroxine was increased further to 50 mcg daily. Thyroid studies did not normalize until 12–14 months of age after home health and child protective services involvement. At 14 months of age, he exhibited normal growth and development\n\n\n## PDF page 392 | printed page 381\n\nwith laboratory results confirming his euthy roid state. He did not return for any clinical care until age 8. At 8 years of age, he exhibited symptoms including fatigue, sluggish move ments, cold sensitivity, dry skin, hoarse voice, joint stiffness, and difficulty arousing from sleep. He lacked toilet-training skills and was unable to speak in full sentences. Growth parameters showed severe abnormalities with weight 13.7 kg [−6.1 standard deviations (SD)],\n\nCase Study #2\n\nA 2-month-old male presents for the evaluation of abnormal thyroid studies. He was a full-term baby born by Cesarean section delivery, after in vitro fertilization. His NBS returned abnor mal with the following results: TSH 35.2 mIU/L (normal, <34 mIU/L) and T4 14.4 (normal, >8 ng/dL). Repeated serum thyroid studies at 1 week of life revealed TSH 9.8 (normal, 1.0–5.6) and T4 9.4 mcg/dL (normal, 8.1–16.5). Repeat thyroid function testing 2 weeks later revealed TSH of 9.8 (normal, 1.0–5.6) and fT4\n\nNormal range Day 0\n\nTSH 0.6–4.0 mIU/L 3.2\n\nT4 free by direct dialysis 1.0–2.8 ng/dL 2.0\n\nOne month after discontinuing thyroid hor mone replacement, the mother called with con cerns about behavior change including refusing to take naps and irritability. This was thought to be a viral illness, so TSH elevation was attrib uted to nonthyroidal illness. Two months after the trial off medication, the patient was noted to be back to normal behavior but constipated and more tired than usual. Since TSH was nor malizing, labs were repeated a third time. The patient continued to have worsening constipa\n\nheight 83.5 cm (−8.7 SD), and BMI 19.7 kg/m2 (93rd percentile).\n\nThis case clearly demonstrates that NBS works to diagnose severe CH but is not enough to prevent the debilitating effects of thyroid hormone deficiency. CH patients require daily administration of medication, frequent clinical examination, dosage adjustments, laboratory assessments, and evaluation for potential barri ers to care.\n\n1.4 (normal, 1–2 ng/dL). Due to consistent TSH elevation beyond 1 month of age, he was started on levothyroxine 25 mcg daily. He was adherent to therapy and follow-up, remaining on 25 mcg of levothyroxine until 2.8 years of age when his parents agreed to trial off medica tion. At that time, he was receiving less than 10 mcg/kg/day of thyroid hormone replace ment. The following is a summary of thyroid function testing once levothyroxine therapy was discontinued.\n\n+1-month +2 months +3 months\n\n6.8 (A) 5.9 (A) 4.4 (A)\n\n1.3 1.5 1.4\n\ntion, fatigue, and reported weight gain. Ultrasonography of the thyroid gland revealed the absence of the left thyroid lobe and isthmus. Right thyroid lobe was normal but ectopic thy mic tissue was noted between the right common carotid artery and internal jugular vein. Thyroid hormone was restarted, after which constipa tion, fatigue, and excess weight gain resolved.\n\nThis case illustrates how thyroid imaging can aid in differentiating permanent versus transient CH.\n\n\n## PDF page 393 | printed page 382\n\n### 14.7 Summary\n\nNeurocognitive development and growth are dependent on sufficient serum thyroid hor mone concentration in fetal and early child development. Iodine is essential for thyroid hormone production, and deficiency (hypo thyroidism) can affect maternal, fetal, and postnatal thyroid function. Hypothyroidism remains the leading cause worldwide of treat able intellectual disability. At birth, there may be few signs or symptoms of hypothyroidism, making NBS for thyroid function a critical step in detecting CH. Interpretation of NBS in various clinical settings may alter diagnosis and treatment. Once identified early and treated appropriately. CH becomes a treatable condition with normal or near-normal devel opmental outcomes [3].\n\n2. FALSE. NBS programs screen for\n\n3. FALSE. A primary T4 assay is adven\n\nReview Questions\n\n1. Given the physiologic TSH surge of\n\nthe newborn, when is the optimal tim ing for CH screening? 2. If NBS TSH values exceed 100 mIU/L,\n\n4. Technetium 99m scan showing uptake\n\nserum laboratory testing is not required to confirm the diagnosis. TRUE or FALSE? 3. A primary T4 assay is performed in a\n\n36-week EGA (estimated gestational age) infant at 2 days of life. Further testing returns a normal serum TSH. No further workup is required. TRUE or FALSE? 4. A 7-day-old presents with abnormal\n\n5. Overtreatment. Although higher doses\n\n### 14\n\nnewborn screening and serum confir matory screening suggestive of CH. The most likely abnormality to be described on scintigraphy would be? 5. An infant is started on 15 mcg/kg/day\n\n### References\n\nof levothyroxine replacement. Four weeks later, TSH is <0.01 mIU/L, and fT4 is elevated at 3 ng/dL. What is the most likely cause of biochemical hyperthyroidism?\n\n1. Harris K, Pass K. Increase in congenital hypothy\n\nroidism in New York State and in the United States. Mol Genet Metab. 2007;91(3):268–77. 2. Park KS. Analysis of worldwide carrier frequency\n\nand predicted genetic prevalence of autosomal recessive congenital hypothyroidism based on a general population database. Genes (Basel). 2021;12(6):863. genes12060863.\n\nv Answers\n\n\n\n\n\n14.1\n\n\n\nhigh-risk diseases and attempt to cap ture all infants with the disease. As such, infants without disease are also captured lending to high false-positive rates. This is quite prevalent in vulner able populations such as preterm infants. Screening should always be followed by serum confirmation. Confirmatory venous results must be obtained within 1–2 days of NBS. However, the results of serum confirmation need not delay treatment.\n\ntitious in detecting hypothalamic-pitu itary hypothyroidism. A normal TSH with concurrent low (f)T4 should be further investigated to rule out central hypothyroidism.\n\nin ectopic location, i.e., ectopic gland. Dysgenesis is the most common cause of congenital hypothyroidism, occur ring in 85% of cases. Ectopia accounts for almost 70% of dysgenic CH, fol lowed by athyreosis and hypoplasia.\n\nof levothyroxine lead to better overall developmental outcomes, higher doses have also been associated with decre ments in cognitive outcomes. Goal of all treatment is to ensure the normal ization of thyroid function.\n\nhttps://doi.org/10.3390/\n\n\n## PDF page 394 | printed page 383\n\n3. Larson C. Congenital hypothyroidism. In: Radovick S, MacGillivray M, editors. Pediatric endocrinology. 2nd ed. New York: Humana; 2013. p. 261–73. 4. Büyükgebiz A. Newborn screening for congenital\n\n18. Rose SR, Wassner AJ, Wintergerst K, Yayah Jones\n\nhypothyroidism. J Clin Res Pediatr Endocrinol. 2013;5(Suppl 1):8–12. 5. Schoenmakers N, Alatzoglou K, Chatterjee V,\n\n19. Rose SR, Wassner AJ, Wintergerst K, Yayah Jones\n\nDattani M. Recent advances in central congenital hypothyroidism. J Endocrinol. 2015;227(3):R51–71. 6. Frank J, Faix J, Hermos R, Mullaney D, Rojan D,\n\nMitchell M, et al. Thyroid function in very low birth weight infants: effects on neonatal hypothy roidism screening. J Pediatr. 1996;128(4):548–54. 7. van Trotsenburg AS, Stoupa A, Léger J, et al.\n\n20. Polak M, Van Liet G. Disorders of the thyroid\n\nCongenital hypothyroidism: a 2020–2021 consen sus guidelines update—an ENDO-European Reference Network Initiative endorsed by the European Society for Pediatric Endocrinology and the European Society for Endocrinology. Thyroid. 2021;31(3):387–419. 8. Vandevijvere S, Coucke W, Vanderpas J, Trumpff\n\n21. Stoupa A, Kariyawasam D, Polak M, Carré\n\n22. Yi RH, Zhu WB, Yang LY, Lan L, Chen Y, Zhou\n\nC, Fauvart M, Meulemans A, et al. Neonatal thyroid-stimulating hormone concentrations in Belgium: a useful indicator for detecting mild iodine deficiency. PLoS One. 2012;7(10):e47770. 9. Bernal J, Nunez J. Thyroid hormones and brain\n\n23. Gnidehou S, Caillou B, Talbot M, Ohayon R,\n\ndevelopment. Eur J Endocrinol. 1995;133(4):390–8. 10. Rose SR, Blunden C, Jarrett OO, Kaplan K,\n\nCaravantes R, Akinbi HT. Utility of repeat testing for congenital hypothyroidism in very low birth weight infants. J Pediatr. 2022;242:152–8. 11. Larson C, Hermos R, Delaney A, Daley D,\n\n24. Friesema EC, Jansen J, Heuer H, Trajkovic M,\n\nMitchell M. Risk factors associated with delayed thyrotropin elevations in congenital hypothyroid ism. J Pediatr. 2003;143(5):587–91. 12. Hemmati F, Pishva N. Evaluation of thyroid status\n\nof infants in the intensive care setting. Singapore Med J. 2009;50(9):875–8. 13. Liwanpo L, Hershman JM. Conditions and drugs\n\n25. Fu J, Dumitrescu AM. Inherited defects in thyroid\n\ninterfering with thyroxine absorption. Best Pract Res Clin Endocrinol Metab. 2009;23:781–92. 14. American Academy of Pediatrics, Rose SR,\n\n26. Ramos JC, Lacerda Filho L, DeMartini Ade A,\n\nSection on Endocrinology and Committee on Genetics, American Thyroid Association, Brown RS, Lawson Wilkins Pediatric Endocrine Society, et al. Update of newborn screening and therapy for congenital hypothyroidism. Pediatrics. 2006;117(6):2290–303. 15. Fisher D. Thyroid system immaturities in very low\n\n27. Larsen PR, Davies TF, Schlumberger M, Hay\n\nbirth weight premature infants. Semin Perinatol. 2008;32(6):387–97. 16. Korzeniewski S, Grigorescu V, Kleyn M, Young W,\n\nBirbeck G, Todem D, et al. Performance metrics after changes in screening protocol for congenital hypothyroidism. Pediatrics. 2012;130(5):e1252–60. 17. Tu W, He J, Chen H, Shi XD, Li Y. Psychological\n\n28. Rastogi MV, LaFranchi SH. Congenital hypothy\n\n29. Eisenberg M, Distefano JJ. TSH-based protocol,\n\neffects of false-positive results in expanded new born screening in China [Internet]. PLoS One. 2012;7(4):e36235.\n\nNH, Hopkin RJ, Chuang J, Smith JR, Abell K, LaFranchi SH. Clinical report: Congenital hypo thyroidism: screening and management. Pediatrics. 2023;151(1):e2022060419. https://doi.org/10.1542/ peds.2022-0604192023.\n\nNH, Hopkin RJ, Chuang J, Smith JR, Abell K, LaFranchi SH. Technical report: Congenital hypo thyroidism: screening and management. Pediatrics. 2023;151(1):e2022060420. https://doi.org/10.1542/ peds.2022-060420.\n\ngland. In: Sarafoglou K, Hoffman GF, Roth KS, editors. Pediatric endocrinology and inborn errors of metabolism. 1st ed. New York: McGraw-Hill; 2008. p. 355–82.\n\nA. Genetics of congenital hypothyroidism: mod ern concepts. Pediatr Investig. 2022;6(2):123–34. https://doi.org/10.1002/ped4.12324. eCollection 2022 Jun.\n\nJF, et al. A novel dual oxidase maturation factor 2 gene mutation for congenital hypothyroidism. Int J Mol Med. 2013;31(2):467–70.\n\nKaniewski J, Noël-Hudson MS, et al. Iodotyrosine dehalogenase 1 (DEHAL1) is a transmembrane protein involved in the recycling of iodide close to the thyroglobulin iodination site. FASEB J. 2004;18(13):1574–6.\n\nBauer K, Visser TJ. Mechanisms of disease: psy chomotor retardation and high T3 levels caused by mutations in monocarboxylate transporter 8. Nat Clin Pract Endocrinol Metab. 2006;2(9):512–23.\n\nhormone cell-membrane transport and metabo lism. Best Pract Res Clin Endocrinol Metab. 2014;28(2):189–201.\n\nSilveira RB, Pereira RM, Sandrini Neto R, et al. Clinical and laboratory features of chil dren and adolescents with congenital hypothy roidism due to dyshormonogenesis in southern Brazil. Arq Bras Endocrinol Metabol. 2012;56(3):201–8.\n\nI. Thyroid physiology and diagnostic evaluation of patients with thyroid disorders. In: Kronenberg HM, Melmed S, Polonsky K, editors. William’s textbook of endocrinology. 10th ed. Philadelphia: Saunders/Elsevier; 2008. p. 421.\n\nroidism. Orphanet J Rare Dis. 2010;10(5):17–39.\n\ntablet instability, and absorption effects on L-T4 bioequivalence. Thyroid. 2009;19(2):103–10.\n\n\n## PDF page 395 | printed page 384\n\n30. Colucci P, Yue CS, Ducharme M, Benvenga S. A\n\n32. Bongers-Schokking JJ, Resing WC, de Rijke YB,\n\nreview of the pharmacokinetics of levothyroxine for the treatment of hypothyroidism. Eur Endocrinol. 2013;9(1):40–7. 31. Jimmy B, Jose J. Patient medication adherence:\n\nmeasures in daily practice. Oman Med J. 2011;26(3):155–9.\n\n### 14\n\nde Ridder MA, de Muinck Keizer-Schrama SM. Cognitive development in congenital hypo thyroidism: is overtreatment a greater threat than undertreatment? J Clin Endocrinol Metab. 2013;98(11):4499–506.\n"
+}
