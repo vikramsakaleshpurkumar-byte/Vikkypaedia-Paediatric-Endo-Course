@@ -1,4 +1,4 @@
-# Vikkypaedia · Pediatric Endocrinology (4th Edition, 2024)
+# Vikkypaedia · Pediatric Endocrinology 
 ### Complete 41-Chapter Interactive Digital Course & Bedside Clinical Knowledge Engine
 
 [![Course Status](https://img.shields.io/badge/Course%20Status-100%25%20Full%20Depth%20Complete-success?style=for-the-badge&logo=checkmarx)](BUILD_REPORT.md)
